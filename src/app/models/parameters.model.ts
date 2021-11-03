@@ -4,18 +4,23 @@ enum Source {
   CellarLymphNode = 'Cellar Lymph Node'
 }
 
-enum OrderType {
-  Ascending = 'ascending',
-  Descending = 'descending'
-}
-
-enum GroupType {
-  None = 'none',
+enum GraphAttribute {
+  None = '',
+  CellType = 'cell_type',
+  Dataset = 'dataset',
+  Count = 'count',
+  Percentage = 'percentage',
+  Order = 'order',
   Sex = 'sex',
   Ethnicity = 'race',
   Age = 'age',
   Category = 'cat',
   Exposure = 'exp'
+}
+
+enum OrderType {
+  Ascending = 'ascending',
+  Descending = 'descending'
 }
 
 // Colors from https://medialab.github.io/iwanthue/
@@ -103,10 +108,10 @@ const colorPaletteSmall = [
 interface Configuration {
   label: string,
   basePath: string,
-  datasets: Array<string>,
-  groupTypes: Record<string, GroupType>,
+  datasets: string[],
+  groupTypes: Record<string, GraphAttribute>,
   fixed?: number,
-  colorPalette: Array<string>
+  colorPalette: string[]
 }
 
 const Presets: Array<Configuration> = [
@@ -136,8 +141,8 @@ const Presets: Array<Configuration> = [
       'KRP462P-1'
     ],
     groupTypes: {
-      Sex: GroupType.Sex,
-      Ethnicity: GroupType.Ethnicity
+      Sex: GraphAttribute.Sex,
+      Ethnicity: GraphAttribute.Ethnicity
     },
     fixed: 2,
     colorPalette: colorPaletteLarge
@@ -160,10 +165,10 @@ const Presets: Array<Configuration> = [
       'region_11'
     ],
     groupTypes: {
-      Sex: GroupType.Sex,
-      Age: GroupType.Age,
-      Category: GroupType.Category,
-      Exposure: GroupType.Exposure
+      Sex: GraphAttribute.Sex,
+      Age: GraphAttribute.Age,
+      Category: GraphAttribute.Category,
+      Exposure: GraphAttribute.Exposure
     },
     fixed: 1,
     colorPalette: colorPaletteSmall
@@ -183,7 +188,7 @@ const Presets: Array<Configuration> = [
 ]
 
 export {
-  GroupType,
+  GraphAttribute,
   OrderType,
   Configuration,
   Presets

@@ -4,7 +4,7 @@
     <option *ngFor="let config of configOptions; let i = index" [value]="i">{{ config.label }}</option>
   </select>
   <br /><br />
-  <div *ngIf="result">
+  <div *ngIf="result; else elseBlock">
     <label for="selected_cell_type">Sort By: </label>
     <select id="selected_cell_type" [(ngModel)]="sortBy" (change)="specAndEmbed()">
       <option  *ngFor="let name of cellTypes" [value]="name">{{ name }}</option>
@@ -22,12 +22,14 @@
     <br /><br />
     <div>
       <label>Y-Axis: </label>
-      <input type="radio" name="yAxisAtrr" id="raw_count" name="yAxisAttr" value="count" [(ngModel)]="yAxisAttr" (change)="specAndEmbed()">
+      <input type="radio" name="yAxisAtrr" id="raw_count" name="yAxisField" value="count" [(ngModel)]="yAxisField" (change)="specAndEmbed()">
       <label for="raw_count">Raw Count</label>
-      <input type="radio" name="yAxisAtrr" id="percentage" name="yAxisAttr" value="percentage" [(ngModel)]="yAxisAttr" (change)="specAndEmbed()">
+      <input type="radio" name="yAxisAtrr" id="percentage" name="yAxisField" value="percentage" [(ngModel)]="yAxisField" (change)="specAndEmbed()">
       <label for="percentage">Percentage</label>
     </div>
   </div>
-  <div *ngElse><small style="color: gray">Working...</small></div>
+  <ng-template #elseBlock>
+    <div><small style="color: gray">Working...</small></div>
+  </ng-template>
   <div id="vis"></div>
 </div>

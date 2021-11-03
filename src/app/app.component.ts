@@ -1,8 +1,9 @@
 import { Component } from '@angular/core';
-import { GroupType, OrderType, Configuration, Presets } from './models/parameters.model';
+import { Configuration, GraphAttribute, OrderType, Presets } from './models/parameters.model';
 import embed, { Result, VisualizationSpec } from 'vega-embed';
 import { parse } from 'papaparse';
 import { Title } from '@angular/platform-browser';
+import { getStackedBarsSpec, StackedBarsSpecOptions } from './visualization/bargraph.visualization';
 
 @Component({
   selector: 'app-root',
@@ -10,22 +11,30 @@ import { Title } from '@angular/platform-browser';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'tissue-bar-graphs';
-  yAxisAttr = 'count';
-  sortBy = 'None';
-  orderType = OrderType.Ascending;
-  cellTypes: string[] = [];
-  graphData: Array<Record<string, any>> = [];
-  groupBy = GroupType.None;
-  selectedConfig: number = 0;
-  configOptions:Array<Configuration> = Presets;
-  config: Configuration = Presets[0]
-  result?: Result;
+  title = 'tissue-bar-graphs'
+  yAxisField: GraphAttribute
+  sortBy: string
+  orderType: OrderType
+  groupBy: GraphAttribute
+  cellTypes: string[]
+  graphData: Array<Record<string, any>>
+  selectedConfig: number
+  configOptions: Array<Configuration>
+  config: Configuration
+  result?: Result
   OrderType = OrderType
   groupOptions?: Array<Record<string, any>>
 
   public constructor(private titleService: Title) {
     this.titleService.setTitle('Tissue Bar Graphs')
+    this.yAxisField = GraphAttribute.Count
+    this.orderType = OrderType.Ascending
+    this.groupBy = GraphAttribute.None
+    this.cellTypes = []
+    this.graphData = []
+    this.selectedConfig = 0
+    this.configOptions = Presets
+    this.config = Presets[0]
   }
 
   async getCsv(url: string) : Promise<Array<Record<string, any>>> {
@@ -53,7 +62,7 @@ export class AppComponent {
     this.graphData.splice(0, this.graphData.length)
     this.cellTypes.splice(0, this.cellTypes.length)
     this.sortBy = 'None'
-    this.groupBy = GroupType.None
+    this.groupBy = GraphAttribute.None
     const uniqueCTs = new Set<string>()
     
     this.groupOptions = Object.entries(this.config.groupTypes)
@@ -62,7 +71,7 @@ export class AppComponent {
         return types
       }, [{
         name: 'None',
-        value: GroupType.None
+        value: GraphAttribute.None
       }])
 
     // Create master list of all datasets
@@ -86,85 +95,20 @@ export class AppComponent {
    * Common function to respec Vega, for simplicity
    */
   async specAndEmbed() {
-    const spec: VisualizationSpec = {
-      $schema: 'https://vega.github.io/schema/vega-lite/v4.json',
-      data: {
-        values: this.graphData
-      },
-      width: {
-        step: 50
-      },
-      height: 650,
-      mark: {
-        type: 'bar',
-        tooltip: true
-      },
-      encoding: {
-        facet: this.groupBy === GroupType.None ? undefined : {
-          field: this.groupBy,
-          type: 'ordinal',
-          spacing: 10,
-          sort: {
-            field: 'order',
-            op: 'sum',
-            order: this.orderType
-          }
-        },
-        x: {
-          field: 'dataset',
-          title: 'Dataset',
-          sort: {
-            field: 'order',
-            op: 'sum',
-            order: this.orderType
-          },
-          type: 'nominal',
-          axis: {
-            labelAngle: -25
-          },
-        },
-        y: {
-          field: this.yAxisAttr,
-          aggregate: 'sum',
-          title: this.yAxisAttr === 'count' ? 'Cell Count' : 'Cell Proportion',
-          scale: {
-            domain: this.yAxisAttr === 'percentage' ? [0, 100] : undefined
-          }
-        },
-        color: {
-          field: 'cell_type',
-          type: 'nominal',
-          scale: {
-            domain: this.cellTypes.slice(1),
-            range: Array.from(this.config.colorPalette).reverse().slice(0, this.cellTypes.length - 1)
-          },
-          title: 'Cell Type',
-          legend: {
-            symbolLimit: 100,
-            columns: Math.ceil(this.cellTypes.length / 30)
-          }
-        }
-      },
-      title: {
-        text: 'Cell Type Count Comparison',
-        anchor: 'middle',
-        fontSize: 18
-      },
-      transform: [
-        {
-          calculate: `datum.index < ${this.config.fixed} ? 
-            ${this.orderType === OrderType.Ascending ? 0 : Number.MAX_SAFE_INTEGER } - datum.index : 
-            datum.cell_type == '${this.sortBy}' ? 
-            datum.${this.yAxisAttr} : 0`,
-          as: 'order'
-        }
-      ],
-      resolve: {
-        scale: {
-          x: 'independent'
-        }
-      }
+    const options: StackedBarsSpecOptions = {
+      graphTitle: 'Cell Population Comparison',
+      values: this.graphData,
+      xAxisField: GraphAttribute.Dataset,
+      yAxisField: this.yAxisField,
+      sortBy: this.sortBy,
+      orderType: this.orderType,
+      groupBy: this.groupBy,
+      legendField: GraphAttribute.CellType,
+      legendDomain: this.cellTypes.slice(1),
+      legendRange: Array.from(this.config.colorPalette).reverse().slice(0, this.cellTypes.length - 1),
+      fixedBars: this.config.fixed
     }
+    const spec = getStackedBarsSpec(options)
     this.result = await embed('#vis', spec)
   }
   
