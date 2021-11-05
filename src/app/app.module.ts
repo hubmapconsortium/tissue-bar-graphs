@@ -3,14 +3,20 @@ import { BrowserModule } from '@angular/platform-browser';
 import { FormsModule } from '@angular/forms';
 
 import { AppComponent } from './app.component';
+import { TissueBlocksComponent } from './components/tissue-blocks.component';
+import { ConfigSelectorsComponent } from './components/config-selectors.component';
+import { BarGraphComponent } from './components/bar-graph.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    TissueBlocksComponent,
+    ConfigSelectorsComponent,
+    BarGraphComponent
   ],
   imports: [
     BrowserModule,
-    FormsModule   
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

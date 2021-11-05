@@ -1,35 +1,3 @@
 <div id="app">
-  <label for="source">Source: </label>
-  <select id="source" [(ngModel)]="selectedConfig" (change)="loadDataset()">
-    <option *ngFor="let config of configOptions; let i = index" [value]="i">{{ config.label }}</option>
-  </select>
-  <br /><br />
-  <div *ngIf="result; else elseBlock">
-    <label for="selected_cell_type">Sort By: </label>
-    <select id="selected_cell_type" [(ngModel)]="sortBy" (change)="specAndEmbed()">
-      <option  *ngFor="let name of cellTypes" [value]="name">{{ name }}</option>
-    </select>
-    &nbsp;
-    <select id="order_type" [(ngModel)]="orderType" (change)="specAndEmbed()">
-      <option selected [value]="OrderType.Ascending">Ascending</option>
-      <option [value]="OrderType.Descending">Descending</option>
-    </select>
-    <br /><br />
-    <label for="group_by">Group By: </label>
-    <select id="group_by" [(ngModel)]="groupBy" (change)="specAndEmbed()">
-      <option  *ngFor="let group of groupOptions" [value]="group.value">{{ group.name }}</option>
-    </select>
-    <br /><br />
-    <div>
-      <label>Y-Axis: </label>
-      <input type="radio" name="yAxisAtrr" id="raw_count" name="yAxisField" value="count" [(ngModel)]="yAxisField" (change)="specAndEmbed()">
-      <label for="raw_count">Raw Count</label>
-      <input type="radio" name="yAxisAtrr" id="percentage" name="yAxisField" value="percentage" [(ngModel)]="yAxisField" (change)="specAndEmbed()">
-      <label for="percentage">Percentage</label>
-    </div>
-  </div>
-  <ng-template #elseBlock>
-    <div><small style="color: gray">Working...</small></div>
-  </ng-template>
-  <div id="vis"></div>
+  <tissue-blocks></tissue-blocks>
 </div>
