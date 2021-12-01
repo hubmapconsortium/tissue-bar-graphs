@@ -1,24 +1,24 @@
 ﻿cell_type,ontology_id,count,percentage,sex,race
-Endothelial Cell,CL:0000115,95,0.167667,,
-Epithelial Cell Of Proximal Tubule,CL:0002306,6175,10.898341,,
-Fibroblast,CL:0000057,207,0.365337,,
-Podocyte,CL:0000653,596,1.051888,,
-Kidney Capillary Endothelial Cell,CL:1000892,1767,3.118602,,
-Connecting Tubule,CL:1000768,2689,4.745852,,
-Kidney Distal Convoluted Tubule Epithelial Cell,CL:1000849,6031,10.644193,,
-Kidney Loop Of Henle Thick Ascending Limb Epithelial Cell,CL:1001106,12210,21.549594,,
-Leukocyte,CL:0000738,256,0.451818,,
-Mesangial,CL:0000650,239,0.421814,,
-Parietal Epithelial,CL:1000452,954,1.683727,,
-Connecting Tubule Intercalated Type A,CL:0005011,1720,3.035651,,
-Intercalated Type B,CL:0002201,969,1.710201,,
-Renal Principal Cell,CL:0005009,2313,4.082245,,
-B Cell,CL:0000236,341,0.601836,,
-CD4-Positive Helper T Cell,CL:0000492,181,0.319449,,
-"CD8-Positive, Alpha-Beta T Cell",CL:0000625,241,0.425344,,
-Macrophage,CL:0000235,321,0.566537,,
-Mature NK T Cell,CL:0000814,131,0.231204,,
-Connective Tissue Cell,CL:0002320,363,0.640664,,
-Kidney Proximal Convoluted Tubule Epithelial Cell,CL:1000838,6384,11.267208,,
-Kidney Proximal Straight Tubule Epithelial Cell,CL:1000839,4146,7.317331,,
-Kidney Epithelial Cell,CL:0002518,8331,14.703495,,
+Endothelial Cell,CL:0000115,95,0.167667,HRA,HRA
+Epithelial Cell Of Proximal Tubule,CL:0002306,6175,10.898341,HRA,HRA
+Fibroblast,CL:0000057,207,0.365337,HRA,HRA
+Podocyte,CL:0000653,596,1.051888,HRA,HRA
+Kidney Capillary Endothelial Cell,CL:1000892,1767,3.118602,HRA,HRA
+Connecting Tubule,CL:1000768,2689,4.745852,HRA,HRA
+Kidney Distal Convoluted Tubule Epithelial Cell,CL:1000849,6031,10.644193,HRA,HRA
+Kidney Loop Of Henle Thick Ascending Limb Epithelial Cell,CL:1001106,12210,21.549594,HRA,HRA
+Leukocyte,CL:0000738,256,0.451818,HRA,HRA
+Mesangial,CL:0000650,239,0.421814,HRA,HRA
+Parietal Epithelial,CL:1000452,954,1.683727,HRA,HRA
+Connecting Tubule Intercalated Type A,CL:0005011,1720,3.035651,HRA,HRA
+Intercalated Type B,CL:0002201,969,1.710201,HRA,HRA
+Renal Principal Cell,CL:0005009,2313,4.082245,HRA,HRA
+B Cell,CL:0000236,341,0.601836,HRA,HRA
+CD4-Positive Helper T Cell,CL:0000492,181,0.319449,HRA,HRA
+"CD8-Positive, Alpha-Beta T Cell",CL:0000625,241,0.425344,HRA,HRA
+Macrophage,CL:0000235,321,0.566537,HRA,HRA
+Mature NK T Cell,CL:0000814,131,0.231204,HRA,HRA
+Connective Tissue Cell,CL:0002320,363,0.640664,HRA,HRA
+Kidney Proximal Convoluted Tubule Epithelial Cell,CL:1000838,6384,11.267208,HRA,HRA
+Kidney Proximal Straight Tubule Epithelial Cell,CL:1000839,4146,7.317331,HRA,HRA
+Kidney Epithelial Cell,CL:0002518,8331,14.703495,HRA,HRA
