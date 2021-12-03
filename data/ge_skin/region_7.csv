@@ -1,8 +1,9 @@
-cell_type,count,sex,race,age,cat,exp,percentage
-CD68 /Macrophage,3,Male,,69,old,non,0.07
-T-Killer,1,Male,,69,old,non,0.02
-T-reg,12,Male,,69,old,non,0.27
-T-helper,150,Male,,69,old,non,3.34
-P53,4064,Male,,69,old,non,90.53
-KI67,244,Male,,69,old,non,5.44
-DDB2,15,Male,,69,old,non,0.33
+﻿cell_type,count,percentage,cat,sex,exp,age
+"CD68 
+/Macrophage",142,9.653297,old / non,m,non,69
+T-Killer,28,1.903467,old / non,m,non,69
+T-reg,106,7.205982,old / non,m,non,69
+T-helper,1195,81.237253,old / non,m,non,69
+P53,82,8.191808,old / non,m,non,69
+KI67,765,76.423576,old / non,m,non,69
+DDB2,154,15.384615,old / non,m,non,69
