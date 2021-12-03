@@ -1,4 +1,4 @@
-cell_type,ontology_id,count,percentage,sex,race
-Parietal Epithelial,CL:1000452,527,20.300462,HRA,HRA
-Podocyte,CL:0000653,1028,39.599384,HRA,HRA
-Glomerular Capillary Endothelial,CL:1001005,1041,40.100154,HRA,HRA
+cell_type,ontology_id,count,percentage,sex,race,location,laterality
+Parietal Epithelial,CL:1000452,527,20.300462,HRA,HRA,HRA,HRA
+Podocyte,CL:0000653,1028,39.599384,HRA,HRA,HRA,HRA
+Glomerular Capillary Endothelial,CL:1001005,1041,40.100154,HRA,HRA,HRA,HRA
