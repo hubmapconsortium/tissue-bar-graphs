@@ -27,7 +27,7 @@ export class ConfigSelectorsComponent implements OnInit {
 
   public constructor() {
     this.yAxisField = GraphAttribute.Count
-    this.orderType = OrderType.Ascending
+    this.orderType = OrderType.Descending
     this.groupBy = GraphAttribute.None
     this.generalSortLabels = ['Total Cell Count']
     this.cellTypes = []
@@ -59,7 +59,7 @@ export class ConfigSelectorsComponent implements OnInit {
     this.config = Presets[this.selectedConfig]
     this.graphData.splice(0, this.graphData.length)
     this.cellTypes.splice(0, this.cellTypes.length)
-    this.sortBy = 'None'
+    this.sortBy = 'Total Cell Count'
     this.groupBy = GraphAttribute.None
     const uniqueCTs = new Set<string>()
     
@@ -83,7 +83,8 @@ export class ConfigSelectorsComponent implements OnInit {
       })
     }
 
-    this.cellTypes = ['None'].concat(Array.from(uniqueCTs).sort())
+    this.generalSortLabels = ['Total Cell Count', ...this.config.sortAttributes]
+    this.cellTypes = Array.from(uniqueCTs).sort()
 
     // Create a Vega spec and embed component
     this.emitSpec()

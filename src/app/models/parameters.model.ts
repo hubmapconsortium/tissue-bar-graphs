@@ -1,5 +1,5 @@
 enum Source {
-  AzimuthKidney = 'Azimuth Kidney',
+  Kidney = 'Kidney',
   GESkin = 'GE Skin',
   CellarLymphNode = 'Cellar Lymph Node'
 }
@@ -15,7 +15,10 @@ enum GraphAttribute {
   Ethnicity = 'race',
   Age = 'age',
   Category = 'cat',
-  Exposure = 'exp'
+  Exposure = 'exp',
+  Location = 'location',
+  Laterality = 'laterality',
+  YPosition = 'y_pos'
 }
 
 enum OrderType {
@@ -111,41 +114,49 @@ interface Configuration {
   datasets: string[],
   groupTypes: Record<string, GraphAttribute>,
   fixed?: number,
-  colorPalette: string[]
+  colorPalette: string[],
+  sortAttributes: string[]
 }
 
 const Presets: Array<Configuration> = [
   {
-    label: Source.AzimuthKidney,
+    label: Source.Kidney,
     basePath: 'data/azimuth_kidney/',
     datasets: [
       'ASCT+B',
       'Azimuth_L3',
-      'K1900174_2',
-      '18-162-2-M2',
-      '18-142-3-M2',
-      '18-312-2-M2',
-      'K1900175_1_R1',
-      'K1800430_3_R3',
-      'K1900019_1_R3',
-      'K1900387_1_R1',
-      'K1900387_4_R1',
-      'K2000094_2_R1',
-      '446_B3',
-      'K1800364_1',
-      '446_B1',
-      'KRP460C-1',
-      'KRP460P-1',
-      'KRP461C-1',
-      'KRP462C-1',
-      'KRP462P-1'
+      'CellxGene',
+      'HBM264.RWRW.668',
+      'HBM358.KDDT.729',
+      'HBM665.PTMR.889',
+      'HBM773.WCXC.264',
+      '18-162',
+      '18-142',
+      '18-312',
+      'HBM224.GLDC.549',
+      'HBM797.PDPS.368',
+      'HBM399.TFTQ.282',
+      'HBM432.BPZM.698',
+      'HBM578.SRZG.769',
+      'HBM839.TQNM.958',
+      'HBM992.XNZH.647',
+      'HBM764.ZCQR.585',
+      'HBM574.NFCS.842',
+      'HBM537.LTFK.379',
+      'HBM382.HNKL.447',
+      'HBM892.MXFF.848',
+      'HBM982.TPNQ.737',
+      'HBM375.ZKZZ.765'
     ],
     groupTypes: {
       Sex: GraphAttribute.Sex,
-      Ethnicity: GraphAttribute.Ethnicity
+      Ethnicity: GraphAttribute.Ethnicity,
+      Location: GraphAttribute.Location,
+      Laterality: GraphAttribute.Laterality
     },
-    fixed: 2,
-    colorPalette: colorPaletteLarge
+    fixed: 3,
+    colorPalette: colorPaletteLarge,
+    sortAttributes: [getAttributeTitle(GraphAttribute.YPosition)]
   },
   {
     label: Source.GESkin,
@@ -171,7 +182,8 @@ const Presets: Array<Configuration> = [
       Exposure: GraphAttribute.Exposure
     },
     fixed: 1,
-    colorPalette: colorPaletteSmall
+    colorPalette: colorPaletteSmall,
+    sortAttributes: []
   },
   {
     label: Source.CellarLymphNode,
@@ -183,13 +195,33 @@ const Presets: Array<Configuration> = [
     ],
     groupTypes: {},
     fixed: 0,
-    colorPalette: colorPaletteSmall
+    colorPalette: colorPaletteSmall,
+    sortAttributes: []
   }
 ]
+
+function getAttributeTitle(attribute: GraphAttribute) : string {
+  switch (attribute) {
+  case GraphAttribute.Dataset: return 'Dataset'
+  case GraphAttribute.CellType: return 'Cell Type'
+  case GraphAttribute.Count: return 'Cell Count'
+  case GraphAttribute.Percentage: return 'Cell Proportion'
+  case GraphAttribute.Sex: return 'Sex'
+  case GraphAttribute.Ethnicity: return 'Ethnicity'
+  case GraphAttribute.Category: return 'Category'
+  case GraphAttribute.Age: return 'Age'
+  case GraphAttribute.Exposure: return 'Exposure'
+  case GraphAttribute.Laterality: return 'Laterality'
+  case GraphAttribute.Location: return 'Location'
+  case GraphAttribute.YPosition: return 'Vertical Tissue Block Position'
+  default: return ''
+  }
+}
 
 export {
   GraphAttribute,
   OrderType,
   Configuration,
-  Presets
+  Presets,
+  getAttributeTitle
 }

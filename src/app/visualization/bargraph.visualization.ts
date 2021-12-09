@@ -1,5 +1,5 @@
 import { VisualizationSpec } from "vega-embed";
-import { GraphAttribute, OrderType } from "../models/parameters.model";
+import { GraphAttribute, OrderType, getAttributeTitle } from "../models/parameters.model";
 
 export interface StackedBarsSpecOptions {
   graphTitle: string
@@ -51,6 +51,7 @@ export function getStackedBarsSpec(userOptions: StackedBarsSpecOptions) : Visual
     encoding: {
       facet: options.groupBy === GraphAttribute.None ? undefined : {
         field: options.groupBy,
+        title: getAttributeTitle(options.groupBy),
         type: 'ordinal',
         spacing: options.groupSpacing,
         sort: {
@@ -102,8 +103,10 @@ export function getStackedBarsSpec(userOptions: StackedBarsSpecOptions) : Visual
     transform: [
       {
         calculate: `datum.index < ${options.fixedBars} ? 
-          ${options.orderType === OrderType.Ascending ? 0 : Number.MAX_SAFE_INTEGER } - datum.index : 
-          datum.cell_type == '${options.sortBy}' ? 
+          ${options.orderType === OrderType.Ascending ? 0 : Number.MAX_SAFE_INTEGER } - datum.index :
+          '${options.sortBy}' === 'Total Cell Count' ? datum.${options.yAxisField} :
+          '${options.sortBy}' === '${getAttributeTitle(GraphAttribute.YPosition)}' ? datum.${GraphAttribute.YPosition} :
+          datum.${GraphAttribute.CellType} === '${options.sortBy}' ? 
           datum.${options.yAxisField} : 0`,
         as: GraphAttribute.Order
       }
@@ -115,16 +118,6 @@ export function getStackedBarsSpec(userOptions: StackedBarsSpecOptions) : Visual
     }
   }
   return spec;
-}
-
-function getAttributeTitle(attribute: GraphAttribute) : string {
-  switch (attribute) {
-  case GraphAttribute.Dataset: return 'Dataset'
-  case GraphAttribute.CellType: return 'Cell Type'
-  case GraphAttribute.Count: return 'Cell Count'
-  case GraphAttribute.Percentage: return 'Cell Proportion'
-  default: return ''
-  }
 }
 
 function getScaleDomain(attribute: GraphAttribute) : Array<number> | undefined {
