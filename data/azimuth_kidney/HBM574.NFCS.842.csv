@@ -1,5 +1,5 @@
-cell_type,annotation_level,ontology_id,sex,race,count,percentage,location,laterality
-Ascending Thin Limb,kidney_l3,CL_1001107,Male,W,23,13.7725,lower pole,right
+cell_type,annotation_level,ontology_id,sex,race,count,percentage,location,laterality,y_pos
+Ascending Thin Limb,kidney_l3,CL_1001107,Male,W,23,13.7725,lower pole,right,36.406
 Ascending Vasa Recta Endothelial,kidney_l3,CL_1001131,Male,W,4,2.39521,lower pole,right
 Connecting Tubule,kidney_l3,CL_1000768,Male,W,1,0.598802,lower pole,right
 Cortical Collecting Duct Intercalated Type A,kidney_l3,CL_0005011,Male,W,1,0.598802,lower pole,right

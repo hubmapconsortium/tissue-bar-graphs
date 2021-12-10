@@ -1,5 +1,5 @@
-cell_type,annotation_level,ontology_id,sex,race,count,percentage,location,laterality
-Afferent / Efferent Arteriole Endothelial,kidney_l3,CL_1001096,Female,W,5,0.125849,lower pole,left
+cell_type,annotation_level,ontology_id,sex,race,count,percentage,location,laterality,y_pos
+Afferent / Efferent Arteriole Endothelial,kidney_l3,CL_1001096,Female,W,5,0.125849,lower pole,left,45.294
 Ascending Thin Limb,kidney_l3,CL_1001107,Female,W,446,11.2258,lower pole,left
 Ascending Vasa Recta Endothelial,kidney_l3,CL_1001131,Female,W,388,9.76592,lower pole,left
 Classical Dendritic,kidney_l3,CL_0000451,Female,W,1,0.0251699,lower pole,left

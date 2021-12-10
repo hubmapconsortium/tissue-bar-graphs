@@ -1,5 +1,5 @@
-cell_type,annotation_level,ontology_id,sex,race,count,percentage,location,laterality
-Afferent / Efferent Arteriole Endothelial,kidney_l3,CL_1001096,Female,W,7,0.183679,lower pole,left
+cell_type,annotation_level,ontology_id,sex,race,count,percentage,location,laterality,y_pos
+Afferent / Efferent Arteriole Endothelial,kidney_l3,CL_1001096,Female,W,7,0.183679,lower pole,left,20.114
 B,kidney_l3,CL_0000785,Female,W,48,1.25951,lower pole,left
 Classical Dendritic,kidney_l3,CL_0000451,Female,W,12,0.314878,lower pole,left
 Connecting Tubule,kidney_l3,CL_1000768,Female,W,199,5.22173,lower pole,left
