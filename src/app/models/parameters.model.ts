@@ -162,18 +162,18 @@ const Presets: Array<Configuration> = [
     label: Source.GESkin,
     basePath: 'data/ge_skin/',
     datasets: [
-      'region_12',
-      'region_1',
-      'region_2',
-      'region_3',
-      'region_4',
-      'region_5',
-      // 'region_6',
-      'region_7',
-      'region_8',
-      'region_9',
-      'region_10',
-      'region_11'
+      'HBM654.BKGL.942',
+      'HBM253.HFDZ.866',
+      'HBM396.WPKL.954',
+      'HBM894.PGJZ.258',
+      'HBM669.GWVL.893',
+      // 'HBM755.MZNB.996',
+      'HBM639.SGGN.469',
+      'HBM865.PBJW.845',
+      'HBM297.VBLS.984',
+      'HBM969.VNQL.553',
+      'HBM229.HKHH.537',
+      'HBM228.BBHS.986',
     ],
     groupTypes: {
       Sex: GraphAttribute.Sex,
@@ -181,9 +181,9 @@ const Presets: Array<Configuration> = [
       Category: GraphAttribute.Category,
       Exposure: GraphAttribute.Exposure
     },
-    fixed: 1,
+    fixed: 0,
     colorPalette: colorPaletteSmall,
-    sortAttributes: []
+    sortAttributes: [getAttributeTitle(GraphAttribute.YPosition)]
   },
   {
     label: Source.CellarLymphNode,
