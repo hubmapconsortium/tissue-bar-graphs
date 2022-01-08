@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { Title } from '@angular/platform-browser';
+import { TissueBlocksService } from './services/tissue-blocks.service';
 
 @Component({
   selector: 'app-root',
@@ -7,9 +8,10 @@ import { Title } from '@angular/platform-browser';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'tissue-bar-graphs'
+  title = 'tissue-blocks'
 
-  public constructor(private titleService: Title) {
-    this.titleService.setTitle('Tissue Bar Graphs')
+  public constructor(private titleService: Title, private tissueBlockService: TissueBlocksService) {
+    this.titleService.setTitle('CNS Tissue Blocks')
+    this.tissueBlockService.injectElement()
   }
 }

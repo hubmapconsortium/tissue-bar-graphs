@@ -1,24 +1,14 @@
 import { NgModule } from '@angular/core';
-import { BrowserModule } from '@angular/platform-browser';
-import { FormsModule } from '@angular/forms';
-
 import { AppComponent } from './app.component';
-import { TissueBlocksComponent } from './components/tissue-blocks.component';
-import { ConfigSelectorsComponent } from './components/config-selectors.component';
-import { BarGraphComponent } from './components/bar-graph.component';
+import { TissueBlocksModule } from './modules/tissue-blocks.module';
+import { TissueBlocksService } from './services/tissue-blocks.service';
 
 @NgModule({
   declarations: [
-    AppComponent,
-    TissueBlocksComponent,
-    ConfigSelectorsComponent,
-    BarGraphComponent
+    AppComponent
   ],
-  imports: [
-    BrowserModule,
-    FormsModule
-  ],
-  providers: [],
+  imports: [TissueBlocksModule],
+  providers: [TissueBlocksService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
