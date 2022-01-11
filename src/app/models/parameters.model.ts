@@ -1,7 +1,7 @@
 enum Source {
-  Kidney = 'Kidney',
-  GESkin = 'GE Skin',
-  CellarLymphNode = 'Cellar Lymph Node'
+  Kidney = 'kidney',
+  GESkin = 'ge_skin',
+  CellarLymphNode = 'cellar_lymph_node'
 }
 
 enum GraphAttribute {
@@ -118,10 +118,10 @@ interface Configuration {
   sortAttributes: string[]
 }
 
-const Presets: Array<Configuration> = [
-  {
-    label: Source.Kidney,
-    basePath: 'data/azimuth_kidney/',
+const Presets: Record<Source, Configuration> = {
+  [Source.Kidney]: {
+    label: 'Kidney',
+    basePath: 'https://docs.google.com/spreadsheets/d/1yYIOdfgJoNqVij9kAQabY2n789GsaV6OOm0b71VIcKE/gviz/tq?tqx=out:csv',
     datasets: [
       'ASCT+B',
       'Azimuth_L3',
@@ -158,9 +158,9 @@ const Presets: Array<Configuration> = [
     colorPalette: colorPaletteLarge,
     sortAttributes: [getAttributeTitle(GraphAttribute.YPosition)]
   },
-  {
-    label: Source.GESkin,
-    basePath: 'data/ge_skin/',
+  [Source.GESkin]: {
+    label: 'GE Skin',
+    basePath: 'https://docs.google.com/spreadsheets/d/1spA1vHD7COVcsBXMFCf1VYHWIk0Cw_LDZwNmDEObOuI/gviz/tq?tqx=out:csv',
     datasets: [
       'HBM654.BKGL.942',
       'HBM253.HFDZ.866',
@@ -185,9 +185,9 @@ const Presets: Array<Configuration> = [
     colorPalette: colorPaletteSmall,
     sortAttributes: [getAttributeTitle(GraphAttribute.YPosition)]
   },
-  {
-    label: Source.CellarLymphNode,
-    basePath: 'data/cellar_lymph_node/',
+  [Source.CellarLymphNode]: {
+    label: 'Cellar Lymph Node',
+    basePath: 'https://docs.google.com/spreadsheets/d/1Jy9yWHVN4sqlJeNrNPt2iHlSVGUc04mPTWlTflpe9CA/gviz/tq?tqx=out:csv',
     datasets: [
       'CODEX_Florida_19-003-lymph-node-R2',
       // 'CODEX_Florida_20-008-lymphnode10_lefthalf',
@@ -198,7 +198,7 @@ const Presets: Array<Configuration> = [
     colorPalette: colorPaletteSmall,
     sortAttributes: []
   }
-]
+}
 
 function getAttributeTitle(attribute: GraphAttribute) : string {
   switch (attribute) {
@@ -219,6 +219,7 @@ function getAttributeTitle(attribute: GraphAttribute) : string {
 }
 
 export {
+  Source,
   GraphAttribute,
   OrderType,
   Configuration,

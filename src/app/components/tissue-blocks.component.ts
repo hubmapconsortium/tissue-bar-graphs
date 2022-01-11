@@ -1,13 +1,30 @@
-import { Component } from '@angular/core'
+import { Component, Input } from '@angular/core'
 import { VisualizationSpec } from 'vega-embed'
+import { GraphAttribute, OrderType, Source } from '../models/parameters.model'
 
 @Component({
   selector: 'tissue-blocks',
-  templateUrl: './tissue-blocks.component.html'
+  templateUrl: './tissue-blocks.component.html',
+  styleUrls: ['./tissue-blocks.component.css']
 })
 
 export class TissueBlocksComponent {
   spec: VisualizationSpec
+  @Input() datasetSource: Source
+  @Input() sortBy: String
+  @Input() orderType: OrderType
+  @Input() groupBy: GraphAttribute
+  @Input() yAxisField: GraphAttribute
+  @Input() showUi: Boolean
+  
+  constructor() {
+    // Set defaults
+    this.datasetSource = Source.Kidney
+    this.yAxisField = GraphAttribute.Count
+    this.orderType = OrderType.Descending
+    this.groupBy = GraphAttribute.None
+    this.showUi = false
+  }
   
   respecBarGraph(spec: VisualizationSpec) {
     this.spec = spec

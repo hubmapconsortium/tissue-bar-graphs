@@ -1,7 +1,7 @@
 <div>
   <label for="source">Source: </label>
-  <select id="source" [(ngModel)]="selectedConfig" (change)="loadDataset()">
-    <option *ngFor="let config of configOptions; let i = index" [value]="i">{{ config.label }}</option>
+  <select id="source" [(ngModel)]="datasetSource" (change)="loadDataset(true)">
+    <option *ngFor="let preset of presets | keyvalue" [value]="preset.key">{{ preset.value.label }}</option>
   </select>
 </div>
 <br />

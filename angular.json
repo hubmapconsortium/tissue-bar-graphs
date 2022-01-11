@@ -109,16 +109,16 @@
         "pack": {
           "builder": "@angular-builders/custom-webpack:browser",
           "options": {
-              "customWebpackConfig": {
-                  "path": "elements-webpack.config.js"
-              },
-              "outputPath": "dist/tmp",
-              "index": "src/index.html",
-              "main": "src/wc-main.ts",
-              "polyfills": "src/polyfills.ts",
-              "tsConfig": "tsconfig.app.json",
-              "styles": ["src/styles.css"],
-              "scripts": []
+            "customWebpackConfig": {
+              "path": "elements-webpack.config.js"
+            },
+            "outputPath": "dist/tmp",
+            "index": "src/index.html",
+            "main": "src/wc-main.ts",
+            "polyfills": "src/polyfills.ts",
+            "tsConfig": "tsconfig.wc.json",
+            "styles": ["src/styles.css"],
+            "scripts": []
           },
           "configurations": {
             "production": {

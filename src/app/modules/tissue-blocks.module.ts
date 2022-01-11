@@ -16,7 +16,8 @@ import { ConfigSelectorsComponent } from "../components/config-selectors.compone
   imports: [
     BrowserModule,
     FormsModule,
-  ]
+  ],
+  exports: [TissueBlocksComponent]
 })
 export class TissueBlocksModule {
   constructor(readonly injector: Injector) {
