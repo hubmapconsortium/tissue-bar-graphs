@@ -30,6 +30,23 @@ The web component supports additional properties that can be passed to override 
 <tr><td><code>order-type</code></td><td>Set ordering as <code>ascending</code> or <code>descending</code>. Defaults to <code>descending</code>.</td></tr>
 </table>
 
+### Usage Example
+```html
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>CNS Tissue Blocks - Web Component Demo</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="wc.js"></script>
+</head>
+<body>
+  <cns-tissue-blocks y-axis-field="percentage" group-by="sex" order-type="ascending"></cns-tissue-blocks>
+</body>
+</html>
+```
+
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
