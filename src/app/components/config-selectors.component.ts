@@ -1,7 +1,8 @@
-import { Component, Output, EventEmitter, OnInit } from '@angular/core'
-import { Configuration, GraphAttribute, OrderType, Presets } from '../models/parameters.model'
-import { Result, VisualizationSpec } from 'vega-embed';
+import { Component, Output, EventEmitter, OnInit, Input } from '@angular/core'
+import { Configuration, GraphAttribute, OrderType, Presets, Source } from '../models/parameters.model'
+import { VisualizationSpec } from 'vega-embed';
 import { parse } from 'papaparse';
+import urljoin from 'url-join';
 import { getStackedBarsSpec, StackedBarsSpecOptions } from './../visualization/bargraph.visualization';
 
 @Component({
@@ -9,32 +10,27 @@ import { getStackedBarsSpec, StackedBarsSpecOptions } from './../visualization/b
   templateUrl: './config-selectors.component.html'
 })
 
-export class ConfigSelectorsComponent implements OnInit {
-  yAxisField: GraphAttribute
-  sortBy: string
-  orderType: OrderType
-  groupBy: GraphAttribute
+export class ConfigSelectorsComponent {
   generalSortLabels: string[]
   cellTypes: string[]
   graphData: Array<Record<string, any>>
-  selectedConfig: number
-  configOptions: Array<Configuration>
+  presets: Record<Source, Configuration>
   config: Configuration
   loading: Boolean
   OrderType = OrderType
   groupOptions?: Array<Record<string, any>>
+  @Input() datasetSource: Source
+  @Input() sortBy: string
+  @Input() orderType: OrderType
+  @Input() groupBy: GraphAttribute
+  @Input() yAxisField: GraphAttribute
   @Output() vegaSpecEvent: EventEmitter<VisualizationSpec>
 
   public constructor() {
-    this.yAxisField = GraphAttribute.Count
-    this.orderType = OrderType.Descending
-    this.groupBy = GraphAttribute.None
     this.generalSortLabels = ['Total Cell Count']
     this.cellTypes = []
     this.graphData = []
-    this.selectedConfig = 0
-    this.configOptions = Presets
-    this.config = Presets[0]
+    this.presets = Presets
     this.loading = false
     this.vegaSpecEvent = new EventEmitter<VisualizationSpec>()
   }
@@ -55,12 +51,16 @@ export class ConfigSelectorsComponent implements OnInit {
     })
   }
   
-  async loadDataset() {
-    this.config = Presets[this.selectedConfig]
+  async loadDataset(resetFields: Boolean = false) {
+    this.config = Presets[this.datasetSource]
     this.graphData.splice(0, this.graphData.length)
     this.cellTypes.splice(0, this.cellTypes.length)
-    this.sortBy = 'Total Cell Count'
-    this.groupBy = GraphAttribute.None
+    if (resetFields || !this.sortBy) {
+      this.sortBy = 'Total Cell Count'
+    }
+    if (resetFields || !this.groupBy) {
+      this.groupBy = GraphAttribute.None
+    }
     const uniqueCTs = new Set<string>()
     
     this.groupOptions = Object.entries(this.config.groupTypes)
@@ -72,11 +72,14 @@ export class ConfigSelectorsComponent implements OnInit {
         value: GraphAttribute.None
       }])
 
+    // Make requests in parallel
+    const promises = this.config.datasets.map(title => this.getCsv(urljoin(this.config.basePath, `&sheet=${encodeURIComponent(title)}`)))
+    const datasets = await Promise.all(promises)
+
     // Create master list of all datasets
-    for (const [index, title] of this.config.datasets.entries()) {
-      const csvData = await this.getCsv(`${this.config.basePath}${title}.csv`)
+    for (const [index, csvData] of datasets.entries()) {
       csvData.forEach(row => {
-        row['dataset'] = title
+        row['dataset'] = this.config.datasets[index]
         row['index'] = index
         uniqueCTs.add(row['cell_type'])
         this.graphData.push(row)
@@ -111,8 +114,8 @@ export class ConfigSelectorsComponent implements OnInit {
     this.vegaSpecEvent.emit(spec)
     this.loading = false
   }
-  
+
   ngOnInit() {
-    this.loadDataset();
+    this.loadDataset()
   }
 }
