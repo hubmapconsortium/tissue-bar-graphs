@@ -15,7 +15,7 @@ Run `ng generate component component-name` to generate a new component. You can 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/tissue-bar-graphs` directory.
 
 ## Building web component
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/cns-tissue-blocks` directory.
+Run `npm run build:elements` to build project as a web component. The build artifacts will be stored in the `dist/cns-tissue-blocks` directory.
 
 ### Web component options
 The web component supports additional properties that can be passed to override the initial configuration for the bar graph.
