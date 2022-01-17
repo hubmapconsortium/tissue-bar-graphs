@@ -1,7 +1,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  min-width: 680px;
+  min-width: fit-content;
 }
 
 body {
@@ -45,6 +45,7 @@ body {
 
 .main-header .header-content {
   height: 64px;
+  min-width: 680px;
   max-width: 1100px;
   margin: auto;
   display: flex;
