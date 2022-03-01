@@ -1,4 +1,4 @@
-import { Component, Input, SimpleChange } from "@angular/core"
+import { Component, Input, OnChanges, SimpleChanges } from "@angular/core"
 import embed, { Result, VisualizationSpec } from "vega-embed"
 
 @Component({
@@ -7,11 +7,11 @@ import embed, { Result, VisualizationSpec } from "vega-embed"
   styleUrls: ['./bar-graph.component.css']
 })
 
-export class BarGraphComponent {
+export class BarGraphComponent implements OnChanges {
   result: Result
   @Input() spec: VisualizationSpec
 
-  async ngOnChanges(change: SimpleChange) {
+  async ngOnChanges(changes: SimpleChanges) {
     if (this.result) {
       this.result.finalize()
     }

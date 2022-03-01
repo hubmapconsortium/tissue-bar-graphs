@@ -1,5 +1,5 @@
-import { Component, Output, EventEmitter, OnInit, Input } from '@angular/core'
-import { Configuration, GraphAttribute, OrderType, Presets, Source } from '../models/parameters.model'
+import { Component, Output, EventEmitter, Input, OnInit, OnChanges, SimpleChanges } from '@angular/core'
+import { Configuration, GraphAttribute, OrderType, Presets, PreviewMode, PreviewPresets, Source } from '../models/parameters.model'
 import { VisualizationSpec } from 'vega-embed';
 import { parse } from 'papaparse';
 import urljoin from 'url-join';
@@ -10,7 +10,7 @@ import { getStackedBarsSpec, StackedBarsSpecOptions } from './../visualization/b
   templateUrl: './config-selectors.component.html'
 })
 
-export class ConfigSelectorsComponent {
+export class ConfigSelectorsComponent implements OnChanges {
   generalSortLabels: string[]
   cellTypes: string[]
   graphData: Array<Record<string, any>>
@@ -24,6 +24,7 @@ export class ConfigSelectorsComponent {
   @Input() orderType: OrderType
   @Input() groupBy: GraphAttribute
   @Input() yAxisField: GraphAttribute
+  @Input() previewMode: PreviewMode
   @Output() vegaSpecEvent: EventEmitter<VisualizationSpec>
 
   public constructor() {
@@ -35,22 +36,23 @@ export class ConfigSelectorsComponent {
     this.vegaSpecEvent = new EventEmitter<VisualizationSpec>()
   }
 
-  async getCsv(url: string) : Promise<Array<Record<string, any>>> {
+  async getCsv(url: string): Promise<Array<Record<string, any>>> {
     return new Promise((resolve, reject) => {
       parse(url, {
         download: true,
         delimiter: ',',
         header: true,
-        dynamicTyping: true,
         skipEmptyLines: true,
         complete: (result: Record<string, any>) => {
           resolve(result.data)
         },
-        error: reject
+        error: () => {
+          reject(`Failed to load from URL: ${url}`)
+        }
       })
     })
   }
-  
+
   async loadDataset(resetFields: Boolean = false) {
     this.config = Presets[this.datasetSource]
     this.graphData.splice(0, this.graphData.length)
@@ -62,7 +64,7 @@ export class ConfigSelectorsComponent {
       this.groupBy = GraphAttribute.None
     }
     const uniqueCTs = new Set<string>()
-    
+
     this.groupOptions = Object.entries(this.config.groupTypes)
       .reduce((types, [name, value]) => {
         types.push({ name, value })
@@ -73,17 +75,21 @@ export class ConfigSelectorsComponent {
       }])
 
     // Make requests in parallel
-    const promises = this.config.datasets.map(title => this.getCsv(urljoin(this.config.basePath, `&sheet=${encodeURIComponent(title)}`)))
-    const datasets = await Promise.all(promises)
+    try {
+      const promises = this.config.datasets.map(title => this.getCsv(urljoin(this.config.basePath, `&sheet=${encodeURIComponent(title)}`)))
+      const datasets = await Promise.all(promises)
 
-    // Create master list of all datasets
-    for (const [index, csvData] of datasets.entries()) {
-      csvData.forEach(row => {
-        row['dataset'] = this.config.datasets[index]
-        row['index'] = index
-        uniqueCTs.add(row['cell_type'])
-        this.graphData.push(row)
-      })
+      // Create master list of all datasets
+      for (const [index, csvData] of datasets.entries()) {
+        csvData.forEach(row => {
+          row['dataset'] = this.config.datasets[index]
+          row['index'] = index
+          uniqueCTs.add(row['cell_type'])
+          this.graphData.push(row)
+        })
+      }
+    } catch (error) {
+      console.error(error)
     }
 
     this.generalSortLabels = ['Total Cell Count', ...this.config.sortAttributes]
@@ -110,12 +116,30 @@ export class ConfigSelectorsComponent {
       legendRange: Array.from(this.config.colorPalette).reverse().slice(0, this.cellTypes.length),
       fixedBars: this.config.fixed
     }
+    if (this.previewMode) {
+      Object.assign(options, {
+        legendOrient: 'bottom',
+        legendSymbolPerColumn: 12
+      })
+    }
     const spec = getStackedBarsSpec(options)
     this.vegaSpecEvent.emit(spec)
     this.loading = false
   }
 
-  ngOnInit() {
-    this.loadDataset()
+  ngOnChanges(changes: SimpleChanges) {
+    if (!!changes.previewMode) {
+      // Initial change from constructor that should be ignored
+      if (changes.previewMode.isFirstChange()) return;
+      // Load dataset after preview mode check is complete
+      // To prevent double loading
+      if (changes.previewMode.currentValue === 'azimuth-kidney') {
+        this.presets = PreviewPresets
+        this.datasetSource = Source.Kidney
+        this.yAxisField = GraphAttribute.Percentage
+        this.groupBy = GraphAttribute.Sex
+      }
+      this.loadDataset()
+    }
   }
 }

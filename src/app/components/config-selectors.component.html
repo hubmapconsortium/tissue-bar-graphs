@@ -1,4 +1,4 @@
-<div>
+<div *ngIf="!previewMode">
   <label for="source">Source: </label>
   <select id="source" [(ngModel)]="datasetSource" (change)="loadDataset(true)">
     <option *ngFor="let preset of presets | keyvalue" [value]="preset.key">{{ preset.value.label }}</option>
@@ -12,7 +12,7 @@
       <option *ngFor="let label of generalSortLabels" [value]="label">{{ label }}</option>
     </optgroup>
     <optgroup label="Cell Type Count">
-      <option  *ngFor="let name of cellTypes" [value]="name">{{ name }}</option>
+      <option *ngFor="let name of cellTypes" [value]="name">{{ name }}</option>
     </optgroup>
   </select>
   &nbsp;
@@ -23,14 +23,16 @@
   <br /><br />
   <label for="group_by">Group By: </label>
   <select id="group_by" [(ngModel)]="groupBy" (change)="emitSpec()">
-    <option  *ngFor="let group of groupOptions" [value]="group.value">{{ group.name }}</option>
+    <option *ngFor="let group of groupOptions" [value]="group.value">{{ group.name }}</option>
   </select>
   <br /><br />
   <div>
     <label>Y-Axis: </label>
-    <input type="radio" name="yAxisAtrr" id="raw_count" name="yAxisField" value="count" [(ngModel)]="yAxisField" (change)="emitSpec()">
+    <input type="radio" name="yAxisAtrr" id="raw_count" name="yAxisField" value="count" [(ngModel)]="yAxisField"
+      (change)="emitSpec()">
     <label for="raw_count">Raw Count</label>
-    <input type="radio" name="yAxisAtrr" id="percentage" name="yAxisField" value="percentage" [(ngModel)]="yAxisField" (change)="emitSpec()">
+    <input type="radio" name="yAxisAtrr" id="percentage" name="yAxisField" value="percentage" [(ngModel)]="yAxisField"
+      (change)="emitSpec()">
     <label for="percentage">Percentage</label>
   </div>
 </div>

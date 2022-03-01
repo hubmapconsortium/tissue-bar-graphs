@@ -26,6 +26,13 @@ enum OrderType {
   Descending = 'descending'
 }
 
+const previewModes = ['azimuth-kidney'] as const;
+type PreviewMode = (typeof previewModes)[number];
+
+function isOfTypePreviewMode(mode: string): mode is PreviewMode {
+  return (previewModes as readonly string[]).includes(mode);
+}
+
 // Colors from https://medialab.github.io/iwanthue/
 const colorPaletteLarge = [
   '#db95cd',
@@ -118,14 +125,56 @@ interface Configuration {
   sortAttributes: string[]
 }
 
+const PreviewPresets: Record<string, Configuration> = {
+  [Source.Kidney]: {
+    label: 'Kidney',
+    basePath: 'https://docs.google.com/spreadsheets/d/1yYIOdfgJoNqVij9kAQabY2n789GsaV6OOm0b71VIcKE/gviz/tq?tqx=out:csv',
+    datasets: [
+      'ASCT+B',
+      'Azimuth (L3)',
+      'KPMP CellxGene',
+      'HBM264.RWRW.668',
+      'HBM358.KDDT.729',
+      'HBM665.PTMR.889',
+      'HBM773.WCXC.264',
+      '18-162',
+      '18-142',
+      '18-312',
+      'HBM224.GLDC.549',
+      'HBM797.PDPS.368',
+      'HBM399.TFTQ.282',
+      'HBM432.BPZM.698',
+      'HBM578.SRZG.769',
+      'HBM839.TQNM.958',
+      'HBM992.XNZH.647',
+      'HBM764.ZCQR.585',
+      'HBM574.NFCS.842',
+      'HBM537.LTFK.379',
+      'HBM382.HNKL.447',
+      'HBM892.MXFF.848',
+      'HBM982.TPNQ.737',
+      'HBM375.ZKZZ.765'
+    ],
+    groupTypes: {
+      Sex: GraphAttribute.Sex,
+      Ethnicity: GraphAttribute.Ethnicity,
+      Location: GraphAttribute.Location,
+      Laterality: GraphAttribute.Laterality
+    },
+    fixed: 3,
+    colorPalette: colorPaletteLarge,
+    sortAttributes: [getAttributeTitle(GraphAttribute.YPosition)]
+  }
+}
+
 const Presets: Record<Source, Configuration> = {
   [Source.Kidney]: {
     label: 'Kidney',
     basePath: 'https://docs.google.com/spreadsheets/d/1yYIOdfgJoNqVij9kAQabY2n789GsaV6OOm0b71VIcKE/gviz/tq?tqx=out:csv',
     datasets: [
       'ASCT+B',
-      'Azimuth_L3',
-      'CellxGene',
+      'Azimuth (L3)',
+      'KPMP CellxGene',
       'HBM264.RWRW.668',
       'HBM358.KDDT.729',
       'HBM665.PTMR.889',
@@ -200,21 +249,21 @@ const Presets: Record<Source, Configuration> = {
   }
 }
 
-function getAttributeTitle(attribute: GraphAttribute) : string {
+function getAttributeTitle(attribute: GraphAttribute): string {
   switch (attribute) {
-  case GraphAttribute.Dataset: return 'Dataset'
-  case GraphAttribute.CellType: return 'Cell Type'
-  case GraphAttribute.Count: return 'Cell Count'
-  case GraphAttribute.Percentage: return 'Cell Proportion'
-  case GraphAttribute.Sex: return 'Sex'
-  case GraphAttribute.Ethnicity: return 'Ethnicity'
-  case GraphAttribute.Category: return 'Category'
-  case GraphAttribute.Age: return 'Age'
-  case GraphAttribute.Exposure: return 'Exposure'
-  case GraphAttribute.Laterality: return 'Laterality'
-  case GraphAttribute.Location: return 'Location'
-  case GraphAttribute.YPosition: return 'Vertical Tissue Block Position'
-  default: return ''
+    case GraphAttribute.Dataset: return 'Dataset'
+    case GraphAttribute.CellType: return 'Cell Type'
+    case GraphAttribute.Count: return 'Cell Count'
+    case GraphAttribute.Percentage: return 'Cell Proportion'
+    case GraphAttribute.Sex: return 'Sex'
+    case GraphAttribute.Ethnicity: return 'Ethnicity'
+    case GraphAttribute.Category: return 'Category'
+    case GraphAttribute.Age: return 'Age'
+    case GraphAttribute.Exposure: return 'Exposure'
+    case GraphAttribute.Laterality: return 'Laterality'
+    case GraphAttribute.Location: return 'Location'
+    case GraphAttribute.YPosition: return 'Vertical Tissue Block Position'
+    default: return ''
   }
 }
 
@@ -223,6 +272,9 @@ export {
   GraphAttribute,
   OrderType,
   Configuration,
+  PreviewMode,
   Presets,
-  getAttributeTitle
+  PreviewPresets,
+  getAttributeTitle,
+  isOfTypePreviewMode
 }
