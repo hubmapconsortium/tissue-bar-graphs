@@ -1,3 +1,4 @@
+import { LegendOrient } from "vega";
 import { VisualizationSpec } from "vega-embed";
 import { GraphAttribute, OrderType, getAttributeTitle } from "../models/parameters.model";
 
@@ -20,10 +21,11 @@ export interface StackedBarsSpecOptions {
   labelAngle?: number,
   legendSymbolLimit?: number,
   legendSymbolPerColumn?: number,
+  legendOrient?: LegendOrient,
   graphTitleFontSize?: number
 }
 
-export function getStackedBarsSpec(userOptions: StackedBarsSpecOptions) : VisualizationSpec {
+export function getStackedBarsSpec(userOptions: StackedBarsSpecOptions): VisualizationSpec {
   const options = Object.assign({
     fixedBars: 0,
     barWidth: 50,
@@ -56,7 +58,7 @@ export function getStackedBarsSpec(userOptions: StackedBarsSpecOptions) : Visual
         spacing: options.groupSpacing,
         sort: {
           field: GraphAttribute.Order,
-          op: 'sum',
+          op: 'mean',
           order: options.orderType
         }
       },
@@ -91,7 +93,8 @@ export function getStackedBarsSpec(userOptions: StackedBarsSpecOptions) : Visual
         },
         legend: {
           symbolLimit: options.legendSymbolLimit,
-          columns: Math.ceil(options.legendDomain.length / options.legendSymbolPerColumn)
+          columns: Math.ceil(options.legendDomain.length / options.legendSymbolPerColumn),
+          orient: options.legendOrient
         }
       }
     },
@@ -103,7 +106,7 @@ export function getStackedBarsSpec(userOptions: StackedBarsSpecOptions) : Visual
     transform: [
       {
         calculate: `datum.index < ${options.fixedBars} ? 
-          ${options.orderType === OrderType.Ascending ? 0 : Number.MAX_SAFE_INTEGER } - datum.index :
+          ${options.orderType === OrderType.Ascending ? 0 : 'MAX_VALUE'} :
           '${options.sortBy}' === 'Total Cell Count' ? datum.${options.yAxisField} :
           '${options.sortBy}' === '${getAttributeTitle(GraphAttribute.YPosition)}' ? datum.${GraphAttribute.YPosition} :
           datum.${GraphAttribute.CellType} === '${options.sortBy}' ? 
@@ -120,9 +123,9 @@ export function getStackedBarsSpec(userOptions: StackedBarsSpecOptions) : Visual
   return spec;
 }
 
-function getScaleDomain(attribute: GraphAttribute) : Array<number> | undefined {
+function getScaleDomain(attribute: GraphAttribute): Array<number> | undefined {
   switch (attribute) {
-  case GraphAttribute.Percentage: return [0, 100]
-  default: return undefined
+    case GraphAttribute.Percentage: return [0, 100]
+    default: return undefined
   }
 }

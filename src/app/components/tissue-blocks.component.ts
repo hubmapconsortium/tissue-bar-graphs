@@ -1,6 +1,6 @@
 import { Component, Input } from '@angular/core'
 import { VisualizationSpec } from 'vega-embed'
-import { GraphAttribute, OrderType, Source } from '../models/parameters.model'
+import { GraphAttribute, OrderType, PreviewMode, Source } from '../models/parameters.model'
 
 @Component({
   selector: 'tissue-blocks',
@@ -16,7 +16,8 @@ export class TissueBlocksComponent {
   @Input() groupBy: GraphAttribute
   @Input() yAxisField: GraphAttribute
   @Input() showUi: Boolean
-  
+  @Input() previewMode: PreviewMode
+
   constructor() {
     // Set defaults
     this.datasetSource = Source.Kidney
@@ -25,7 +26,7 @@ export class TissueBlocksComponent {
     this.groupBy = GraphAttribute.None
     this.showUi = false
   }
-  
+
   respecBarGraph(spec: VisualizationSpec) {
     this.spec = spec
   }
