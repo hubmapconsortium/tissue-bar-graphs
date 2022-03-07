@@ -43,6 +43,7 @@ jobs:
       run: |
         npm run build:elements
         cp -r dist/cns-tissue-blocks/* dist/tissue-bar-graphs
+        cp dist/tissue-bar-graphs/index.html dist/tissue-bar-graphs/404.html
     
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
