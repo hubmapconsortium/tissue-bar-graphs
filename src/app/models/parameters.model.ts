@@ -211,6 +211,7 @@ const Presets: Record<Source, Configuration> = {
     label: 'GE Skin',
     basePath: 'https://docs.google.com/spreadsheets/d/1spA1vHD7COVcsBXMFCf1VYHWIk0Cw_LDZwNmDEObOuI/gviz/tq?tqx=out:csv',
     datasets: [
+      // Region 6 and region 12 data to be excluded.
       'HBM654.BKGL.942',
       'HBM253.HFDZ.866',
       'HBM396.WPKL.954',
@@ -222,7 +223,7 @@ const Presets: Record<Source, Configuration> = {
       'HBM297.VBLS.984',
       'HBM969.VNQL.553',
       'HBM229.HKHH.537',
-      'HBM228.BBHS.986',
+      // 'HBM228.BBHS.986',
     ],
     groupTypes: {
       Sex: GraphAttribute.Sex,
