@@ -1,7 +1,17 @@
 enum Source {
   Kidney = 'kidney',
   GESkin = 'ge_skin',
-  CellarLymphNode = 'cellar_lymph_node'
+  HuBMAPLymphNode = 'hubmap_lymph_node',
+  // HuBMAPKidney = 'hubmap_kidney',
+  GCAColon = 'gca_colon',
+  GTExBreast = 'gtex_breast',
+  GTExEsophagusMucosa = 'gtex_esophagusmucosa',
+  GTExEsophagusMuscularis = 'gtex_esophagusmuscularis',
+  GTExHeart = 'gtex_heart',
+  GTExLung = 'gtex_lung',
+  GTExProstate = 'gtex_prostate',
+  GTEXSkeletalMuscle = 'gtex_skeletalmuscle',
+  GTEXSkin = 'gtex_skin'
 }
 
 enum GraphAttribute {
@@ -207,8 +217,69 @@ const Presets: Record<Source, Configuration> = {
     colorPalette: colorPaletteLarge,
     sortAttributes: [getAttributeTitle(GraphAttribute.YPosition)]
   },
+  // [Source.HuBMAPKidney]: {
+  //   label: 'Kidney—HuBMAP Portal (47 datasets)',
+  //   basePath: 'https://docs.google.com/spreadsheets/d/{id}/gviz/tq?tqx=out:csv',
+  //   datasets: [
+  //     'HBM242.HNLH.466',
+  //     'HBM243.MTZV.726',
+  //     'HBM243.TTRM.823',
+  //     'HBM246.KBZS.276',
+  //     'HBM252.JLSW.848',
+  //     'HBM258.HQCL.349',
+  //     'HBM282.BKRZ.254',
+  //     'HBM297.XVDG.492',
+  //     'HBM332.KQWB.454',
+  //     'HBM347.MRTV.333',
+  //     'HBM356.QPJF.839',
+  //     'HBM388.SGMJ.342',
+  //     'HBM393.DZDZ.972',
+  //     'HBM427.KFXP.323',
+  //     'HBM447.KCHB.778',
+  //     'HBM476.VHDB.268',
+  //     'HBM476.ZWMS.768',
+  //     'HBM495.ZFDT.229',
+  //     'HBM525.LRPL.332',
+  //     'HBM532.RKTB.483',
+  //     'HBM537.GVTL.683',
+  //     'HBM537.SKND.632',
+  //     'HBM552.PBBF.363',
+  //     'HBM563.FJNH.776',
+  //     'HBM634.QQWF.789',
+  //     'HBM664.LQSH.693',
+  //     'HBM679.ZVHH.999',
+  //     'HBM684.TLPQ.738',
+  //     'HBM688.FLJB.475',
+  //     'HBM692.FLDL.779',
+  //     'HBM752.ZRBH.538',
+  //     'HBM785.LNQZ.992',
+  //     'HBM799.ZJDP.379',
+  //     'HBM834.THPC.928',
+  //     'HBM837.TDQQ.538',
+  //     'HBM844.KXXX.692',
+  //     'HBM865.TRVX.355',
+  //     'HBM873.NSHG.559',
+  //     'HBM876.HTRX.668',
+  //     'HBM892.HQDK.764',
+  //     'HBM932.TBDW.952',
+  //     'HBM938.FTRX.289',
+  //     'HBM942.NXWW.245',
+  //     'HBM958.GZCX.985',
+  //     'HBM979.KNQM.454',
+  //     'HBM994.XRGN.328',
+  //     'HBM996.XSNK.694'
+  //   ],
+  //   groupTypes: {
+  //     Sex: GraphAttribute.Sex,
+  //     Ethnicity: GraphAttribute.Ethnicity,
+  //     Age: GraphAttribute.Age
+  //   },
+  //   fixed: 0,
+  //   colorPalette: colorPaletteSmall,
+  //   sortAttributes: []
+  // },
   [Source.GESkin]: {
-    label: 'GE Skin',
+    label: 'Skin—Soumya et al. paper (12 datasets)',
     basePath: 'https://docs.google.com/spreadsheets/d/1spA1vHD7COVcsBXMFCf1VYHWIk0Cw_LDZwNmDEObOuI/gviz/tq?tqx=out:csv',
     datasets: [
       // Region 6 and region 12 data to be excluded.
@@ -235,8 +306,8 @@ const Presets: Record<Source, Configuration> = {
     colorPalette: colorPaletteSmall,
     sortAttributes: [getAttributeTitle(GraphAttribute.YPosition)]
   },
-  [Source.CellarLymphNode]: {
-    label: 'Cellar Lymph Node',
+  [Source.HuBMAPLymphNode]: {
+    label: 'Lymph Node—HuBMAP Portal (2 CODEX datasets)',
     basePath: 'https://docs.google.com/spreadsheets/d/1Jy9yWHVN4sqlJeNrNPt2iHlSVGUc04mPTWlTflpe9CA/gviz/tq?tqx=out:csv',
     datasets: [
       'CODEX_Florida_19-003-lymph-node-R2',
@@ -244,6 +315,149 @@ const Presets: Record<Source, Configuration> = {
       'CODEX_Florida_20-008-lymphnode10_righthalf'
     ],
     groupTypes: {},
+    fixed: 0,
+    colorPalette: colorPaletteSmall,
+    sortAttributes: []
+  },
+  [Source.GCAColon]: {
+    label: 'Colon—Gut Cell Atlas',
+    basePath: 'https://docs.google.com/spreadsheets/d/1Ql0e1NU1Oi7ki5_E5UT9H96JX6-DrG6O1aOUtb0yngw/gviz/tq?tqx=out:csv',
+    datasets: [
+      '290b',
+      '298c',
+      '302c',
+      '390c',
+      '417c'
+    ],
+    groupTypes: {},
+    fixed: 0,
+    colorPalette: colorPaletteLarge,
+    sortAttributes: []
+  },
+  [Source.GTExBreast]: {
+    label: 'Breast—GTEx Portal (3 datasets)',
+    basePath: 'https://docs.google.com/spreadsheets/d/1yE6S8DIKYN6k15SWdLu7YRzluAm2n_MSMdZc2k4NhuI/gviz/tq?tqx=out:csv',
+    datasets: [
+      'GTEX-1CAMS-5015',
+      'GTEX-1MCC2-5013',
+      'GTEX-1R9PN-5002'
+    ],
+    groupTypes: {
+      'Age Group': GraphAttribute.Age
+    },
+    fixed: 0,
+    colorPalette: colorPaletteSmall,
+    sortAttributes: []
+  },
+  [Source.GTExEsophagusMucosa]: {
+    label: 'Esophagus Mucosa—GTEx Portal (3 datasets)',
+    basePath: 'https://docs.google.com/spreadsheets/d/1X3J8Obj88LqG1csL8xwL5_7Vp3KnliigMaWBOq0Swo8/gviz/tq?tqx=out:csv',
+    datasets: [
+      'GTEX-145ME-5005',
+      'GTEX-15SB6-5008',
+      'GTEX-16BQI-5013'
+    ],
+    groupTypes: {
+      Sex: GraphAttribute.Sex,
+      'Age Group': GraphAttribute.Age
+    },
+    fixed: 0,
+    colorPalette: colorPaletteSmall,
+    sortAttributes: []
+  },
+  [Source.GTExEsophagusMuscularis]: {
+    label: 'Esophagus Muscularis—GTEx Portal (3 datasets)',
+    basePath: 'https://docs.google.com/spreadsheets/d/1Q1h72S-058xyBYCuO3iZjfgYV2uGLtlKZeqjbRbxCi8/gviz/tq?tqx=out:csv',
+    datasets: [
+      'GTEX-144GM-5010',
+      'GTEX-1HSMQ-5021',
+      'GTEX-1ICG6-5014'
+    ],
+    groupTypes: {
+      Sex: GraphAttribute.Sex,
+      'Age Group': GraphAttribute.Age
+    },
+    fixed: 0,
+    colorPalette: colorPaletteSmall,
+    sortAttributes: []
+  },
+  [Source.GTExHeart]: {
+    label: 'Heart—GTEx Portal (3 datasets)',
+    basePath: 'https://docs.google.com/spreadsheets/d/1AzZ2zl4BG7FdTJ9c7k-yhccOjMup6VbIfxKhp9GFhQc/gviz/tq?tqx=out:csv',
+    datasets: [
+      'GTEX-13N11-5002',
+      'GTEX-15RIE-5015',
+      'GTEX-1ICG6-5003'
+    ],
+    groupTypes: {
+      Sex: GraphAttribute.Sex,
+      'Age Group': GraphAttribute.Age
+    },
+    fixed: 0,
+    colorPalette: colorPaletteSmall,
+    sortAttributes: []
+  },
+  [Source.GTExLung]: {
+    label: 'Lung—GTEx Portal (3 datasets)',
+    basePath: 'https://docs.google.com/spreadsheets/d/1x7FI_7YshMKKSUdKpTI4M75VMxTp91fuMLJ2E2gPmFc/gviz/tq?tqx=out:csv',
+    datasets: [
+      'GTEX-13N11-5030',
+      'GTEX-15CHR-5005',
+      'GTEX-1HSMQ-5005'
+    ],
+    groupTypes: {
+      Sex: GraphAttribute.Sex,
+      'Age Group': GraphAttribute.Age
+    },
+    fixed: 0,
+    colorPalette: colorPaletteSmall,
+    sortAttributes: []
+  },
+  [Source.GTExProstate]: {
+    label: 'Prostate—GTEx Portal (4 datasets)',
+    basePath: 'https://docs.google.com/spreadsheets/d/1RHmy6GAeGPpXTgH0bWq3uXDrPkxRx9g4ONiOQDIfUHE/gviz/tq?tqx=out:csv',
+    datasets: [
+      'GTEX-12BJ1-5007',
+      'GTEX-15CHR-5014',
+      'GTEX-1HSMQ-5014',
+      'GTEX-1I1GU-5006'
+    ],
+    groupTypes: {
+      Sex: GraphAttribute.Sex,
+      'Age Group': GraphAttribute.Age
+    },
+    fixed: 0,
+    colorPalette: colorPaletteSmall,
+    sortAttributes: []
+  },
+  [Source.GTEXSkeletalMuscle]: {
+    label: 'Skeletal Muscle—GTEx Portal (3 datasets)',
+    basePath: 'https://docs.google.com/spreadsheets/d/1AK9mbm6fIPWQxizF-BFmodiFFbUgQ2rx6Ec7MfOwgog/gviz/tq?tqx=out:csv',
+    datasets: [
+      'GTEX-145ME-5018',
+      'GTEX-15RIE-5021',
+      'GTEX-1HSMQ-5011',
+    ],
+    groupTypes: {
+      Sex: GraphAttribute.Sex,
+      'Age Group': GraphAttribute.Age
+    },
+    fixed: 0,
+    colorPalette: colorPaletteSmall,
+    sortAttributes: []
+  },
+  [Source.GTEXSkin]: {
+    label: 'Skin—GTEx Portal (3 datasets)',
+    basePath: 'https://docs.google.com/spreadsheets/d/1SlSan9HeMPayZXbRskxXg5i9qcOsVOyxzav-4D3jDio/gviz/tq?tqx=out:csv',
+    datasets: [
+      'GTEX-15EOM-5003',
+      'GTEX-1CAMR-5015',
+      'GTEX-1HSMQ-5007',
+    ],
+    groupTypes: {
+      Sex: GraphAttribute.Sex,
+      'Age Group': GraphAttribute.Age
+    },
     fixed: 0,
     colorPalette: colorPaletteSmall,
     sortAttributes: []
