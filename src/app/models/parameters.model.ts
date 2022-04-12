@@ -1,8 +1,7 @@
 enum Source {
-  Kidney = 'kidney',
+  BlueLakeKidney = 'bluelake_kidney',
   GESkin = 'ge_skin',
-  HuBMAPLymphNode = 'hubmap_lymph_node',
-  // HuBMAPKidney = 'hubmap_kidney',
+  HuBMAPLymphNode = 'hubmap_lymphnode',
   GCAColon = 'gca_colon',
   GTExBreast = 'gtex_breast',
   GTExEsophagusMucosa = 'gtex_esophagusmucosa',
@@ -11,7 +10,8 @@ enum Source {
   GTExLung = 'gtex_lung',
   GTExProstate = 'gtex_prostate',
   GTEXSkeletalMuscle = 'gtex_skeletalmuscle',
-  GTEXSkin = 'gtex_skin'
+  GTEXSkin = 'gtex_skin',
+  // HuBMAPKidney = 'hubmap_kidney'
 }
 
 enum GraphAttribute {
@@ -136,7 +136,7 @@ interface Configuration {
 }
 
 const PreviewPresets: Record<string, Configuration> = {
-  [Source.Kidney]: {
+  [Source.BlueLakeKidney]: {
     label: 'Kidney',
     basePath: 'https://docs.google.com/spreadsheets/d/1yYIOdfgJoNqVij9kAQabY2n789GsaV6OOm0b71VIcKE/gviz/tq?tqx=out:csv',
     datasets: [
@@ -178,8 +178,8 @@ const PreviewPresets: Record<string, Configuration> = {
 }
 
 const Presets: Record<Source, Configuration> = {
-  [Source.Kidney]: {
-    label: 'Kidney',
+  [Source.BlueLakeKidney]: {
+    label: 'Kidney—Blue Lake (21 datasets)',
     basePath: 'https://docs.google.com/spreadsheets/d/1yYIOdfgJoNqVij9kAQabY2n789GsaV6OOm0b71VIcKE/gviz/tq?tqx=out:csv',
     datasets: [
       'ASCT+B',
@@ -217,67 +217,6 @@ const Presets: Record<Source, Configuration> = {
     colorPalette: colorPaletteLarge,
     sortAttributes: [getAttributeTitle(GraphAttribute.YPosition)]
   },
-  // [Source.HuBMAPKidney]: {
-  //   label: 'Kidney—HuBMAP Portal (47 datasets)',
-  //   basePath: 'https://docs.google.com/spreadsheets/d/{id}/gviz/tq?tqx=out:csv',
-  //   datasets: [
-  //     'HBM242.HNLH.466',
-  //     'HBM243.MTZV.726',
-  //     'HBM243.TTRM.823',
-  //     'HBM246.KBZS.276',
-  //     'HBM252.JLSW.848',
-  //     'HBM258.HQCL.349',
-  //     'HBM282.BKRZ.254',
-  //     'HBM297.XVDG.492',
-  //     'HBM332.KQWB.454',
-  //     'HBM347.MRTV.333',
-  //     'HBM356.QPJF.839',
-  //     'HBM388.SGMJ.342',
-  //     'HBM393.DZDZ.972',
-  //     'HBM427.KFXP.323',
-  //     'HBM447.KCHB.778',
-  //     'HBM476.VHDB.268',
-  //     'HBM476.ZWMS.768',
-  //     'HBM495.ZFDT.229',
-  //     'HBM525.LRPL.332',
-  //     'HBM532.RKTB.483',
-  //     'HBM537.GVTL.683',
-  //     'HBM537.SKND.632',
-  //     'HBM552.PBBF.363',
-  //     'HBM563.FJNH.776',
-  //     'HBM634.QQWF.789',
-  //     'HBM664.LQSH.693',
-  //     'HBM679.ZVHH.999',
-  //     'HBM684.TLPQ.738',
-  //     'HBM688.FLJB.475',
-  //     'HBM692.FLDL.779',
-  //     'HBM752.ZRBH.538',
-  //     'HBM785.LNQZ.992',
-  //     'HBM799.ZJDP.379',
-  //     'HBM834.THPC.928',
-  //     'HBM837.TDQQ.538',
-  //     'HBM844.KXXX.692',
-  //     'HBM865.TRVX.355',
-  //     'HBM873.NSHG.559',
-  //     'HBM876.HTRX.668',
-  //     'HBM892.HQDK.764',
-  //     'HBM932.TBDW.952',
-  //     'HBM938.FTRX.289',
-  //     'HBM942.NXWW.245',
-  //     'HBM958.GZCX.985',
-  //     'HBM979.KNQM.454',
-  //     'HBM994.XRGN.328',
-  //     'HBM996.XSNK.694'
-  //   ],
-  //   groupTypes: {
-  //     Sex: GraphAttribute.Sex,
-  //     Ethnicity: GraphAttribute.Ethnicity,
-  //     Age: GraphAttribute.Age
-  //   },
-  //   fixed: 0,
-  //   colorPalette: colorPaletteSmall,
-  //   sortAttributes: []
-  // },
   [Source.GESkin]: {
     label: 'Skin—Soumya et al. paper (12 datasets)',
     basePath: 'https://docs.google.com/spreadsheets/d/1spA1vHD7COVcsBXMFCf1VYHWIk0Cw_LDZwNmDEObOuI/gviz/tq?tqx=out:csv',
@@ -320,7 +259,7 @@ const Presets: Record<Source, Configuration> = {
     sortAttributes: []
   },
   [Source.GCAColon]: {
-    label: 'Colon—Gut Cell Atlas',
+    label: 'Colon—Gut Cell Atlas (5 datasets)',
     basePath: 'https://docs.google.com/spreadsheets/d/1Ql0e1NU1Oi7ki5_E5UT9H96JX6-DrG6O1aOUtb0yngw/gviz/tq?tqx=out:csv',
     datasets: [
       '290b',
@@ -423,7 +362,6 @@ const Presets: Record<Source, Configuration> = {
       'GTEX-1I1GU-5006'
     ],
     groupTypes: {
-      Sex: GraphAttribute.Sex,
       'Age Group': GraphAttribute.Age
     },
     fixed: 0,
@@ -461,7 +399,68 @@ const Presets: Record<Source, Configuration> = {
     fixed: 0,
     colorPalette: colorPaletteSmall,
     sortAttributes: []
-  }
+  },
+  // [Source.HuBMAPKidney]: {
+  //   label: 'Kidney—HuBMAP Portal (47 datasets)',
+  //   basePath: 'https://docs.google.com/spreadsheets/d/{id}/gviz/tq?tqx=out:csv',
+  //   datasets: [
+  //     'HBM242.HNLH.466',
+  //     'HBM243.MTZV.726',
+  //     'HBM243.TTRM.823',
+  //     'HBM246.KBZS.276',
+  //     'HBM252.JLSW.848',
+  //     'HBM258.HQCL.349',
+  //     'HBM282.BKRZ.254',
+  //     'HBM297.XVDG.492',
+  //     'HBM332.KQWB.454',
+  //     'HBM347.MRTV.333',
+  //     'HBM356.QPJF.839',
+  //     'HBM388.SGMJ.342',
+  //     'HBM393.DZDZ.972',
+  //     'HBM427.KFXP.323',
+  //     'HBM447.KCHB.778',
+  //     'HBM476.VHDB.268',
+  //     'HBM476.ZWMS.768',
+  //     'HBM495.ZFDT.229',
+  //     'HBM525.LRPL.332',
+  //     'HBM532.RKTB.483',
+  //     'HBM537.GVTL.683',
+  //     'HBM537.SKND.632',
+  //     'HBM552.PBBF.363',
+  //     'HBM563.FJNH.776',
+  //     'HBM634.QQWF.789',
+  //     'HBM664.LQSH.693',
+  //     'HBM679.ZVHH.999',
+  //     'HBM684.TLPQ.738',
+  //     'HBM688.FLJB.475',
+  //     'HBM692.FLDL.779',
+  //     'HBM752.ZRBH.538',
+  //     'HBM785.LNQZ.992',
+  //     'HBM799.ZJDP.379',
+  //     'HBM834.THPC.928',
+  //     'HBM837.TDQQ.538',
+  //     'HBM844.KXXX.692',
+  //     'HBM865.TRVX.355',
+  //     'HBM873.NSHG.559',
+  //     'HBM876.HTRX.668',
+  //     'HBM892.HQDK.764',
+  //     'HBM932.TBDW.952',
+  //     'HBM938.FTRX.289',
+  //     'HBM942.NXWW.245',
+  //     'HBM958.GZCX.985',
+  //     'HBM979.KNQM.454',
+  //     'HBM994.XRGN.328',
+  //     'HBM996.XSNK.694'
+  //   ],
+  //   groupTypes: {
+  //     Sex: GraphAttribute.Sex,
+  //     Ethnicity: GraphAttribute.Ethnicity,
+  //     Age: GraphAttribute.Age
+  //   },
+  //   fixed: 0,
+  //   colorPalette: colorPaletteSmall,
+  //   sortAttributes: []
+  // }
 }
 
 function getAttributeTitle(attribute: GraphAttribute): string {

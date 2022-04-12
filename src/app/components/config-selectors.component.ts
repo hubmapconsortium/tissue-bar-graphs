@@ -135,7 +135,7 @@ export class ConfigSelectorsComponent implements OnChanges {
       // To prevent double loading
       if (changes.previewMode.currentValue === 'azimuth-kidney') {
         this.presets = PreviewPresets
-        this.datasetSource = Source.Kidney
+        this.datasetSource = Source.BlueLakeKidney
         this.yAxisField = GraphAttribute.Percentage
         this.groupBy = GraphAttribute.Sex
       }

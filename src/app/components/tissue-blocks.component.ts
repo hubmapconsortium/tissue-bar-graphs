@@ -20,7 +20,7 @@ export class TissueBlocksComponent {
 
   constructor() {
     // Set defaults
-    this.datasetSource = Source.Kidney
+    this.datasetSource = Source.BlueLakeKidney
     this.yAxisField = GraphAttribute.Count
     this.orderType = OrderType.Descending
     this.groupBy = GraphAttribute.None
