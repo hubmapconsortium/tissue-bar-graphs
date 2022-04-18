@@ -1,4 +1,6 @@
 # Cell Type Distribution Graphs
+![GitHub Pages](https://github.com/hubmapconsortium/tissue-bar-graphs/actions/workflows/main.yml/badge.svg) ![License](https://img.shields.io/github/license/hubmapconsortium/tissue-bar-graphs)
+
 
 Visualization tool for comparing cell type distributions in tissue blocks registered with HuBMAP and other public data portals. This project uses Angular 12 (generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.12) and [Vega-Lite 4](https://vega.github.io/vega-lite/) for interactive visualizations.
 
