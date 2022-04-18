@@ -1,21 +1,38 @@
-# TissueBarGraphs
+# Cell Type Distribution Graphs
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.12.
+Visualization tool for comparing cell type distributions in tissue blocks registered with HuBMAP and other public data portals. This project uses Angular 12 (generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.12) and [Vega-Lite 4](https://vega.github.io/vega-lite/) for interactive visualizations.
 
-## Development server
+## Description
+<p align="center"><img width="800" src="images/preview.png" alt="Bar Graph Preview" /></p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Currently, cell type population can be visualized as counts or percentages in the form of bar graphs. Specific properties of the bar graph can be configured in [bargraph.visualization.ts](src/app/visualization/bargraph.visualization.ts), which follows the JSON schema for Vega-Lite Specification v4.
 
-## Code scaffolding
+### Sorting
+By default, the tissue blocks are sorted by total cell count in descending order. The unique cell types occurring across all datasets are considered automatically to provide a dropdown for sort, allowing sort by count or proportion of a specific cell type. In some cases, datasets have vertical tissue block positions available which allows sorting of the blocks by their Y-position (generally enabled for blocks registered on the [CCF-RUI](https://hubmapconsortium.github.io/ccf-ui/rui/)). Sorting can be updated within the transform property of the specification, which generates a computed property for ordering the datasets.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Grouping
+Grouping depends on the annotations available on the source dataset, such as sex, age group, ethnicity etc. Grouping makes use of the facet operator in Vega-Lite to show adjoining views for each group, as pictured above. Sorting also applies to each facet/group, considering the mean of the sorted property while ordering each facet.
 
-## Build
+### Legend
+An existing color preset can be chosen to automatically populate the legend based on the unique cell types across all the datasets. The number of symbols per column can be configured by the user.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/tissue-bar-graphs` directory.
+## Project Setup
+### Compile with Hot Reload
+```
+ng serve
+```
+Development server will be hosted on http://localhost:4200/tissue-bar-graphs by default.
+### Production Build
+```
+ng build
+```
+Build artifacts will be stored in the `dist/tissue-bar-graphs` directory.
 
-## Building web component
-Run `npm run build:elements` to build project as a web component. The build artifacts will be stored in the `dist/cns-tissue-blocks` directory.
+### Building web component
+```
+npm run build:elements
+```
+Build artifacts for the web component will be stored in the `dist/cns-tissue-blocks` directory. This build uses Angular Elements with a custom Webpack build configuration.
 
 ### Web component options
 The web component supports additional properties that can be passed to override the initial configuration for the bar graph.
@@ -23,7 +40,7 @@ The web component supports additional properties that can be passed to override 
 <table>
 <tr><th>Option</th><th>Description</th></tr>
 <tr><td><code>show-ui</code></td><td> Enables the configuration UI</td></tr>
-<tr><td><code>dataset-source</code></td><td>Datasheet source. Currently supported values are <code>kidney</code>, <code>ge_skin</code> and <code>cellar_lymph_node</code>.  Defaults to <code>kidney</code>.</td></tr>
+<tr><td><code>dataset-source</code></td><td>Datasheet source. Visit <a href="src/app/models/parameters.models.ts">parameters.models.ts</a> for supported values source.  Defaults to <code>bluelake_kidney</code>.</td></tr>
 <tr><td><code>sort-by</code></td><td>Attribute/cell type on which datasets need to sorted. Depends on available cell types or sortable attributes for a collection. Defaults to <code>Total Cell Count</code>.</td></tr>
 <tr><td><code>group-by</code></td><td>Attribute/cell type on which facets will be displayed. Depends on groupable attributes for a collection. Defaults to <code>None</code>.</td></tr>
 <tr><td><code>y-axis-field</code></td><td>Field with quantitative data. Supported values are <code>count</code> and <code>percentage</code>. Defaults to <code>count</code>.</td></tr>
@@ -47,14 +64,13 @@ The web component supports additional properties that can be passed to override 
 </html>
 ```
 
-## Running unit tests
+## Data Portal Links
+Cellar (CODEX) - https://cellar.cmu.hubmapconsortium.org/app/cellar/
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Cellxgene - https://cellxgene.cziscience.com/
 
-## Running end-to-end tests
+GTEx - https://gtexportal.org/home/datasets/
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Gut Cell Atlas - https://www.gutcellatlas.org/
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+HuBMAP - https://portal.hubmapconsortium.org/
