@@ -16,7 +16,10 @@ By default, the tissue blocks are sorted by total cell count in descending order
 Grouping depends on the annotations available on the source dataset, such as sex, age group, ethnicity etc. Grouping makes use of the facet operator in Vega-Lite to show adjoining views for each group, as pictured above. Sorting also applies to each facet/group, considering the mean of the sorted property while ordering each facet.
 
 ### Legend
-An existing color preset can be chosen to automatically populate the legend based on the unique cell types across all the datasets. The number of symbols per column can be configured by the user.
+An existing color preset can be chosen to automatically populate the legend based on the unique cell types across all the datasets. The number of symbols per column can be configured among other `source`-specific options.
+
+### Fixed Bars
+Certain datasets can be excluded from sorting so that they appear at a fixed position in all views. Currently, fixed bars can only be positioned towards the left. The number of fixed bars can be configured in the `source` options. If the datasets need to be displayed in the same group, they must use the same value for the grouped attribute. Then the facet for that group always remains fixed to the left.
 
 ## Project Setup
 ### Compile with Hot Reload
@@ -40,14 +43,13 @@ Build artifacts for the web component will be stored in the `dist/cns-tissue-blo
 The web component supports additional properties that can be passed to override the initial configuration for the bar graph.
 
 <table>
-<tr><th>Option</th><th>Description</th></tr>
-<tr><td><code>show-ui</code></td><td> Enables the configuration UI</td></tr>
-<tr><td><code>dataset-source</code></td><td>Datasheet source. Visit <a href="src/app/models/parameters.models.ts">parameters.models.ts</a> for supported values source.  Defaults to <code>bluelake_kidney</code>.</td></tr>
-<tr><td><code>sort-by</code></td><td>Attribute/cell type on which datasets need to sorted. Depends on available cell types or sortable attributes for a collection. Defaults to <code>Total Cell Count</code>.</td></tr>
-<tr><td><code>group-by</code></td><td>Attribute/cell type on which facets will be displayed. Depends on groupable attributes for a collection. Defaults to <code>None</code>.</td></tr>
-<tr><td><code>y-axis-field</code></td><td>Field with quantitative data. Supported values are <code>count</code> and <code>percentage</code>. Defaults to <code>count</code>.</td></tr>
-<tr><td><code>order-type</code></td><td>Set ordering as <code>ascending</code> or <code>descending</code>. Defaults to <code>descending</code>.</td></tr>
-</table>
+<tr><th>Option</th><th>Description</th><th>Default Value</th></tr>
+<tr><td><code>show-ui</code></td><td> Enables the configuration UI.</td><td><code>false</code></td></tr>
+<tr><td><code>dataset-source</code></td><td>Datasheet source. Visit <a href="src/app/models/parameters.models.ts#L1">parameters.model.ts</a> for supported <code>Source</code> values.</td><td><code>bluelake_kidney</code></td></tr>
+<tr><td><code>sort-by</code></td><td>Attribute/cell type on which datasets need to sorted. Depends on available cell types or sortable attributes for a collection.</td><td><code>Total Cell Count</code></td></tr>
+<tr><td><code>group-by</code></td><td>Attribute/cell type on which facets will be displayed. Depends on groupable attributes for a collection.</td><td><code>None</code></td></tr>
+<tr><td><code>y-axis-field</code></td><td>Field with quantitative data. Supported values are <code>count</code> and <code>percentage</code>.</td><td><code>count</code></td></tr>
+<tr><td><code>order-type</code></td><td>Set ordering as <code>ascending</code> or <code>descending</code>.</td><td><code>descending</code></td></tr>
 
 ### Usage Example
 ```html
