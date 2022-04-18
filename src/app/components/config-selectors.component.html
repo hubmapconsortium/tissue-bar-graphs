@@ -1,7 +1,7 @@
 <div *ngIf="!previewMode">
   <label for="source">Source: </label>
   <select id="source" [(ngModel)]="datasetSource" (change)="loadDataset(true)">
-    <option *ngFor="let preset of presets | keyvalue" [value]="preset.key">{{ preset.value.label }}</option>
+    <option *ngFor="let preset of presets | keyvalue:onCompare" [value]="preset.key">{{ preset.value.label }}</option>
   </select>
 </div>
 <br />

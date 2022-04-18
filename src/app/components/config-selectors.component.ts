@@ -4,6 +4,7 @@ import { VisualizationSpec } from 'vega-embed';
 import { parse } from 'papaparse';
 import urljoin from 'url-join';
 import { getStackedBarsSpec, StackedBarsSpecOptions } from './../visualization/bargraph.visualization';
+import { KeyValue } from '@angular/common';
 
 @Component({
   selector: 'config-selectors',
@@ -34,6 +35,10 @@ export class ConfigSelectorsComponent implements OnChanges {
     this.presets = Presets
     this.loading = false
     this.vegaSpecEvent = new EventEmitter<VisualizationSpec>()
+  }
+
+  onCompare(_left: KeyValue<Source, Configuration>, _right: KeyValue<Source, Configuration>): number {
+    return _left.value.label.localeCompare(_right.value.label)
   }
 
   async getCsv(url: string): Promise<Array<Record<string, any>>> {
