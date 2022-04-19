@@ -81,7 +81,17 @@ export class ConfigSelectorsComponent implements OnChanges {
 
     // Make requests in parallel
     try {
-      const promises = this.config.datasets.map(title => this.getCsv(urljoin(this.config.basePath, `&sheet=${encodeURIComponent(title)}`)))
+      const promises = this.config.datasets.map(title => {
+        const fileUrl = (() => {
+          if (this.config.basePath.includes('docs.google.com')) {
+            // Request Google Sheets API through query param
+            return urljoin(this.config.basePath, `&sheet=${encodeURIComponent(title)}`)
+          }
+          // Append title as CSV to base path otherwise
+          return urljoin(this.config.basePath, encodeURIComponent(`${title}.csv`))
+        })();
+        return this.getCsv(fileUrl)
+      })
       const datasets = await Promise.all(promises)
 
       // Create master list of all datasets
