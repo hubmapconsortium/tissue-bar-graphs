@@ -2,7 +2,7 @@ cell_type,donor_id,age,bmi,sex,race,count,percentage
 Afferent / Efferent Arteriole Endothelial,HBM735.QDFT.264,67,32.5,Male,White,28,0.0927552
 Ascending Thin Limb,HBM735.QDFT.264,67,32.5,Male,White,1679,5.56200
 Ascending Vasa Recta Endothelial,HBM735.QDFT.264,67,32.5,Male,White,226,0.748667
-B,,,,,,1,0.00331268
+B,HBM735.QDFT.264,67,32.5,Male,White,1,0.00331268
 Classical Dendritic,HBM735.QDFT.264,67,32.5,Male,White,464,1.53709
 Connecting Tubule,HBM735.QDFT.264,67,32.5,Male,White,1661,5.50237
 Connecting Tubule Intercalated Type A,HBM735.QDFT.264,67,32.5,Male,White,13,0.0430649
@@ -36,10 +36,10 @@ Papillary Tip Epithelial,HBM735.QDFT.264,67,32.5,Male,White,4,0.0132507
 Parietal Epithelial,HBM735.QDFT.264,67,32.5,Male,White,108,0.357770
 Peritubular Capilary Endothelial ,HBM735.QDFT.264,67,32.5,Male,White,424,1.40458
 Plasma,HBM735.QDFT.264,67,32.5,Male,White,2,0.00662537
-Plasmacytoid Dendritic,,,,,,1,0.00331268
+Plasmacytoid Dendritic,HBM735.QDFT.264,67,32.5,Male,White,1,0.00331268
 Podocyte,HBM735.QDFT.264,67,32.5,Male,White,543,1.79879
 Proximal Tubule Epithelial Segment 1,HBM735.QDFT.264,67,32.5,Male,White,3615,11.9754
-Proximal Tubule Epithelial Segment 2,,,,,,1,0.00331268
+Proximal Tubule Epithelial Segment 2,HBM735.QDFT.264,67,32.5,Male,White,1,0.00331268
 Proximal Tubule Epithelial Segment 3,HBM735.QDFT.264,67,32.5,Male,White,2007,6.64856
 Renin-positive Juxtaglomerular Granular,HBM735.QDFT.264,67,32.5,Male,White,2,0.00662537
 Schwann / Neural,HBM735.QDFT.264,67,32.5,Male,White,72,0.238513

@@ -1,19 +1,19 @@
 cell_type,donor_id,age,bmi,sex,race,count,percentage
 Afferent / Efferent Arteriole Endothelial,HBM277.XCLT.589,63,36.5,Female,White,2,0.0321130
 Ascending Thin Limb,HBM277.XCLT.589,63,36.5,Female,White,6,0.0963391
-Ascending Vasa Recta Endothelial,,,,,,1,0.0160565
+Ascending Vasa Recta Endothelial,HBM277.XCLT.589,63,36.5,Female,White,1,0.0160565
 B,HBM277.XCLT.589,63,36.5,Female,White,9,0.144509
 Connecting Tubule,HBM277.XCLT.589,63,36.5,Female,White,2077,33.3494
-Connecting Tubule Intercalated Type A,,,,,,1,0.0160565
+Connecting Tubule Intercalated Type A,HBM277.XCLT.589,63,36.5,Female,White,1,0.0160565
 Connecting Tubule Principal,HBM277.XCLT.589,63,36.5,Female,White,5,0.0802826
 Cortical Collecting Duct Intercalated Type A,HBM277.XCLT.589,63,36.5,Female,White,151,2.42453
 Cortical Collecting Duct Principal,HBM277.XCLT.589,63,36.5,Female,White,113,1.81439
 Cortical Thick Ascending Limb,HBM277.XCLT.589,63,36.5,Female,White,126,2.02312
-Cortical Vascular Smooth Muscle / Pericyte,,,,,,1,0.0160565
+Cortical Vascular Smooth Muscle / Pericyte,HBM277.XCLT.589,63,36.5,Female,White,1,0.0160565
 Descending Thin Limb Type 1,HBM277.XCLT.589,63,36.5,Female,White,200,3.21130
 Descending Thin Limb Type 2,HBM277.XCLT.589,63,36.5,Female,White,129,2.07129
 Descending Thin Limb Type 3,HBM277.XCLT.589,63,36.5,Female,White,6,0.0963391
-Descending Vasa Recta Endothelial ,,,,,,1,0.0160565
+Descending Vasa Recta Endothelial ,HBM277.XCLT.589,63,36.5,Female,White,1,0.0160565
 Distal Convoluted Tubule Type 1,HBM277.XCLT.589,63,36.5,Female,White,1255,20.1509
 Distal Convoluted Tubule Type 2,HBM277.XCLT.589,63,36.5,Female,White,2,0.0321130
 Fibroblast,HBM277.XCLT.589,63,36.5,Female,White,51,0.818882
@@ -31,7 +31,7 @@ Outer Medullary Collecting Duct Principal,HBM277.XCLT.589,63,36.5,Female,White,2
 Parietal Epithelial,HBM277.XCLT.589,63,36.5,Female,White,11,0.176622
 Peritubular Capilary Endothelial ,HBM277.XCLT.589,63,36.5,Female,White,127,2.03918
 Plasma,HBM277.XCLT.589,63,36.5,Female,White,34,0.545922
-Plasmacytoid Dendritic,,,,,,1,0.0160565
+Plasmacytoid Dendritic,HBM277.XCLT.589,63,36.5,Female,White,1,0.0160565
 Podocyte,HBM277.XCLT.589,63,36.5,Female,White,34,0.545922
 Proximal Tubule Epithelial Segment 1,HBM277.XCLT.589,63,36.5,Female,White,505,8.10854
 Proximal Tubule Epithelial Segment 2,HBM277.XCLT.589,63,36.5,Female,White,3,0.0481696

@@ -2,8 +2,8 @@ cell_type,donor_id,age,bmi,sex,race,count,percentage
 Afferent / Efferent Arteriole Endothelial,HBM735.QDFT.264,67,32.5,Male,White,24,0.0693481
 Ascending Thin Limb,HBM735.QDFT.264,67,32.5,Male,White,227,0.655918
 Ascending Vasa Recta Endothelial,HBM735.QDFT.264,67,32.5,Male,White,93,0.268724
-B,,,,,,1,0.00288951
-Classical Dendritic,,,,,,1,0.00288951
+B,HBM735.QDFT.264,67,32.5,Male,White,1,0.00288951
+Classical Dendritic,HBM735.QDFT.264,67,32.5,Male,White,1,0.00288951
 Connecting Tubule,HBM735.QDFT.264,67,32.5,Male,White,1173,3.38939
 Connecting Tubule Intercalated Type A,HBM735.QDFT.264,67,32.5,Male,White,16,0.0462321
 Connecting Tubule Principal,HBM735.QDFT.264,67,32.5,Male,White,105,0.303398
@@ -29,8 +29,8 @@ Medullary Thick Ascending Limb,HBM735.QDFT.264,67,32.5,Male,White,331,0.956426
 Mesangial,HBM735.QDFT.264,67,32.5,Male,White,37,0.106912
 Monocyte-derived,HBM735.QDFT.264,67,32.5,Male,White,98,0.283172
 Natural Killer T,HBM735.QDFT.264,67,32.5,Male,White,4,0.0115580
-Neutrophil,,,,,,1,0.00288951
-Non-classical monocyte,,,,,,1,0.00288951
+Neutrophil,HBM735.QDFT.264,67,32.5,Male,White,1,0.00288951
+Non-classical monocyte,HBM735.QDFT.264,67,32.5,Male,White,1,0.00288951
 Outer Medullary Collecting Duct Intercalated Type A,HBM735.QDFT.264,67,32.5,Male,White,184,0.531669
 Outer Medullary Collecting Duct Principal,HBM735.QDFT.264,67,32.5,Male,White,125,0.361188
 Papillary Tip Epithelial,HBM735.QDFT.264,67,32.5,Male,White,3,0.00866852

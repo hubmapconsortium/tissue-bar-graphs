@@ -2,7 +2,7 @@ cell_type,donor_id,age,bmi,sex,race,count,percentage
 Afferent / Efferent Arteriole Endothelial,HBM735.QDFT.264,67,32.5,Male,White,9,0.0386598
 Ascending Thin Limb,HBM735.QDFT.264,67,32.5,Male,White,800,3.43643
 Ascending Vasa Recta Endothelial,HBM735.QDFT.264,67,32.5,Male,White,215,0.923540
-B,,,,,,1,0.00429553
+B,HBM735.QDFT.264,67,32.5,Male,White,1,0.00429553
 Classical Dendritic,HBM735.QDFT.264,67,32.5,Male,White,37,0.158935
 Connecting Tubule,HBM735.QDFT.264,67,32.5,Male,White,769,3.30326
 Connecting Tubule Intercalated Type A,HBM735.QDFT.264,67,32.5,Male,White,8,0.0343643
@@ -29,7 +29,7 @@ Medullary Fibroblast,HBM735.QDFT.264,67,32.5,Male,White,49,0.210481
 Medullary Thick Ascending Limb,HBM735.QDFT.264,67,32.5,Male,White,230,0.987973
 Mesangial,HBM735.QDFT.264,67,32.5,Male,White,10,0.0429553
 Monocyte-derived,HBM735.QDFT.264,67,32.5,Male,White,360,1.54639
-Natural Killer T,,,,,,1,0.00429553
+Natural Killer T,HBM735.QDFT.264,67,32.5,Male,White,1,0.00429553
 Outer Medullary Collecting Duct Intercalated Type A,HBM735.QDFT.264,67,32.5,Male,White,161,0.691581
 Outer Medullary Collecting Duct Principal,HBM735.QDFT.264,67,32.5,Male,White,18,0.0773196
 Papillary Tip Epithelial,HBM735.QDFT.264,67,32.5,Male,White,4,0.0171821
@@ -40,7 +40,7 @@ Podocyte,HBM735.QDFT.264,67,32.5,Male,White,180,0.773196
 Proximal Tubule Epithelial Segment 1,HBM735.QDFT.264,67,32.5,Male,White,2075,8.91323
 Proximal Tubule Epithelial Segment 2,HBM735.QDFT.264,67,32.5,Male,White,15,0.0644330
 Proximal Tubule Epithelial Segment 3,HBM735.QDFT.264,67,32.5,Male,White,688,2.95533
-Renin-positive Juxtaglomerular Granular,,,,,,1,0.00429553
+Renin-positive Juxtaglomerular Granular,HBM735.QDFT.264,67,32.5,Male,White,1,0.00429553
 Schwann / Neural,HBM735.QDFT.264,67,32.5,Male,White,6,0.0257732
-T,,,,,,1,0.00429553
+T,HBM735.QDFT.264,67,32.5,Male,White,1,0.00429553
 Vascular Smooth Muscle / Pericyte,HBM735.QDFT.264,67,32.5,Male,White,152,0.652921

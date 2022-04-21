@@ -1,6 +1,6 @@
 cell_type,donor_id,age,bmi,sex,race,count,percentage
 Ascending Thin Limb,HBM485.KRGM.628,76,25.8,Male,White,2,0.0258331
-Ascending Vasa Recta Endothelial,,,,,,1,0.0129166
+Ascending Vasa Recta Endothelial,HBM485.KRGM.628,76,25.8,Male,White,1,0.0129166
 Connecting Tubule,HBM485.KRGM.628,76,25.8,Male,White,3742,48.3338
 Connecting Tubule Principal,HBM485.KRGM.628,76,25.8,Male,White,2,0.0258331
 Cortical Collecting Duct Intercalated Type A,HBM485.KRGM.628,76,25.8,Male,White,318,4.10747
@@ -30,5 +30,5 @@ Podocyte,HBM485.KRGM.628,76,25.8,Male,White,53,0.684578
 Proximal Tubule Epithelial Segment 1,HBM485.KRGM.628,76,25.8,Male,White,313,4.04288
 Proximal Tubule Epithelial Segment 2,HBM485.KRGM.628,76,25.8,Male,White,3,0.0387497
 Proximal Tubule Epithelial Segment 3,HBM485.KRGM.628,76,25.8,Male,White,137,1.76957
-Schwann / Neural,,,,,,1,0.0129166
+Schwann / Neural,HBM485.KRGM.628,76,25.8,Male,White,1,0.0129166
 Vascular Smooth Muscle / Pericyte,HBM485.KRGM.628,76,25.8,Male,White,24,0.309997
