@@ -29,7 +29,8 @@ enum GraphAttribute {
   Exposure = 'exp',
   Location = 'location',
   Laterality = 'laterality',
-  YPosition = 'y_pos'
+  YPosition = 'y_pos',
+  DonorId = 'donor_id'
 }
 
 enum OrderType {
@@ -454,9 +455,10 @@ const Presets: Record<Source, Configuration> = {
       'HBM996.XSNK.694'
     ],
     groupTypes: {
-      Sex: GraphAttribute.Sex,
+      Age: GraphAttribute.Age,
+      Donor: GraphAttribute.DonorId,
       Ethnicity: GraphAttribute.Ethnicity,
-      Age: GraphAttribute.Age
+      Sex: GraphAttribute.Sex,
     },
     fixed: 0,
     colorPalette: colorPaletteLarge,
@@ -502,6 +504,7 @@ function getAttributeTitle(attribute: GraphAttribute): string {
     case GraphAttribute.Laterality: return 'Laterality'
     case GraphAttribute.Location: return 'Location'
     case GraphAttribute.YPosition: return 'Vertical Tissue Block Position'
+    case GraphAttribute.DonorId: return 'Donor'
     default: return ''
   }
 }
