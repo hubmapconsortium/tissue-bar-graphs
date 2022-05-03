@@ -37,7 +37,7 @@ Build artifacts will be stored in the `dist/tissue-bar-graphs` directory.
 ```
 npm run build:elements
 ```
-Build artifacts for the web component will be stored in the `dist/cns-tissue-blocks` directory. This build uses Angular Elements with a custom Webpack build configuration.
+Build artifacts for the web component will be stored in the `dist/hra-tissue-blocks` directory. This build uses Angular Elements with a custom Webpack build configuration.
 
 ### Web component options
 The web component supports additional properties that can be passed to override the initial configuration for the bar graph.
@@ -58,13 +58,13 @@ The web component supports additional properties that can be passed to override 
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>CNS Tissue Blocks - Web Component Demo</title>
+  <title>HRA Tissue Blocks - Web Component Demo</title>
   <base href="/">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <script src="wc.js"></script>
 </head>
 <body>
-  <cns-tissue-blocks y-axis-field="percentage" group-by="sex" order-type="ascending"></cns-tissue-blocks>
+  <hra-tissue-blocks y-axis-field="percentage" group-by="sex" order-type="ascending"></hra-tissue-blocks>
 </body>
 </html>
 ```

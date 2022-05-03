@@ -42,7 +42,7 @@ jobs:
     - name: Build web component
       run: |
         npm run build:elements
-        cp -r dist/cns-tissue-blocks/* dist/tissue-bar-graphs
+        cp -r dist/hra-tissue-blocks/* dist/tissue-bar-graphs
         cp dist/tissue-bar-graphs/index.html dist/tissue-bar-graphs/404.html
     
     - name: Deploy to GitHub Pages

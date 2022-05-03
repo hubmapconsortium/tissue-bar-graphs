@@ -25,8 +25,8 @@ export class TissueBlocksModule {
       injector,
     });
 
-    customElements.define('cns-tissue-blocks', tissueBlocksEl);
+    customElements.define('hra-tissue-blocks', tissueBlocksEl);
   }
 
-  ngDoBootstrap() {}
+  ngDoBootstrap() { }
 }
