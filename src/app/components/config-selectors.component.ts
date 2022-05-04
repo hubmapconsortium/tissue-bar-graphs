@@ -114,6 +114,12 @@ export class ConfigSelectorsComponent implements OnChanges {
 
     this.generalSortLabels = ['Total Cell Count', ...this.config.sortAttributes.map(getAttributeTitle)]
     this.cellTypes = Array.from(uniqueCTs).sort()
+    if (this.config.defaultYAxisField) {
+      this.yAxisField = this.config.defaultYAxisField
+    }
+    if (this.config.defaultGroupBy) {
+      this.groupBy = this.config.defaultGroupBy
+    }
 
     // Create a Vega spec and embed component
     this.emitSpec()
@@ -167,14 +173,8 @@ export class ConfigSelectorsComponent implements OnChanges {
         if (!this.datasetSource) {
           this.datasetSource = Object.keys(this.presets)[0]
         }
-        if (this.config.defaultYAxisField) {
-          this.yAxisField = this.config.defaultYAxisField
-        }
-        if (this.config.defaultGroupBy) {
-          this.groupBy = this.config.defaultGroupBy
-        }
       } catch {
-        console.error('Unable to load preview config.')
+        console.error('Unable to load JSON config.')
       }
       this.loadDataset()
     }
