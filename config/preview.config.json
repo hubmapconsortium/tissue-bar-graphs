@@ -94,6 +94,8 @@
     ],
     "sortAttributes": [
       "y_pos"
-    ]
+    ],
+    "defaultYAxisField": "percentage",
+    "defaultGroupBy": "sex"
   }
 }
