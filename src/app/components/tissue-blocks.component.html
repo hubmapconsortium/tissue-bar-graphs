@@ -1,11 +1,4 @@
-<config-selectors
-[hidden]="!showUi"
-[datasetSource]="datasetSource"
-[sortBy]="sortBy"
-[orderType]="orderType"
-[groupBy]="groupBy"
-[yAxisField]="yAxisField"
-[previewMode]="previewMode"
-(vegaSpecEvent)="respecBarGraph($event)"
-></config-selectors>
+<config-selectors [hidden]="!showUi" [configSource]="configSource" [datasetSource]="datasetSource" [sortBy]="sortBy"
+    [orderType]="orderType" [groupBy]="groupBy" [yAxisField]="yAxisField" [previewMode]="previewMode"
+    (vegaSpecEvent)="respecBarGraph($event)"></config-selectors>
 <bar-graph *ngIf="!!spec" [spec]="spec"></bar-graph>

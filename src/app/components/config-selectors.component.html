@@ -23,7 +23,7 @@
   <br /><br />
   <label for="group_by">Group By: </label>
   <select id="group_by" [(ngModel)]="groupBy" (change)="emitSpec()">
-    <option *ngFor="let group of groupOptions" [value]="group.value">{{ group.name }}</option>
+    <option *ngFor="let group of groupOptions" [value]="group.key">{{ group.label }}</option>
   </select>
   <br /><br />
   <div>

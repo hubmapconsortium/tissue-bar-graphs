@@ -45,7 +45,8 @@ The web component supports additional properties that can be passed to override 
 <table>
 <tr><th>Option</th><th>Description</th><th>Default Value</th></tr>
 <tr><td><code>show-ui</code></td><td> Enables the configuration UI.</td><td><code>false</code></td></tr>
-<tr><td><code>dataset-source</code></td><td>Datasheet source. Visit <a href="src/app/models/parameters.model.ts#L1">parameters.model.ts</a> for supported <code>Source</code> values.</td><td><code>bluelake_kidney</code></td></tr>
+<tr><td><code>config-source</code></td><td>Configuration JSON source. Each value must follow the <code>Configuration</code> interface in <a href="src/app/models/parameters.model.ts">parameters.models.ts</a>. The preview mode uses a different JSON source over the main application.</td><td><code><a href="https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/config/main.config.json">main.config.json</a></code></td></tr>
+<tr><td><code>dataset-source</code></td><td>Source for data sheets. View the root keys in <a href="https://github.com/hubmapconsortium/tissue-bar-graphs/blob/static/config/main.config.json">main.config.json</a> for supported values.</td><td>The first key occurring in <code>config-source</code></td></tr>
 <tr><td><code>sort-by</code></td><td>Attribute/cell type on which datasets need to sorted. Depends on available cell types or sortable attributes for a collection.</td><td><code>Total Cell Count</code></td></tr>
 <tr><td><code>group-by</code></td><td>Attribute/cell type on which facets will be displayed. Depends on groupable attributes for a collection.</td><td><code>None</code></td></tr>
 <tr><td><code>y-axis-field</code></td><td>Field with quantitative data. Supported values are <code>count</code> and <code>percentage</code>.</td><td><code>count</code></td></tr>

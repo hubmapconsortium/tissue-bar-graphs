@@ -1,6 +1,6 @@
 import { Component, Input } from '@angular/core'
 import { VisualizationSpec } from 'vega-embed'
-import { GraphAttribute, OrderType, PreviewMode, Source } from '../models/parameters.model'
+import { GraphAttribute, MAIN_CONFIG_JSON, OrderType, PreviewMode } from '../models/parameters.model'
 
 @Component({
   selector: 'tissue-blocks',
@@ -10,7 +10,8 @@ import { GraphAttribute, OrderType, PreviewMode, Source } from '../models/parame
 
 export class TissueBlocksComponent {
   spec: VisualizationSpec
-  @Input() datasetSource: Source
+  @Input() configSource: string
+  @Input() datasetSource: string
   @Input() sortBy: String
   @Input() orderType: OrderType
   @Input() groupBy: GraphAttribute
@@ -20,7 +21,8 @@ export class TissueBlocksComponent {
 
   constructor() {
     // Set defaults
-    this.datasetSource = Source.HuBMAPKidney
+    this.configSource = MAIN_CONFIG_JSON
+    this.datasetSource = null
     this.yAxisField = GraphAttribute.Count
     this.orderType = OrderType.Descending
     this.groupBy = GraphAttribute.None

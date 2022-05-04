@@ -1,5 +1,5 @@
-import { Component, Output, EventEmitter, Input, OnInit, OnChanges, SimpleChanges } from '@angular/core'
-import { Configuration, GraphAttribute, OrderType, Presets, PreviewMode, PreviewPresets, Source } from '../models/parameters.model'
+import { Component, Output, EventEmitter, Input, OnChanges, SimpleChanges } from '@angular/core'
+import { Configuration, getAttributeTitle, GraphAttribute, isOfTypePreviewMode, OrderType, PreviewMode, PREVIEW_CONFIG_JSON } from '../models/parameters.model'
 import { VisualizationSpec } from 'vega-embed';
 import { parse } from 'papaparse';
 import urljoin from 'url-join';
@@ -15,12 +15,13 @@ export class ConfigSelectorsComponent implements OnChanges {
   generalSortLabels: string[]
   cellTypes: string[]
   graphData: Array<Record<string, any>>
-  presets: Record<Source, Configuration>
+  presets: Record<string, Configuration>
   config: Configuration
   loading: Boolean
   OrderType = OrderType
-  groupOptions?: Array<Record<string, any>>
-  @Input() datasetSource: Source
+  groupOptions?: Array<Record<string, string>>
+  @Input() configSource: string
+  @Input() datasetSource: string
   @Input() sortBy: string
   @Input() orderType: OrderType
   @Input() groupBy: GraphAttribute
@@ -32,12 +33,12 @@ export class ConfigSelectorsComponent implements OnChanges {
     this.generalSortLabels = ['Total Cell Count']
     this.cellTypes = []
     this.graphData = []
-    this.presets = Presets
+    this.presets = {}
     this.loading = false
     this.vegaSpecEvent = new EventEmitter<VisualizationSpec>()
   }
 
-  onCompare(_left: KeyValue<Source, Configuration>, _right: KeyValue<Source, Configuration>): number {
+  onCompare(_left: KeyValue<string, Configuration>, _right: KeyValue<string, Configuration>): number {
     return _left.value.label.localeCompare(_right.value.label)
   }
 
@@ -59,7 +60,11 @@ export class ConfigSelectorsComponent implements OnChanges {
   }
 
   async loadDataset(resetFields: Boolean = false) {
-    this.config = Presets[this.datasetSource]
+    if (!(this.datasetSource in this.presets)) {
+      console.error('No config found for provided data source.')
+      return
+    }
+    this.config = this.presets[this.datasetSource]
     this.graphData.splice(0, this.graphData.length)
     this.cellTypes.splice(0, this.cellTypes.length)
     if (resetFields || !this.sortBy) {
@@ -71,12 +76,12 @@ export class ConfigSelectorsComponent implements OnChanges {
     const uniqueCTs = new Set<string>()
 
     this.groupOptions = Object.entries(this.config.groupTypes)
-      .reduce((types, [name, value]) => {
-        types.push({ name, value })
+      .reduce((types, [key, label]) => {
+        types.push({ key: key as GraphAttribute, label })
         return types
       }, [{
-        name: 'None',
-        value: GraphAttribute.None
+        key: GraphAttribute.None,
+        label: 'None'
       }])
 
     // Make requests in parallel
@@ -107,7 +112,7 @@ export class ConfigSelectorsComponent implements OnChanges {
       console.error(error)
     }
 
-    this.generalSortLabels = ['Total Cell Count', ...this.config.sortAttributes]
+    this.generalSortLabels = ['Total Cell Count', ...this.config.sortAttributes.map(getAttributeTitle)]
     this.cellTypes = Array.from(uniqueCTs).sort()
 
     // Create a Vega spec and embed component
@@ -142,17 +147,34 @@ export class ConfigSelectorsComponent implements OnChanges {
     this.loading = false
   }
 
-  ngOnChanges(changes: SimpleChanges) {
+  async ngOnChanges(changes: SimpleChanges) {
     if (!!changes.previewMode) {
       // Initial change from constructor that should be ignored
       if (changes.previewMode.isFirstChange()) return;
       // Load dataset after preview mode check is complete
       // To prevent double loading
-      if (changes.previewMode.currentValue === 'azimuth-kidney') {
-        this.presets = PreviewPresets
-        this.datasetSource = Source.BlueLakeKidney
-        this.yAxisField = GraphAttribute.Percentage
-        this.groupBy = GraphAttribute.Sex
+      if (isOfTypePreviewMode(this.previewMode)) {
+        this.configSource = PREVIEW_CONFIG_JSON
+      }
+      try {
+        const response = await fetch(this.configSource, {
+          method: 'GET',
+          cache: 'reload',
+          redirect: 'follow'
+        })
+        this.presets = await response.json()
+        // Set first key as default if no value was supplied to component
+        if (!this.datasetSource) {
+          this.datasetSource = Object.keys(this.presets)[0]
+        }
+        if (this.config.defaultYAxisField) {
+          this.yAxisField = this.config.defaultYAxisField
+        }
+        if (this.config.defaultGroupBy) {
+          this.groupBy = this.config.defaultGroupBy
+        }
+      } catch {
+        console.error('Unable to load preview config.')
       }
       this.loadDataset()
     }
