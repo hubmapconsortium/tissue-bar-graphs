@@ -1,7 +1,7 @@
 {
   "hubmap_kidney": {
     "label": "Kidney—HuBMAP Portal (47 datasets)",
-    "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/HuBMAP_Kidney",
+    "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Kidney_HuBMAP_Portal",
     "datasets": [
       "HBM242.HNLH.466",
       "HBM243.MTZV.726",
@@ -119,7 +119,7 @@
   },
   "bluelake_kidney": {
     "label": "Kidney—Blue Lake (21 datasets)",
-    "basePath": "https://docs.google.com/spreadsheets/d/1yYIOdfgJoNqVij9kAQabY2n789GsaV6OOm0b71VIcKE/gviz/tq?tqx=out:csv",
+    "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Kidney_Blue_Lake",
     "datasets": [
       "ASCT+B",
       "Azimuth (L3)",
@@ -216,7 +216,7 @@
   },
   "ge_skin": {
     "label": "Skin—Soumya et al. paper (12 datasets)",
-    "basePath": "https://docs.google.com/spreadsheets/d/1spA1vHD7COVcsBXMFCf1VYHWIk0Cw_LDZwNmDEObOuI/gviz/tq?tqx=out:csv",
+    "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Skin_Soumya_et_al__paper",
     "datasets": [
       "HBM654.BKGL.942",
       "HBM253.HFDZ.866",
@@ -264,7 +264,7 @@
   },
   "hubmap_lymphnode": {
     "label": "Lymph Node—HuBMAP Portal (2 CODEX datasets)",
-    "basePath": "https://docs.google.com/spreadsheets/d/1Jy9yWHVN4sqlJeNrNPt2iHlSVGUc04mPTWlTflpe9CA/gviz/tq?tqx=out:csv",
+    "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Lymph_Node_HuBMAP_Portal",
     "datasets": [
       "CODEX_Florida_19-003-lymph-node-R2",
       "CODEX_Florida_20-008-lymphnode10_righthalf"
@@ -297,7 +297,7 @@
   },
   "gca_colon": {
     "label": "Colon—Gut Cell Atlas (5 datasets)",
-    "basePath": "https://docs.google.com/spreadsheets/d/1Ql0e1NU1Oi7ki5_E5UT9H96JX6-DrG6O1aOUtb0yngw/gviz/tq?tqx=out:csv",
+    "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Colon_Gut_Cell_Atlas",
     "datasets": [
       "290b",
       "298c",
@@ -368,7 +368,7 @@
   },
   "gtex_breast": {
     "label": "Breast—GTEx Portal (3 datasets)",
-    "basePath": "https://docs.google.com/spreadsheets/d/1yE6S8DIKYN6k15SWdLu7YRzluAm2n_MSMdZc2k4NhuI/gviz/tq?tqx=out:csv",
+    "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Breast_GTEx_Portal",
     "datasets": [
       "GTEX-1CAMS-5015",
       "GTEX-1MCC2-5013",
@@ -404,7 +404,7 @@
   },
   "gtex_esophagusmucosa": {
     "label": "Esophagus Mucosa—GTEx Portal (3 datasets)",
-    "basePath": "https://docs.google.com/spreadsheets/d/1X3J8Obj88LqG1csL8xwL5_7Vp3KnliigMaWBOq0Swo8/gviz/tq?tqx=out:csv",
+    "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Esophagus_Mucosa_GTEx_Portal",
     "datasets": [
       "GTEX-145ME-5005",
       "GTEX-15SB6-5008",
@@ -441,7 +441,7 @@
   },
   "gtex_esophagusmuscularis": {
     "label": "Esophagus Muscularis—GTEx Portal (3 datasets)",
-    "basePath": "https://docs.google.com/spreadsheets/d/1Q1h72S-058xyBYCuO3iZjfgYV2uGLtlKZeqjbRbxCi8/gviz/tq?tqx=out:csv",
+    "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Esophagus_Muscularis_GTEx_Portal",
     "datasets": [
       "GTEX-144GM-5010",
       "GTEX-1HSMQ-5021",
@@ -478,7 +478,7 @@
   },
   "gtex_heart": {
     "label": "Heart—GTEx Portal (3 datasets)",
-    "basePath": "https://docs.google.com/spreadsheets/d/1AzZ2zl4BG7FdTJ9c7k-yhccOjMup6VbIfxKhp9GFhQc/gviz/tq?tqx=out:csv",
+    "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Heart_GTEx_Portal",
     "datasets": [
       "GTEX-13N11-5002",
       "GTEX-15RIE-5015",
@@ -515,7 +515,7 @@
   },
   "gtex_lung": {
     "label": "Lung—GTEx Portal (3 datasets)",
-    "basePath": "https://docs.google.com/spreadsheets/d/1x7FI_7YshMKKSUdKpTI4M75VMxTp91fuMLJ2E2gPmFc/gviz/tq?tqx=out:csv",
+    "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Lung_GTEx_Portal",
     "datasets": [
       "GTEX-13N11-5030",
       "GTEX-15CHR-5005",
@@ -552,7 +552,7 @@
   },
   "gtex_prostate": {
     "label": "Prostate—GTEx Portal (4 datasets)",
-    "basePath": "https://docs.google.com/spreadsheets/d/1RHmy6GAeGPpXTgH0bWq3uXDrPkxRx9g4ONiOQDIfUHE/gviz/tq?tqx=out:csv",
+    "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Prostate_GTEx_Portal",
     "datasets": [
       "GTEX-12BJ1-5007",
       "GTEX-15CHR-5014",
@@ -589,7 +589,7 @@
   },
   "gtex_skeletalmuscle": {
     "label": "Skeletal Muscle—GTEx Portal (3 datasets)",
-    "basePath": "https://docs.google.com/spreadsheets/d/1AK9mbm6fIPWQxizF-BFmodiFFbUgQ2rx6Ec7MfOwgog/gviz/tq?tqx=out:csv",
+    "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Skeletal_Muscle_GTEx_Portal",
     "datasets": [
       "GTEX-145ME-5018",
       "GTEX-15RIE-5021",
@@ -626,7 +626,7 @@
   },
   "gtex_skin": {
     "label": "Skin—GTEx Portal (3 datasets)",
-    "basePath": "https://docs.google.com/spreadsheets/d/1SlSan9HeMPayZXbRskxXg5i9qcOsVOyxzav-4D3jDio/gviz/tq?tqx=out:csv",
+    "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Skin_GTEx_Portal",
     "datasets": [
       "GTEX-15EOM-5003",
       "GTEX-1CAMR-5015",
@@ -663,7 +663,7 @@
   },
   "nemo_brainmotorcortex": {
     "label": "Brain Motor Cortex—NeMO Data Portal (14 datasets)",
-    "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/NeMO_Portal",
+    "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Brain_Motor_Cortex_NeMO_Data_Portal",
     "datasets": [
       "10X159-1",
       "10X159-2",
