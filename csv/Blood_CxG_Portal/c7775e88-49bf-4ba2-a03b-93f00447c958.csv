@@ -1,0 +1,425 @@
+,cell_type,sex,race,count,percentage
+0,erythrocyte,female,unknown,56,0.05337247314697444
+1,platelet,female,unknown,30,0.02859239632873631
+2,B cell,female,unknown,5,0.004765399388122719
+3,T-helper 1 cell,female,unknown,10,0.009530798776245438
+4,natural killer cell,female,unknown,7,0.006671559143371805
+5,"CD4-positive, alpha-beta T cell",female,unknown,1,0.0009530798776245437
+6,myeloid dendritic cell,female,unknown,14,0.01334311828674361
+7,plasmacytoid dendritic cell,female,unknown,17,0.016202357919617244
+8,naive B cell,female,unknown,214,0.20395909381165236
+9,gamma-delta T cell,female,unknown,113,0.10769802617157344
+10,mature NK T cell,female,unknown,3,0.002859239632873631
+11,regulatory T cell,female,unknown,2,0.0019061597552490874
+12,immature B cell,female,unknown,23,0.021920837185364504
+13,"naive thymus-derived CD4-positive, alpha-beta T cell",female,unknown,317,0.30212632120698035
+14,"naive thymus-derived CD8-positive, alpha-beta T cell",female,unknown,328,0.3126101998608503
+15,"central memory CD4-positive, alpha-beta T cell",female,unknown,1027,0.9788130343204063
+16,"effector memory CD4-positive, alpha-beta T cell",female,unknown,3,0.002859239632873631
+17,"effector memory CD8-positive, alpha-beta T cell",female,unknown,89,0.0848241091085844
+18,"CD16-negative, CD56-bright natural killer cell, human",female,unknown,90,0.08577718898620892
+19,"CD16-positive, CD56-dim natural killer cell, human",female,unknown,767,0.7310122661380251
+20,mucosal invariant T cell,female,unknown,101,0.09626106764007891
+21,unswitched memory B cell,female,unknown,16,0.015249278041992699
+22,class switched memory B cell,female,unknown,49,0.04670091400360264
+23,plasmablast,female,unknown,3,0.002859239632873631
+24,IgG plasma cell,female,unknown,7,0.006671559143371805
+25,IgM plasma cell,female,unknown,1,0.0009530798776245437
+26,IgA plasma cell,female,unknown,11,0.010483878653869981
+27,"CD34-positive, CD38-negative hematopoietic stem cell",female,unknown,5,0.004765399388122719
+28,T-helper 22 cell,female,unknown,185,0.17631977736054058
+29,"effector CD8-positive, alpha-beta T cell",female,unknown,10,0.009530798776245438
+30,CD14-positive monocyte,female,unknown,200,0.19061597552490875
+31,"dendritic cell, human",female,unknown,35,0.03335779571685903
+32,"erythroid progenitor cell, mammalian",female,unknown,2,0.0019061597552490874
+33,"ILC1, human",female,unknown,23,0.021920837185364504
+34,"group 2 innate lymphoid cell, human",female,unknown,1,0.0009530798776245437
+35,T follicular helper cell,female,unknown,80,0.0762463902099635
+36,erythrocyte,female,unknown,54,0.05146631339172537
+37,platelet,female,unknown,554,0.5280062522039972
+38,B cell,female,unknown,39,0.037170115227357206
+39,dendritic cell,female,unknown,15,0.014296198164368156
+40,T-helper 1 cell,female,unknown,32,0.030498556083985398
+41,T-helper 2 cell,female,unknown,6,0.005718479265747262
+42,natural killer cell,female,unknown,39,0.037170115227357206
+43,"CD4-positive, alpha-beta T cell",female,unknown,9,0.008577718898620895
+44,"CD8-positive, alpha-beta T cell",female,unknown,12,0.011436958531494524
+45,myeloid dendritic cell,female,unknown,153,0.1458212212765552
+46,plasmacytoid dendritic cell,female,unknown,81,0.07719947008758804
+47,naive B cell,female,unknown,861,0.8206017746347322
+48,gamma-delta T cell,female,unknown,575,0.5480209296341126
+49,mature NK T cell,female,unknown,651,0.6204550003335779
+50,regulatory T cell,female,unknown,16,0.015249278041992699
+51,immature B cell,female,unknown,157,0.14963354078705338
+52,"naive thymus-derived CD4-positive, alpha-beta T cell",female,unknown,3773,3.5959703782774035
+53,"naive thymus-derived CD8-positive, alpha-beta T cell",female,unknown,1979,1.886145077818972
+54,"central memory CD4-positive, alpha-beta T cell",female,unknown,2025,1.929986752189701
+55,"effector memory CD4-positive, alpha-beta T cell",female,unknown,23,0.021920837185364504
+56,"effector memory CD8-positive, alpha-beta T cell",female,unknown,803,0.7653231417325086
+57,"CD16-negative, CD56-bright natural killer cell, human",female,unknown,701,0.6681089942148052
+58,"CD16-positive, CD56-dim natural killer cell, human",female,unknown,2985,2.844943434709263
+59,mucosal invariant T cell,female,unknown,857,0.8167894551242341
+60,unswitched memory B cell,female,unknown,91,0.08673026886383348
+61,class switched memory B cell,female,unknown,230,0.21920837185364506
+62,plasmablast,female,unknown,10,0.009530798776245438
+63,IgG plasma cell,female,unknown,22,0.020967757307739962
+64,IgM plasma cell,female,unknown,15,0.014296198164368156
+65,IgA plasma cell,female,unknown,21,0.020014677430115417
+66,"CD34-positive, CD38-negative hematopoietic stem cell",female,unknown,14,0.01334311828674361
+67,T-helper 22 cell,female,unknown,2321,2.212098395966566
+68,"effector CD8-positive, alpha-beta T cell",female,unknown,1253,1.1942090866635533
+69,CD14-positive monocyte,female,unknown,1957,1.8651773205112319
+70,"dendritic cell, human",female,unknown,155,0.14772738103180427
+71,"erythroid progenitor cell, mammalian",female,unknown,20,0.019061597552490876
+72,"ILC1, human",female,unknown,53,0.05051323351410082
+73,"group 2 innate lymphoid cell, human",female,unknown,13,0.01239003840911907
+74,T follicular helper cell,female,unknown,74,0.07052791094421623
+75,"CD14-low, CD16-positive monocyte",female,unknown,47,0.04479475424835355
+76,erythrocyte,female,unknown,59,0.05623171277984808
+77,platelet,female,unknown,92,0.08768334874145801
+78,B cell,female,unknown,9,0.008577718898620895
+79,dendritic cell,female,unknown,4,0.0038123195104981748
+80,T-helper 1 cell,female,unknown,13,0.01239003840911907
+81,natural killer cell,female,unknown,9,0.008577718898620895
+82,"CD4-positive, alpha-beta T cell",female,unknown,2,0.0019061597552490874
+83,"CD8-positive, alpha-beta T cell",female,unknown,1,0.0009530798776245437
+84,myeloid dendritic cell,female,unknown,36,0.03431087559448358
+85,plasmacytoid dendritic cell,female,unknown,22,0.020967757307739962
+86,naive B cell,female,unknown,214,0.20395909381165236
+87,gamma-delta T cell,female,unknown,171,0.16297665907379696
+88,mature NK T cell,female,unknown,119,0.11341650543732071
+89,regulatory T cell,female,unknown,14,0.01334311828674361
+90,immature B cell,female,unknown,39,0.037170115227357206
+91,"naive thymus-derived CD4-positive, alpha-beta T cell",female,unknown,910,0.8673026886383347
+92,"naive thymus-derived CD8-positive, alpha-beta T cell",female,unknown,280,0.26686236573487226
+93,"central memory CD4-positive, alpha-beta T cell",female,unknown,1121,1.0684025428171136
+94,"effector memory CD4-positive, alpha-beta T cell",female,unknown,5,0.004765399388122719
+95,"effector memory CD8-positive, alpha-beta T cell",female,unknown,173,0.16488281882904607
+96,"CD16-negative, CD56-bright natural killer cell, human",female,unknown,73,0.06957483106659168
+97,"CD16-positive, CD56-dim natural killer cell, human",female,unknown,536,0.5108508144067554
+98,mucosal invariant T cell,female,unknown,115,0.10960418592682253
+99,unswitched memory B cell,female,unknown,7,0.006671559143371805
+100,class switched memory B cell,female,unknown,44,0.041935514615479924
+101,plasmablast,female,unknown,3,0.002859239632873631
+102,IgG plasma cell,female,unknown,1,0.0009530798776245437
+103,IgA plasma cell,female,unknown,4,0.0038123195104981748
+104,"CD34-positive, CD38-negative hematopoietic stem cell",female,unknown,5,0.004765399388122719
+105,T-helper 22 cell,female,unknown,698,0.6652497545819316
+106,"effector CD8-positive, alpha-beta T cell",female,unknown,49,0.04670091400360264
+107,CD14-positive monocyte,female,unknown,391,0.3726542321511966
+108,"dendritic cell, human",female,unknown,58,0.05527863290222353
+109,"erythroid progenitor cell, mammalian",female,unknown,8,0.0076246390209963495
+110,"ILC1, human",female,unknown,20,0.019061597552490876
+111,"group 2 innate lymphoid cell, human",female,unknown,2,0.0019061597552490874
+112,T follicular helper cell,female,unknown,238,0.22683301087464142
+113,hematopoietic precursor cell,female,unknown,1,0.0009530798776245437
+114,erythrocyte,female,unknown,1,0.0009530798776245437
+115,platelet,female,unknown,71,0.0676686713113426
+116,B cell,female,unknown,3,0.002859239632873631
+117,dendritic cell,female,unknown,6,0.005718479265747262
+118,T-helper 1 cell,female,unknown,6,0.005718479265747262
+119,T-helper 2 cell,female,unknown,1,0.0009530798776245437
+120,natural killer cell,female,unknown,37,0.035263955472108116
+121,"CD4-positive, alpha-beta T cell",female,unknown,3,0.002859239632873631
+122,"CD8-positive, alpha-beta T cell",female,unknown,2,0.0019061597552490874
+123,myeloid dendritic cell,female,unknown,81,0.07719947008758804
+124,plasmacytoid dendritic cell,female,unknown,55,0.05241939326934991
+125,naive B cell,female,unknown,114,0.10865110604919798
+126,gamma-delta T cell,female,unknown,257,0.2449415285495077
+127,mature NK T cell,female,unknown,403,0.3840911906826911
+128,regulatory T cell,female,unknown,4,0.0038123195104981748
+129,immature B cell,female,unknown,26,0.02478007681823814
+130,"naive thymus-derived CD4-positive, alpha-beta T cell",female,unknown,1586,1.5115846859125264
+131,"naive thymus-derived CD8-positive, alpha-beta T cell",female,unknown,398,0.3793257912945684
+132,"central memory CD4-positive, alpha-beta T cell",female,unknown,224,0.21348989258789777
+133,"effector memory CD4-positive, alpha-beta T cell",female,unknown,13,0.01239003840911907
+134,"effector memory CD8-positive, alpha-beta T cell",female,unknown,847,0.8072586563479885
+135,"CD16-negative, CD56-bright natural killer cell, human",female,unknown,163,0.1553520200528006
+136,"CD16-positive, CD56-dim natural killer cell, human",female,unknown,820,0.7815254996521258
+137,mucosal invariant T cell,female,unknown,361,0.34406183582246025
+138,unswitched memory B cell,female,unknown,9,0.008577718898620895
+139,class switched memory B cell,female,unknown,20,0.019061597552490876
+140,plasmablast,female,unknown,4,0.0038123195104981748
+141,IgM plasma cell,female,unknown,1,0.0009530798776245437
+142,IgA plasma cell,female,unknown,2,0.0019061597552490874
+143,T-helper 22 cell,female,unknown,861,0.8206017746347322
+144,"effector CD8-positive, alpha-beta T cell",female,unknown,628,0.5985341631482135
+145,CD14-positive monocyte,female,unknown,729,0.6947952307882923
+146,"dendritic cell, human",female,unknown,68,0.06480943167846898
+147,"erythroid progenitor cell, mammalian",female,unknown,7,0.006671559143371805
+148,"ILC1, human",female,unknown,4,0.0038123195104981748
+149,"group 2 innate lymphoid cell, human",female,unknown,4,0.0038123195104981748
+150,T follicular helper cell,female,unknown,42,0.040029354860230834
+151,"CD14-low, CD16-positive monocyte",female,unknown,17,0.016202357919617244
+152,erythrocyte,female,unknown,4,0.0038123195104981748
+153,platelet,female,unknown,191,0.18203825662628786
+154,B cell,female,unknown,39,0.037170115227357206
+155,dendritic cell,female,unknown,25,0.023826996940613594
+156,T-helper 1 cell,female,unknown,11,0.010483878653869981
+157,T-helper 2 cell,female,unknown,5,0.004765399388122719
+158,monocyte,female,unknown,1,0.0009530798776245437
+159,natural killer cell,female,unknown,16,0.015249278041992699
+160,"CD4-positive, alpha-beta T cell",female,unknown,2,0.0019061597552490874
+161,"CD8-positive, alpha-beta T cell",female,unknown,11,0.010483878653869981
+162,myeloid dendritic cell,female,unknown,155,0.14772738103180427
+163,plasmacytoid dendritic cell,female,unknown,100,0.09530798776245437
+164,naive B cell,female,unknown,897,0.8549126502292157
+165,gamma-delta T cell,female,unknown,1112,1.0598248239184926
+166,mature NK T cell,female,unknown,339,0.32309407851472033
+167,regulatory T cell,female,unknown,8,0.0076246390209963495
+168,immature B cell,female,unknown,102,0.09721414751770346
+169,"naive thymus-derived CD4-positive, alpha-beta T cell",female,unknown,1934,1.8432564833258676
+170,T-helper 17 cell,female,unknown,1,0.0009530798776245437
+171,"naive thymus-derived CD8-positive, alpha-beta T cell",female,unknown,1715,1.6345319901260924
+172,"central memory CD4-positive, alpha-beta T cell",female,unknown,1180,1.1246342555969615
+173,"effector memory CD4-positive, alpha-beta T cell",female,unknown,94,0.0895895084967071
+174,"effector memory CD8-positive, alpha-beta T cell",female,unknown,1368,1.3038132725903757
+175,"CD16-negative, CD56-bright natural killer cell, human",female,unknown,219,0.2087244931997751
+176,"CD16-positive, CD56-dim natural killer cell, human",female,unknown,1159,1.104619578166846
+177,mucosal invariant T cell,female,unknown,655,0.6242673198440761
+178,unswitched memory B cell,female,unknown,77,0.07338715057708986
+179,class switched memory B cell,female,unknown,159,0.15153970054230245
+180,plasmablast,female,unknown,18,0.01715543779724179
+181,IgG plasma cell,female,unknown,29,0.027639316451111767
+182,IgM plasma cell,female,unknown,10,0.009530798776245438
+183,IgA plasma cell,female,unknown,27,0.025733156695862684
+184,"CD34-positive, CD38-negative hematopoietic stem cell",female,unknown,9,0.008577718898620895
+185,T-helper 22 cell,female,unknown,712,0.6785928728686752
+186,"effector CD8-positive, alpha-beta T cell",female,unknown,810,0.7719947008758804
+187,CD14-positive monocyte,female,unknown,737,0.7024198698092887
+188,"dendritic cell, human",female,unknown,101,0.09626106764007891
+189,"erythroid progenitor cell, mammalian",female,unknown,2,0.0019061597552490874
+190,"ILC1, human",female,unknown,18,0.01715543779724179
+191,"group 2 innate lymphoid cell, human",female,unknown,5,0.004765399388122719
+192,T follicular helper cell,female,unknown,193,0.18394441638153694
+193,"CD14-low, CD16-positive monocyte",female,unknown,13,0.01239003840911907
+194,erythrocyte,male,unknown,7,0.006671559143371805
+195,platelet,male,unknown,27,0.025733156695862684
+196,B cell,male,unknown,2,0.0019061597552490874
+197,dendritic cell,male,unknown,1,0.0009530798776245437
+198,T-helper 1 cell,male,unknown,3,0.002859239632873631
+199,natural killer cell,male,unknown,1,0.0009530798776245437
+200,"CD4-positive, alpha-beta T cell",male,unknown,4,0.0038123195104981748
+201,"CD8-positive, alpha-beta T cell",male,unknown,2,0.0019061597552490874
+202,myeloid dendritic cell,male,unknown,5,0.004765399388122719
+203,plasmacytoid dendritic cell,male,unknown,2,0.0019061597552490874
+204,naive B cell,male,unknown,100,0.09530798776245437
+205,gamma-delta T cell,male,unknown,37,0.035263955472108116
+206,mature NK T cell,male,unknown,46,0.04384167437072901
+207,regulatory T cell,male,unknown,4,0.0038123195104981748
+208,immature B cell,male,unknown,24,0.02287391706298905
+209,"naive thymus-derived CD4-positive, alpha-beta T cell",male,unknown,401,0.38218503092744205
+210,"naive thymus-derived CD8-positive, alpha-beta T cell",male,unknown,35,0.03335779571685903
+211,"central memory CD4-positive, alpha-beta T cell",male,unknown,298,0.28401780353211403
+212,"effector memory CD8-positive, alpha-beta T cell",male,unknown,41,0.03907627498260629
+213,"CD16-negative, CD56-bright natural killer cell, human",male,unknown,19,0.01810851767486633
+214,"CD16-positive, CD56-dim natural killer cell, human",male,unknown,177,0.16869513833954425
+215,mucosal invariant T cell,male,unknown,35,0.03335779571685903
+216,unswitched memory B cell,male,unknown,7,0.006671559143371805
+217,class switched memory B cell,male,unknown,14,0.01334311828674361
+218,plasmablast,male,unknown,1,0.0009530798776245437
+219,IgG plasma cell,male,unknown,1,0.0009530798776245437
+220,IgA plasma cell,male,unknown,1,0.0009530798776245437
+221,T-helper 22 cell,male,unknown,55,0.05241939326934991
+222,"effector CD8-positive, alpha-beta T cell",male,unknown,124,0.11818190482544343
+223,CD14-positive monocyte,male,unknown,211,0.20109985417877874
+224,"dendritic cell, human",male,unknown,21,0.020014677430115417
+225,"ILC1, human",male,unknown,5,0.004765399388122719
+226,T follicular helper cell,male,unknown,8,0.0076246390209963495
+227,platelet,male,unknown,33,0.03145163596160994
+228,B cell,male,unknown,47,0.04479475424835355
+229,dendritic cell,male,unknown,29,0.027639316451111767
+230,T-helper 1 cell,male,unknown,3,0.002859239632873631
+231,T-helper 2 cell,male,unknown,2,0.0019061597552490874
+232,monocyte,male,unknown,1,0.0009530798776245437
+233,natural killer cell,male,unknown,60,0.05718479265747262
+234,"CD8-positive, alpha-beta T cell",male,unknown,1,0.0009530798776245437
+235,myeloid dendritic cell,male,unknown,202,0.19252213528015782
+236,plasmacytoid dendritic cell,male,unknown,179,0.17060129809479332
+237,naive B cell,male,unknown,836,0.7967747776941185
+238,gamma-delta T cell,male,unknown,1462,1.3934027810870828
+239,mature NK T cell,male,unknown,607,0.5785194857180981
+240,regulatory T cell,male,unknown,11,0.010483878653869981
+241,immature B cell,male,unknown,93,0.08863642861908257
+242,myeloid lineage restricted progenitor cell,male,unknown,2,0.0019061597552490874
+243,"naive thymus-derived CD4-positive, alpha-beta T cell",male,unknown,1562,1.4887107688495371
+244,"naive thymus-derived CD8-positive, alpha-beta T cell",male,unknown,792,0.7548392630786386
+245,"central memory CD4-positive, alpha-beta T cell",male,unknown,261,0.2487538480600059
+246,"effector memory CD4-positive, alpha-beta T cell",male,unknown,4,0.0038123195104981748
+247,"effector memory CD8-positive, alpha-beta T cell",male,unknown,225,0.21444297246552232
+248,"CD16-negative, CD56-bright natural killer cell, human",male,unknown,175,0.16678897858429514
+249,"CD16-positive, CD56-dim natural killer cell, human",male,unknown,1640,1.5630509993042516
+250,mucosal invariant T cell,male,unknown,439,0.41840206627717474
+251,unswitched memory B cell,male,unknown,94,0.0895895084967071
+252,class switched memory B cell,male,unknown,229,0.2182552919760205
+253,plasmablast,male,unknown,13,0.01239003840911907
+254,IgG plasma cell,male,unknown,16,0.015249278041992699
+255,IgM plasma cell,male,unknown,15,0.014296198164368156
+256,IgA plasma cell,male,unknown,24,0.02287391706298905
+257,"CD34-positive, CD38-negative hematopoietic stem cell",male,unknown,10,0.009530798776245438
+258,T-helper 22 cell,male,unknown,522,0.4975076961200118
+259,"effector CD8-positive, alpha-beta T cell",male,unknown,190,0.1810851767486633
+260,CD14-positive monocyte,male,unknown,2055,1.9585791485184374
+261,"dendritic cell, human",male,unknown,146,0.13914966213318336
+262,"erythroid progenitor cell, mammalian",male,unknown,12,0.011436958531494524
+263,"ILC1, human",male,unknown,22,0.020967757307739962
+264,"group 2 innate lymphoid cell, human",male,unknown,1,0.0009530798776245437
+265,T follicular helper cell,male,unknown,15,0.014296198164368156
+266,"CD14-low, CD16-positive monocyte",male,unknown,49,0.04670091400360264
+267,hematopoietic precursor cell,male,unknown,2,0.0019061597552490874
+268,erythrocyte,male,unknown,4,0.0038123195104981748
+269,platelet,male,unknown,531,0.5060854150186327
+270,B cell,male,unknown,47,0.04479475424835355
+271,dendritic cell,male,unknown,9,0.008577718898620895
+272,monocyte,male,unknown,1,0.0009530798776245437
+273,natural killer cell,male,unknown,13,0.01239003840911907
+274,"CD4-positive, alpha-beta T cell",male,unknown,1,0.0009530798776245437
+275,"CD8-positive, alpha-beta T cell",male,unknown,9,0.008577718898620895
+276,myeloid dendritic cell,male,unknown,131,0.12485346396881522
+277,plasmacytoid dendritic cell,male,unknown,80,0.0762463902099635
+278,naive B cell,male,unknown,667,0.6357042783755706
+279,gamma-delta T cell,male,unknown,194,0.1848974962591615
+280,mature NK T cell,male,unknown,563,0.5365839711026181
+281,immature B cell,male,unknown,91,0.08673026886383348
+282,"naive thymus-derived CD4-positive, alpha-beta T cell",male,unknown,564,0.5375370509802426
+283,"naive thymus-derived CD8-positive, alpha-beta T cell",male,unknown,230,0.21920837185364506
+284,"central memory CD4-positive, alpha-beta T cell",male,unknown,74,0.07052791094421623
+285,"effector memory CD4-positive, alpha-beta T cell",male,unknown,14,0.01334311828674361
+286,"effector memory CD8-positive, alpha-beta T cell",male,unknown,270,0.2573315669586268
+287,"CD16-negative, CD56-bright natural killer cell, human",male,unknown,188,0.1791790169934142
+288,"CD16-positive, CD56-dim natural killer cell, human",male,unknown,1708,1.6278604309827207
+289,mucosal invariant T cell,male,unknown,126,0.12008806458069252
+290,unswitched memory B cell,male,unknown,58,0.05527863290222353
+291,class switched memory B cell,male,unknown,106,0.10102646702820164
+292,plasmablast,male,unknown,7,0.006671559143371805
+293,IgG plasma cell,male,unknown,12,0.011436958531494524
+294,IgM plasma cell,male,unknown,8,0.0076246390209963495
+295,IgA plasma cell,male,unknown,8,0.0076246390209963495
+296,"CD34-positive, CD38-negative hematopoietic stem cell",male,unknown,9,0.008577718898620895
+297,T-helper 22 cell,male,unknown,91,0.08673026886383348
+298,"effector CD8-positive, alpha-beta T cell",male,unknown,850,0.8101178959808621
+299,CD14-positive monocyte,male,unknown,993,0.946408318481172
+300,"dendritic cell, human",male,unknown,108,0.10293262678345073
+301,"erythroid progenitor cell, mammalian",male,unknown,12,0.011436958531494524
+302,"ILC1, human",male,unknown,24,0.02287391706298905
+303,"group 2 innate lymphoid cell, human",male,unknown,2,0.0019061597552490874
+304,T follicular helper cell,male,unknown,19,0.01810851767486633
+305,"CD14-low, CD16-positive monocyte",male,unknown,18,0.01715543779724179
+306,hematopoietic precursor cell,male,unknown,2,0.0019061597552490874
+307,erythrocyte,male,unknown,49,0.04670091400360264
+308,platelet,male,unknown,129,0.12294730421356613
+309,B cell,male,unknown,9,0.008577718898620895
+310,dendritic cell,male,unknown,3,0.002859239632873631
+311,T-helper 1 cell,male,unknown,12,0.011436958531494524
+312,natural killer cell,male,unknown,1,0.0009530798776245437
+313,"CD4-positive, alpha-beta T cell",male,unknown,3,0.002859239632873631
+314,"CD8-positive, alpha-beta T cell",male,unknown,5,0.004765399388122719
+315,myeloid dendritic cell,male,unknown,39,0.037170115227357206
+316,plasmacytoid dendritic cell,male,unknown,37,0.035263955472108116
+317,naive B cell,male,unknown,305,0.29068936267548584
+318,gamma-delta T cell,male,unknown,84,0.08005870972046167
+319,mature NK T cell,male,unknown,66,0.06290327192321989
+320,regulatory T cell,male,unknown,8,0.0076246390209963495
+321,immature B cell,male,unknown,60,0.05718479265747262
+322,"naive thymus-derived CD4-positive, alpha-beta T cell",male,unknown,334,0.31832867912659757
+323,"naive thymus-derived CD8-positive, alpha-beta T cell",male,unknown,230,0.21920837185364506
+324,"central memory CD4-positive, alpha-beta T cell",male,unknown,491,0.467962219913651
+325,"effector memory CD4-positive, alpha-beta T cell",male,unknown,4,0.0038123195104981748
+326,"effector memory CD8-positive, alpha-beta T cell",male,unknown,378,0.3602641937420775
+327,"CD16-negative, CD56-bright natural killer cell, human",male,unknown,47,0.04479475424835355
+328,"CD16-positive, CD56-dim natural killer cell, human",male,unknown,300,0.2859239632873631
+329,mucosal invariant T cell,male,unknown,161,0.15344586029755156
+330,unswitched memory B cell,male,unknown,19,0.01810851767486633
+331,class switched memory B cell,male,unknown,66,0.06290327192321989
+332,plasmablast,male,unknown,2,0.0019061597552490874
+333,IgG plasma cell,male,unknown,3,0.002859239632873631
+334,IgM plasma cell,male,unknown,3,0.002859239632873631
+335,IgA plasma cell,male,unknown,6,0.005718479265747262
+336,T-helper 22 cell,male,unknown,268,0.2554254072033777
+337,"effector CD8-positive, alpha-beta T cell",male,unknown,717,0.6833582722567978
+338,CD14-positive monocyte,male,unknown,450,0.42888594493104465
+339,"dendritic cell, human",male,unknown,88,0.08387102923095985
+340,"erythroid progenitor cell, mammalian",male,unknown,3,0.002859239632873631
+341,"ILC1, human",male,unknown,14,0.01334311828674361
+342,"group 2 innate lymphoid cell, human",male,unknown,1,0.0009530798776245437
+343,T follicular helper cell,male,unknown,29,0.027639316451111767
+344,erythrocyte,male,unknown,61,0.05813787253509717
+345,platelet,male,unknown,457,0.43555750407441646
+346,B cell,male,unknown,95,0.09054258837433166
+347,dendritic cell,male,unknown,27,0.025733156695862684
+348,T-helper 1 cell,male,unknown,11,0.010483878653869981
+349,T-helper 2 cell,male,unknown,2,0.0019061597552490874
+350,natural killer cell,male,unknown,27,0.025733156695862684
+351,"CD4-positive, alpha-beta T cell",male,unknown,4,0.0038123195104981748
+352,"CD8-positive, alpha-beta T cell",male,unknown,24,0.02287391706298905
+353,myeloid dendritic cell,male,unknown,203,0.19347521515778238
+354,plasmacytoid dendritic cell,male,unknown,90,0.08577718898620892
+355,naive B cell,male,unknown,1304,1.2428161604224048
+356,gamma-delta T cell,male,unknown,803,0.7653231417325086
+357,mature NK T cell,male,unknown,886,0.8444287715753457
+358,regulatory T cell,male,unknown,8,0.0076246390209963495
+359,immature B cell,male,unknown,138,0.13152502311218703
+360,myeloid lineage restricted progenitor cell,male,unknown,1,0.0009530798776245437
+361,"naive thymus-derived CD4-positive, alpha-beta T cell",male,unknown,1737,1.6554997474338324
+362,"naive thymus-derived CD8-positive, alpha-beta T cell",male,unknown,1484,1.4143705383948229
+363,"central memory CD4-positive, alpha-beta T cell",male,unknown,740,0.7052791094421623
+364,"effector memory CD4-positive, alpha-beta T cell",male,unknown,24,0.02287391706298905
+365,"effector memory CD8-positive, alpha-beta T cell",male,unknown,1233,1.1751474891110625
+366,"CD16-negative, CD56-bright natural killer cell, human",male,unknown,344,0.32785947790284303
+367,"CD16-positive, CD56-dim natural killer cell, human",male,unknown,2853,2.7191368908628233
+368,mucosal invariant T cell,male,unknown,520,0.4956015363647627
+369,unswitched memory B cell,male,unknown,173,0.16488281882904607
+370,class switched memory B cell,male,unknown,246,0.23445764989563778
+371,plasmablast,male,unknown,12,0.011436958531494524
+372,IgG plasma cell,male,unknown,36,0.03431087559448358
+373,IgM plasma cell,male,unknown,9,0.008577718898620895
+374,IgA plasma cell,male,unknown,32,0.030498556083985398
+375,"CD34-positive, CD38-negative hematopoietic stem cell",male,unknown,20,0.019061597552490876
+376,T-helper 22 cell,male,unknown,585,0.557551728410358
+377,"effector CD8-positive, alpha-beta T cell",male,unknown,1528,1.456306053010303
+378,CD14-positive monocyte,male,unknown,2410,2.2969225050751505
+379,"dendritic cell, human",male,unknown,177,0.16869513833954425
+380,"erythroid progenitor cell, mammalian",male,unknown,6,0.005718479265747262
+381,"ILC1, human",male,unknown,24,0.02287391706298905
+382,"group 2 innate lymphoid cell, human",male,unknown,5,0.004765399388122719
+383,T follicular helper cell,male,unknown,76,0.07243407069946532
+384,"CD14-low, CD16-positive monocyte",male,unknown,50,0.04765399388122719
+385,hematopoietic precursor cell,male,unknown,1,0.0009530798776245437
+386,erythrocyte,male,unknown,6,0.005718479265747262
+387,platelet,male,unknown,248,0.23636380965088685
+388,B cell,male,unknown,39,0.037170115227357206
+389,dendritic cell,male,unknown,7,0.006671559143371805
+390,monocyte,male,unknown,1,0.0009530798776245437
+391,natural killer cell,male,unknown,11,0.010483878653869981
+392,"CD4-positive, alpha-beta T cell",male,unknown,3,0.002859239632873631
+393,"CD8-positive, alpha-beta T cell",male,unknown,3,0.002859239632873631
+394,myeloid dendritic cell,male,unknown,33,0.03145163596160994
+395,plasmacytoid dendritic cell,male,unknown,15,0.014296198164368156
+396,naive B cell,male,unknown,1396,1.3304995091638632
+397,gamma-delta T cell,male,unknown,140,0.13343118286743613
+398,mature NK T cell,male,unknown,188,0.1791790169934142
+399,immature B cell,male,unknown,213,0.2030060139340278
+400,"naive thymus-derived CD4-positive, alpha-beta T cell",male,unknown,711,0.6776397929910506
+401,"naive thymus-derived CD8-positive, alpha-beta T cell",male,unknown,634,0.6042526424139607
+402,"central memory CD4-positive, alpha-beta T cell",male,unknown,64,0.060997112167970796
+403,"effector memory CD4-positive, alpha-beta T cell",male,unknown,4,0.0038123195104981748
+404,"effector memory CD8-positive, alpha-beta T cell",male,unknown,307,0.29259552243073494
+405,"CD16-negative, CD56-bright natural killer cell, human",male,unknown,171,0.16297665907379696
+406,"CD16-positive, CD56-dim natural killer cell, human",male,unknown,528,0.5032261753857591
+407,mucosal invariant T cell,male,unknown,95,0.09054258837433166
+408,unswitched memory B cell,male,unknown,96,0.0914956682519562
+409,class switched memory B cell,male,unknown,232,0.22111453160889413
+410,plasmablast,male,unknown,22,0.020967757307739962
+411,IgG plasma cell,male,unknown,41,0.03907627498260629
+412,IgM plasma cell,male,unknown,22,0.020967757307739962
+413,IgA plasma cell,male,unknown,37,0.035263955472108116
+414,"CD34-positive, CD38-negative hematopoietic stem cell",male,unknown,2,0.0019061597552490874
+415,T-helper 22 cell,male,unknown,81,0.07719947008758804
+416,"effector CD8-positive, alpha-beta T cell",male,unknown,342,0.32595331814759393
+417,CD14-positive monocyte,male,unknown,413,0.39362198945893656
+418,"dendritic cell, human",male,unknown,18,0.01715543779724179
+419,"erythroid progenitor cell, mammalian",male,unknown,2,0.0019061597552490874
+420,"ILC1, human",male,unknown,6,0.005718479265747262
+421,"group 2 innate lymphoid cell, human",male,unknown,2,0.0019061597552490874
+422,T follicular helper cell,male,unknown,26,0.02478007681823814
+423,"CD14-low, CD16-positive monocyte",male,unknown,4,0.0038123195104981748
