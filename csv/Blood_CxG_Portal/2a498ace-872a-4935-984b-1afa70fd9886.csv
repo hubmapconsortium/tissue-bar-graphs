@@ -1,0 +1,832 @@
+,cell_type,sex,race,count,percentage
+0,native cell,female,African,6,2.2147740192242385e-05
+1,erythrocyte,female,African,1,3.6912900320403975e-06
+2,B cell,female,African,34,0.0001255038610893735
+3,CD4-positive helper T cell,female,African,76,0.0002805380424350702
+4,natural killer cell,female,African,359,0.0013251731215025027
+5,plasmacytoid dendritic cell,female,African,3,1.1073870096121193e-05
+6,plasma cell,female,African,6,2.2147740192242385e-05
+7,naive B cell,female,African,371,0.0013694686018869875
+8,"CD8-positive, alpha-beta cytotoxic T cell",female,African,126,0.00046510254403709007
+9,gamma-delta T cell,female,African,38,0.0001402690212175351
+10,mature NK T cell,female,African,5,1.8456450160201986e-05
+11,regulatory T cell,female,African,39,0.0001439603112495755
+12,classical monocyte,female,African,33,0.00012181257105733311
+13,non-classical monocyte,female,African,28,0.00010335612089713112
+14,"naive thymus-derived CD4-positive, alpha-beta T cell",female,African,333,0.0012291995806694525
+15,"naive thymus-derived CD8-positive, alpha-beta T cell",female,African,183,0.0006755060758633927
+16,"central memory CD8-positive, alpha-beta T cell",female,African,90,0.0003322161028836358
+17,"effector memory CD8-positive, alpha-beta T cell",female,African,21,7.751709067284835e-05
+18,"CD4-positive, alpha-beta cytotoxic T cell",female,African,3,1.1073870096121193e-05
+19,"CD16-negative, CD56-bright natural killer cell, human",female,African,9,3.322161028836358e-05
+20,mucosal invariant T cell,female,African,24,8.859096076896954e-05
+21,class switched memory B cell,female,African,39,0.0001439603112495755
+22,conventional dendritic cell,female,African,3,1.1073870096121193e-05
+23,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",female,African,21,7.751709067284835e-05
+24,native cell,female,European,27,9.966483086509073e-05
+25,erythrocyte,female,European,2,7.382580064080795e-06
+26,platelet,female,European,5,1.8456450160201986e-05
+27,B cell,female,European,51,0.00018825579163406027
+28,CD4-positive helper T cell,female,European,366,0.0013510121517267854
+29,natural killer cell,female,European,712,0.002628198502812763
+30,plasmacytoid dendritic cell,female,European,35,0.0001291951511214139
+31,plasma cell,female,European,41,0.0001513428913136563
+32,naive B cell,female,European,1943,0.007172176532254492
+33,"CD8-positive, alpha-beta cytotoxic T cell",female,European,128,0.0004724851241011709
+34,gamma-delta T cell,female,European,169,0.0006238280154148272
+35,regulatory T cell,female,European,104,0.00038389416333220136
+36,classical monocyte,female,European,1347,0.004972167673158416
+37,non-classical monocyte,female,European,98,0.000361746423139959
+38,"naive thymus-derived CD4-positive, alpha-beta T cell",female,European,1689,0.006234588864116231
+39,"naive thymus-derived CD8-positive, alpha-beta T cell",female,European,936,0.003455047469989812
+40,"central memory CD8-positive, alpha-beta T cell",female,European,137,0.0005057067343895345
+41,"effector memory CD8-positive, alpha-beta T cell",female,European,33,0.00012181257105733311
+42,"CD4-positive, alpha-beta cytotoxic T cell",female,European,4,1.476516012816159e-05
+43,"CD16-negative, CD56-bright natural killer cell, human",female,European,56,0.00020671224179426225
+44,mucosal invariant T cell,female,European,24,8.859096076896954e-05
+45,class switched memory B cell,female,European,233,0.0008600705774654126
+46,plasmablast,female,European,7,2.583903022428278e-05
+47,conventional dendritic cell,female,European,26,9.597354083305034e-05
+48,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",female,European,7,2.583903022428278e-05
+49,innate lymphoid cell,female,European,10,3.691290032040397e-05
+50,hematopoietic precursor cell,female,European,3,1.1073870096121193e-05
+51,native cell,female,unknown,46,0.0001697993414738583
+52,platelet,female,unknown,1,3.6912900320403975e-06
+53,B cell,female,unknown,25,9.228225080100993e-05
+54,dendritic cell,female,unknown,3,1.1073870096121193e-05
+55,CD4-positive helper T cell,female,unknown,325,0.0011996692604131292
+56,natural killer cell,female,unknown,1429,0.005274853455785728
+57,plasmacytoid dendritic cell,female,unknown,33,0.00012181257105733311
+58,plasma cell,female,unknown,8,2.953032025632318e-05
+59,naive B cell,female,unknown,438,0.0016167850340336942
+60,"CD8-positive, alpha-beta cytotoxic T cell",female,unknown,358,0.0013214818314704624
+61,gamma-delta T cell,female,unknown,259,0.0009560441182984629
+62,mature NK T cell,female,unknown,10,3.691290032040397e-05
+63,regulatory T cell,female,unknown,47,0.00017349063150589867
+64,classical monocyte,female,unknown,1079,0.003982901944571589
+65,non-classical monocyte,female,unknown,424,0.0015651069735851285
+66,"naive thymus-derived CD4-positive, alpha-beta T cell",female,unknown,1061,0.003916458723994862
+67,"naive thymus-derived CD8-positive, alpha-beta T cell",female,unknown,805,0.00297148847579252
+68,"central memory CD8-positive, alpha-beta T cell",female,unknown,260,0.0009597354083305034
+69,"effector memory CD8-positive, alpha-beta T cell",female,unknown,27,9.966483086509073e-05
+70,"CD4-positive, alpha-beta cytotoxic T cell",female,unknown,14,5.167806044856556e-05
+71,"CD16-negative, CD56-bright natural killer cell, human",female,unknown,180,0.0006644322057672716
+72,mucosal invariant T cell,female,unknown,43,0.0001587254713777371
+73,class switched memory B cell,female,unknown,34,0.0001255038610893735
+74,plasmablast,female,unknown,1,3.6912900320403975e-06
+75,conventional dendritic cell,female,unknown,61,0.00022516869195446425
+76,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",female,unknown,64,0.00023624256205058544
+77,innate lymphoid cell,female,unknown,10,3.691290032040397e-05
+78,hematopoietic precursor cell,female,unknown,5,1.8456450160201986e-05
+79,native cell,female,African,32,0.00011812128102529272
+80,erythrocyte,female,African,23,8.489967073692915e-05
+81,platelet,female,African,4,1.476516012816159e-05
+82,B cell,female,African,28,0.00010335612089713112
+83,CD4-positive helper T cell,female,African,309,0.001140608619900483
+84,natural killer cell,female,African,373,0.0013768511819510683
+85,plasmacytoid dendritic cell,female,African,21,7.751709067284835e-05
+86,plasma cell,female,African,24,8.859096076896954e-05
+87,naive B cell,female,African,503,0.00185671888611632
+88,"CD8-positive, alpha-beta cytotoxic T cell",female,African,173,0.0006385931755429888
+89,gamma-delta T cell,female,African,31,0.00011442999099325233
+90,mature NK T cell,female,African,4,1.476516012816159e-05
+91,regulatory T cell,female,African,93,0.00034328997297975697
+92,classical monocyte,female,African,262,0.0009671179883945841
+93,non-classical monocyte,female,African,193,0.0007124189761837967
+94,"naive thymus-derived CD4-positive, alpha-beta T cell",female,African,1019,0.003761424542649165
+95,"naive thymus-derived CD8-positive, alpha-beta T cell",female,African,336,0.0012402734507655736
+96,"central memory CD8-positive, alpha-beta T cell",female,African,244,0.000900674767817857
+97,"effector memory CD8-positive, alpha-beta T cell",female,African,37,0.0001365777311854947
+98,"CD4-positive, alpha-beta cytotoxic T cell",female,African,25,9.228225080100993e-05
+99,"CD16-negative, CD56-bright natural killer cell, human",female,African,37,0.0001365777311854947
+100,mucosal invariant T cell,female,African,20,7.382580064080794e-05
+101,class switched memory B cell,female,African,90,0.0003322161028836358
+102,plasmablast,female,African,5,1.8456450160201986e-05
+103,conventional dendritic cell,female,African,4,1.476516012816159e-05
+104,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",female,African,18,6.644322057672716e-05
+105,innate lymphoid cell,female,African,3,1.1073870096121193e-05
+106,hematopoietic precursor cell,female,African,5,1.8456450160201986e-05
+107,native cell,female,European,53,0.00019563837169814106
+108,erythrocyte,female,European,2,7.382580064080795e-06
+109,platelet,female,European,17,6.275193054468675e-05
+110,B cell,female,European,33,0.00012181257105733311
+111,dendritic cell,female,European,1,3.6912900320403975e-06
+112,CD4-positive helper T cell,female,European,704,0.0025986681825564397
+113,natural killer cell,female,European,1604,0.005920829211392797
+114,plasmacytoid dendritic cell,female,European,12,4.429548038448477e-05
+115,plasma cell,female,European,34,0.0001255038610893735
+116,naive B cell,female,European,1351,0.004986932833286577
+117,"CD8-positive, alpha-beta cytotoxic T cell",female,European,529,0.0019526924269493702
+118,gamma-delta T cell,female,European,68,0.000251007722178747
+119,mature NK T cell,female,European,24,8.859096076896954e-05
+120,regulatory T cell,female,European,224,0.000826848967177049
+121,classical monocyte,female,European,751,0.0027721588140623386
+122,non-classical monocyte,female,European,227,0.0008379228372731702
+123,"naive thymus-derived CD4-positive, alpha-beta T cell",female,European,2294,0.008467819333500671
+124,"naive thymus-derived CD8-positive, alpha-beta T cell",female,European,910,0.0033590739291567617
+125,"central memory CD8-positive, alpha-beta T cell",female,European,262,0.0009671179883945841
+126,"effector memory CD8-positive, alpha-beta T cell",female,European,44,0.00016241676140977748
+127,"CD4-positive, alpha-beta cytotoxic T cell",female,European,59,0.00021778611189038344
+128,"CD16-negative, CD56-bright natural killer cell, human",female,European,81,0.0002989944925952722
+129,mucosal invariant T cell,female,European,105,0.00038758545336424173
+130,class switched memory B cell,female,European,145,0.0005352370546458576
+131,plasmablast,female,European,4,1.476516012816159e-05
+132,conventional dendritic cell,female,European,27,9.966483086509073e-05
+133,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",female,European,205,0.0007567144565682815
+134,innate lymphoid cell,female,European,22,8.120838070488874e-05
+135,hematopoietic precursor cell,female,European,12,4.429548038448477e-05
+136,native cell,female,South Asian,46,0.0001697993414738583
+137,erythrocyte,female,South Asian,2,7.382580064080795e-06
+138,platelet,female,South Asian,4,1.476516012816159e-05
+139,B cell,female,South Asian,11,4.060419035244437e-05
+140,dendritic cell,female,South Asian,4,1.476516012816159e-05
+141,CD4-positive helper T cell,female,South Asian,360,0.0013288644115345431
+142,natural killer cell,female,South Asian,755,0.0027869239741905
+143,plasmacytoid dendritic cell,female,South Asian,29,0.00010704741092917153
+144,plasma cell,female,South Asian,19,7.013451060876755e-05
+145,naive B cell,female,South Asian,196,0.000723492846279918
+146,"CD8-positive, alpha-beta cytotoxic T cell",female,South Asian,415,0.001531885363296765
+147,gamma-delta T cell,female,South Asian,171,0.0006312105954789079
+148,mature NK T cell,female,South Asian,8,2.953032025632318e-05
+149,regulatory T cell,female,South Asian,70,0.0002583903022428278
+150,classical monocyte,female,South Asian,1078,0.003979210654539549
+151,non-classical monocyte,female,South Asian,44,0.00016241676140977748
+152,"naive thymus-derived CD4-positive, alpha-beta T cell",female,South Asian,801,0.0029567233156643584
+153,"naive thymus-derived CD8-positive, alpha-beta T cell",female,South Asian,562,0.0020745049980067033
+154,"central memory CD8-positive, alpha-beta T cell",female,South Asian,240,0.0008859096076896954
+155,"effector memory CD8-positive, alpha-beta T cell",female,South Asian,41,0.0001513428913136563
+156,"CD4-positive, alpha-beta cytotoxic T cell",female,South Asian,19,7.013451060876755e-05
+157,"CD16-negative, CD56-bright natural killer cell, human",female,South Asian,117,0.0004318809337487265
+158,mucosal invariant T cell,female,South Asian,87,0.0003211422327875146
+159,class switched memory B cell,female,South Asian,42,0.0001550341813456967
+160,conventional dendritic cell,female,South Asian,77,0.0002842293324671106
+161,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",female,South Asian,19,7.013451060876755e-05
+162,innate lymphoid cell,female,South Asian,8,2.953032025632318e-05
+163,hematopoietic precursor cell,female,South Asian,7,2.583903022428278e-05
+164,native cell,female,African,12,4.429548038448477e-05
+165,platelet,female,African,2,7.382580064080795e-06
+166,B cell,female,African,14,5.167806044856556e-05
+167,CD4-positive helper T cell,female,African,207,0.0007640970366323623
+168,natural killer cell,female,African,270,0.0009966483086509073
+169,plasmacytoid dendritic cell,female,African,8,2.953032025632318e-05
+170,plasma cell,female,African,14,5.167806044856556e-05
+171,naive B cell,female,African,747,0.002757393653934177
+172,"CD8-positive, alpha-beta cytotoxic T cell",female,African,129,0.00047617641413321126
+173,gamma-delta T cell,female,African,100,0.00036912900320403973
+174,mature NK T cell,female,African,11,4.060419035244437e-05
+175,regulatory T cell,female,African,50,0.00018456450160201987
+176,classical monocyte,female,African,66,0.00024362514211466623
+177,non-classical monocyte,female,African,24,8.859096076896954e-05
+178,"naive thymus-derived CD4-positive, alpha-beta T cell",female,African,678,0.0025026946417233895
+179,"naive thymus-derived CD8-positive, alpha-beta T cell",female,African,471,0.0017385976050910271
+180,"central memory CD8-positive, alpha-beta T cell",female,African,136,0.000502015444357494
+181,"effector memory CD8-positive, alpha-beta T cell",female,African,34,0.0001255038610893735
+182,"CD4-positive, alpha-beta cytotoxic T cell",female,African,18,6.644322057672716e-05
+183,"CD16-negative, CD56-bright natural killer cell, human",female,African,36,0.00013288644115345432
+184,mucosal invariant T cell,female,African,91,0.00033590739291567616
+185,class switched memory B cell,female,African,39,0.0001439603112495755
+186,plasmablast,female,African,2,7.382580064080795e-06
+187,conventional dendritic cell,female,African,10,3.691290032040397e-05
+188,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",female,African,46,0.0001697993414738583
+189,innate lymphoid cell,female,African,1,3.6912900320403975e-06
+190,hematopoietic precursor cell,female,African,2,7.382580064080795e-06
+191,native cell,female,European,3,1.1073870096121193e-05
+192,B cell,female,European,2,7.382580064080795e-06
+193,CD4-positive helper T cell,female,European,253,0.0009338963781062205
+194,natural killer cell,female,European,301,0.0011110782996441597
+195,plasmacytoid dendritic cell,female,European,4,1.476516012816159e-05
+196,plasma cell,female,European,2,7.382580064080795e-06
+197,naive B cell,female,European,41,0.0001513428913136563
+198,"CD8-positive, alpha-beta cytotoxic T cell",female,European,37,0.0001365777311854947
+199,gamma-delta T cell,female,European,70,0.0002583903022428278
+200,mature NK T cell,female,European,1,3.6912900320403975e-06
+201,regulatory T cell,female,European,29,0.00010704741092917153
+202,classical monocyte,female,European,84,0.0003100683626913934
+203,non-classical monocyte,female,European,28,0.00010335612089713112
+204,"naive thymus-derived CD4-positive, alpha-beta T cell",female,European,284,0.0010483263690994728
+205,"naive thymus-derived CD8-positive, alpha-beta T cell",female,European,225,0.0008305402572090895
+206,"central memory CD8-positive, alpha-beta T cell",female,European,50,0.00018456450160201987
+207,"effector memory CD8-positive, alpha-beta T cell",female,European,10,3.691290032040397e-05
+208,"CD4-positive, alpha-beta cytotoxic T cell",female,European,1,3.6912900320403975e-06
+209,"CD16-negative, CD56-bright natural killer cell, human",female,European,135,0.0004983241543254536
+210,mucosal invariant T cell,female,European,48,0.00017718192153793908
+211,class switched memory B cell,female,European,22,8.120838070488874e-05
+212,plasmablast,female,European,1,3.6912900320403975e-06
+213,conventional dendritic cell,female,European,7,2.583903022428278e-05
+214,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",female,European,33,0.00012181257105733311
+215,innate lymphoid cell,female,European,1,3.6912900320403975e-06
+216,hematopoietic precursor cell,female,European,2,7.382580064080795e-06
+217,native cell,female,South Asian,17,6.275193054468675e-05
+218,granulocyte,female,South Asian,1,3.6912900320403975e-06
+219,erythrocyte,female,South Asian,1,3.6912900320403975e-06
+220,platelet,female,South Asian,23,8.489967073692915e-05
+221,B cell,female,South Asian,6,2.2147740192242385e-05
+222,CD4-positive helper T cell,female,South Asian,496,0.0018308798558920372
+223,natural killer cell,female,South Asian,192,0.0007087276861517563
+224,naive B cell,female,South Asian,244,0.000900674767817857
+225,"CD8-positive, alpha-beta cytotoxic T cell",female,South Asian,41,0.0001513428913136563
+226,gamma-delta T cell,female,South Asian,90,0.0003322161028836358
+227,mature NK T cell,female,South Asian,1,3.6912900320403975e-06
+228,regulatory T cell,female,South Asian,123,0.0004540286739409689
+229,classical monocyte,female,South Asian,2497,0.009217151210004873
+230,non-classical monocyte,female,South Asian,48,0.00017718192153793908
+231,"naive thymus-derived CD4-positive, alpha-beta T cell",female,South Asian,634,0.002340277880313612
+232,"naive thymus-derived CD8-positive, alpha-beta T cell",female,South Asian,365,0.001347320861694745
+233,"central memory CD8-positive, alpha-beta T cell",female,South Asian,123,0.0004540286739409689
+234,"effector memory CD8-positive, alpha-beta T cell",female,South Asian,11,4.060419035244437e-05
+235,"CD4-positive, alpha-beta cytotoxic T cell",female,South Asian,4,1.476516012816159e-05
+236,"CD16-negative, CD56-bright natural killer cell, human",female,South Asian,81,0.0002989944925952722
+237,mucosal invariant T cell,female,South Asian,191,0.0007050363961197159
+238,class switched memory B cell,female,South Asian,47,0.00017349063150589867
+239,conventional dendritic cell,female,South Asian,15,5.536935048060596e-05
+240,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",female,South Asian,20,7.382580064080794e-05
+241,innate lymphoid cell,female,South Asian,8,2.953032025632318e-05
+242,hematopoietic precursor cell,female,South Asian,21,7.751709067284835e-05
+243,native cell,female,African,9,3.322161028836358e-05
+244,platelet,female,African,20,7.382580064080794e-05
+245,B cell,female,African,2,7.382580064080795e-06
+246,CD4-positive helper T cell,female,African,435,0.0016057111639375728
+247,natural killer cell,female,African,241,0.0008896008977217358
+248,plasmacytoid dendritic cell,female,African,5,1.8456450160201986e-05
+249,plasma cell,female,African,3,1.1073870096121193e-05
+250,naive B cell,female,African,82,0.0003026857826273126
+251,"CD8-positive, alpha-beta cytotoxic T cell",female,African,1038,0.003831559053257933
+252,gamma-delta T cell,female,African,14,5.167806044856556e-05
+253,mature NK T cell,female,African,7,2.583903022428278e-05
+254,regulatory T cell,female,African,34,0.0001255038610893735
+255,classical monocyte,female,African,589,0.0021741698288717942
+256,non-classical monocyte,female,African,118,0.0004355722237807669
+257,"naive thymus-derived CD4-positive, alpha-beta T cell",female,African,194,0.0007161102662158371
+258,"naive thymus-derived CD8-positive, alpha-beta T cell",female,African,478,0.00176443663531531
+259,"central memory CD8-positive, alpha-beta T cell",female,African,165,0.0006090628552866656
+260,"effector memory CD8-positive, alpha-beta T cell",female,African,25,9.228225080100993e-05
+261,"CD4-positive, alpha-beta cytotoxic T cell",female,African,367,0.0013547034417588258
+262,"CD16-negative, CD56-bright natural killer cell, human",female,African,48,0.00017718192153793908
+263,mucosal invariant T cell,female,African,7,2.583903022428278e-05
+264,class switched memory B cell,female,African,31,0.00011442999099325233
+265,conventional dendritic cell,female,African,30,0.00011073870096121192
+266,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",female,African,207,0.0007640970366323623
+267,hematopoietic precursor cell,female,African,1,3.6912900320403975e-06
+268,native cell,female,East Asian,158,0.0005832238250623828
+269,granulocyte,female,East Asian,6,2.2147740192242385e-05
+270,erythrocyte,female,East Asian,3,1.1073870096121193e-05
+271,platelet,female,East Asian,116,0.0004281896437166861
+272,B cell,female,East Asian,128,0.0004724851241011709
+273,dendritic cell,female,East Asian,1,3.6912900320403975e-06
+274,CD4-positive helper T cell,female,East Asian,3278,0.012100048725028423
+275,natural killer cell,female,East Asian,2137,0.00788828679847033
+276,plasmacytoid dendritic cell,female,East Asian,49,0.0001808732115699795
+277,plasma cell,female,East Asian,74,0.0002731554623709894
+278,naive B cell,female,East Asian,2095,0.007733252617124633
+279,"CD8-positive, alpha-beta cytotoxic T cell",female,East Asian,2569,0.009482924092311782
+280,gamma-delta T cell,female,East Asian,191,0.0007050363961197159
+281,mature NK T cell,female,East Asian,72,0.00026577288230690863
+282,regulatory T cell,female,East Asian,416,0.0015355766533288054
+283,classical monocyte,female,East Asian,2158,0.007965803889143178
+284,non-classical monocyte,female,East Asian,533,0.0019674575870775317
+285,"naive thymus-derived CD4-positive, alpha-beta T cell",female,East Asian,1964,0.0072496936229273405
+286,"naive thymus-derived CD8-positive, alpha-beta T cell",female,East Asian,903,0.003333234898932479
+287,"central memory CD8-positive, alpha-beta T cell",female,East Asian,892,0.0032926307085800344
+288,"effector memory CD8-positive, alpha-beta T cell",female,East Asian,174,0.0006422844655750292
+289,"CD4-positive, alpha-beta cytotoxic T cell",female,East Asian,474,0.0017496714751871485
+290,"CD16-negative, CD56-bright natural killer cell, human",female,East Asian,135,0.0004983241543254536
+291,mucosal invariant T cell,female,East Asian,448,0.001653697934354098
+292,class switched memory B cell,female,East Asian,495,0.0018271885658599967
+293,plasmablast,female,East Asian,6,2.2147740192242385e-05
+294,conventional dendritic cell,female,East Asian,202,0.0007456405864721603
+295,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",female,East Asian,358,0.0013214818314704624
+296,innate lymphoid cell,female,East Asian,16,5.906064051264636e-05
+297,hematopoietic precursor cell,female,East Asian,61,0.00022516869195446425
+298,native cell,female,European,41,0.0001513428913136563
+299,platelet,female,European,83,0.00030637707265935296
+300,B cell,female,European,41,0.0001513428913136563
+301,dendritic cell,female,European,3,1.1073870096121193e-05
+302,CD4-positive helper T cell,female,European,1416,0.0052268666853692025
+303,natural killer cell,female,European,1900,0.007013451060876755
+304,plasmacytoid dendritic cell,female,European,114,0.0004208070636526053
+305,plasma cell,female,European,9,3.322161028836358e-05
+306,naive B cell,female,European,424,0.0015651069735851285
+307,"CD8-positive, alpha-beta cytotoxic T cell",female,European,237,0.0008748357375935742
+308,gamma-delta T cell,female,European,188,0.0006939625260235947
+309,mature NK T cell,female,European,2,7.382580064080795e-06
+310,regulatory T cell,female,European,169,0.0006238280154148272
+311,classical monocyte,female,European,2078,0.007670500686579946
+312,non-classical monocyte,female,European,232,0.0008563792874333722
+313,"naive thymus-derived CD4-positive, alpha-beta T cell",female,European,1357,0.005009080573478819
+314,"naive thymus-derived CD8-positive, alpha-beta T cell",female,European,785,0.002897662675151712
+315,"central memory CD8-positive, alpha-beta T cell",female,European,200,0.0007382580064080795
+316,"effector memory CD8-positive, alpha-beta T cell",female,European,50,0.00018456450160201987
+317,"CD4-positive, alpha-beta cytotoxic T cell",female,European,10,3.691290032040397e-05
+318,"CD16-negative, CD56-bright natural killer cell, human",female,European,103,0.0003802028733001609
+319,mucosal invariant T cell,female,European,278,0.0010261786289072305
+320,class switched memory B cell,female,European,200,0.0007382580064080795
+321,plasmablast,female,European,1,3.6912900320403975e-06
+322,conventional dendritic cell,female,European,121,0.0004466460938768881
+323,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",female,European,27,9.966483086509073e-05
+324,innate lymphoid cell,female,European,8,2.953032025632318e-05
+325,hematopoietic precursor cell,female,European,9,3.322161028836358e-05
+326,native cell,female,unknown,4,1.476516012816159e-05
+327,platelet,female,unknown,210,0.0007751709067284835
+328,B cell,female,unknown,12,4.429548038448477e-05
+329,CD4-positive helper T cell,female,unknown,907,0.0033480000590606403
+330,natural killer cell,female,unknown,687,0.002535916252011753
+331,plasmacytoid dendritic cell,female,unknown,7,2.583903022428278e-05
+332,plasma cell,female,unknown,5,1.8456450160201986e-05
+333,naive B cell,female,unknown,855,0.0031560529773945398
+334,"CD8-positive, alpha-beta cytotoxic T cell",female,unknown,164,0.0006053715652546252
+335,gamma-delta T cell,female,unknown,33,0.00012181257105733311
+336,mature NK T cell,female,unknown,4,1.476516012816159e-05
+337,regulatory T cell,female,unknown,94,0.00034698126301179735
+338,classical monocyte,female,unknown,508,0.001875175336276522
+339,non-classical monocyte,female,unknown,44,0.00016241676140977748
+340,"naive thymus-derived CD4-positive, alpha-beta T cell",female,unknown,1710,0.0063121059547890795
+341,"naive thymus-derived CD8-positive, alpha-beta T cell",female,unknown,345,0.0012734950610539372
+342,"central memory CD8-positive, alpha-beta T cell",female,unknown,119,0.0004392635138128073
+343,"effector memory CD8-positive, alpha-beta T cell",female,unknown,19,7.013451060876755e-05
+344,"CD4-positive, alpha-beta cytotoxic T cell",female,unknown,41,0.0001513428913136563
+345,"CD16-negative, CD56-bright natural killer cell, human",female,unknown,15,5.536935048060596e-05
+346,mucosal invariant T cell,female,unknown,43,0.0001587254713777371
+347,class switched memory B cell,female,unknown,105,0.00038758545336424173
+348,conventional dendritic cell,female,unknown,17,6.275193054468675e-05
+349,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",female,unknown,17,6.275193054468675e-05
+350,innate lymphoid cell,female,unknown,1,3.6912900320403975e-06
+351,hematopoietic precursor cell,female,unknown,7,2.583903022428278e-05
+352,native cell,female,East Asian,11,4.060419035244437e-05
+353,erythrocyte,female,East Asian,159,0.0005869151150944232
+354,platelet,female,East Asian,1,3.6912900320403975e-06
+355,CD4-positive helper T cell,female,East Asian,2165,0.00799164291936746
+356,natural killer cell,female,East Asian,5,1.8456450160201986e-05
+357,plasma cell,female,East Asian,10,3.691290032040397e-05
+358,naive B cell,female,East Asian,1,3.6912900320403975e-06
+359,"CD8-positive, alpha-beta cytotoxic T cell",female,East Asian,12,4.429548038448477e-05
+360,gamma-delta T cell,female,East Asian,3,1.1073870096121193e-05
+361,regulatory T cell,female,East Asian,354,0.0013067166713423006
+362,classical monocyte,female,East Asian,195,0.0007198015562478775
+363,non-classical monocyte,female,East Asian,339,0.0012513473208616947
+364,"naive thymus-derived CD4-positive, alpha-beta T cell",female,East Asian,1564,0.005773177610111182
+365,"naive thymus-derived CD8-positive, alpha-beta T cell",female,East Asian,186,0.0006865799459595139
+366,"central memory CD8-positive, alpha-beta T cell",female,East Asian,58,0.00021409482185834306
+367,"effector memory CD8-positive, alpha-beta T cell",female,East Asian,9,3.322161028836358e-05
+368,"CD4-positive, alpha-beta cytotoxic T cell",female,East Asian,7,2.583903022428278e-05
+369,"CD16-negative, CD56-bright natural killer cell, human",female,East Asian,2,7.382580064080795e-06
+370,mucosal invariant T cell,female,East Asian,22,8.120838070488874e-05
+371,class switched memory B cell,female,East Asian,4,1.476516012816159e-05
+372,plasmablast,female,East Asian,1,3.6912900320403975e-06
+373,native cell,female,European,125,0.0004614112540050497
+374,erythrocyte,female,European,2,7.382580064080795e-06
+375,platelet,female,European,90,0.0003322161028836358
+376,B cell,female,European,14,5.167806044856556e-05
+377,dendritic cell,female,European,1,3.6912900320403975e-06
+378,CD4-positive helper T cell,female,European,1872,0.006910094939979624
+379,natural killer cell,female,European,2269,0.008375537082699662
+380,plasmacytoid dendritic cell,female,European,48,0.00017718192153793908
+381,plasma cell,female,European,3,1.1073870096121193e-05
+382,naive B cell,female,European,142,0.0005241631845497364
+383,"CD8-positive, alpha-beta cytotoxic T cell",female,European,3757,0.013868176650375773
+384,gamma-delta T cell,female,European,37,0.0001365777311854947
+385,mature NK T cell,female,European,13,4.798677041652517e-05
+386,regulatory T cell,female,European,220,0.0008120838070488875
+387,classical monocyte,female,European,1878,0.006932242680171867
+388,non-classical monocyte,female,European,464,0.0017127585748667445
+389,"naive thymus-derived CD4-positive, alpha-beta T cell",female,European,1206,0.004451695778640719
+390,"naive thymus-derived CD8-positive, alpha-beta T cell",female,European,71,0.0002620815922748682
+391,"central memory CD8-positive, alpha-beta T cell",female,European,385,0.001421146662335553
+392,"effector memory CD8-positive, alpha-beta T cell",female,European,83,0.00030637707265935296
+393,"CD4-positive, alpha-beta cytotoxic T cell",female,European,795,0.002934575575472116
+394,"CD16-negative, CD56-bright natural killer cell, human",female,European,189,0.0006976538160556351
+395,mucosal invariant T cell,female,European,68,0.000251007722178747
+396,class switched memory B cell,female,European,45,0.0001661080514418179
+397,conventional dendritic cell,female,European,96,0.00035436384307587816
+398,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",female,European,178,0.0006570496257031908
+399,innate lymphoid cell,female,European,17,6.275193054468675e-05
+400,hematopoietic precursor cell,female,European,16,5.906064051264636e-05
+401,native cell,female,South Asian,25,9.228225080100993e-05
+402,erythrocyte,female,South Asian,13,4.798677041652517e-05
+403,platelet,female,South Asian,103,0.0003802028733001609
+404,B cell,female,South Asian,192,0.0007087276861517563
+405,CD4-positive helper T cell,female,South Asian,666,0.002458399161338905
+406,natural killer cell,female,South Asian,368,0.0013583947317908664
+407,plasmacytoid dendritic cell,female,South Asian,12,4.429548038448477e-05
+408,plasma cell,female,South Asian,14,5.167806044856556e-05
+409,naive B cell,female,South Asian,208,0.0007677883266644027
+410,"CD8-positive, alpha-beta cytotoxic T cell",female,South Asian,519,0.0019157795266289664
+411,gamma-delta T cell,female,South Asian,1,3.6912900320403975e-06
+412,mature NK T cell,female,South Asian,6,2.2147740192242385e-05
+413,regulatory T cell,female,South Asian,91,0.00033590739291567616
+414,classical monocyte,female,South Asian,2495,0.009209768629940792
+415,non-classical monocyte,female,South Asian,383,0.0014137640822714723
+416,"naive thymus-derived CD4-positive, alpha-beta T cell",female,South Asian,51,0.00018825579163406027
+417,"naive thymus-derived CD8-positive, alpha-beta T cell",female,South Asian,4,1.476516012816159e-05
+418,"central memory CD8-positive, alpha-beta T cell",female,South Asian,140,0.0005167806044856556
+419,"effector memory CD8-positive, alpha-beta T cell",female,South Asian,37,0.0001365777311854947
+420,"CD4-positive, alpha-beta cytotoxic T cell",female,South Asian,46,0.0001697993414738583
+421,"CD16-negative, CD56-bright natural killer cell, human",female,South Asian,55,0.00020302095176222187
+422,mucosal invariant T cell,female,South Asian,5,1.8456450160201986e-05
+423,class switched memory B cell,female,South Asian,121,0.0004466460938768881
+424,plasmablast,female,South Asian,1,3.6912900320403975e-06
+425,conventional dendritic cell,female,South Asian,143,0.0005278544745817769
+426,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",female,South Asian,285,0.0010520176591315132
+427,hematopoietic precursor cell,female,South Asian,3,1.1073870096121193e-05
+428,native cell,female,unknown,24,8.859096076896954e-05
+429,platelet,female,unknown,2,7.382580064080795e-06
+430,B cell,female,unknown,1,3.6912900320403975e-06
+431,dendritic cell,female,unknown,2,7.382580064080795e-06
+432,CD4-positive helper T cell,female,unknown,282,0.001040943789035392
+433,natural killer cell,female,unknown,294,0.0010852392694198768
+434,plasma cell,female,unknown,3,1.1073870096121193e-05
+435,naive B cell,female,unknown,1481,0.005466800537451829
+436,"CD8-positive, alpha-beta cytotoxic T cell",female,unknown,118,0.0004355722237807669
+437,mature NK T cell,female,unknown,1,3.6912900320403975e-06
+438,regulatory T cell,female,unknown,118,0.0004355722237807669
+439,classical monocyte,female,unknown,505,0.0018641014661804007
+440,non-classical monocyte,female,unknown,8,2.953032025632318e-05
+441,"naive thymus-derived CD4-positive, alpha-beta T cell",female,unknown,1806,0.006666469797864958
+442,"naive thymus-derived CD8-positive, alpha-beta T cell",female,unknown,668,0.0024657817414029857
+443,"central memory CD8-positive, alpha-beta T cell",female,unknown,111,0.0004097331935564841
+444,"effector memory CD8-positive, alpha-beta T cell",female,unknown,12,4.429548038448477e-05
+445,"CD4-positive, alpha-beta cytotoxic T cell",female,unknown,14,5.167806044856556e-05
+446,"CD16-negative, CD56-bright natural killer cell, human",female,unknown,34,0.0001255038610893735
+447,mucosal invariant T cell,female,unknown,3,1.1073870096121193e-05
+448,class switched memory B cell,female,unknown,18,6.644322057672716e-05
+449,conventional dendritic cell,female,unknown,25,9.228225080100993e-05
+450,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",female,unknown,3,1.1073870096121193e-05
+451,innate lymphoid cell,female,unknown,2,7.382580064080795e-06
+452,native cell,female,European,114,0.0004208070636526053
+453,granulocyte,female,European,3,1.1073870096121193e-05
+454,erythrocyte,female,European,63,0.00023255127201854503
+455,platelet,female,European,19,7.013451060876755e-05
+456,B cell,female,European,2,7.382580064080795e-06
+457,CD4-positive helper T cell,female,European,164,0.0006053715652546252
+458,natural killer cell,female,European,792,0.002923501705375995
+459,plasmacytoid dendritic cell,female,European,7,2.583903022428278e-05
+460,plasma cell,female,European,4,1.476516012816159e-05
+461,naive B cell,female,European,879,0.0032446439381635093
+462,"CD8-positive, alpha-beta cytotoxic T cell",female,European,46,0.0001697993414738583
+463,gamma-delta T cell,female,European,27,9.966483086509073e-05
+464,mature NK T cell,female,European,13,4.798677041652517e-05
+465,regulatory T cell,female,European,183,0.0006755060758633927
+466,classical monocyte,female,European,1418,0.005234249265433284
+467,non-classical monocyte,female,European,260,0.0009597354083305034
+468,"naive thymus-derived CD4-positive, alpha-beta T cell",female,European,2198,0.008113455490424793
+469,"naive thymus-derived CD8-positive, alpha-beta T cell",female,European,1708,0.006304723374724999
+470,"central memory CD8-positive, alpha-beta T cell",female,European,120,0.0004429548038448477
+471,"effector memory CD8-positive, alpha-beta T cell",female,European,12,4.429548038448477e-05
+472,"CD16-negative, CD56-bright natural killer cell, human",female,European,161,0.000594297695158504
+473,mucosal invariant T cell,female,European,24,8.859096076896954e-05
+474,class switched memory B cell,female,European,2,7.382580064080795e-06
+475,conventional dendritic cell,female,European,43,0.0001587254713777371
+476,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",female,European,2,7.382580064080795e-06
+477,innate lymphoid cell,female,European,8,2.953032025632318e-05
+478,hematopoietic precursor cell,female,European,262,0.0009671179883945841
+479,native cell,male,European,103,0.0003802028733001609
+480,platelet,male,European,6,2.2147740192242385e-05
+481,B cell,male,European,71,0.0002620815922748682
+482,dendritic cell,male,European,1,3.6912900320403975e-06
+483,CD4-positive helper T cell,male,European,549,0.002026518227590178
+484,natural killer cell,male,European,1855,0.006847343009434938
+485,plasmacytoid dendritic cell,male,European,57,0.00021040353182630265
+486,plasma cell,male,European,51,0.00018825579163406027
+487,naive B cell,male,European,2282,0.008423523853116188
+488,"CD8-positive, alpha-beta cytotoxic T cell",male,European,1573,0.005806399220399545
+489,gamma-delta T cell,male,European,440,0.001624167614097775
+490,mature NK T cell,male,European,26,9.597354083305034e-05
+491,regulatory T cell,male,European,191,0.0007050363961197159
+492,classical monocyte,male,European,1467,0.005415122477003263
+493,non-classical monocyte,male,European,623,0.0022996736899611675
+494,"naive thymus-derived CD4-positive, alpha-beta T cell",male,European,2283,0.008427215143148228
+495,"naive thymus-derived CD8-positive, alpha-beta T cell",male,European,1174,0.004333574497615427
+496,"central memory CD8-positive, alpha-beta T cell",male,European,707,0.002609742052652561
+497,"effector memory CD8-positive, alpha-beta T cell",male,European,39,0.0001439603112495755
+498,"CD4-positive, alpha-beta cytotoxic T cell",male,European,88,0.00032483352281955497
+499,"CD16-negative, CD56-bright natural killer cell, human",male,European,137,0.0005057067343895345
+500,mucosal invariant T cell,male,European,52,0.00019194708166610068
+501,class switched memory B cell,male,European,152,0.0005610760848701404
+502,plasmablast,male,European,17,6.275193054468675e-05
+503,conventional dendritic cell,male,European,58,0.00021409482185834306
+504,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",male,European,246,0.0009080573478819378
+505,innate lymphoid cell,male,European,17,6.275193054468675e-05
+506,hematopoietic precursor cell,male,European,5,1.8456450160201986e-05
+507,native cell,male,unknown,36,0.00013288644115345432
+508,erythrocyte,male,unknown,1,3.6912900320403975e-06
+509,platelet,male,unknown,3,1.1073870096121193e-05
+510,B cell,male,unknown,139,0.0005130893144536153
+511,CD4-positive helper T cell,male,unknown,210,0.0007751709067284835
+512,natural killer cell,male,unknown,723,0.0026688026931652076
+513,plasmacytoid dendritic cell,male,unknown,23,8.489967073692915e-05
+514,plasma cell,male,unknown,30,0.00011073870096121192
+515,naive B cell,male,unknown,565,0.0020855788681028247
+516,"CD8-positive, alpha-beta cytotoxic T cell",male,unknown,250,0.0009228225080100994
+517,gamma-delta T cell,male,unknown,310,0.0011442999099325233
+518,mature NK T cell,male,unknown,1,3.6912900320403975e-06
+519,regulatory T cell,male,unknown,124,0.0004577199639730093
+520,classical monocyte,male,unknown,1189,0.004388943848096033
+521,non-classical monocyte,male,unknown,345,0.0012734950610539372
+522,"naive thymus-derived CD4-positive, alpha-beta T cell",male,unknown,935,0.003451356179957772
+523,"naive thymus-derived CD8-positive, alpha-beta T cell",male,unknown,398,0.0014691334327520782
+524,"central memory CD8-positive, alpha-beta T cell",male,unknown,237,0.0008748357375935742
+525,"effector memory CD8-positive, alpha-beta T cell",male,unknown,30,0.00011073870096121192
+526,"CD4-positive, alpha-beta cytotoxic T cell",male,unknown,19,7.013451060876755e-05
+527,"CD16-negative, CD56-bright natural killer cell, human",male,unknown,177,0.0006533583356711503
+528,mucosal invariant T cell,male,unknown,185,0.0006828886559274736
+529,class switched memory B cell,male,unknown,154,0.0005684586649342212
+530,plasmablast,male,unknown,2,7.382580064080795e-06
+531,conventional dendritic cell,male,unknown,114,0.0004208070636526053
+532,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",male,unknown,141,0.000520471894517696
+533,innate lymphoid cell,male,unknown,26,9.597354083305034e-05
+534,hematopoietic precursor cell,male,unknown,10,3.691290032040397e-05
+535,native cell,male,African,26,9.597354083305034e-05
+536,granulocyte,male,African,1,3.6912900320403975e-06
+537,erythrocyte,male,African,1,3.6912900320403975e-06
+538,B cell,male,African,39,0.0001439603112495755
+539,CD4-positive helper T cell,male,African,290,0.0010704741092917153
+540,natural killer cell,male,African,350,0.0012919515112141391
+541,plasma cell,male,African,7,2.583903022428278e-05
+542,naive B cell,male,African,773,0.0028533671947672274
+543,"CD8-positive, alpha-beta cytotoxic T cell",male,African,593,0.0021889349889999557
+544,gamma-delta T cell,male,African,224,0.000826848967177049
+545,mature NK T cell,male,African,16,5.906064051264636e-05
+546,regulatory T cell,male,African,53,0.00019563837169814106
+547,classical monocyte,male,African,215,0.0007936273568886855
+548,non-classical monocyte,male,African,102,0.00037651158326812054
+549,"naive thymus-derived CD4-positive, alpha-beta T cell",male,African,867,0.0032003484577790248
+550,"naive thymus-derived CD8-positive, alpha-beta T cell",male,African,700,0.0025839030224282782
+551,"central memory CD8-positive, alpha-beta T cell",male,African,360,0.0013288644115345431
+552,"effector memory CD8-positive, alpha-beta T cell",male,African,22,8.120838070488874e-05
+553,"CD4-positive, alpha-beta cytotoxic T cell",male,African,45,0.0001661080514418179
+554,"CD16-negative, CD56-bright natural killer cell, human",male,African,30,0.00011073870096121192
+555,mucosal invariant T cell,male,African,206,0.0007604057466003218
+556,class switched memory B cell,male,African,32,0.00011812128102529272
+557,conventional dendritic cell,male,African,14,5.167806044856556e-05
+558,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",male,African,60,0.00022147740192242384
+559,innate lymphoid cell,male,African,2,7.382580064080795e-06
+560,hematopoietic precursor cell,male,African,1,3.6912900320403975e-06
+561,native cell,male,European,26,9.597354083305034e-05
+562,granulocyte,male,European,1,3.6912900320403975e-06
+563,B cell,male,European,142,0.0005241631845497364
+564,dendritic cell,male,European,7,2.583903022428278e-05
+565,CD4-positive helper T cell,male,European,441,0.0016278589041298153
+566,natural killer cell,male,European,788,0.0029087365452478333
+567,plasmacytoid dendritic cell,male,European,89,0.0003285248128515954
+568,plasma cell,male,European,2,7.382580064080795e-06
+569,naive B cell,male,European,318,0.0011738302301888463
+570,"CD8-positive, alpha-beta cytotoxic T cell",male,European,234,0.000863761867497453
+571,gamma-delta T cell,male,European,306,0.0011295347498043616
+572,mature NK T cell,male,European,3,1.1073870096121193e-05
+573,regulatory T cell,male,European,77,0.0002842293324671106
+574,classical monocyte,male,European,610,0.0022516869195446424
+575,non-classical monocyte,male,European,298,0.0011000044295480385
+576,"naive thymus-derived CD4-positive, alpha-beta T cell",male,European,1051,0.003879545823674458
+577,"naive thymus-derived CD8-positive, alpha-beta T cell",male,European,935,0.003451356179957772
+578,"central memory CD8-positive, alpha-beta T cell",male,European,380,0.0014026902121753511
+579,"effector memory CD8-positive, alpha-beta T cell",male,European,31,0.00011442999099325233
+580,"CD4-positive, alpha-beta cytotoxic T cell",male,European,3,1.1073870096121193e-05
+581,"CD16-negative, CD56-bright natural killer cell, human",male,European,44,0.00016241676140977748
+582,mucosal invariant T cell,male,European,69,0.00025469901221078744
+583,class switched memory B cell,male,European,83,0.00030637707265935296
+584,conventional dendritic cell,male,European,153,0.0005647673749021808
+585,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",male,European,14,5.167806044856556e-05
+586,innate lymphoid cell,male,European,4,1.476516012816159e-05
+587,hematopoietic precursor cell,male,European,6,2.2147740192242385e-05
+588,native cell,male,European,87,0.0003211422327875146
+589,erythrocyte,male,European,4,1.476516012816159e-05
+590,platelet,male,European,7,2.583903022428278e-05
+591,B cell,male,European,26,9.597354083305034e-05
+592,CD4-positive helper T cell,male,European,374,0.0013805424719831086
+593,natural killer cell,male,European,1724,0.006363784015237645
+594,plasmacytoid dendritic cell,male,European,29,0.00010704741092917153
+595,plasma cell,male,European,9,3.322161028836358e-05
+596,naive B cell,male,European,485,0.0017902756655395929
+597,"CD8-positive, alpha-beta cytotoxic T cell",male,European,353,0.0013030253813102602
+598,gamma-delta T cell,male,European,163,0.0006016802752225848
+599,mature NK T cell,male,European,9,3.322161028836358e-05
+600,regulatory T cell,male,European,119,0.0004392635138128073
+601,classical monocyte,male,European,923,0.003407060699573287
+602,non-classical monocyte,male,European,570,0.0021040353182630264
+603,"naive thymus-derived CD4-positive, alpha-beta T cell",male,European,1068,0.003942297754219145
+604,"naive thymus-derived CD8-positive, alpha-beta T cell",male,European,595,0.0021963175690640365
+605,"central memory CD8-positive, alpha-beta T cell",male,European,206,0.0007604057466003218
+606,"effector memory CD8-positive, alpha-beta T cell",male,European,43,0.0001587254713777371
+607,"CD4-positive, alpha-beta cytotoxic T cell",male,European,19,7.013451060876755e-05
+608,"CD16-negative, CD56-bright natural killer cell, human",male,European,119,0.0004392635138128073
+609,mucosal invariant T cell,male,European,73,0.000269464172338949
+610,class switched memory B cell,male,European,45,0.0001661080514418179
+611,conventional dendritic cell,male,European,16,5.906064051264636e-05
+612,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",male,European,65,0.00023993385208262585
+613,innate lymphoid cell,male,European,13,4.798677041652517e-05
+614,hematopoietic precursor cell,male,European,8,2.953032025632318e-05
+615,native cell,male,European,104,0.00038389416333220136
+616,granulocyte,male,European,3,1.1073870096121193e-05
+617,erythrocyte,male,European,3,1.1073870096121193e-05
+618,platelet,male,European,38,0.0001402690212175351
+619,B cell,male,European,74,0.0002731554623709894
+620,dendritic cell,male,European,5,1.8456450160201986e-05
+621,CD4-positive helper T cell,male,European,2461,0.009084264768851418
+622,natural killer cell,male,European,2826,0.010431585630546164
+623,plasmacytoid dendritic cell,male,European,180,0.0006644322057672716
+624,plasma cell,male,European,80,0.0002953032025632318
+625,naive B cell,male,European,1466,0.005411431186971223
+626,"CD8-positive, alpha-beta cytotoxic T cell",male,European,2142,0.007906743248630532
+627,gamma-delta T cell,male,European,325,0.0011996692604131292
+628,mature NK T cell,male,European,39,0.0001439603112495755
+629,regulatory T cell,male,European,366,0.0013510121517267854
+630,classical monocyte,male,European,4392,0.016212145820721426
+631,non-classical monocyte,male,European,820,0.003026857826273126
+632,"naive thymus-derived CD4-positive, alpha-beta T cell",male,European,4857,0.017928595685620212
+633,"naive thymus-derived CD8-positive, alpha-beta T cell",male,European,1034,0.003816793893129771
+634,"central memory CD8-positive, alpha-beta T cell",male,European,943,0.003480886500214095
+635,"effector memory CD8-positive, alpha-beta T cell",male,European,210,0.0007751709067284835
+636,"CD4-positive, alpha-beta cytotoxic T cell",male,European,301,0.0011110782996441597
+637,"CD16-negative, CD56-bright natural killer cell, human",male,European,354,0.0013067166713423006
+638,mucosal invariant T cell,male,European,354,0.0013067166713423006
+639,class switched memory B cell,male,European,246,0.0009080573478819378
+640,plasmablast,male,European,3,1.1073870096121193e-05
+641,conventional dendritic cell,male,European,396,0.0014617508526879974
+642,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",male,European,279,0.001029869918939271
+643,innate lymphoid cell,male,European,32,0.00011812128102529272
+644,hematopoietic precursor cell,male,European,70,0.0002583903022428278
+645,native cell,male,South Asian,7,2.583903022428278e-05
+646,platelet,male,South Asian,1,3.6912900320403975e-06
+647,B cell,male,South Asian,5,1.8456450160201986e-05
+648,CD4-positive helper T cell,male,South Asian,279,0.001029869918939271
+649,natural killer cell,male,South Asian,325,0.0011996692604131292
+650,plasmacytoid dendritic cell,male,South Asian,9,3.322161028836358e-05
+651,plasma cell,male,South Asian,9,3.322161028836358e-05
+652,naive B cell,male,South Asian,256,0.0009449702482023418
+653,"CD8-positive, alpha-beta cytotoxic T cell",male,South Asian,538,0.001985914037237734
+654,gamma-delta T cell,male,South Asian,27,9.966483086509073e-05
+655,mature NK T cell,male,South Asian,5,1.8456450160201986e-05
+656,regulatory T cell,male,South Asian,68,0.000251007722178747
+657,classical monocyte,male,South Asian,111,0.0004097331935564841
+658,non-classical monocyte,male,South Asian,49,0.0001808732115699795
+659,"naive thymus-derived CD4-positive, alpha-beta T cell",male,South Asian,444,0.0016389327742259365
+660,"naive thymus-derived CD8-positive, alpha-beta T cell",male,South Asian,172,0.0006349018855109484
+661,"central memory CD8-positive, alpha-beta T cell",male,South Asian,161,0.000594297695158504
+662,"effector memory CD8-positive, alpha-beta T cell",male,South Asian,48,0.00017718192153793908
+663,"CD4-positive, alpha-beta cytotoxic T cell",male,South Asian,54,0.00019932966173018146
+664,"CD16-negative, CD56-bright natural killer cell, human",male,South Asian,52,0.00019194708166610068
+665,mucosal invariant T cell,male,South Asian,21,7.751709067284835e-05
+666,class switched memory B cell,male,South Asian,69,0.00025469901221078744
+667,conventional dendritic cell,male,South Asian,18,6.644322057672716e-05
+668,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",male,South Asian,117,0.0004318809337487265
+669,innate lymphoid cell,male,South Asian,3,1.1073870096121193e-05
+670,native cell,male,unknown,5,1.8456450160201986e-05
+671,erythrocyte,male,unknown,4,1.476516012816159e-05
+672,B cell,male,unknown,2,7.382580064080795e-06
+673,dendritic cell,male,unknown,1,3.6912900320403975e-06
+674,CD4-positive helper T cell,male,unknown,536,0.001978531457173653
+675,natural killer cell,male,unknown,572,0.0021114178983271076
+676,plasmacytoid dendritic cell,male,unknown,12,4.429548038448477e-05
+677,plasma cell,male,unknown,8,2.953032025632318e-05
+678,naive B cell,male,unknown,159,0.0005869151150944232
+679,"CD8-positive, alpha-beta cytotoxic T cell",male,unknown,81,0.0002989944925952722
+680,gamma-delta T cell,male,unknown,27,9.966483086509073e-05
+681,mature NK T cell,male,unknown,2,7.382580064080795e-06
+682,regulatory T cell,male,unknown,86,0.0003174509427554742
+683,classical monocyte,male,unknown,670,0.0024731643214670664
+684,non-classical monocyte,male,unknown,127,0.0004687938340691305
+685,"naive thymus-derived CD4-positive, alpha-beta T cell",male,unknown,715,0.002639272372908884
+686,"naive thymus-derived CD8-positive, alpha-beta T cell",male,unknown,155,0.0005721499549662617
+687,"central memory CD8-positive, alpha-beta T cell",male,unknown,43,0.0001587254713777371
+688,"effector memory CD8-positive, alpha-beta T cell",male,unknown,11,4.060419035244437e-05
+689,"CD4-positive, alpha-beta cytotoxic T cell",male,unknown,5,1.8456450160201986e-05
+690,"CD16-negative, CD56-bright natural killer cell, human",male,unknown,56,0.00020671224179426225
+691,mucosal invariant T cell,male,unknown,30,0.00011073870096121192
+692,class switched memory B cell,male,unknown,31,0.00011442999099325233
+693,conventional dendritic cell,male,unknown,66,0.00024362514211466623
+694,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",male,unknown,11,4.060419035244437e-05
+695,innate lymphoid cell,male,unknown,3,1.1073870096121193e-05
+696,hematopoietic precursor cell,male,unknown,10,3.691290032040397e-05
+697,native cell,male,European,195,0.0007198015562478775
+698,erythrocyte,male,European,1,3.6912900320403975e-06
+699,platelet,male,European,59,0.00021778611189038344
+700,B cell,male,European,81,0.0002989944925952722
+701,dendritic cell,male,European,7,2.583903022428278e-05
+702,CD4-positive helper T cell,male,European,3013,0.011121856866537718
+703,natural killer cell,male,European,7658,0.028267899065365365
+704,plasmacytoid dendritic cell,male,European,178,0.0006570496257031908
+705,plasma cell,male,European,29,0.00010704741092917153
+706,naive B cell,male,European,1116,0.004119479675757084
+707,"CD8-positive, alpha-beta cytotoxic T cell",male,European,6436,0.023757142646212
+708,gamma-delta T cell,male,European,593,0.0021889349889999557
+709,mature NK T cell,male,European,125,0.0004614112540050497
+710,regulatory T cell,male,European,574,0.0021188004783911883
+711,classical monocyte,male,European,4292,0.015843016817517385
+712,non-classical monocyte,male,European,604,0.0022295391793524
+713,"naive thymus-derived CD4-positive, alpha-beta T cell",male,European,3708,0.013687303438805793
+714,"naive thymus-derived CD8-positive, alpha-beta T cell",male,European,541,0.001996987907333855
+715,"central memory CD8-positive, alpha-beta T cell",male,European,1381,0.005097671534247789
+716,"effector memory CD8-positive, alpha-beta T cell",male,European,266,0.0009818831485227458
+717,"CD4-positive, alpha-beta cytotoxic T cell",male,European,474,0.0017496714751871485
+718,"CD16-negative, CD56-bright natural killer cell, human",male,European,483,0.0017828930854755119
+719,mucosal invariant T cell,male,European,287,0.0010594002391955942
+720,class switched memory B cell,male,European,138,0.0005093980244215749
+721,conventional dendritic cell,male,European,206,0.0007604057466003218
+722,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",male,European,1594,0.005883916311072394
+723,innate lymphoid cell,male,European,37,0.0001365777311854947
+724,hematopoietic precursor cell,male,European,50,0.00018456450160201987
+725,native cell,male,unknown,14,5.167806044856556e-05
+726,erythrocyte,male,unknown,8,2.953032025632318e-05
+727,CD4-positive helper T cell,male,unknown,1188,0.004385252558063992
+728,natural killer cell,male,unknown,5,1.8456450160201986e-05
+729,plasmacytoid dendritic cell,male,unknown,1,3.6912900320403975e-06
+730,plasma cell,male,unknown,2,7.382580064080795e-06
+731,"CD8-positive, alpha-beta cytotoxic T cell",male,unknown,43,0.0001587254713777371
+732,gamma-delta T cell,male,unknown,27,9.966483086509073e-05
+733,mature NK T cell,male,unknown,1,3.6912900320403975e-06
+734,regulatory T cell,male,unknown,146,0.000538928344677898
+735,classical monocyte,male,unknown,101,0.00037282029323608016
+736,non-classical monocyte,male,unknown,129,0.00047617641413321126
+737,"naive thymus-derived CD4-positive, alpha-beta T cell",male,unknown,1393,0.005141967014632274
+738,"naive thymus-derived CD8-positive, alpha-beta T cell",male,unknown,119,0.0004392635138128073
+739,"central memory CD8-positive, alpha-beta T cell",male,unknown,118,0.0004355722237807669
+740,"effector memory CD8-positive, alpha-beta T cell",male,unknown,14,5.167806044856556e-05
+741,"CD16-negative, CD56-bright natural killer cell, human",male,unknown,4,1.476516012816159e-05
+742,mucosal invariant T cell,male,unknown,16,5.906064051264636e-05
+743,class switched memory B cell,male,unknown,1,3.6912900320403975e-06
+744,conventional dendritic cell,male,unknown,1,3.6912900320403975e-06
+745,innate lymphoid cell,male,unknown,1,3.6912900320403975e-06
+746,native cell,male,European,107,0.00039496803342832255
+747,erythrocyte,male,European,3,1.1073870096121193e-05
+748,platelet,male,European,3,1.1073870096121193e-05
+749,B cell,male,European,71,0.0002620815922748682
+750,dendritic cell,male,European,1,3.6912900320403975e-06
+751,CD4-positive helper T cell,male,European,640,0.002362425620505854
+752,natural killer cell,male,European,1507,0.005562774078284879
+753,plasmacytoid dendritic cell,male,European,35,0.0001291951511214139
+754,plasma cell,male,European,26,9.597354083305034e-05
+755,naive B cell,male,European,6218,0.02295244141922719
+756,"CD8-positive, alpha-beta cytotoxic T cell",male,European,560,0.0020671224179426226
+757,gamma-delta T cell,male,European,198,0.0007308754263439987
+758,mature NK T cell,male,European,35,0.0001291951511214139
+759,regulatory T cell,male,European,651,0.0024030298108582986
+760,classical monocyte,male,European,911,0.0033627652191888023
+761,non-classical monocyte,male,European,182,0.0006718147858313523
+762,"naive thymus-derived CD4-positive, alpha-beta T cell",male,European,7303,0.026957491103991024
+763,"naive thymus-derived CD8-positive, alpha-beta T cell",male,European,2606,0.009619501823497276
+764,"central memory CD8-positive, alpha-beta T cell",male,European,392,0.001446985692559836
+765,"effector memory CD8-positive, alpha-beta T cell",male,European,34,0.0001255038610893735
+766,"CD4-positive, alpha-beta cytotoxic T cell",male,European,129,0.00047617641413321126
+767,"CD16-negative, CD56-bright natural killer cell, human",male,European,197,0.0007271841363119583
+768,mucosal invariant T cell,male,European,50,0.00018456450160201987
+769,class switched memory B cell,male,European,192,0.0007087276861517563
+770,plasmablast,male,European,5,1.8456450160201986e-05
+771,conventional dendritic cell,male,European,67,0.00024731643214670663
+772,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",male,European,194,0.0007161102662158371
+773,innate lymphoid cell,male,European,9,3.322161028836358e-05
+774,hematopoietic precursor cell,male,European,5,1.8456450160201986e-05
+775,native cell,male,unknown,131,0.00048355899419729207
+776,granulocyte,male,unknown,1,3.6912900320403975e-06
+777,erythrocyte,male,unknown,5,1.8456450160201986e-05
+778,platelet,male,unknown,22,8.120838070488874e-05
+779,B cell,male,unknown,25,9.228225080100993e-05
+780,dendritic cell,male,unknown,7,2.583903022428278e-05
+781,CD4-positive helper T cell,male,unknown,501,0.0018493363060522391
+782,natural killer cell,male,unknown,2083,0.007688957136740148
+783,plasmacytoid dendritic cell,male,unknown,107,0.00039496803342832255
+784,plasma cell,male,unknown,5,1.8456450160201986e-05
+785,naive B cell,male,unknown,228,0.0008416141273052106
+786,"CD8-positive, alpha-beta cytotoxic T cell",male,unknown,96,0.00035436384307587816
+787,gamma-delta T cell,male,unknown,113,0.00041711577362056493
+788,mature NK T cell,male,unknown,12,4.429548038448477e-05
+789,regulatory T cell,male,unknown,199,0.0007345667163760391
+790,classical monocyte,male,unknown,2127,0.007851373898149926
+791,non-classical monocyte,male,unknown,740,0.0027315546237098942
+792,"naive thymus-derived CD4-positive, alpha-beta T cell",male,unknown,1796,0.006629556897544554
+793,"naive thymus-derived CD8-positive, alpha-beta T cell",male,unknown,906,0.0033443087690286
+794,"central memory CD8-positive, alpha-beta T cell",male,unknown,82,0.0003026857826273126
+795,"effector memory CD8-positive, alpha-beta T cell",male,unknown,11,4.060419035244437e-05
+796,"CD4-positive, alpha-beta cytotoxic T cell",male,unknown,2,7.382580064080795e-06
+797,"CD16-negative, CD56-bright natural killer cell, human",male,unknown,130,0.0004798677041652517
+798,mucosal invariant T cell,male,unknown,44,0.00016241676140977748
+799,class switched memory B cell,male,unknown,8,2.953032025632318e-05
+800,plasmablast,male,unknown,2,7.382580064080795e-06
+801,conventional dendritic cell,male,unknown,387,0.0014285292423996338
+802,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",male,unknown,10,3.691290032040397e-05
+803,innate lymphoid cell,male,unknown,4,1.476516012816159e-05
+804,hematopoietic precursor cell,male,unknown,15,5.536935048060596e-05
+805,native cell,male,European,53,0.00019563837169814106
+806,granulocyte,male,European,2,7.382580064080795e-06
+807,erythrocyte,male,European,1,3.6912900320403975e-06
+808,platelet,male,European,42,0.0001550341813456967
+809,B cell,male,European,2,7.382580064080795e-06
+810,CD4-positive helper T cell,male,European,565,0.0020855788681028247
+811,natural killer cell,male,European,629,0.00232182143015341
+812,plasmacytoid dendritic cell,male,European,8,2.953032025632318e-05
+813,plasma cell,male,European,2,7.382580064080795e-06
+814,naive B cell,male,European,323,0.0011922866803490484
+815,"CD8-positive, alpha-beta cytotoxic T cell",male,European,13,4.798677041652517e-05
+816,gamma-delta T cell,male,European,1,3.6912900320403975e-06
+817,mature NK T cell,male,European,7,2.583903022428278e-05
+818,regulatory T cell,male,European,137,0.0005057067343895345
+819,classical monocyte,male,European,1268,0.004680555760627224
+820,non-classical monocyte,male,European,104,0.00038389416333220136
+821,"naive thymus-derived CD4-positive, alpha-beta T cell",male,European,1711,0.00631579724482112
+822,"naive thymus-derived CD8-positive, alpha-beta T cell",male,European,666,0.002458399161338905
+823,"central memory CD8-positive, alpha-beta T cell",male,European,60,0.00022147740192242384
+824,"effector memory CD8-positive, alpha-beta T cell",male,European,8,2.953032025632318e-05
+825,"CD16-negative, CD56-bright natural killer cell, human",male,European,248,0.0009154399279460186
+826,mucosal invariant T cell,male,European,1,3.6912900320403975e-06
+827,conventional dendritic cell,male,European,12,4.429548038448477e-05
+828,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",male,European,1,3.6912900320403975e-06
+829,innate lymphoid cell,male,European,12,4.429548038448477e-05
+830,hematopoietic precursor cell,male,European,15,5.536935048060596e-05

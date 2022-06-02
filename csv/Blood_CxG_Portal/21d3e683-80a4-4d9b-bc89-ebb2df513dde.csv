@@ -1,0 +1,161 @@
+,cell_type,sex,race,count,percentage
+0,memory B cell,female,unknown,68,0.0009976672192960577
+1,naive B cell,female,unknown,401,0.00588330227849587
+2,gamma-delta T cell,female,unknown,28,0.00041080414912190614
+3,memory T cell,female,unknown,5,7.335788377176895e-05
+4,regulatory T cell,female,unknown,24,0.00035211784210449095
+5,"naive thymus-derived CD4-positive, alpha-beta T cell",female,unknown,88,0.0012910987543831335
+6,"CD4-positive, alpha-beta memory T cell",female,unknown,219,0.0032130753092034802
+7,"naive thymus-derived CD8-positive, alpha-beta T cell",female,unknown,80,0.0011737261403483032
+8,"CD8-positive, alpha-beta memory T cell",female,unknown,44,0.0006455493771915668
+9,mucosal invariant T cell,female,unknown,15,0.00022007365131530686
+10,plasmablast,female,unknown,2,2.934315350870758e-05
+11,T cell,female,unknown,4,5.868630701741516e-05
+12,memory B cell,female,unknown,499,0.0073211168004225415
+13,naive B cell,female,unknown,259,0.003799938379377632
+14,gamma-delta T cell,female,unknown,942,0.01382062530260127
+15,memory T cell,female,unknown,52,0.0007629219912263971
+16,regulatory T cell,female,unknown,45,0.0006602209539459206
+17,"naive thymus-derived CD4-positive, alpha-beta T cell",female,unknown,619,0.009081706010944997
+18,"CD4-positive, alpha-beta memory T cell",female,unknown,3225,0.04731583503279097
+19,"naive thymus-derived CD8-positive, alpha-beta T cell",female,unknown,318,0.004665561407884505
+20,"CD8-positive, alpha-beta memory T cell",female,unknown,507,0.007438489414457372
+21,mucosal invariant T cell,female,unknown,112,0.0016432165964876246
+22,plasmablast,female,unknown,19,0.000278759958332722
+23,double negative thymocyte,female,unknown,73,0.0010710251030678266
+24,memory B cell,male,unknown,326,0.004782934021919335
+25,naive B cell,male,unknown,173,0.002538182778503206
+26,gamma-delta T cell,male,unknown,413,0.006059361199548115
+27,"double-positive, alpha-beta thymocyte",male,unknown,10,0.0001467157675435379
+28,memory T cell,male,unknown,10,0.0001467157675435379
+29,regulatory T cell,male,unknown,40,0.0005868630701741516
+30,"naive thymus-derived CD4-positive, alpha-beta T cell",male,unknown,1307,0.019175750817940405
+31,"CD4-positive, alpha-beta memory T cell",male,unknown,2668,0.039143766780615916
+32,"naive thymus-derived CD8-positive, alpha-beta T cell",male,unknown,1029,0.01509705248023005
+33,"CD8-positive, alpha-beta memory T cell",male,unknown,1164,0.017077715342067812
+34,mucosal invariant T cell,male,unknown,326,0.004782934021919335
+35,plasmablast,male,unknown,37,0.0005428483399110902
+36,double negative thymocyte,male,unknown,221,0.0032424184627121875
+37,memory B cell,male,unknown,195,0.002860957467098989
+38,naive B cell,male,unknown,372,0.00545782655261961
+39,gamma-delta T cell,male,unknown,6,8.802946052612274e-05
+40,memory T cell,male,unknown,1,1.467157675435379e-05
+41,regulatory T cell,male,unknown,9,0.00013204419078918412
+42,"naive thymus-derived CD4-positive, alpha-beta T cell",male,unknown,30,0.0004401473026306137
+43,"CD4-positive, alpha-beta memory T cell",male,unknown,320,0.004694904561393213
+44,"naive thymus-derived CD8-positive, alpha-beta T cell",male,unknown,40,0.0005868630701741516
+45,"CD8-positive, alpha-beta memory T cell",male,unknown,208,0.0030516879649055886
+46,mucosal invariant T cell,male,unknown,19,0.000278759958332722
+47,plasmablast,male,unknown,8,0.00011737261403483032
+48,memory B cell,male,unknown,367,0.005384468668847841
+49,naive B cell,male,unknown,361,0.005296439208321718
+50,gamma-delta T cell,male,unknown,281,0.004122713067973415
+51,"double-positive, alpha-beta thymocyte",male,unknown,10,0.0001467157675435379
+52,memory T cell,male,unknown,5,7.335788377176895e-05
+53,regulatory T cell,male,unknown,95,0.0013937997916636101
+54,"naive thymus-derived CD4-positive, alpha-beta T cell",male,unknown,2100,0.03081031118414296
+55,"CD4-positive, alpha-beta memory T cell",male,unknown,2376,0.03485966636834461
+56,"naive thymus-derived CD8-positive, alpha-beta T cell",male,unknown,455,0.006675567423230975
+57,"CD8-positive, alpha-beta memory T cell",male,unknown,395,0.005795272817969747
+58,mucosal invariant T cell,male,unknown,372,0.00545782655261961
+59,plasmablast,male,unknown,16,0.00023474522806966064
+60,double negative thymocyte,male,unknown,38,0.000557519916665444
+61,memory B cell,male,unknown,127,0.0018632902478029315
+62,naive B cell,male,unknown,151,0.0022154080899074225
+63,gamma-delta T cell,male,unknown,28,0.00041080414912190614
+64,memory T cell,male,unknown,19,0.000278759958332722
+65,regulatory T cell,male,unknown,11,0.0001613873442978917
+66,"naive thymus-derived CD4-positive, alpha-beta T cell",male,unknown,50,0.0007335788377176895
+67,"CD4-positive, alpha-beta memory T cell",male,unknown,306,0.00448950248683226
+68,"naive thymus-derived CD8-positive, alpha-beta T cell",male,unknown,40,0.0005868630701741516
+69,"CD8-positive, alpha-beta memory T cell",male,unknown,217,0.0031837321556947725
+70,mucosal invariant T cell,male,unknown,132,0.0019366481315747004
+71,plasmablast,male,unknown,5,7.335788377176895e-05
+72,T cell,male,unknown,2,2.934315350870758e-05
+73,memory B cell,male,unknown,217,0.0031837321556947725
+74,naive B cell,male,unknown,142,0.002083363899118238
+75,gamma-delta T cell,male,unknown,231,0.0033891342302557258
+76,memory T cell,male,unknown,31,0.0004548188793849675
+77,regulatory T cell,male,unknown,52,0.0007629219912263971
+78,"naive thymus-derived CD4-positive, alpha-beta T cell",male,unknown,893,0.013101718041637934
+79,"CD4-positive, alpha-beta memory T cell",male,unknown,3062,0.04492436802183131
+80,"naive thymus-derived CD8-positive, alpha-beta T cell",male,unknown,412,0.006044689622793762
+81,"CD8-positive, alpha-beta memory T cell",male,unknown,1083,0.015889317624965156
+82,mucosal invariant T cell,male,unknown,955,0.01401135580040787
+83,plasmablast,male,unknown,11,0.0001613873442978917
+84,double negative thymocyte,male,unknown,353,0.005179066594286888
+85,memory B cell,male,unknown,556,0.008157396675420708
+86,naive B cell,male,unknown,94,0.0013791282149092563
+87,gamma-delta T cell,male,unknown,7,0.00010270103728047654
+88,"double-positive, alpha-beta thymocyte",male,unknown,14,0.00020540207456095307
+89,memory T cell,male,unknown,19,0.000278759958332722
+90,regulatory T cell,male,unknown,162,0.002376795434205314
+91,"naive thymus-derived CD4-positive, alpha-beta T cell",male,unknown,236,0.0034624921140274947
+92,"CD4-positive, alpha-beta memory T cell",male,unknown,3284,0.048181458061297845
+93,"naive thymus-derived CD8-positive, alpha-beta T cell",male,unknown,391,0.005736586510952332
+94,"CD8-positive, alpha-beta memory T cell",male,unknown,1397,0.020496192725832245
+95,mucosal invariant T cell,male,unknown,224,0.003286433192975249
+96,plasmablast,male,unknown,20,0.0002934315350870758
+97,double negative thymocyte,male,unknown,28,0.00041080414912190614
+98,T cell,male,unknown,11,0.0001613873442978917
+99,memory B cell,male,unknown,1230,0.018046039407855163
+100,naive B cell,male,unknown,504,0.00739447468419431
+101,gamma-delta T cell,male,unknown,29,0.0004254757258762599
+102,memory T cell,male,unknown,95,0.0013937997916636101
+103,regulatory T cell,male,unknown,12,0.00017605892105224547
+104,"naive thymus-derived CD4-positive, alpha-beta T cell",male,unknown,263,0.003858624686395047
+105,"CD4-positive, alpha-beta memory T cell",male,unknown,2319,0.03402338649334644
+106,"naive thymus-derived CD8-positive, alpha-beta T cell",male,unknown,315,0.004621546677621444
+107,"CD8-positive, alpha-beta memory T cell",male,unknown,1391,0.02040816326530612
+108,mucosal invariant T cell,male,unknown,180,0.0026408838157836825
+109,plasmablast,male,unknown,21,0.0003081031118414296
+110,double negative thymocyte,male,unknown,117,0.0017165744802593935
+111,memory B cell,male,unknown,333,0.004885635059199812
+112,naive B cell,male,unknown,161,0.0023621238574509603
+113,gamma-delta T cell,male,unknown,4,5.868630701741516e-05
+114,"double-positive, alpha-beta thymocyte",male,unknown,10,0.0001467157675435379
+115,memory T cell,male,unknown,2,2.934315350870758e-05
+116,regulatory T cell,male,unknown,52,0.0007629219912263971
+117,"naive thymus-derived CD4-positive, alpha-beta T cell",male,unknown,428,0.006279434850863423
+118,"CD4-positive, alpha-beta memory T cell",male,unknown,2462,0.03612142196921903
+119,"naive thymus-derived CD8-positive, alpha-beta T cell",male,unknown,149,0.002186064936398715
+120,"CD8-positive, alpha-beta memory T cell",male,unknown,3010,0.04416144603060491
+121,mucosal invariant T cell,male,unknown,103,0.0015111724056984404
+122,plasmablast,male,unknown,12,0.00017605892105224547
+123,double negative thymocyte,male,unknown,143,0.002098035475872592
+124,memory B cell,male,unknown,42,0.0006162062236828592
+125,naive B cell,male,unknown,419,0.006147390660074238
+126,gamma-delta T cell,male,unknown,83,0.0012177408706113646
+127,regulatory T cell,male,unknown,15,0.00022007365131530686
+128,"naive thymus-derived CD4-positive, alpha-beta T cell",male,unknown,22,0.0003227746885957834
+129,"CD4-positive, alpha-beta memory T cell",male,unknown,199,0.002919643774116404
+130,"naive thymus-derived CD8-positive, alpha-beta T cell",male,unknown,19,0.000278759958332722
+131,"CD8-positive, alpha-beta memory T cell",male,unknown,141,0.0020686923223638843
+132,mucosal invariant T cell,male,unknown,15,0.00022007365131530686
+133,plasmablast,male,unknown,3,4.401473026306137e-05
+134,T cell,male,unknown,8,0.00011737261403483032
+135,memory B cell,male,unknown,1989,0.02918176616440969
+136,naive B cell,male,unknown,619,0.009081706010944997
+137,gamma-delta T cell,male,unknown,33,0.0004841620328936751
+138,memory T cell,male,unknown,93,0.0013644566381549024
+139,regulatory T cell,male,unknown,29,0.0004254757258762599
+140,"naive thymus-derived CD4-positive, alpha-beta T cell",male,unknown,369,0.0054138118223565485
+141,"CD4-positive, alpha-beta memory T cell",male,unknown,4575,0.06712246365116858
+142,"naive thymus-derived CD8-positive, alpha-beta T cell",male,unknown,92,0.0013497850614005488
+143,"CD8-positive, alpha-beta memory T cell",male,unknown,697,0.010226088997784592
+144,mucosal invariant T cell,male,unknown,6,8.802946052612274e-05
+145,plasmablast,male,unknown,41,0.0006015346469285054
+146,double negative thymocyte,male,unknown,14,0.00020540207456095307
+147,memory B cell,male,unknown,153,0.00224475124341613
+148,naive B cell,male,unknown,253,0.003711908918851509
+149,gamma-delta T cell,male,unknown,1096,0.016080048122771754
+150,"double-positive, alpha-beta thymocyte",male,unknown,11,0.0001613873442978917
+151,memory T cell,male,unknown,9,0.00013204419078918412
+152,regulatory T cell,male,unknown,75,0.0011003682565765343
+153,"naive thymus-derived CD4-positive, alpha-beta T cell",male,unknown,1615,0.023694596458281373
+154,"CD4-positive, alpha-beta memory T cell",male,unknown,1695,0.024868322598629675
+155,"naive thymus-derived CD8-positive, alpha-beta T cell",male,unknown,832,0.012206751859622354
+156,"CD8-positive, alpha-beta memory T cell",male,unknown,504,0.00739447468419431
+157,mucosal invariant T cell,male,unknown,61,0.0008949661820155812
+158,plasmablast,male,unknown,54,0.0007922651447351047
+159,double negative thymocyte,male,unknown,509,0.007467832567966079
