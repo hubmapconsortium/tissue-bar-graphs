@@ -1,0 +1,94 @@
+,cell_type,sex,race,count,percentage
+0,mast cell,female,African American or Afro-Caribbean,24,0.03571109722346219
+1,endothelial cell,female,African American or Afro-Caribbean,15,0.02231943576466387
+2,macrophage,female,African American or Afro-Caribbean,62,0.09225366782727733
+3,plasma cell,female,African American or Afro-Caribbean,261,0.38835818230515134
+4,memory B cell,female,African American or Afro-Caribbean,3319,4.938547153527958
+5,naive B cell,female,African American or Afro-Caribbean,1335,1.9864297830550843
+6,mature NK T cell,female,African American or Afro-Caribbean,246,0.36603874654048746
+7,regulatory T cell,female,African American or Afro-Caribbean,8,0.011903699074487397
+8,classical monocyte,female,African American or Afro-Caribbean,85,0.12647680266642858
+9,"naive thymus-derived CD4-positive, alpha-beta T cell",female,African American or Afro-Caribbean,1499,2.230455614082076
+10,"CD4-positive, alpha-beta memory T cell",female,African American or Afro-Caribbean,1434,2.133738059101866
+11,"CD8-positive, alpha-beta memory T cell",female,African American or Afro-Caribbean,864,1.2855995000446387
+12,innate lymphoid cell,female,African American or Afro-Caribbean,368,0.5475701574264202
+13,intermediate monocyte,female,African American or Afro-Caribbean,172,0.25592953010147906
+14,CD141-positive myeloid dendritic cell,female,African American or Afro-Caribbean,53,0.07886200636847901
+15,CD1c-positive myeloid dendritic cell,female,African American or Afro-Caribbean,22,0.03273517245484034
+16,hematopoietic stem cell,female,European,30,0.04463887152932774
+17,T cell,female,European,620,0.9225366782727732
+18,mast cell,female,European,104,0.15474808796833617
+19,endothelial cell,female,European,6,0.008927774305865548
+20,erythrocyte,female,European,3,0.004463887152932774
+21,macrophage,female,European,114,0.16962771181144543
+22,B cell,female,European,7401,11.012409606285154
+23,stromal cell,female,European,5,0.007439811921554624
+24,neutrophil,female,European,24,0.03571109722346219
+25,plasmacytoid dendritic cell,female,European,6,0.008927774305865548
+26,plasma cell,female,European,334,0.49697943635984887
+27,mature NK T cell,female,European,181,0.2693211915602774
+28,regulatory T cell,female,European,189,0.28122489063476475
+29,mature conventional dendritic cell,female,European,2,0.0029759247686218493
+30,classical monocyte,female,European,105,0.15623605035264707
+31,non-classical monocyte,female,European,13,0.01934351099604202
+32,type I NK T cell,female,European,728,1.083236615778353
+33,"effector CD4-positive, alpha-beta T cell",female,European,1566,2.330149093830908
+34,"effector CD8-positive, alpha-beta T cell",female,European,790,1.1754902836056305
+35,innate lymphoid cell,female,European,713,1.0609171800136894
+36,intermediate monocyte,female,European,75,0.11159717882331935
+37,CD141-positive myeloid dendritic cell,female,European,15,0.02231943576466387
+38,CD1c-positive myeloid dendritic cell,female,European,57,0.08481385590572271
+39,hematopoietic stem cell,male,European,4,0.005951849537243699
+40,T cell,male,European,3228,4.803142576555665
+41,mast cell,male,European,15,0.02231943576466387
+42,endothelial cell,male,European,137,0.20385084665059666
+43,erythrocyte,male,European,21,0.031247210070529413
+44,macrophage,male,European,972,1.4462994375502187
+45,B cell,male,European,7848,11.677528792072136
+46,stromal cell,male,European,106,0.15772401273695802
+47,neutrophil,male,European,83,0.12350087789780675
+48,plasma cell,male,European,2092,3.112817307978454
+49,mature NK T cell,male,European,256,0.3809183703835967
+50,regulatory T cell,male,European,692,1.02966996994316
+51,mature conventional dendritic cell,male,European,15,0.02231943576466387
+52,classical monocyte,male,European,56,0.08332589352141177
+53,non-classical monocyte,male,European,18,0.026783322917596643
+54,type I NK T cell,male,European,3030,4.5085260244621015
+55,"effector CD4-positive, alpha-beta T cell",male,European,5342,7.948695056988959
+56,"effector CD8-positive, alpha-beta T cell",male,European,5070,7.543969288456388
+57,innate lymphoid cell,male,European,1339,1.9923816325923283
+58,intermediate monocyte,male,European,59,0.08778978067434455
+59,CD141-positive myeloid dendritic cell,male,European,33,0.049102758682260515
+60,CD1c-positive myeloid dendritic cell,male,European,11,0.01636758622742017
+61,mast cell,female,African American or Afro-Caribbean,16,0.023807398148974795
+62,plasma cell,female,African American or Afro-Caribbean,256,0.3809183703835967
+63,memory B cell,female,African American or Afro-Caribbean,3211,4.777847216022379
+64,naive B cell,female,African American or Afro-Caribbean,1330,1.9789899711335295
+65,mature NK T cell,female,African American or Afro-Caribbean,245,0.36455078415617653
+66,"naive thymus-derived CD4-positive, alpha-beta T cell",female,African American or Afro-Caribbean,1439,2.1411778710234204
+67,"CD4-positive, alpha-beta memory T cell",female,African American or Afro-Caribbean,1368,2.0355325417373447
+68,"CD8-positive, alpha-beta memory T cell",female,African American or Afro-Caribbean,825,1.2275689670565129
+69,innate lymphoid cell,female,African American or Afro-Caribbean,365,0.5431062702734875
+70,intermediate monocyte,female,African American or Afro-Caribbean,167,0.24848971817992443
+71,CD1c-positive myeloid dendritic cell,female,African American or Afro-Caribbean,20,0.029759247686218494
+72,hematopoietic stem cell,female,European,25,0.037199059607773116
+73,T cell,female,European,281,0.4181174299913698
+74,mast cell,female,European,96,0.14284438889384876
+75,endothelial cell,female,European,3,0.004463887152932774
+76,erythrocyte,female,European,1,0.0014879623843109247
+77,macrophage,female,European,110,0.16367586227420172
+78,B cell,female,European,1466,2.1813528553998154
+79,neutrophil,female,European,16,0.023807398148974795
+80,plasma cell,female,European,207,0.3080082135523614
+81,mature NK T cell,female,European,131,0.19492307234473114
+82,regulatory T cell,female,European,139,0.20682677141921854
+83,mature conventional dendritic cell,female,European,1,0.0014879623843109247
+84,classical monocyte,female,European,75,0.11159717882331935
+85,non-classical monocyte,female,European,10,0.014879623843109247
+86,type I NK T cell,female,European,433,0.6442877124066304
+87,"effector CD4-positive, alpha-beta T cell",female,European,855,1.2722078385858406
+88,"effector CD8-positive, alpha-beta T cell",female,European,444,0.6606552986340506
+89,innate lymphoid cell,female,European,278,0.4136535428384371
+90,intermediate monocyte,female,European,57,0.08481385590572271
+91,CD141-positive myeloid dendritic cell,female,European,14,0.020831473380352943
+92,CD1c-positive myeloid dendritic cell,female,European,47,0.06993423206261347
