@@ -1,13 +1,26 @@
 ,cell_type,sex,race,count,percentage
-0,fibroblast,female,African American or Afro-Caribbean,2824,33.68320610687023
-1,epithelial cell,female,African American or Afro-Caribbean,26,0.3101145038167939
-2,T cell,female,African American or Afro-Caribbean,230,2.743320610687023
-3,mast cell,female,African American or Afro-Caribbean,72,0.8587786259541985
-4,endothelial cell,female,African American or Afro-Caribbean,1549,18.4756679389313
-5,smooth muscle cell,female,African American or Afro-Caribbean,1232,14.694656488549619
-6,erythrocyte,female,African American or Afro-Caribbean,47,0.5605916030534351
-7,macrophage,female,African American or Afro-Caribbean,1907,22.745706106870227
-8,B cell,female,African American or Afro-Caribbean,10,0.11927480916030535
-9,pericyte cell,female,African American or Afro-Caribbean,357,4.258110687022901
-10,plasma cell,female,African American or Afro-Caribbean,35,0.4174618320610687
-11,mature NK T cell,female,African American or Afro-Caribbean,95,1.1331106870229006
+0,fibroblast,female,African American or Afro-Caribbean,2824,21.311599124594373
+1,epithelial cell,female,African American or Afro-Caribbean,26,0.1962116066711946
+2,T cell,female,African American or Afro-Caribbean,230,1.7357180590144141
+3,mast cell,female,African American or Afro-Caribbean,72,0.5433552184740774
+4,endothelial cell,female,African American or Afro-Caribbean,1549,11.689683797449248
+5,smooth muscle cell,female,African American or Afro-Caribbean,1232,9.297411516111993
+6,erythrocyte,female,African American or Afro-Caribbean,47,0.3546902120594672
+7,macrophage,female,African American or Afro-Caribbean,1907,14.391366689306468
+8,B cell,female,African American or Afro-Caribbean,10,0.07546600256584408
+9,pericyte cell,female,African American or Afro-Caribbean,357,2.694136291600634
+10,plasma cell,female,African American or Afro-Caribbean,35,0.26413100898045433
+11,mature NK T cell,female,African American or Afro-Caribbean,95,0.7169270243755188
+12,fibroblast,male,European,1906,14.383820089049884
+13,T cell,male,European,153,1.1546298392574146
+14,mast cell,male,European,4,0.030186401026337635
+15,endothelial cell,male,European,10,0.07546600256584408
+16,smooth muscle cell,male,European,1273,9.606822126631952
+17,erythrocyte,male,European,7,0.05282620179609086
+18,macrophage,male,European,805,6.075013206550449
+19,B cell,male,European,6,0.04527960153950645
+20,pericyte cell,male,European,526,3.9695117349633993
+21,plasma cell,male,European,5,0.03773300128292204
+22,mature NK T cell,male,European,13,0.0981058033355973
+23,endothelial cell of lymphatic vessel,male,European,42,0.31695721077654515
+24,endothelial cell of artery,male,European,117,0.8829522300203759

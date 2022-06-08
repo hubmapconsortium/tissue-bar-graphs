@@ -1,19 +1,163 @@
 ,cell_type,sex,race,count,percentage
-0,stem cell,male,Hispanic or Latin American,93,2.653352353780314
-1,fibroblast,male,Hispanic or Latin American,62,1.768901569186876
-2,T cell,male,Hispanic or Latin American,30,0.8559201141226819
-3,surface ectodermal cell,male,Hispanic or Latin American,39,1.1126961483594866
-4,endothelial cell,male,Hispanic or Latin American,15,0.42796005706134094
-5,microglial cell,male,Hispanic or Latin American,25,0.7132667617689016
-6,melanocyte,male,Hispanic or Latin American,75,2.1398002853067046
-7,macrophage,male,Hispanic or Latin American,20,0.5706134094151213
-8,stromal cell,male,Hispanic or Latin American,1,0.028530670470756064
-9,corneal epithelial cell,male,Hispanic or Latin American,1445,41.226818830242514
-10,monocyte,male,Hispanic or Latin American,3,0.08559201141226819
-11,"CD4-positive, alpha-beta T cell",male,Hispanic or Latin American,1,0.028530670470756064
-12,radial glial cell,male,Hispanic or Latin American,174,4.964336661911555
-13,erythroid lineage cell,male,Hispanic or Latin American,1,0.028530670470756064
-14,pigmented ciliary epithelial cell,male,Hispanic or Latin American,15,0.42796005706134094
-15,keratocyte,male,Hispanic or Latin American,73,2.0827389443651927
-16,retinal blood vessel endothelial cell,male,Hispanic or Latin American,158,4.507845934379458
-17,conjunctival epithelial cell,male,Hispanic or Latin American,1275,36.37660485021398
+0,stem cell,female,European,16,0.08555234734253021
+1,fibroblast,female,European,13,0.0695112822158058
+2,T cell,female,European,118,0.6309485616511603
+3,mast cell,female,European,1,0.005347021708908138
+4,surface ectodermal cell,female,European,6,0.03208213025344883
+5,endothelial cell,female,European,3,0.016041065126724416
+6,microglial cell,female,European,121,0.6469896267778847
+7,melanocyte,female,European,60,0.3208213025344883
+8,macrophage,female,European,21,0.11228745588707091
+9,B cell,female,European,52,0.2780451288632232
+10,eye photoreceptor cell,female,European,564,3.0157202438241897
+11,dendritic cell,female,European,38,0.20318682493850926
+12,stromal cell,female,European,30,0.16041065126724416
+13,corneal epithelial cell,female,European,43,0.22992193348304996
+14,monocyte,female,European,27,0.14436958614051973
+15,"CD4-positive, alpha-beta T cell",female,European,10,0.05347021708908138
+16,"CD8-positive, alpha-beta T cell",female,European,3,0.016041065126724416
+17,radial glial cell,female,European,14,0.07485830392471393
+18,retina horizontal cell,female,European,3,0.016041065126724416
+19,retinal bipolar neuron,female,European,17,0.09089936905143835
+20,erythroid lineage cell,female,European,9,0.04812319538017325
+21,plasma cell,female,European,3,0.016041065126724416
+22,pigmented ciliary epithelial cell,female,European,2,0.010694043417816277
+23,keratocyte,female,European,146,0.7806651695005882
+24,retinal blood vessel endothelial cell,female,European,22,0.11763447759597903
+25,retinal pigment epithelial cell,female,European,49,0.26200406373649876
+26,Muller cell,female,European,61,0.3261683242433964
+27,conjunctival epithelial cell,female,European,1088,5.817559619292054
+28,epithelial cell of lacrimal sac,female,European,52,0.2780451288632232
+29,stem cell,female,European,4,0.021388086835632553
+30,fibroblast,female,European,3,0.016041065126724416
+31,T cell,female,European,72,0.384985563041386
+32,mast cell,female,European,1,0.005347021708908138
+33,endothelial cell,female,European,4,0.021388086835632553
+34,microglial cell,female,European,25,0.13367554272270346
+35,macrophage,female,European,6,0.03208213025344883
+36,B cell,female,European,12,0.06416426050689766
+37,eye photoreceptor cell,female,European,2,0.010694043417816277
+38,dendritic cell,female,European,20,0.10694043417816276
+39,stromal cell,female,European,109,0.582825366270987
+40,monocyte,female,European,2,0.010694043417816277
+41,"CD4-positive, alpha-beta T cell",female,European,4,0.021388086835632553
+42,"CD8-positive, alpha-beta T cell",female,European,4,0.021388086835632553
+43,radial glial cell,female,European,1,0.005347021708908138
+44,retinal bipolar neuron,female,European,1,0.005347021708908138
+45,erythroid lineage cell,female,European,2,0.010694043417816277
+46,plasma cell,female,European,2,0.010694043417816277
+47,keratocyte,female,European,9,0.04812319538017325
+48,retinal blood vessel endothelial cell,female,European,2,0.010694043417816277
+49,Muller cell,female,European,2,0.010694043417816277
+50,conjunctival epithelial cell,female,European,2160,11.549566891241577
+51,stem cell,male,Hispanic or Latin American,124,0.6630306919046092
+52,fibroblast,male,Hispanic or Latin American,79,0.4224147150037429
+53,T cell,male,Hispanic or Latin American,47,0.2513100203186825
+54,mast cell,male,Hispanic or Latin American,3,0.016041065126724416
+55,surface ectodermal cell,male,Hispanic or Latin American,48,0.25665704202759065
+56,endothelial cell,male,Hispanic or Latin American,98,0.5240081274729975
+57,microglial cell,male,Hispanic or Latin American,63,0.3368623676612127
+58,fat cell,male,Hispanic or Latin American,44,0.23526895519195806
+59,melanocyte,male,Hispanic or Latin American,84,0.44914982354828364
+60,macrophage,male,Hispanic or Latin American,81,0.43310875842155916
+61,B cell,male,Hispanic or Latin American,38,0.20318682493850926
+62,eye photoreceptor cell,male,Hispanic or Latin American,325,1.7377820553951449
+63,dendritic cell,male,Hispanic or Latin American,124,0.6630306919046092
+64,stromal cell,male,Hispanic or Latin American,186,0.9945460378569138
+65,corneal epithelial cell,male,Hispanic or Latin American,1445,7.72644636937226
+66,monocyte,male,Hispanic or Latin American,15,0.08020532563362208
+67,"CD4-positive, alpha-beta T cell",male,Hispanic or Latin American,9,0.04812319538017325
+68,"CD8-positive, alpha-beta T cell",male,Hispanic or Latin American,1,0.005347021708908138
+69,radial glial cell,male,Hispanic or Latin American,180,0.9624639076034648
+70,retinal ganglion cell,male,Hispanic or Latin American,5,0.02673510854454069
+71,retina horizontal cell,male,Hispanic or Latin American,3,0.016041065126724416
+72,retinal bipolar neuron,male,Hispanic or Latin American,16,0.08555234734253021
+73,erythroid lineage cell,male,Hispanic or Latin American,19,0.10159341246925463
+74,plasma cell,male,Hispanic or Latin American,41,0.2192278900652337
+75,pigmented ciliary epithelial cell,male,Hispanic or Latin American,15,0.08020532563362208
+76,keratocyte,male,Hispanic or Latin American,440,2.3526895519195805
+77,retinal blood vessel endothelial cell,male,Hispanic or Latin American,442,2.3633835953373974
+78,Muller cell,male,Hispanic or Latin American,297,1.5880654475457172
+79,conjunctival epithelial cell,male,Hispanic or Latin American,1339,7.159662068227997
+80,T cell,female,European,7,0.037429151962356966
+81,microglial cell,female,European,8,0.04277617367126511
+82,macrophage,female,European,3,0.016041065126724416
+83,B cell,female,European,1,0.005347021708908138
+84,stromal cell,female,European,2,0.010694043417816277
+85,monocyte,female,European,1,0.005347021708908138
+86,"CD4-positive, alpha-beta T cell",female,European,1,0.005347021708908138
+87,"CD8-positive, alpha-beta T cell",female,European,1,0.005347021708908138
+88,keratocyte,female,European,3,0.016041065126724416
+89,Muller cell,female,European,1,0.005347021708908138
+90,conjunctival epithelial cell,female,European,81,0.43310875842155916
+91,stem cell,female,European,4,0.021388086835632553
+92,keratocyte,female,European,2,0.010694043417816277
+93,conjunctival epithelial cell,female,European,2078,11.11111111111111
+94,stem cell,male,Hispanic or Latin American,93,0.4972730189284569
+95,fibroblast,male,Hispanic or Latin American,62,0.3315153459523046
+96,T cell,male,Hispanic or Latin American,30,0.16041065126724416
+97,surface ectodermal cell,male,Hispanic or Latin American,39,0.2085338466474174
+98,endothelial cell,male,Hispanic or Latin American,15,0.08020532563362208
+99,microglial cell,male,Hispanic or Latin American,25,0.13367554272270346
+100,melanocyte,male,Hispanic or Latin American,75,0.4010266281681104
+101,macrophage,male,Hispanic or Latin American,20,0.10694043417816276
+102,stromal cell,male,Hispanic or Latin American,1,0.005347021708908138
+103,corneal epithelial cell,male,Hispanic or Latin American,1445,7.72644636937226
+104,monocyte,male,Hispanic or Latin American,3,0.016041065126724416
+105,"CD4-positive, alpha-beta T cell",male,Hispanic or Latin American,1,0.005347021708908138
+106,radial glial cell,male,Hispanic or Latin American,174,0.930381777350016
+107,erythroid lineage cell,male,Hispanic or Latin American,1,0.005347021708908138
+108,pigmented ciliary epithelial cell,male,Hispanic or Latin American,15,0.08020532563362208
+109,keratocyte,male,Hispanic or Latin American,73,0.3903325847502941
+110,retinal blood vessel endothelial cell,male,Hispanic or Latin American,158,0.8448294300074858
+111,conjunctival epithelial cell,male,Hispanic or Latin American,1275,6.817452678857876
+112,fibroblast,female,European,3,0.016041065126724416
+113,T cell,female,European,65,0.34755641107902896
+114,endothelial cell,female,European,4,0.021388086835632553
+115,microglial cell,female,European,17,0.09089936905143835
+116,macrophage,female,European,3,0.016041065126724416
+117,B cell,female,European,11,0.058817238797989516
+118,dendritic cell,female,European,20,0.10694043417816276
+119,stromal cell,female,European,107,0.5721313228531708
+120,monocyte,female,European,1,0.005347021708908138
+121,"CD4-positive, alpha-beta T cell",female,European,3,0.016041065126724416
+122,"CD8-positive, alpha-beta T cell",female,European,3,0.016041065126724416
+123,retinal bipolar neuron,female,European,1,0.005347021708908138
+124,erythroid lineage cell,female,European,2,0.010694043417816277
+125,plasma cell,female,European,2,0.010694043417816277
+126,keratocyte,female,European,4,0.021388086835632553
+127,Muller cell,female,European,1,0.005347021708908138
+128,conjunctival epithelial cell,female,European,1,0.005347021708908138
+129,T cell,male,Hispanic or Latin American,3,0.016041065126724416
+130,microglial cell,male,Hispanic or Latin American,21,0.11228745588707091
+131,macrophage,male,Hispanic or Latin American,1,0.005347021708908138
+132,eye photoreceptor cell,male,Hispanic or Latin American,325,1.7377820553951449
+133,dendritic cell,male,Hispanic or Latin American,1,0.005347021708908138
+134,monocyte,male,Hispanic or Latin American,3,0.016041065126724416
+135,retina horizontal cell,male,Hispanic or Latin American,3,0.016041065126724416
+136,retinal bipolar neuron,male,Hispanic or Latin American,16,0.08555234734253021
+137,erythroid lineage cell,male,Hispanic or Latin American,5,0.02673510854454069
+138,Muller cell,male,Hispanic or Latin American,297,1.5880654475457172
+139,stem cell,male,Hispanic or Latin American,31,0.1657576729761523
+140,fibroblast,male,Hispanic or Latin American,17,0.09089936905143835
+141,T cell,male,Hispanic or Latin American,14,0.07485830392471393
+142,mast cell,male,Hispanic or Latin American,3,0.016041065126724416
+143,surface ectodermal cell,male,Hispanic or Latin American,9,0.04812319538017325
+144,endothelial cell,male,Hispanic or Latin American,83,0.4438028018393754
+145,microglial cell,male,Hispanic or Latin American,17,0.09089936905143835
+146,fat cell,male,Hispanic or Latin American,44,0.23526895519195806
+147,melanocyte,male,Hispanic or Latin American,9,0.04812319538017325
+148,macrophage,male,Hispanic or Latin American,60,0.3208213025344883
+149,B cell,male,Hispanic or Latin American,38,0.20318682493850926
+150,dendritic cell,male,Hispanic or Latin American,123,0.657683670195701
+151,stromal cell,male,Hispanic or Latin American,185,0.9891990161480055
+152,monocyte,male,Hispanic or Latin American,9,0.04812319538017325
+153,"CD4-positive, alpha-beta T cell",male,Hispanic or Latin American,8,0.04277617367126511
+154,"CD8-positive, alpha-beta T cell",male,Hispanic or Latin American,1,0.005347021708908138
+155,radial glial cell,male,Hispanic or Latin American,6,0.03208213025344883
+156,retinal ganglion cell,male,Hispanic or Latin American,5,0.02673510854454069
+157,erythroid lineage cell,male,Hispanic or Latin American,13,0.0695112822158058
+158,plasma cell,male,Hispanic or Latin American,41,0.2192278900652337
+159,keratocyte,male,Hispanic or Latin American,367,1.9623569671692869
+160,retinal blood vessel endothelial cell,male,Hispanic or Latin American,284,1.5185541653299113
+161,conjunctival epithelial cell,male,Hispanic or Latin American,64,0.34220938937012085

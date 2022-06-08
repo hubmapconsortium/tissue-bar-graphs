@@ -1,35 +1,59 @@
 ,cell_type,sex,race,count,percentage
-0,T cell,female,European,28,0.20745350818700453
-1,mast cell,female,European,51,0.3778617470549011
-2,endothelial cell,female,European,173,1.281766318441135
-3,type B pancreatic cell,female,European,11,0.08149959250203749
-4,pancreatic A cell,female,European,25,0.18522634659553977
-5,B cell,female,European,117,0.866859302067126
-6,myeloid cell,female,European,57,0.4223160702378307
-7,pancreatic acinar cell,female,European,442,3.2748018078091428
-8,pancreatic ductal cell,female,European,539,3.9934800325998365
-9,pancreatic PP cell,female,European,70,0.5186337704675112
-10,pancreatic stellate cell,female,European,7,0.05186337704675113
-11,T cell,female,European,1,0.00740905386382159
-12,endothelial cell,female,European,92,0.6816329554715863
-13,type B pancreatic cell,female,European,71,0.5260428243313329
-14,pancreatic A cell,female,European,46,0.34081647773579316
-15,pancreatic D cell,female,European,9,0.06668148477439431
-16,B cell,female,European,2,0.01481810772764318
-17,myeloid cell,female,European,28,0.20745350818700453
-18,pancreatic acinar cell,female,European,3922,29.058309253908277
-19,pancreatic ductal cell,female,European,1074,7.957323849744388
-20,pancreatic PP cell,female,European,1,0.00740905386382159
-21,pancreatic stellate cell,female,European,32,0.2370897236422909
-22,fibroblast,male,Hispanic or Latin American,47,0.3482255315996147
-23,T cell,male,Hispanic or Latin American,544,4.030525301918945
-24,mast cell,male,Hispanic or Latin American,2,0.01481810772764318
-25,endothelial cell,male,Hispanic or Latin American,1835,13.595613840112616
-26,type B pancreatic cell,male,Hispanic or Latin American,17,0.12595391568496703
-27,B cell,male,Hispanic or Latin American,25,0.18522634659553977
-28,myeloid cell,male,Hispanic or Latin American,1777,13.165888716010965
-29,plasma cell,male,Hispanic or Latin American,63,0.46677039342076015
-30,mature NK T cell,male,Hispanic or Latin American,47,0.3482255315996147
-31,pancreatic acinar cell,male,Hispanic or Latin American,1170,8.66859302067126
-32,pancreatic ductal cell,male,Hispanic or Latin American,818,6.0606060606060606
-33,pancreatic stellate cell,male,Hispanic or Latin American,354,2.622805067792843
+0,T cell,female,European,29,0.10743128102541305
+1,mast cell,female,European,51,0.18893087352745055
+2,endothelial cell,female,European,265,0.9816996369563606
+3,type B pancreatic cell,female,European,82,0.3037712084166852
+4,pancreatic A cell,female,European,71,0.26302141216566644
+5,pancreatic D cell,female,European,9,0.033340742387197156
+6,B cell,female,European,119,0.44083870489738464
+7,myeloid cell,female,European,85,0.3148847892124176
+8,pancreatic acinar cell,female,European,4364,16.16655553085871
+9,pancreatic ductal cell,female,European,1613,5.975401941172112
+10,pancreatic PP cell,female,European,71,0.26302141216566644
+11,pancreatic stellate cell,female,European,39,0.144476550344521
+12,fibroblast,male,Hispanic or Latin American,47,0.17411276579980736
+13,T cell,male,Hispanic or Latin American,544,2.0152626509594724
+14,mast cell,male,Hispanic or Latin American,2,0.00740905386382159
+15,endothelial cell,male,Hispanic or Latin American,1835,6.797806920056308
+16,type B pancreatic cell,male,Hispanic or Latin American,17,0.06297695784248351
+17,B cell,male,Hispanic or Latin American,25,0.09261317329776989
+18,myeloid cell,male,Hispanic or Latin American,1777,6.5829443580054825
+19,plasma cell,male,Hispanic or Latin American,63,0.23338519671038008
+20,mature NK T cell,male,Hispanic or Latin American,47,0.17411276579980736
+21,pancreatic acinar cell,male,Hispanic or Latin American,1170,4.33429651033563
+22,pancreatic ductal cell,male,Hispanic or Latin American,818,3.0303030303030303
+23,pancreatic stellate cell,male,Hispanic or Latin American,354,1.3114025338964215
+24,T cell,female,European,28,0.10372675409350227
+25,mast cell,female,European,51,0.18893087352745055
+26,endothelial cell,female,European,173,0.6408831592205675
+27,type B pancreatic cell,female,European,11,0.040749796251018745
+28,pancreatic A cell,female,European,25,0.09261317329776989
+29,B cell,female,European,117,0.433429651033563
+30,myeloid cell,female,European,57,0.21115803511891534
+31,pancreatic acinar cell,female,European,442,1.6374009039045714
+32,pancreatic ductal cell,female,European,539,1.9967400162999183
+33,pancreatic PP cell,female,European,70,0.2593168852337556
+34,pancreatic stellate cell,female,European,7,0.025931688523375566
+35,T cell,female,European,1,0.003704526931910795
+36,endothelial cell,female,European,92,0.34081647773579316
+37,type B pancreatic cell,female,European,71,0.26302141216566644
+38,pancreatic A cell,female,European,46,0.17040823886789658
+39,pancreatic D cell,female,European,9,0.033340742387197156
+40,B cell,female,European,2,0.00740905386382159
+41,myeloid cell,female,European,28,0.10372675409350227
+42,pancreatic acinar cell,female,European,3922,14.529154626954139
+43,pancreatic ductal cell,female,European,1074,3.978661924872194
+44,pancreatic PP cell,female,European,1,0.003704526931910795
+45,pancreatic stellate cell,female,European,32,0.11854486182114544
+46,fibroblast,male,Hispanic or Latin American,47,0.17411276579980736
+47,T cell,male,Hispanic or Latin American,544,2.0152626509594724
+48,mast cell,male,Hispanic or Latin American,2,0.00740905386382159
+49,endothelial cell,male,Hispanic or Latin American,1835,6.797806920056308
+50,type B pancreatic cell,male,Hispanic or Latin American,17,0.06297695784248351
+51,B cell,male,Hispanic or Latin American,25,0.09261317329776989
+52,myeloid cell,male,Hispanic or Latin American,1777,6.5829443580054825
+53,plasma cell,male,Hispanic or Latin American,63,0.23338519671038008
+54,mature NK T cell,male,Hispanic or Latin American,47,0.17411276579980736
+55,pancreatic acinar cell,male,Hispanic or Latin American,1170,4.33429651033563
+56,pancreatic ductal cell,male,Hispanic or Latin American,818,3.0303030303030303
+57,pancreatic stellate cell,male,Hispanic or Latin American,354,1.3114025338964215

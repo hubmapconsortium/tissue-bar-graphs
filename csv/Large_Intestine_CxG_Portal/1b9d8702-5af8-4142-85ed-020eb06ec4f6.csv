@@ -1,198 +1,105 @@
 ,cell_type,sex,race,count,percentage
-0,mast cell,female,unknown,12,0.048949622679991846
-1,macrophage,female,unknown,3,0.012237405669997961
-2,CD4-positive helper T cell,female,unknown,3,0.012237405669997961
-3,alveolar macrophage,female,unknown,1,0.004079135223332654
-4,plasma cell,female,unknown,164,0.6689781766265551
-5,memory B cell,female,unknown,2,0.008158270446665308
-6,naive B cell,female,unknown,2,0.008158270446665308
-7,alpha-beta T cell,female,unknown,2,0.008158270446665308
-8,gamma-delta T cell,female,unknown,20,0.08158270446665307
-9,regulatory T cell,female,unknown,2,0.008158270446665308
-10,germinal center B cell,female,unknown,8,0.03263308178666123
-11,classical monocyte,female,unknown,1,0.004079135223332654
-12,"naive thymus-derived CD4-positive, alpha-beta T cell",female,unknown,1,0.004079135223332654
-13,"naive thymus-derived CD8-positive, alpha-beta T cell",female,unknown,1,0.004079135223332654
-14,"effector memory CD4-positive, alpha-beta T cell",female,unknown,3,0.012237405669997961
-15,"CD8-positive, alpha-beta memory T cell",female,unknown,27,0.11013665102998164
-16,"CD16-negative, CD56-bright natural killer cell, human",female,unknown,1,0.004079135223332654
-17,"CD16-positive, CD56-dim natural killer cell, human",female,unknown,1,0.004079135223332654
-18,mucosal invariant T cell,female,unknown,3,0.012237405669997961
-19,plasmablast,female,unknown,2,0.008158270446665308
-20,conventional dendritic cell,female,unknown,2,0.008158270446665308
-21,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",female,unknown,1,0.004079135223332654
-22,group 3 innate lymphoid cell,female,unknown,1,0.004079135223332654
-23,"CD8-positive, alpha-beta memory T cell, CD45RO-positive",female,unknown,3,0.012237405669997961
-24,T follicular helper cell,female,unknown,2,0.008158270446665308
-25,mast cell,male,unknown,1,0.004079135223332654
-26,macrophage,male,unknown,1,0.004079135223332654
-27,CD4-positive helper T cell,male,unknown,13,0.053028757903324494
-28,lymphocyte,male,unknown,1,0.004079135223332654
-29,animal cell,male,unknown,2,0.008158270446665308
-30,alveolar macrophage,male,unknown,1,0.004079135223332654
-31,plasma cell,male,unknown,9,0.03671221700999388
-32,memory B cell,male,unknown,7,0.028553946563328575
-33,alpha-beta T cell,male,unknown,6,0.024474811339995923
-34,gamma-delta T cell,male,unknown,11,0.04487048745665919
-35,regulatory T cell,male,unknown,5,0.020395676116663267
-36,germinal center B cell,male,unknown,4,0.016316540893330615
-37,"naive thymus-derived CD4-positive, alpha-beta T cell",male,unknown,4,0.016316540893330615
-38,"effector memory CD4-positive, alpha-beta T cell",male,unknown,2,0.008158270446665308
-39,"CD8-positive, alpha-beta memory T cell",male,unknown,14,0.05710789312665715
-40,conventional dendritic cell,male,unknown,3,0.012237405669997961
-41,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",male,unknown,5,0.020395676116663267
-42,group 3 innate lymphoid cell,male,unknown,1,0.004079135223332654
-43,"CD8-positive, alpha-beta memory T cell, CD45RO-positive",male,unknown,2,0.008158270446665308
-44,T follicular helper cell,male,unknown,2,0.008158270446665308
-45,macrophage,male,unknown,1,0.004079135223332654
-46,CD4-positive helper T cell,male,unknown,3,0.012237405669997961
-47,plasma cell,male,unknown,2,0.008158270446665308
-48,alpha-beta T cell,male,unknown,19,0.07750356924332041
-49,gamma-delta T cell,male,unknown,25,0.10197838058331635
-50,"CD8-positive, alpha-beta memory T cell",male,unknown,17,0.06934529879665512
-51,conventional dendritic cell,male,unknown,3,0.012237405669997961
-52,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",male,unknown,1,0.004079135223332654
-53,mast cell,female,unknown,3,0.012237405669997961
-54,macrophage,female,unknown,79,0.32225168264327964
-55,CD4-positive helper T cell,female,unknown,1289,5.25800530287579
-56,lymphocyte,female,unknown,31,0.12645319192331225
-57,animal cell,female,unknown,33,0.13461146236997756
-58,alveolar macrophage,female,unknown,4,0.016316540893330615
-59,plasmacytoid dendritic cell,female,unknown,4,0.016316540893330615
-60,plasma cell,female,unknown,295,1.2033448908831328
-61,memory B cell,female,unknown,17,0.06934529879665512
-62,naive B cell,female,unknown,2,0.008158270446665308
-63,alpha-beta T cell,female,unknown,418,1.7050785233530492
-64,gamma-delta T cell,female,unknown,411,1.6765245767897206
-65,regulatory T cell,female,unknown,30,0.12237405669997961
-66,classical monocyte,female,unknown,5,0.020395676116663267
-67,"naive thymus-derived CD4-positive, alpha-beta T cell",female,unknown,3,0.012237405669997961
-68,"naive thymus-derived CD8-positive, alpha-beta T cell",female,unknown,1,0.004079135223332654
-69,"effector memory CD4-positive, alpha-beta T cell",female,unknown,9,0.03671221700999388
-70,"CD8-positive, alpha-beta memory T cell",female,unknown,3356,13.689577809504385
-71,"CD16-negative, CD56-bright natural killer cell, human",female,unknown,28,0.1142157862533143
-72,"CD16-positive, CD56-dim natural killer cell, human",female,unknown,27,0.11013665102998164
-73,mucosal invariant T cell,female,unknown,40,0.16316540893330614
-74,conventional dendritic cell,female,unknown,22,0.08974097491331838
-75,"dendritic cell, human",female,unknown,7,0.028553946563328575
-76,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",female,unknown,99,0.4038343871099327
-77,group 3 innate lymphoid cell,female,unknown,37,0.15092800326330819
-78,"CD8-positive, alpha-beta memory T cell, CD45RO-positive",female,unknown,32,0.13053232714664492
-79,T follicular helper cell,female,unknown,7,0.028553946563328575
-80,mast cell,female,unknown,1473,6.008566183968998
-81,macrophage,female,unknown,284,1.1584744034264736
-82,CD4-positive helper T cell,female,unknown,2864,11.68264327962472
-83,lymphocyte,female,unknown,55,0.22435243728329596
-84,animal cell,female,unknown,58,0.2365898429532939
-85,alveolar macrophage,female,unknown,1,0.004079135223332654
-86,plasma cell,female,unknown,467,1.9049561492963492
-87,memory B cell,female,unknown,6,0.024474811339995923
-88,naive B cell,female,unknown,1,0.004079135223332654
-89,alpha-beta T cell,female,unknown,126,0.5139710381399144
-90,gamma-delta T cell,female,unknown,859,3.503977156842749
-91,regulatory T cell,female,unknown,15,0.061187028349989805
-92,classical monocyte,female,unknown,25,0.10197838058331635
-93,non-classical monocyte,female,unknown,10,0.040791352233326535
-94,"naive thymus-derived CD4-positive, alpha-beta T cell",female,unknown,6,0.024474811339995923
-95,"effector memory CD4-positive, alpha-beta T cell",female,unknown,5,0.020395676116663267
-96,"CD8-positive, alpha-beta memory T cell",female,unknown,3525,14.378951662247601
-97,"CD16-negative, CD56-bright natural killer cell, human",female,unknown,34,0.13869059759331023
-98,"CD16-positive, CD56-dim natural killer cell, human",female,unknown,16,0.06526616357332246
-99,mucosal invariant T cell,female,unknown,1,0.004079135223332654
-100,conventional dendritic cell,female,unknown,44,0.17948194982663676
-101,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",female,unknown,16,0.06526616357332246
-102,group 3 innate lymphoid cell,female,unknown,10,0.040791352233326535
-103,"CD8-positive, alpha-beta memory T cell, CD45RO-positive",female,unknown,64,0.26106465429328984
-104,T follicular helper cell,female,unknown,3,0.012237405669997961
-105,progenitor cell,female,unknown,1,0.004079135223332654
-106,macrophage,female,unknown,11,0.04487048745665919
-107,CD4-positive helper T cell,female,unknown,117,0.4772588211299204
-108,lymphocyte,female,unknown,11,0.04487048745665919
-109,animal cell,female,unknown,7,0.028553946563328575
-110,alveolar macrophage,female,unknown,3,0.012237405669997961
-111,plasma cell,female,unknown,64,0.26106465429328984
-112,memory B cell,female,unknown,5,0.020395676116663267
-113,naive B cell,female,unknown,13,0.053028757903324494
-114,alpha-beta T cell,female,unknown,2,0.008158270446665308
-115,gamma-delta T cell,female,unknown,8,0.03263308178666123
-116,regulatory T cell,female,unknown,14,0.05710789312665715
-117,classical monocyte,female,unknown,16,0.06526616357332246
-118,"naive thymus-derived CD4-positive, alpha-beta T cell",female,unknown,60,0.24474811339995922
-119,"naive thymus-derived CD8-positive, alpha-beta T cell",female,unknown,2,0.008158270446665308
-120,"effector memory CD4-positive, alpha-beta T cell",female,unknown,10,0.040791352233326535
-121,"CD8-positive, alpha-beta memory T cell",female,unknown,18,0.07342443401998776
-122,"CD16-negative, CD56-bright natural killer cell, human",female,unknown,7,0.028553946563328575
-123,"CD16-positive, CD56-dim natural killer cell, human",female,unknown,5,0.020395676116663267
-124,mucosal invariant T cell,female,unknown,1,0.004079135223332654
-125,conventional dendritic cell,female,unknown,2,0.008158270446665308
-126,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",female,unknown,7,0.028553946563328575
-127,group 3 innate lymphoid cell,female,unknown,4,0.016316540893330615
-128,"CD8-positive, alpha-beta memory T cell, CD45RO-positive",female,unknown,15,0.061187028349989805
-129,T follicular helper cell,female,unknown,6,0.024474811339995923
-130,progenitor cell,female,unknown,1,0.004079135223332654
-131,mast cell,male,unknown,647,2.639200489496227
-132,macrophage,male,unknown,197,0.8035896389965328
-133,CD4-positive helper T cell,male,unknown,3429,13.987354680807668
-134,lymphocyte,male,unknown,14,0.05710789312665715
-135,animal cell,male,unknown,10,0.040791352233326535
-136,alveolar macrophage,male,unknown,5,0.020395676116663267
-137,plasma cell,male,unknown,2116,8.631450132571896
-138,memory B cell,male,unknown,42,0.17132367937997145
-139,alpha-beta T cell,male,unknown,33,0.13461146236997756
-140,gamma-delta T cell,male,unknown,40,0.16316540893330614
-141,regulatory T cell,male,unknown,9,0.03671221700999388
-142,classical monocyte,male,unknown,13,0.053028757903324494
-143,non-classical monocyte,male,unknown,2,0.008158270446665308
-144,"naive thymus-derived CD4-positive, alpha-beta T cell",male,unknown,1,0.004079135223332654
-145,"effector memory CD4-positive, alpha-beta T cell",male,unknown,17,0.06934529879665512
-146,"CD8-positive, alpha-beta memory T cell",male,unknown,173,0.7056903936365491
-147,"CD16-negative, CD56-bright natural killer cell, human",male,unknown,3,0.012237405669997961
-148,"CD16-positive, CD56-dim natural killer cell, human",male,unknown,23,0.09382011013665104
-149,mucosal invariant T cell,male,unknown,3,0.012237405669997961
-150,plasmablast,male,unknown,1,0.004079135223332654
-151,conventional dendritic cell,male,unknown,8,0.03263308178666123
-152,"dendritic cell, human",male,unknown,1,0.004079135223332654
-153,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",male,unknown,8,0.03263308178666123
-154,group 3 innate lymphoid cell,male,unknown,35,0.14276973281664287
-155,"CD8-positive, alpha-beta memory T cell, CD45RO-positive",male,unknown,184,0.7505608810932083
-156,T follicular helper cell,male,unknown,6,0.024474811339995923
-157,macrophage,female,unknown,4,0.016316540893330615
-158,CD4-positive helper T cell,female,unknown,5,0.020395676116663267
-159,alveolar macrophage,female,unknown,1,0.004079135223332654
-160,plasma cell,female,unknown,5,0.020395676116663267
-161,memory B cell,female,unknown,17,0.06934529879665512
-162,naive B cell,female,unknown,17,0.06934529879665512
-163,alpha-beta T cell,female,unknown,5,0.020395676116663267
-164,gamma-delta T cell,female,unknown,19,0.07750356924332041
-165,regulatory T cell,female,unknown,4,0.016316540893330615
-166,germinal center B cell,female,unknown,10,0.040791352233326535
-167,classical monocyte,female,unknown,5,0.020395676116663267
-168,"CD8-positive, alpha-beta memory T cell",female,unknown,25,0.10197838058331635
-169,"CD16-positive, CD56-dim natural killer cell, human",female,unknown,1,0.004079135223332654
-170,conventional dendritic cell,female,unknown,1,0.004079135223332654
-171,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",female,unknown,6,0.024474811339995923
-172,group 3 innate lymphoid cell,female,unknown,1,0.004079135223332654
-173,"CD8-positive, alpha-beta memory T cell, CD45RO-positive",female,unknown,3,0.012237405669997961
-174,T follicular helper cell,female,unknown,4,0.016316540893330615
-175,mast cell,female,unknown,3,0.012237405669997961
-176,macrophage,female,unknown,5,0.020395676116663267
-177,CD4-positive helper T cell,female,unknown,11,0.04487048745665919
-178,lymphocyte,female,unknown,1,0.004079135223332654
-179,alveolar macrophage,female,unknown,1,0.004079135223332654
-180,plasma cell,female,unknown,60,0.24474811339995922
-181,memory B cell,female,unknown,13,0.053028757903324494
-182,naive B cell,female,unknown,10,0.040791352233326535
-183,alpha-beta T cell,female,unknown,14,0.05710789312665715
-184,gamma-delta T cell,female,unknown,41,0.16724454415663878
-185,regulatory T cell,female,unknown,15,0.061187028349989805
-186,germinal center B cell,female,unknown,35,0.14276973281664287
-187,classical monocyte,female,unknown,1,0.004079135223332654
-188,"effector memory CD4-positive, alpha-beta T cell",female,unknown,3,0.012237405669997961
-189,"CD8-positive, alpha-beta memory T cell",female,unknown,21,0.08566183968998572
-190,"CD16-negative, CD56-bright natural killer cell, human",female,unknown,3,0.012237405669997961
-191,"CD16-positive, CD56-dim natural killer cell, human",female,unknown,1,0.004079135223332654
-192,conventional dendritic cell,female,unknown,5,0.020395676116663267
-193,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",female,unknown,2,0.008158270446665308
-194,group 3 innate lymphoid cell,female,unknown,1,0.004079135223332654
-195,"CD8-positive, alpha-beta memory T cell, CD45RO-positive",female,unknown,6,0.024474811339995923
-196,T follicular helper cell,female,unknown,10,0.040791352233326535
+0,mast cell,female,unknown,3,0.01266517499050112
+1,macrophage,female,unknown,79,0.3335162747498628
+2,CD4-positive helper T cell,female,unknown,1289,5.441803520918647
+3,lymphocyte,female,unknown,31,0.1308734749018449
+4,animal cell,female,unknown,33,0.1393169248955123
+5,alveolar macrophage,female,unknown,4,0.016886899987334825
+6,plasmacytoid dendritic cell,female,unknown,4,0.016886899987334825
+7,plasma cell,female,unknown,295,1.2454088740659432
+8,memory B cell,female,unknown,17,0.07176932494617301
+9,naive B cell,female,unknown,2,0.008443449993667413
+10,alpha-beta T cell,female,unknown,418,1.764681048676489
+11,gamma-delta T cell,female,unknown,411,1.7351289736986533
+12,regulatory T cell,female,unknown,30,0.12665174990501119
+13,classical monocyte,female,unknown,5,0.02110862498416853
+14,"naive thymus-derived CD4-positive, alpha-beta T cell",female,unknown,3,0.01266517499050112
+15,"naive thymus-derived CD8-positive, alpha-beta T cell",female,unknown,1,0.004221724996833706
+16,"effector memory CD4-positive, alpha-beta T cell",female,unknown,9,0.03799552497150335
+17,"CD8-positive, alpha-beta memory T cell",female,unknown,3356,14.168109089373917
+18,"CD16-negative, CD56-bright natural killer cell, human",female,unknown,28,0.11820829991134377
+19,"CD16-positive, CD56-dim natural killer cell, human",female,unknown,27,0.11398657491451007
+20,mucosal invariant T cell,female,unknown,40,0.16886899987334825
+21,conventional dendritic cell,female,unknown,22,0.09287794993034154
+22,"dendritic cell, human",female,unknown,7,0.029552074977835942
+23,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",female,unknown,99,0.4179507746865369
+24,group 3 innate lymphoid cell,female,unknown,37,0.15620382488284712
+25,"CD8-positive, alpha-beta memory T cell, CD45RO-positive",female,unknown,32,0.1350951998986786
+26,T follicular helper cell,female,unknown,7,0.029552074977835942
+27,mast cell,female,unknown,1473,6.2186009203360495
+28,macrophage,female,unknown,284,1.1989698991007725
+29,CD4-positive helper T cell,female,unknown,2864,12.091020390931735
+30,lymphocyte,female,unknown,55,0.23219487482585383
+31,animal cell,female,unknown,58,0.24486004981635495
+32,alveolar macrophage,female,unknown,1,0.004221724996833706
+33,plasma cell,female,unknown,467,1.9715455735213407
+34,memory B cell,female,unknown,6,0.02533034998100224
+35,naive B cell,female,unknown,1,0.004221724996833706
+36,alpha-beta T cell,female,unknown,126,0.531937349601047
+37,gamma-delta T cell,female,unknown,859,3.626461772280154
+38,regulatory T cell,female,unknown,15,0.06332587495250559
+39,classical monocyte,female,unknown,25,0.10554312492084265
+40,non-classical monocyte,female,unknown,10,0.04221724996833706
+41,"naive thymus-derived CD4-positive, alpha-beta T cell",female,unknown,6,0.02533034998100224
+42,"effector memory CD4-positive, alpha-beta T cell",female,unknown,5,0.02110862498416853
+43,"CD8-positive, alpha-beta memory T cell",female,unknown,3525,14.881580613838816
+44,"CD16-negative, CD56-bright natural killer cell, human",female,unknown,34,0.14353864989234602
+45,"CD16-positive, CD56-dim natural killer cell, human",female,unknown,16,0.0675475999493393
+46,mucosal invariant T cell,female,unknown,1,0.004221724996833706
+47,conventional dendritic cell,female,unknown,44,0.18575589986068308
+48,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",female,unknown,16,0.0675475999493393
+49,group 3 innate lymphoid cell,female,unknown,10,0.04221724996833706
+50,"CD8-positive, alpha-beta memory T cell, CD45RO-positive",female,unknown,64,0.2701903997973572
+51,T follicular helper cell,female,unknown,3,0.01266517499050112
+52,progenitor cell,female,unknown,1,0.004221724996833706
+53,macrophage,female,unknown,11,0.04643897496517077
+54,CD4-positive helper T cell,female,unknown,117,0.4939418246295436
+55,lymphocyte,female,unknown,11,0.04643897496517077
+56,animal cell,female,unknown,7,0.029552074977835942
+57,alveolar macrophage,female,unknown,3,0.01266517499050112
+58,plasma cell,female,unknown,64,0.2701903997973572
+59,memory B cell,female,unknown,5,0.02110862498416853
+60,naive B cell,female,unknown,13,0.05488242495883818
+61,alpha-beta T cell,female,unknown,2,0.008443449993667413
+62,gamma-delta T cell,female,unknown,8,0.03377379997466965
+63,regulatory T cell,female,unknown,14,0.059104149955671884
+64,classical monocyte,female,unknown,16,0.0675475999493393
+65,"naive thymus-derived CD4-positive, alpha-beta T cell",female,unknown,60,0.25330349981002237
+66,"naive thymus-derived CD8-positive, alpha-beta T cell",female,unknown,2,0.008443449993667413
+67,"effector memory CD4-positive, alpha-beta T cell",female,unknown,10,0.04221724996833706
+68,"CD8-positive, alpha-beta memory T cell",female,unknown,18,0.0759910499430067
+69,"CD16-negative, CD56-bright natural killer cell, human",female,unknown,7,0.029552074977835942
+70,"CD16-positive, CD56-dim natural killer cell, human",female,unknown,5,0.02110862498416853
+71,mucosal invariant T cell,female,unknown,1,0.004221724996833706
+72,conventional dendritic cell,female,unknown,2,0.008443449993667413
+73,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",female,unknown,7,0.029552074977835942
+74,group 3 innate lymphoid cell,female,unknown,4,0.016886899987334825
+75,"CD8-positive, alpha-beta memory T cell, CD45RO-positive",female,unknown,15,0.06332587495250559
+76,T follicular helper cell,female,unknown,6,0.02533034998100224
+77,progenitor cell,female,unknown,1,0.004221724996833706
+78,mast cell,male,unknown,647,2.731456072951408
+79,macrophage,male,unknown,197,0.8316798243762401
+80,CD4-positive helper T cell,male,unknown,3429,14.476295014142778
+81,lymphocyte,male,unknown,14,0.059104149955671884
+82,animal cell,male,unknown,10,0.04221724996833706
+83,alveolar macrophage,male,unknown,5,0.02110862498416853
+84,plasma cell,male,unknown,2116,8.933170093300122
+85,memory B cell,male,unknown,42,0.17731244986701566
+86,alpha-beta T cell,male,unknown,33,0.1393169248955123
+87,gamma-delta T cell,male,unknown,40,0.16886899987334825
+88,regulatory T cell,male,unknown,9,0.03799552497150335
+89,classical monocyte,male,unknown,13,0.05488242495883818
+90,non-classical monocyte,male,unknown,2,0.008443449993667413
+91,"naive thymus-derived CD4-positive, alpha-beta T cell",male,unknown,1,0.004221724996833706
+92,"effector memory CD4-positive, alpha-beta T cell",male,unknown,17,0.07176932494617301
+93,"CD8-positive, alpha-beta memory T cell",male,unknown,173,0.7303584244522312
+94,"CD16-negative, CD56-bright natural killer cell, human",male,unknown,3,0.01266517499050112
+95,"CD16-positive, CD56-dim natural killer cell, human",male,unknown,23,0.09709967492717524
+96,mucosal invariant T cell,male,unknown,3,0.01266517499050112
+97,plasmablast,male,unknown,1,0.004221724996833706
+98,conventional dendritic cell,male,unknown,8,0.03377379997466965
+99,"dendritic cell, human",male,unknown,1,0.004221724996833706
+100,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",male,unknown,8,0.03377379997466965
+101,group 3 innate lymphoid cell,male,unknown,35,0.14776037488917973
+102,"CD8-positive, alpha-beta memory T cell, CD45RO-positive",male,unknown,184,0.7767973994174019
+103,T follicular helper cell,male,unknown,6,0.02533034998100224
