@@ -1,239 +1,239 @@
-,cell_type,sex,race,count,percentage
-0,B cell,female,unknown,805,0.4878787878787879
-1,dendritic cell,female,unknown,34,0.020606060606060607
-2,megakaryocyte,female,unknown,7,0.004242424242424242
-3,monocyte,female,unknown,61,0.036969696969696965
-4,natural killer cell,female,unknown,577,0.34969696969696973
-5,"CD8-positive, alpha-beta T cell",female,unknown,4722,2.861818181818182
-6,plasma cell,female,unknown,19,0.011515151515151515
-7,mature alpha-beta T cell,female,unknown,2446,1.4824242424242424
-8,mature gamma-delta T cell,female,unknown,286,0.17333333333333334
-9,"CD14-positive, CD16-negative classical monocyte",female,unknown,181,0.1096969696969697
-10,"CD14-positive, CD16-positive monocyte",female,unknown,4,0.0024242424242424242
-11,macrophage,female,unknown,2,0.0012121212121212121
-12,B cell,female,unknown,815,0.49393939393939396
-13,dendritic cell,female,unknown,24,0.014545454545454545
-14,megakaryocyte,female,unknown,16,0.009696969696969697
-15,monocyte,female,unknown,7,0.004242424242424242
-16,natural killer cell,female,unknown,44,0.02666666666666667
-17,"CD8-positive, alpha-beta T cell",female,unknown,3590,2.175757575757576
-18,plasma cell,female,unknown,7,0.004242424242424242
-19,mature alpha-beta T cell,female,unknown,3909,2.369090909090909
-20,mature gamma-delta T cell,female,unknown,252,0.15272727272727274
-21,"CD14-positive, CD16-negative classical monocyte",female,unknown,101,0.06121212121212122
-22,B cell,female,unknown,647,0.39212121212121215
-23,dendritic cell,female,unknown,100,0.06060606060606061
-24,megakaryocyte,female,unknown,32,0.019393939393939394
-25,monocyte,female,unknown,170,0.10303030303030303
-26,natural killer cell,female,unknown,182,0.11030303030303029
-27,"CD8-positive, alpha-beta T cell",female,unknown,2770,1.678787878787879
-28,neutrophil,female,unknown,2,0.0012121212121212121
-29,plasma cell,female,unknown,12,0.007272727272727273
-30,mature alpha-beta T cell,female,unknown,1597,0.9678787878787879
-31,mature gamma-delta T cell,female,unknown,30,0.01818181818181818
-32,"CD14-positive, CD16-negative classical monocyte",female,unknown,1373,0.8321212121212122
-33,"CD14-positive, CD16-positive monocyte",female,unknown,59,0.03575757575757576
-34,macrophage,female,unknown,1,0.0006060606060606061
-35,B cell,female,unknown,970,0.5878787878787879
-36,dendritic cell,female,unknown,122,0.07393939393939393
-37,megakaryocyte,female,unknown,27,0.016363636363636365
-38,monocyte,female,unknown,489,0.2963636363636364
-39,natural killer cell,female,unknown,797,0.48303030303030303
-40,"CD8-positive, alpha-beta T cell",female,unknown,3305,2.003030303030303
-41,plasma cell,female,unknown,25,0.015151515151515152
-42,mature alpha-beta T cell,female,unknown,3105,1.8818181818181818
-43,mature gamma-delta T cell,female,unknown,288,0.17454545454545456
-44,"CD14-positive, CD16-negative classical monocyte",female,unknown,1596,0.9672727272727272
-45,"CD14-positive, CD16-positive monocyte",female,unknown,47,0.028484848484848484
-46,B cell,female,unknown,508,0.30787878787878786
-47,dendritic cell,female,unknown,148,0.08969696969696969
-48,megakaryocyte,female,unknown,69,0.04181818181818182
-49,monocyte,female,unknown,405,0.24545454545454545
-50,natural killer cell,female,unknown,224,0.13575757575757574
-51,"CD8-positive, alpha-beta T cell",female,unknown,3579,2.169090909090909
-52,neutrophil,female,unknown,2,0.0012121212121212121
-53,plasma cell,female,unknown,23,0.013939393939393939
-54,mature alpha-beta T cell,female,unknown,3170,1.9212121212121211
-55,mature gamma-delta T cell,female,unknown,480,0.2909090909090909
-56,"CD14-positive, CD16-negative classical monocyte",female,unknown,1413,0.8563636363636363
-57,"CD14-positive, CD16-positive monocyte",female,unknown,46,0.027878787878787878
-58,B cell,male,unknown,2711,1.643030303030303
-59,dendritic cell,male,unknown,10,0.006060606060606061
-60,megakaryocyte,male,unknown,9,0.005454545454545455
-61,monocyte,male,unknown,29,0.017575757575757574
-62,natural killer cell,male,unknown,80,0.048484848484848485
-63,"CD8-positive, alpha-beta T cell",male,unknown,1767,1.070909090909091
-64,plasma cell,male,unknown,10,0.006060606060606061
-65,mature alpha-beta T cell,male,unknown,451,0.2733333333333333
-66,mature gamma-delta T cell,male,unknown,75,0.045454545454545456
-67,"CD14-positive, CD16-negative classical monocyte",male,unknown,160,0.09696969696969697
-68,"CD14-positive, CD16-positive monocyte",male,unknown,9,0.005454545454545455
-69,B cell,male,unknown,1342,0.8133333333333332
-70,dendritic cell,male,unknown,184,0.11151515151515151
-71,megakaryocyte,male,unknown,82,0.0496969696969697
-72,monocyte,male,unknown,342,0.20727272727272725
-73,natural killer cell,male,unknown,1275,0.7727272727272727
-74,"CD8-positive, alpha-beta T cell",male,unknown,8072,4.8921212121212125
-75,neutrophil,male,unknown,4,0.0024242424242424242
-76,plasma cell,male,unknown,39,0.023636363636363636
-77,mature alpha-beta T cell,male,unknown,4762,2.886060606060606
-78,mature gamma-delta T cell,male,unknown,796,0.4824242424242424
-79,"CD14-positive, CD16-negative classical monocyte",male,unknown,1454,0.8812121212121212
-80,"CD14-positive, CD16-positive monocyte",male,unknown,42,0.025454545454545455
-81,B cell,male,unknown,457,0.276969696969697
-82,dendritic cell,male,unknown,66,0.04
-83,megakaryocyte,male,unknown,53,0.03212121212121212
-84,monocyte,male,unknown,138,0.08363636363636363
-85,natural killer cell,male,unknown,973,0.5896969696969697
-86,"CD8-positive, alpha-beta T cell",male,unknown,2498,1.513939393939394
-87,neutrophil,male,unknown,1,0.0006060606060606061
-88,plasma cell,male,unknown,4,0.0024242424242424242
-89,mature alpha-beta T cell,male,unknown,958,0.5806060606060606
-90,mature gamma-delta T cell,male,unknown,173,0.10484848484848484
-91,"CD14-positive, CD16-negative classical monocyte",male,unknown,630,0.38181818181818183
-92,"CD14-positive, CD16-positive monocyte",male,unknown,15,0.00909090909090909
-93,macrophage,male,unknown,9,0.005454545454545455
-94,B cell,male,unknown,4095,2.481818181818182
-95,dendritic cell,male,unknown,126,0.07636363636363637
-96,megakaryocyte,male,unknown,69,0.04181818181818182
-97,monocyte,male,unknown,259,0.15696969696969695
-98,natural killer cell,male,unknown,682,0.41333333333333333
-99,"CD8-positive, alpha-beta T cell",male,unknown,5297,3.21030303030303
-100,neutrophil,male,unknown,7,0.004242424242424242
-101,plasma cell,male,unknown,27,0.016363636363636365
-102,mature alpha-beta T cell,male,unknown,3147,1.9072727272727272
-103,mature gamma-delta T cell,male,unknown,351,0.2127272727272727
-104,"CD14-positive, CD16-negative classical monocyte",male,unknown,1572,0.9527272727272728
-105,"CD14-positive, CD16-positive monocyte",male,unknown,50,0.030303030303030304
-106,macrophage,male,unknown,3,0.0018181818181818182
-107,B cell,male,unknown,332,0.2012121212121212
-108,dendritic cell,male,unknown,143,0.08666666666666667
-109,megakaryocyte,male,unknown,157,0.09515151515151515
-110,monocyte,male,unknown,612,0.3709090909090909
-111,natural killer cell,male,unknown,1276,0.7733333333333333
-112,"CD8-positive, alpha-beta T cell",male,unknown,3813,2.310909090909091
-113,neutrophil,male,unknown,12,0.007272727272727273
-114,plasma cell,male,unknown,18,0.01090909090909091
-115,mature alpha-beta T cell,male,unknown,1281,0.7763636363636364
-116,mature gamma-delta T cell,male,unknown,311,0.18848484848484848
-117,"CD14-positive, CD16-negative classical monocyte",male,unknown,1526,0.9248484848484848
-118,"CD14-positive, CD16-positive monocyte",male,unknown,65,0.0393939393939394
-119,macrophage,male,unknown,1,0.0006060606060606061
-120,B cell,male,unknown,537,0.32545454545454544
-121,dendritic cell,male,unknown,109,0.06606060606060607
-122,megakaryocyte,male,unknown,24,0.014545454545454545
-123,monocyte,male,unknown,91,0.055151515151515146
-124,natural killer cell,male,unknown,180,0.1090909090909091
-125,"CD8-positive, alpha-beta T cell",male,unknown,1253,0.7593939393939394
-126,neutrophil,male,unknown,7,0.004242424242424242
-127,plasma cell,male,unknown,8,0.0048484848484848485
-128,mature alpha-beta T cell,male,unknown,1297,0.7860606060606061
-129,mature gamma-delta T cell,male,unknown,88,0.05333333333333334
-130,"CD14-positive, CD16-negative classical monocyte",male,unknown,1398,0.8472727272727273
-131,"CD14-positive, CD16-positive monocyte",male,unknown,42,0.025454545454545455
-132,macrophage,male,unknown,1,0.0006060606060606061
-133,B cell,male,unknown,378,0.2290909090909091
-134,dendritic cell,male,unknown,104,0.06303030303030303
-135,megakaryocyte,male,unknown,13,0.00787878787878788
-136,monocyte,male,unknown,184,0.11151515151515151
-137,natural killer cell,male,unknown,185,0.11212121212121212
-138,"CD8-positive, alpha-beta T cell",male,unknown,2786,1.6884848484848485
-139,mature alpha-beta T cell,male,unknown,861,0.5218181818181818
-140,mature gamma-delta T cell,male,unknown,91,0.055151515151515146
-141,"CD14-positive, CD16-negative classical monocyte",male,unknown,1346,0.8157575757575758
-142,"CD14-positive, CD16-positive monocyte",male,unknown,59,0.03575757575757576
-143,B cell,male,unknown,338,0.20484848484848486
-144,dendritic cell,male,unknown,53,0.03212121212121212
-145,megakaryocyte,male,unknown,21,0.012727272727272728
-146,monocyte,male,unknown,97,0.058787878787878785
-147,natural killer cell,male,unknown,297,0.18
-148,"CD8-positive, alpha-beta T cell",male,unknown,1258,0.7624242424242424
-149,neutrophil,male,unknown,2,0.0012121212121212121
-150,plasma cell,male,unknown,2,0.0012121212121212121
-151,mature alpha-beta T cell,male,unknown,1160,0.703030303030303
-152,mature gamma-delta T cell,male,unknown,74,0.044848484848484846
-153,"CD14-positive, CD16-negative classical monocyte",male,unknown,523,0.31696969696969696
-154,"CD14-positive, CD16-positive monocyte",male,unknown,7,0.004242424242424242
-155,B cell,male,unknown,629,0.3812121212121212
-156,dendritic cell,male,unknown,81,0.04909090909090909
-157,megakaryocyte,male,unknown,32,0.019393939393939394
-158,monocyte,male,unknown,260,0.1575757575757576
-159,natural killer cell,male,unknown,500,0.30303030303030304
-160,"CD8-positive, alpha-beta T cell",male,unknown,3475,2.106060606060606
-161,plasma cell,male,unknown,22,0.013333333333333334
-162,mature alpha-beta T cell,male,unknown,2275,1.378787878787879
-163,mature gamma-delta T cell,male,unknown,119,0.07212121212121213
-164,"CD14-positive, CD16-negative classical monocyte",male,unknown,963,0.5836363636363636
-165,"CD14-positive, CD16-positive monocyte",male,unknown,37,0.022424242424242423
-166,macrophage,male,unknown,1,0.0006060606060606061
-167,B cell,male,unknown,320,0.19393939393939394
-168,dendritic cell,male,unknown,53,0.03212121212121212
-169,megakaryocyte,male,unknown,21,0.012727272727272728
-170,monocyte,male,unknown,83,0.0503030303030303
-171,natural killer cell,male,unknown,107,0.06484848484848485
-172,"CD8-positive, alpha-beta T cell",male,unknown,1213,0.7351515151515151
-173,neutrophil,male,unknown,1,0.0006060606060606061
-174,plasma cell,male,unknown,5,0.0030303030303030303
-175,mature alpha-beta T cell,male,unknown,1110,0.6727272727272727
-176,mature gamma-delta T cell,male,unknown,100,0.06060606060606061
-177,"CD14-positive, CD16-negative classical monocyte",male,unknown,639,0.38727272727272727
-178,"CD14-positive, CD16-positive monocyte",male,unknown,20,0.012121212121212121
-179,macrophage,male,unknown,1,0.0006060606060606061
-180,B cell,male,unknown,331,0.20060606060606062
-181,dendritic cell,male,unknown,165,0.1
-182,megakaryocyte,male,unknown,46,0.027878787878787878
-183,monocyte,male,unknown,92,0.055757575757575756
-184,natural killer cell,male,unknown,735,0.4454545454545455
-185,"CD8-positive, alpha-beta T cell",male,unknown,2275,1.378787878787879
-186,neutrophil,male,unknown,2,0.0012121212121212121
-187,plasma cell,male,unknown,20,0.012121212121212121
-188,mature alpha-beta T cell,male,unknown,4236,2.5672727272727274
-189,mature gamma-delta T cell,male,unknown,234,0.14181818181818182
-190,"CD14-positive, CD16-negative classical monocyte",male,unknown,2293,1.3896969696969697
-191,"CD14-positive, CD16-positive monocyte",male,unknown,47,0.028484848484848484
-192,B cell,male,unknown,273,0.16545454545454547
-193,dendritic cell,male,unknown,70,0.04242424242424243
-194,megakaryocyte,male,unknown,12,0.007272727272727273
-195,monocyte,male,unknown,97,0.058787878787878785
-196,natural killer cell,male,unknown,142,0.08606060606060606
-197,"CD8-positive, alpha-beta T cell",male,unknown,2082,1.2618181818181817
-198,mature alpha-beta T cell,male,unknown,1213,0.7351515151515151
-199,mature gamma-delta T cell,male,unknown,121,0.07333333333333333
-200,"CD14-positive, CD16-negative classical monocyte",male,unknown,892,0.5406060606060606
-201,"CD14-positive, CD16-positive monocyte",male,unknown,35,0.021212121212121213
-202,macrophage,male,unknown,2,0.0012121212121212121
-203,B cell,male,unknown,809,0.4903030303030303
-204,megakaryocyte,male,unknown,15,0.00909090909090909
-205,monocyte,male,unknown,1,0.0006060606060606061
-206,natural killer cell,male,unknown,24,0.014545454545454545
-207,"CD8-positive, alpha-beta T cell",male,unknown,4767,2.889090909090909
-208,plasma cell,male,unknown,28,0.016969696969696968
-209,mature alpha-beta T cell,male,unknown,4752,2.88
-210,mature gamma-delta T cell,male,unknown,144,0.08727272727272728
-211,"CD14-positive, CD16-negative classical monocyte",male,unknown,10,0.006060606060606061
-212,"CD14-positive, CD16-positive monocyte",male,unknown,1,0.0006060606060606061
-213,B cell,male,unknown,1963,1.1896969696969697
-214,dendritic cell,male,unknown,40,0.024242424242424242
-215,megakaryocyte,male,unknown,24,0.014545454545454545
-216,monocyte,male,unknown,101,0.06121212121212122
-217,natural killer cell,male,unknown,157,0.09515151515151515
-218,"CD8-positive, alpha-beta T cell",male,unknown,1933,1.1715151515151516
-219,neutrophil,male,unknown,1,0.0006060606060606061
-220,plasma cell,male,unknown,82,0.0496969696969697
-221,mature alpha-beta T cell,male,unknown,944,0.5721212121212121
-222,mature gamma-delta T cell,male,unknown,300,0.18181818181818182
-223,"CD14-positive, CD16-negative classical monocyte",male,unknown,753,0.45636363636363636
-224,"CD14-positive, CD16-positive monocyte",male,unknown,23,0.013939393939393939
-225,macrophage,male,unknown,5,0.0030303030303030303
-226,B cell,male,unknown,438,0.26545454545454544
-227,dendritic cell,male,unknown,94,0.05696969696969697
-228,megakaryocyte,male,unknown,26,0.01575757575757576
-229,monocyte,male,unknown,147,0.08909090909090908
-230,natural killer cell,male,unknown,120,0.07272727272727272
-231,"CD8-positive, alpha-beta T cell",male,unknown,1104,0.6690909090909091
-232,neutrophil,male,unknown,6,0.0036363636363636364
-233,plasma cell,male,unknown,4,0.0024242424242424242
-234,mature alpha-beta T cell,male,unknown,1217,0.7375757575757576
-235,mature gamma-delta T cell,male,unknown,10,0.006060606060606061
-236,"CD14-positive, CD16-negative classical monocyte",male,unknown,1913,1.1593939393939394
-237,"CD14-positive, CD16-positive monocyte",male,unknown,54,0.03272727272727273
+,dataset_name,cell_type,sex,race,count,percentage
+0,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,B cell,female,unknown,805,0.4878787878787879
+1,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,dendritic cell,female,unknown,34,0.020606060606060607
+2,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,megakaryocyte,female,unknown,7,0.004242424242424242
+3,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,monocyte,female,unknown,61,0.036969696969696965
+4,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,natural killer cell,female,unknown,577,0.34969696969696973
+5,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD8-positive, alpha-beta T cell",female,unknown,4722,2.861818181818182
+6,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,plasma cell,female,unknown,19,0.011515151515151515
+7,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature alpha-beta T cell,female,unknown,2446,1.4824242424242424
+8,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature gamma-delta T cell,female,unknown,286,0.17333333333333334
+9,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD14-positive, CD16-negative classical monocyte",female,unknown,181,0.1096969696969697
+10,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD14-positive, CD16-positive monocyte",female,unknown,4,0.0024242424242424242
+11,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,macrophage,female,unknown,2,0.0012121212121212121
+12,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,B cell,female,unknown,815,0.49393939393939396
+13,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,dendritic cell,female,unknown,24,0.014545454545454545
+14,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,megakaryocyte,female,unknown,16,0.009696969696969697
+15,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,monocyte,female,unknown,7,0.004242424242424242
+16,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,natural killer cell,female,unknown,44,0.02666666666666667
+17,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD8-positive, alpha-beta T cell",female,unknown,3590,2.175757575757576
+18,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,plasma cell,female,unknown,7,0.004242424242424242
+19,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature alpha-beta T cell,female,unknown,3909,2.369090909090909
+20,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature gamma-delta T cell,female,unknown,252,0.15272727272727274
+21,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD14-positive, CD16-negative classical monocyte",female,unknown,101,0.06121212121212122
+22,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,B cell,female,unknown,647,0.39212121212121215
+23,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,dendritic cell,female,unknown,100,0.06060606060606061
+24,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,megakaryocyte,female,unknown,32,0.019393939393939394
+25,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,monocyte,female,unknown,170,0.10303030303030303
+26,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,natural killer cell,female,unknown,182,0.11030303030303029
+27,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD8-positive, alpha-beta T cell",female,unknown,2770,1.678787878787879
+28,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,neutrophil,female,unknown,2,0.0012121212121212121
+29,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,plasma cell,female,unknown,12,0.007272727272727273
+30,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature alpha-beta T cell,female,unknown,1597,0.9678787878787879
+31,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature gamma-delta T cell,female,unknown,30,0.01818181818181818
+32,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD14-positive, CD16-negative classical monocyte",female,unknown,1373,0.8321212121212122
+33,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD14-positive, CD16-positive monocyte",female,unknown,59,0.03575757575757576
+34,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,macrophage,female,unknown,1,0.0006060606060606061
+35,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,B cell,female,unknown,970,0.5878787878787879
+36,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,dendritic cell,female,unknown,122,0.07393939393939393
+37,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,megakaryocyte,female,unknown,27,0.016363636363636365
+38,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,monocyte,female,unknown,489,0.2963636363636364
+39,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,natural killer cell,female,unknown,797,0.48303030303030303
+40,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD8-positive, alpha-beta T cell",female,unknown,3305,2.003030303030303
+41,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,plasma cell,female,unknown,25,0.015151515151515152
+42,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature alpha-beta T cell,female,unknown,3105,1.8818181818181818
+43,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature gamma-delta T cell,female,unknown,288,0.17454545454545456
+44,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD14-positive, CD16-negative classical monocyte",female,unknown,1596,0.9672727272727272
+45,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD14-positive, CD16-positive monocyte",female,unknown,47,0.028484848484848484
+46,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,B cell,female,unknown,508,0.30787878787878786
+47,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,dendritic cell,female,unknown,148,0.08969696969696969
+48,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,megakaryocyte,female,unknown,69,0.04181818181818182
+49,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,monocyte,female,unknown,405,0.24545454545454545
+50,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,natural killer cell,female,unknown,224,0.13575757575757574
+51,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD8-positive, alpha-beta T cell",female,unknown,3579,2.169090909090909
+52,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,neutrophil,female,unknown,2,0.0012121212121212121
+53,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,plasma cell,female,unknown,23,0.013939393939393939
+54,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature alpha-beta T cell,female,unknown,3170,1.9212121212121211
+55,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature gamma-delta T cell,female,unknown,480,0.2909090909090909
+56,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD14-positive, CD16-negative classical monocyte",female,unknown,1413,0.8563636363636363
+57,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD14-positive, CD16-positive monocyte",female,unknown,46,0.027878787878787878
+58,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,B cell,male,unknown,2711,1.643030303030303
+59,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,dendritic cell,male,unknown,10,0.006060606060606061
+60,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,megakaryocyte,male,unknown,9,0.005454545454545455
+61,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,monocyte,male,unknown,29,0.017575757575757574
+62,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,natural killer cell,male,unknown,80,0.048484848484848485
+63,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD8-positive, alpha-beta T cell",male,unknown,1767,1.070909090909091
+64,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,plasma cell,male,unknown,10,0.006060606060606061
+65,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature alpha-beta T cell,male,unknown,451,0.2733333333333333
+66,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature gamma-delta T cell,male,unknown,75,0.045454545454545456
+67,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD14-positive, CD16-negative classical monocyte",male,unknown,160,0.09696969696969697
+68,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD14-positive, CD16-positive monocyte",male,unknown,9,0.005454545454545455
+69,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,B cell,male,unknown,1342,0.8133333333333332
+70,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,dendritic cell,male,unknown,184,0.11151515151515151
+71,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,megakaryocyte,male,unknown,82,0.0496969696969697
+72,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,monocyte,male,unknown,342,0.20727272727272725
+73,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,natural killer cell,male,unknown,1275,0.7727272727272727
+74,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD8-positive, alpha-beta T cell",male,unknown,8072,4.8921212121212125
+75,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,neutrophil,male,unknown,4,0.0024242424242424242
+76,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,plasma cell,male,unknown,39,0.023636363636363636
+77,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature alpha-beta T cell,male,unknown,4762,2.886060606060606
+78,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature gamma-delta T cell,male,unknown,796,0.4824242424242424
+79,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD14-positive, CD16-negative classical monocyte",male,unknown,1454,0.8812121212121212
+80,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD14-positive, CD16-positive monocyte",male,unknown,42,0.025454545454545455
+81,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,B cell,male,unknown,457,0.276969696969697
+82,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,dendritic cell,male,unknown,66,0.04
+83,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,megakaryocyte,male,unknown,53,0.03212121212121212
+84,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,monocyte,male,unknown,138,0.08363636363636363
+85,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,natural killer cell,male,unknown,973,0.5896969696969697
+86,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD8-positive, alpha-beta T cell",male,unknown,2498,1.513939393939394
+87,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,neutrophil,male,unknown,1,0.0006060606060606061
+88,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,plasma cell,male,unknown,4,0.0024242424242424242
+89,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature alpha-beta T cell,male,unknown,958,0.5806060606060606
+90,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature gamma-delta T cell,male,unknown,173,0.10484848484848484
+91,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD14-positive, CD16-negative classical monocyte",male,unknown,630,0.38181818181818183
+92,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD14-positive, CD16-positive monocyte",male,unknown,15,0.00909090909090909
+93,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,macrophage,male,unknown,9,0.005454545454545455
+94,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,B cell,male,unknown,4095,2.481818181818182
+95,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,dendritic cell,male,unknown,126,0.07636363636363637
+96,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,megakaryocyte,male,unknown,69,0.04181818181818182
+97,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,monocyte,male,unknown,259,0.15696969696969695
+98,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,natural killer cell,male,unknown,682,0.41333333333333333
+99,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD8-positive, alpha-beta T cell",male,unknown,5297,3.21030303030303
+100,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,neutrophil,male,unknown,7,0.004242424242424242
+101,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,plasma cell,male,unknown,27,0.016363636363636365
+102,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature alpha-beta T cell,male,unknown,3147,1.9072727272727272
+103,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature gamma-delta T cell,male,unknown,351,0.2127272727272727
+104,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD14-positive, CD16-negative classical monocyte",male,unknown,1572,0.9527272727272728
+105,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD14-positive, CD16-positive monocyte",male,unknown,50,0.030303030303030304
+106,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,macrophage,male,unknown,3,0.0018181818181818182
+107,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,B cell,male,unknown,332,0.2012121212121212
+108,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,dendritic cell,male,unknown,143,0.08666666666666667
+109,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,megakaryocyte,male,unknown,157,0.09515151515151515
+110,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,monocyte,male,unknown,612,0.3709090909090909
+111,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,natural killer cell,male,unknown,1276,0.7733333333333333
+112,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD8-positive, alpha-beta T cell",male,unknown,3813,2.310909090909091
+113,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,neutrophil,male,unknown,12,0.007272727272727273
+114,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,plasma cell,male,unknown,18,0.01090909090909091
+115,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature alpha-beta T cell,male,unknown,1281,0.7763636363636364
+116,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature gamma-delta T cell,male,unknown,311,0.18848484848484848
+117,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD14-positive, CD16-negative classical monocyte",male,unknown,1526,0.9248484848484848
+118,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD14-positive, CD16-positive monocyte",male,unknown,65,0.0393939393939394
+119,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,macrophage,male,unknown,1,0.0006060606060606061
+120,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,B cell,male,unknown,537,0.32545454545454544
+121,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,dendritic cell,male,unknown,109,0.06606060606060607
+122,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,megakaryocyte,male,unknown,24,0.014545454545454545
+123,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,monocyte,male,unknown,91,0.055151515151515146
+124,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,natural killer cell,male,unknown,180,0.1090909090909091
+125,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD8-positive, alpha-beta T cell",male,unknown,1253,0.7593939393939394
+126,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,neutrophil,male,unknown,7,0.004242424242424242
+127,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,plasma cell,male,unknown,8,0.0048484848484848485
+128,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature alpha-beta T cell,male,unknown,1297,0.7860606060606061
+129,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature gamma-delta T cell,male,unknown,88,0.05333333333333334
+130,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD14-positive, CD16-negative classical monocyte",male,unknown,1398,0.8472727272727273
+131,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD14-positive, CD16-positive monocyte",male,unknown,42,0.025454545454545455
+132,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,macrophage,male,unknown,1,0.0006060606060606061
+133,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,B cell,male,unknown,378,0.2290909090909091
+134,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,dendritic cell,male,unknown,104,0.06303030303030303
+135,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,megakaryocyte,male,unknown,13,0.00787878787878788
+136,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,monocyte,male,unknown,184,0.11151515151515151
+137,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,natural killer cell,male,unknown,185,0.11212121212121212
+138,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD8-positive, alpha-beta T cell",male,unknown,2786,1.6884848484848485
+139,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature alpha-beta T cell,male,unknown,861,0.5218181818181818
+140,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature gamma-delta T cell,male,unknown,91,0.055151515151515146
+141,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD14-positive, CD16-negative classical monocyte",male,unknown,1346,0.8157575757575758
+142,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD14-positive, CD16-positive monocyte",male,unknown,59,0.03575757575757576
+143,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,B cell,male,unknown,338,0.20484848484848486
+144,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,dendritic cell,male,unknown,53,0.03212121212121212
+145,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,megakaryocyte,male,unknown,21,0.012727272727272728
+146,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,monocyte,male,unknown,97,0.058787878787878785
+147,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,natural killer cell,male,unknown,297,0.18
+148,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD8-positive, alpha-beta T cell",male,unknown,1258,0.7624242424242424
+149,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,neutrophil,male,unknown,2,0.0012121212121212121
+150,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,plasma cell,male,unknown,2,0.0012121212121212121
+151,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature alpha-beta T cell,male,unknown,1160,0.703030303030303
+152,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature gamma-delta T cell,male,unknown,74,0.044848484848484846
+153,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD14-positive, CD16-negative classical monocyte",male,unknown,523,0.31696969696969696
+154,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD14-positive, CD16-positive monocyte",male,unknown,7,0.004242424242424242
+155,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,B cell,male,unknown,629,0.3812121212121212
+156,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,dendritic cell,male,unknown,81,0.04909090909090909
+157,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,megakaryocyte,male,unknown,32,0.019393939393939394
+158,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,monocyte,male,unknown,260,0.1575757575757576
+159,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,natural killer cell,male,unknown,500,0.30303030303030304
+160,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD8-positive, alpha-beta T cell",male,unknown,3475,2.106060606060606
+161,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,plasma cell,male,unknown,22,0.013333333333333334
+162,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature alpha-beta T cell,male,unknown,2275,1.378787878787879
+163,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature gamma-delta T cell,male,unknown,119,0.07212121212121213
+164,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD14-positive, CD16-negative classical monocyte",male,unknown,963,0.5836363636363636
+165,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD14-positive, CD16-positive monocyte",male,unknown,37,0.022424242424242423
+166,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,macrophage,male,unknown,1,0.0006060606060606061
+167,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,B cell,male,unknown,320,0.19393939393939394
+168,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,dendritic cell,male,unknown,53,0.03212121212121212
+169,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,megakaryocyte,male,unknown,21,0.012727272727272728
+170,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,monocyte,male,unknown,83,0.0503030303030303
+171,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,natural killer cell,male,unknown,107,0.06484848484848485
+172,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD8-positive, alpha-beta T cell",male,unknown,1213,0.7351515151515151
+173,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,neutrophil,male,unknown,1,0.0006060606060606061
+174,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,plasma cell,male,unknown,5,0.0030303030303030303
+175,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature alpha-beta T cell,male,unknown,1110,0.6727272727272727
+176,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature gamma-delta T cell,male,unknown,100,0.06060606060606061
+177,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD14-positive, CD16-negative classical monocyte",male,unknown,639,0.38727272727272727
+178,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD14-positive, CD16-positive monocyte",male,unknown,20,0.012121212121212121
+179,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,macrophage,male,unknown,1,0.0006060606060606061
+180,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,B cell,male,unknown,331,0.20060606060606062
+181,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,dendritic cell,male,unknown,165,0.1
+182,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,megakaryocyte,male,unknown,46,0.027878787878787878
+183,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,monocyte,male,unknown,92,0.055757575757575756
+184,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,natural killer cell,male,unknown,735,0.4454545454545455
+185,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD8-positive, alpha-beta T cell",male,unknown,2275,1.378787878787879
+186,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,neutrophil,male,unknown,2,0.0012121212121212121
+187,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,plasma cell,male,unknown,20,0.012121212121212121
+188,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature alpha-beta T cell,male,unknown,4236,2.5672727272727274
+189,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature gamma-delta T cell,male,unknown,234,0.14181818181818182
+190,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD14-positive, CD16-negative classical monocyte",male,unknown,2293,1.3896969696969697
+191,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD14-positive, CD16-positive monocyte",male,unknown,47,0.028484848484848484
+192,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,B cell,male,unknown,273,0.16545454545454547
+193,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,dendritic cell,male,unknown,70,0.04242424242424243
+194,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,megakaryocyte,male,unknown,12,0.007272727272727273
+195,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,monocyte,male,unknown,97,0.058787878787878785
+196,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,natural killer cell,male,unknown,142,0.08606060606060606
+197,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD8-positive, alpha-beta T cell",male,unknown,2082,1.2618181818181817
+198,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature alpha-beta T cell,male,unknown,1213,0.7351515151515151
+199,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature gamma-delta T cell,male,unknown,121,0.07333333333333333
+200,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD14-positive, CD16-negative classical monocyte",male,unknown,892,0.5406060606060606
+201,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD14-positive, CD16-positive monocyte",male,unknown,35,0.021212121212121213
+202,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,macrophage,male,unknown,2,0.0012121212121212121
+203,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,B cell,male,unknown,809,0.4903030303030303
+204,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,megakaryocyte,male,unknown,15,0.00909090909090909
+205,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,monocyte,male,unknown,1,0.0006060606060606061
+206,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,natural killer cell,male,unknown,24,0.014545454545454545
+207,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD8-positive, alpha-beta T cell",male,unknown,4767,2.889090909090909
+208,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,plasma cell,male,unknown,28,0.016969696969696968
+209,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature alpha-beta T cell,male,unknown,4752,2.88
+210,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature gamma-delta T cell,male,unknown,144,0.08727272727272728
+211,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD14-positive, CD16-negative classical monocyte",male,unknown,10,0.006060606060606061
+212,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD14-positive, CD16-positive monocyte",male,unknown,1,0.0006060606060606061
+213,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,B cell,male,unknown,1963,1.1896969696969697
+214,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,dendritic cell,male,unknown,40,0.024242424242424242
+215,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,megakaryocyte,male,unknown,24,0.014545454545454545
+216,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,monocyte,male,unknown,101,0.06121212121212122
+217,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,natural killer cell,male,unknown,157,0.09515151515151515
+218,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD8-positive, alpha-beta T cell",male,unknown,1933,1.1715151515151516
+219,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,neutrophil,male,unknown,1,0.0006060606060606061
+220,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,plasma cell,male,unknown,82,0.0496969696969697
+221,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature alpha-beta T cell,male,unknown,944,0.5721212121212121
+222,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature gamma-delta T cell,male,unknown,300,0.18181818181818182
+223,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD14-positive, CD16-negative classical monocyte",male,unknown,753,0.45636363636363636
+224,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD14-positive, CD16-positive monocyte",male,unknown,23,0.013939393939393939
+225,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,macrophage,male,unknown,5,0.0030303030303030303
+226,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,B cell,male,unknown,438,0.26545454545454544
+227,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,dendritic cell,male,unknown,94,0.05696969696969697
+228,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,megakaryocyte,male,unknown,26,0.01575757575757576
+229,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,monocyte,male,unknown,147,0.08909090909090908
+230,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,natural killer cell,male,unknown,120,0.07272727272727272
+231,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD8-positive, alpha-beta T cell",male,unknown,1104,0.6690909090909091
+232,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,neutrophil,male,unknown,6,0.0036363636363636364
+233,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,plasma cell,male,unknown,4,0.0024242424242424242
+234,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature alpha-beta T cell,male,unknown,1217,0.7375757575757576
+235,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature gamma-delta T cell,male,unknown,10,0.006060606060606061
+236,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD14-positive, CD16-negative classical monocyte",male,unknown,1913,1.1593939393939394
+237,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD14-positive, CD16-positive monocyte",male,unknown,54,0.03272727272727273

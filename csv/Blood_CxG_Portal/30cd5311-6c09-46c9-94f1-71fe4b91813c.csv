@@ -1,110 +1,110 @@
-,cell_type,sex,race,count,percentage
-0,platelet,female,unknown,5,0.019256691700365876
-1,natural killer cell,female,unknown,2,0.00770267668014635
-2,plasmacytoid dendritic cell,female,unknown,10,0.03851338340073175
-3,classical monocyte,female,unknown,519,1.998844598497978
-4,non-classical monocyte,female,unknown,50,0.19256691700365877
-5,"CD16-positive, CD56-dim natural killer cell, human",female,unknown,190,0.7317542846139033
-6,conventional dendritic cell,female,unknown,9,0.03466204506065858
-7,platelet,female,unknown,64,0.2464856537646832
-8,plasmacytoid dendritic cell,female,unknown,62,0.23878297708453686
-9,classical monocyte,female,unknown,1343,5.172347390718275
-10,non-classical monocyte,female,unknown,424,1.6329674561910263
-11,"CD16-negative, CD56-bright natural killer cell, human",female,unknown,6,0.023108030040439053
-12,"CD16-positive, CD56-dim natural killer cell, human",female,unknown,281,1.0822260735605624
-13,conventional dendritic cell,female,unknown,27,0.10398613518197573
-14,intermediate monocyte,female,unknown,13,0.05006739842095128
-15,granulocyte,male,unknown,26,0.10013479684190256
-16,platelet,male,unknown,53,0.2041209320238783
-17,natural killer cell,male,unknown,321,1.2362796071634894
-18,plasmacytoid dendritic cell,male,unknown,70,0.2695936838051223
-19,classical monocyte,male,unknown,814,3.134989408819565
-20,non-classical monocyte,male,unknown,179,0.6893895628730984
-21,"CD16-negative, CD56-bright natural killer cell, human",male,unknown,68,0.2618910071249759
-22,"CD16-positive, CD56-dim natural killer cell, human",male,unknown,1013,3.9014057384941263
-23,conventional dendritic cell,male,unknown,29,0.11168881186212208
-24,platelet,male,unknown,7,0.026959368380512227
-25,natural killer cell,male,unknown,34,0.13094550356248796
-26,plasmacytoid dendritic cell,male,unknown,5,0.019256691700365876
-27,classical monocyte,male,unknown,635,2.4455998459464663
-28,non-classical monocyte,male,unknown,76,0.2927017138455613
-29,"CD16-negative, CD56-bright natural killer cell, human",male,unknown,1,0.003851338340073175
-30,"CD16-positive, CD56-dim natural killer cell, human",male,unknown,262,1.009050645099172
-31,conventional dendritic cell,male,unknown,59,0.22722896206431734
-32,granulocyte,male,unknown,26,0.10013479684190256
-33,platelet,male,unknown,58,0.22337762372424416
-34,natural killer cell,male,unknown,41,0.15790487194300018
-35,plasmacytoid dendritic cell,male,unknown,31,0.11939148854226843
-36,classical monocyte,male,unknown,939,3.6164067013287116
-37,non-classical monocyte,male,unknown,211,0.81263238975544
-38,"CD16-negative, CD56-bright natural killer cell, human",male,unknown,63,0.24263431542461003
-39,"CD16-positive, CD56-dim natural killer cell, human",male,unknown,972,3.7435008665511265
-40,conventional dendritic cell,male,unknown,24,0.09243212016175621
-41,platelet,male,unknown,3,0.011554015020219527
-42,natural killer cell,male,unknown,21,0.08087810514153668
-43,plasmacytoid dendritic cell,male,unknown,14,0.053918736761024454
-44,classical monocyte,male,unknown,430,1.6560754862314655
-45,non-classical monocyte,male,unknown,87,0.33506643558636623
-46,"CD16-positive, CD56-dim natural killer cell, human",male,unknown,307,1.1823608704024648
-47,conventional dendritic cell,male,unknown,13,0.05006739842095128
-48,platelet,male,unknown,32,0.1232428268823416
-49,natural killer cell,male,unknown,46,0.17716156364336608
-50,plasmacytoid dendritic cell,male,unknown,26,0.10013479684190256
-51,classical monocyte,male,unknown,961,3.7011361448103215
-52,non-classical monocyte,male,unknown,216,0.8318890814558059
-53,"CD16-negative, CD56-bright natural killer cell, human",male,unknown,12,0.046216060080878106
-54,"CD16-positive, CD56-dim natural killer cell, human",male,unknown,397,1.5289813210090506
-55,conventional dendritic cell,male,unknown,30,0.11554015020219525
-56,intermediate monocyte,male,unknown,8,0.0308107067205854
-57,granulocyte,male,unknown,34,0.13094550356248796
-58,platelet,male,unknown,39,0.15020219526285383
-59,natural killer cell,male,unknown,20,0.0770267668014635
-60,plasmacytoid dendritic cell,male,unknown,25,0.09628345850182939
-61,classical monocyte,male,unknown,1010,3.8898517234739067
-62,non-classical monocyte,male,unknown,338,1.3017523589447333
-63,"CD16-negative, CD56-bright natural killer cell, human",male,unknown,33,0.1270941652224148
-64,"CD16-positive, CD56-dim natural killer cell, human",male,unknown,376,1.448103215867514
-65,conventional dendritic cell,male,unknown,7,0.026959368380512227
-66,platelet,male,unknown,40,0.154053533602927
-67,natural killer cell,male,unknown,3,0.011554015020219527
-68,plasmacytoid dendritic cell,male,unknown,1,0.003851338340073175
-69,classical monocyte,male,unknown,1632,6.285384170999422
-70,non-classical monocyte,male,unknown,232,0.8935104948969766
-71,"CD16-negative, CD56-bright natural killer cell, human",male,unknown,11,0.042364721740804925
-72,"CD16-positive, CD56-dim natural killer cell, human",male,unknown,547,2.106682072020027
-73,conventional dendritic cell,male,unknown,21,0.08087810514153668
-74,intermediate monocyte,male,unknown,6,0.023108030040439053
-75,granulocyte,male,unknown,32,0.1232428268823416
-76,platelet,male,unknown,15,0.05777007510109763
-77,natural killer cell,male,unknown,170,0.6547275178124398
-78,plasmacytoid dendritic cell,male,unknown,22,0.08472944348160985
-79,classical monocyte,male,unknown,1289,4.964375120354323
-80,non-classical monocyte,male,unknown,331,1.274792990564221
-81,"CD16-negative, CD56-bright natural killer cell, human",male,unknown,31,0.11939148854226843
-82,"CD16-positive, CD56-dim natural killer cell, human",male,unknown,1089,4.194107452339688
-83,conventional dendritic cell,male,unknown,27,0.10398613518197573
-84,platelet,male,unknown,9,0.03466204506065858
-85,natural killer cell,male,unknown,7,0.026959368380512227
-86,plasmacytoid dendritic cell,male,unknown,13,0.05006739842095128
-87,classical monocyte,male,unknown,1058,4.07471596379742
-88,non-classical monocyte,male,unknown,227,0.8742538031966108
-89,"CD16-positive, CD56-dim natural killer cell, human",male,unknown,313,1.205468900442904
-90,conventional dendritic cell,male,unknown,8,0.0308107067205854
-91,platelet,male,unknown,47,0.18101290198343925
-92,natural killer cell,male,unknown,4,0.0154053533602927
-93,plasmacytoid dendritic cell,male,unknown,42,0.16175621028307335
-94,classical monocyte,male,unknown,1691,6.51261313306374
-95,non-classical monocyte,male,unknown,279,1.074523396880416
-96,"CD16-negative, CD56-bright natural killer cell, human",male,unknown,14,0.053918736761024454
-97,"CD16-positive, CD56-dim natural killer cell, human",male,unknown,709,2.730598883111881
-98,conventional dendritic cell,male,unknown,97,0.373579818987098
-99,intermediate monocyte,male,unknown,35,0.13479684190256114
-100,granulocyte,male,unknown,22,0.08472944348160985
-101,platelet,male,unknown,19,0.07317542846139033
-102,natural killer cell,male,unknown,572,2.2029655305218565
-103,plasmacytoid dendritic cell,male,unknown,33,0.1270941652224148
-104,classical monocyte,male,unknown,1143,4.40207972270364
-105,non-classical monocyte,male,unknown,242,0.9320238782977084
-106,"CD16-negative, CD56-bright natural killer cell, human",male,unknown,22,0.08472944348160985
-107,"CD16-positive, CD56-dim natural killer cell, human",male,unknown,349,1.3441170806855383
-108,conventional dendritic cell,male,unknown,4,0.0154053533602927
+,dataset_name,cell_type,sex,race,count,percentage
+0,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,platelet,female,unknown,5,0.019256691700365876
+1,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,natural killer cell,female,unknown,2,0.00770267668014635
+2,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,plasmacytoid dendritic cell,female,unknown,10,0.03851338340073175
+3,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,classical monocyte,female,unknown,519,1.998844598497978
+4,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,non-classical monocyte,female,unknown,50,0.19256691700365877
+5,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,"CD16-positive, CD56-dim natural killer cell, human",female,unknown,190,0.7317542846139033
+6,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,conventional dendritic cell,female,unknown,9,0.03466204506065858
+7,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,platelet,female,unknown,64,0.2464856537646832
+8,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,plasmacytoid dendritic cell,female,unknown,62,0.23878297708453686
+9,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,classical monocyte,female,unknown,1343,5.172347390718275
+10,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,non-classical monocyte,female,unknown,424,1.6329674561910263
+11,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,"CD16-negative, CD56-bright natural killer cell, human",female,unknown,6,0.023108030040439053
+12,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,"CD16-positive, CD56-dim natural killer cell, human",female,unknown,281,1.0822260735605624
+13,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,conventional dendritic cell,female,unknown,27,0.10398613518197573
+14,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,intermediate monocyte,female,unknown,13,0.05006739842095128
+15,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,granulocyte,male,unknown,26,0.10013479684190256
+16,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,platelet,male,unknown,53,0.2041209320238783
+17,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,natural killer cell,male,unknown,321,1.2362796071634894
+18,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,plasmacytoid dendritic cell,male,unknown,70,0.2695936838051223
+19,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,classical monocyte,male,unknown,814,3.134989408819565
+20,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,non-classical monocyte,male,unknown,179,0.6893895628730984
+21,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,"CD16-negative, CD56-bright natural killer cell, human",male,unknown,68,0.2618910071249759
+22,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,"CD16-positive, CD56-dim natural killer cell, human",male,unknown,1013,3.9014057384941263
+23,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,conventional dendritic cell,male,unknown,29,0.11168881186212208
+24,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,platelet,male,unknown,7,0.026959368380512227
+25,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,natural killer cell,male,unknown,34,0.13094550356248796
+26,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,plasmacytoid dendritic cell,male,unknown,5,0.019256691700365876
+27,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,classical monocyte,male,unknown,635,2.4455998459464663
+28,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,non-classical monocyte,male,unknown,76,0.2927017138455613
+29,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,"CD16-negative, CD56-bright natural killer cell, human",male,unknown,1,0.003851338340073175
+30,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,"CD16-positive, CD56-dim natural killer cell, human",male,unknown,262,1.009050645099172
+31,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,conventional dendritic cell,male,unknown,59,0.22722896206431734
+32,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,granulocyte,male,unknown,26,0.10013479684190256
+33,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,platelet,male,unknown,58,0.22337762372424416
+34,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,natural killer cell,male,unknown,41,0.15790487194300018
+35,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,plasmacytoid dendritic cell,male,unknown,31,0.11939148854226843
+36,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,classical monocyte,male,unknown,939,3.6164067013287116
+37,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,non-classical monocyte,male,unknown,211,0.81263238975544
+38,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,"CD16-negative, CD56-bright natural killer cell, human",male,unknown,63,0.24263431542461003
+39,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,"CD16-positive, CD56-dim natural killer cell, human",male,unknown,972,3.7435008665511265
+40,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,conventional dendritic cell,male,unknown,24,0.09243212016175621
+41,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,platelet,male,unknown,3,0.011554015020219527
+42,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,natural killer cell,male,unknown,21,0.08087810514153668
+43,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,plasmacytoid dendritic cell,male,unknown,14,0.053918736761024454
+44,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,classical monocyte,male,unknown,430,1.6560754862314655
+45,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,non-classical monocyte,male,unknown,87,0.33506643558636623
+46,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,"CD16-positive, CD56-dim natural killer cell, human",male,unknown,307,1.1823608704024648
+47,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,conventional dendritic cell,male,unknown,13,0.05006739842095128
+48,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,platelet,male,unknown,32,0.1232428268823416
+49,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,natural killer cell,male,unknown,46,0.17716156364336608
+50,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,plasmacytoid dendritic cell,male,unknown,26,0.10013479684190256
+51,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,classical monocyte,male,unknown,961,3.7011361448103215
+52,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,non-classical monocyte,male,unknown,216,0.8318890814558059
+53,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,"CD16-negative, CD56-bright natural killer cell, human",male,unknown,12,0.046216060080878106
+54,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,"CD16-positive, CD56-dim natural killer cell, human",male,unknown,397,1.5289813210090506
+55,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,conventional dendritic cell,male,unknown,30,0.11554015020219525
+56,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,intermediate monocyte,male,unknown,8,0.0308107067205854
+57,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,granulocyte,male,unknown,34,0.13094550356248796
+58,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,platelet,male,unknown,39,0.15020219526285383
+59,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,natural killer cell,male,unknown,20,0.0770267668014635
+60,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,plasmacytoid dendritic cell,male,unknown,25,0.09628345850182939
+61,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,classical monocyte,male,unknown,1010,3.8898517234739067
+62,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,non-classical monocyte,male,unknown,338,1.3017523589447333
+63,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,"CD16-negative, CD56-bright natural killer cell, human",male,unknown,33,0.1270941652224148
+64,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,"CD16-positive, CD56-dim natural killer cell, human",male,unknown,376,1.448103215867514
+65,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,conventional dendritic cell,male,unknown,7,0.026959368380512227
+66,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,platelet,male,unknown,40,0.154053533602927
+67,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,natural killer cell,male,unknown,3,0.011554015020219527
+68,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,plasmacytoid dendritic cell,male,unknown,1,0.003851338340073175
+69,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,classical monocyte,male,unknown,1632,6.285384170999422
+70,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,non-classical monocyte,male,unknown,232,0.8935104948969766
+71,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,"CD16-negative, CD56-bright natural killer cell, human",male,unknown,11,0.042364721740804925
+72,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,"CD16-positive, CD56-dim natural killer cell, human",male,unknown,547,2.106682072020027
+73,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,conventional dendritic cell,male,unknown,21,0.08087810514153668
+74,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,intermediate monocyte,male,unknown,6,0.023108030040439053
+75,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,granulocyte,male,unknown,32,0.1232428268823416
+76,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,platelet,male,unknown,15,0.05777007510109763
+77,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,natural killer cell,male,unknown,170,0.6547275178124398
+78,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,plasmacytoid dendritic cell,male,unknown,22,0.08472944348160985
+79,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,classical monocyte,male,unknown,1289,4.964375120354323
+80,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,non-classical monocyte,male,unknown,331,1.274792990564221
+81,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,"CD16-negative, CD56-bright natural killer cell, human",male,unknown,31,0.11939148854226843
+82,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,"CD16-positive, CD56-dim natural killer cell, human",male,unknown,1089,4.194107452339688
+83,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,conventional dendritic cell,male,unknown,27,0.10398613518197573
+84,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,platelet,male,unknown,9,0.03466204506065858
+85,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,natural killer cell,male,unknown,7,0.026959368380512227
+86,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,plasmacytoid dendritic cell,male,unknown,13,0.05006739842095128
+87,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,classical monocyte,male,unknown,1058,4.07471596379742
+88,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,non-classical monocyte,male,unknown,227,0.8742538031966108
+89,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,"CD16-positive, CD56-dim natural killer cell, human",male,unknown,313,1.205468900442904
+90,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,conventional dendritic cell,male,unknown,8,0.0308107067205854
+91,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,platelet,male,unknown,47,0.18101290198343925
+92,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,natural killer cell,male,unknown,4,0.0154053533602927
+93,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,plasmacytoid dendritic cell,male,unknown,42,0.16175621028307335
+94,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,classical monocyte,male,unknown,1691,6.51261313306374
+95,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,non-classical monocyte,male,unknown,279,1.074523396880416
+96,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,"CD16-negative, CD56-bright natural killer cell, human",male,unknown,14,0.053918736761024454
+97,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,"CD16-positive, CD56-dim natural killer cell, human",male,unknown,709,2.730598883111881
+98,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,conventional dendritic cell,male,unknown,97,0.373579818987098
+99,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,intermediate monocyte,male,unknown,35,0.13479684190256114
+100,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,granulocyte,male,unknown,22,0.08472944348160985
+101,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,platelet,male,unknown,19,0.07317542846139033
+102,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,natural killer cell,male,unknown,572,2.2029655305218565
+103,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,plasmacytoid dendritic cell,male,unknown,33,0.1270941652224148
+104,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,classical monocyte,male,unknown,1143,4.40207972270364
+105,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,non-classical monocyte,male,unknown,242,0.9320238782977084
+106,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,"CD16-negative, CD56-bright natural killer cell, human",male,unknown,22,0.08472944348160985
+107,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,"CD16-positive, CD56-dim natural killer cell, human",male,unknown,349,1.3441170806855383
+108,Time-resolved Systems Immunology Reveals a Late Juncture Linked to Fatal COVID-19: Innate Cells,conventional dendritic cell,male,unknown,4,0.0154053533602927

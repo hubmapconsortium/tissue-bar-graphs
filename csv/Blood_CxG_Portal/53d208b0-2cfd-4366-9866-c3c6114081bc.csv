@@ -1,96 +1,96 @@
-,cell_type,sex,race,count,percentage
-0,hematopoietic stem cell,female,European,2,0.003988354006301599
-1,common myeloid progenitor,female,European,1,0.0019941770031507997
-2,erythrocyte,female,European,90,0.17947593028357198
-3,monocyte,female,European,1634,3.2584852231484067
-4,"CD4-positive, alpha-beta T cell",female,European,1290,2.5724883340645315
-5,"CD8-positive, alpha-beta T cell",female,European,355,0.7079328361185339
-6,neutrophil,female,European,3,0.005982531009452399
-7,memory B cell,female,European,168,0.3350217365293343
-8,naive B cell,female,European,263,0.5244685518286604
-9,mature NK T cell,female,European,126,0.25126630239700076
-10,plasmablast,female,European,7,0.013959239022055597
-11,hematopoietic stem cell,female,African American or Afro-Caribbean,21,0.04187771706616679
-12,common myeloid progenitor,female,African American or Afro-Caribbean,2,0.003988354006301599
-13,granulocyte,female,African American or Afro-Caribbean,2,0.003988354006301599
-14,erythrocyte,female,African American or Afro-Caribbean,333,0.6640609420492163
-15,macrophage,female,African American or Afro-Caribbean,488,0.9731583775375903
-16,monocyte,female,African American or Afro-Caribbean,7338,14.633270849120569
-17,"CD4-positive, alpha-beta T cell",female,African American or Afro-Caribbean,1573,3.1368404259562075
-18,"CD8-positive, alpha-beta T cell",female,African American or Afro-Caribbean,591,1.1785586088621225
-19,neutrophil,female,African American or Afro-Caribbean,21,0.04187771706616679
-20,plasma cell,female,African American or Afro-Caribbean,1,0.0019941770031507997
-21,memory B cell,female,African American or Afro-Caribbean,89,0.17748175328042118
-22,naive B cell,female,African American or Afro-Caribbean,450,0.8973796514178598
-23,mature NK T cell,female,African American or Afro-Caribbean,490,0.9771467315438919
-24,plasmablast,female,African American or Afro-Caribbean,3,0.005982531009452399
-25,hematopoietic stem cell,female,European,23,0.045866071072468394
-26,erythrocyte,female,European,7599,15.153751046942926
-27,platelet,female,European,135,0.26921389542535795
-28,"CD8-positive, alpha-beta T cell",female,European,198,0.39484704662385833
-29,basophil,female,European,7,0.013959239022055597
-30,neutrophil,female,European,1031,2.055996490248474
-31,plasmacytoid dendritic cell,female,European,9,0.017947593028357196
-32,plasma cell,female,European,238,0.4746141267498903
-33,memory B cell,female,European,267,0.5324452598412635
-34,naive B cell,female,European,729,1.4537550352969328
-35,alpha-beta T cell,female,European,31,0.06181948709767479
-36,mature NK T cell,female,European,1709,3.4080484983847166
-37,classical monocyte,female,European,3058,6.098193275635146
-38,non-classical monocyte,female,European,5,0.009970885015754
-39,"naive thymus-derived CD4-positive, alpha-beta T cell",female,European,289,0.5763171539105811
-40,"CD4-positive, alpha-beta memory T cell",female,European,668,1.3321102381047343
-41,"CD8-positive, alpha-beta cytokine secreting effector T cell",female,European,1377,2.745981733338651
-42,type I NK T cell,female,European,451,0.8993738284210107
-43,CD141-positive myeloid dendritic cell,female,European,7,0.013959239022055597
-44,hematopoietic stem cell,male,Hispanic or Latin American,11,0.021935947034658794
-45,erythrocyte,male,Hispanic or Latin American,824,1.6432018505962591
-46,platelet,male,Hispanic or Latin American,21,0.04187771706616679
-47,"CD8-positive, alpha-beta T cell",male,Hispanic or Latin American,149,0.29713237346946914
-48,basophil,male,Hispanic or Latin American,10,0.019941770031508
-49,plasmacytoid dendritic cell,male,Hispanic or Latin American,1,0.0019941770031507997
-50,plasma cell,male,Hispanic or Latin American,33,0.06580784110397639
-51,memory B cell,male,Hispanic or Latin American,273,0.5444103218601684
-52,naive B cell,male,Hispanic or Latin American,766,1.5275395844135125
-53,mature NK T cell,male,Hispanic or Latin American,514,1.0250069796195111
-54,classical monocyte,male,Hispanic or Latin American,2053,4.094045387468592
-55,non-classical monocyte,male,Hispanic or Latin American,3,0.005982531009452399
-56,"naive thymus-derived CD4-positive, alpha-beta T cell",male,Hispanic or Latin American,94,0.18745263829617517
-57,"CD4-positive, alpha-beta memory T cell",male,Hispanic or Latin American,137,0.27320224943165955
-58,"CD8-positive, alpha-beta cytokine secreting effector T cell",male,Hispanic or Latin American,79,0.1575399832489132
-59,type I NK T cell,male,Hispanic or Latin American,34,0.06780201810712719
-60,CD141-positive myeloid dendritic cell,male,Hispanic or Latin American,5,0.009970885015754
-61,hematopoietic stem cell,male,Hispanic or Latin American,1,0.0019941770031507997
-62,erythrocyte,male,Hispanic or Latin American,1,0.0019941770031507997
-63,platelet,male,Hispanic or Latin American,1,0.0019941770031507997
-64,"CD8-positive, alpha-beta T cell",male,Hispanic or Latin American,13,0.025924301040960395
-65,basophil,male,Hispanic or Latin American,3,0.005982531009452399
-66,neutrophil,male,Hispanic or Latin American,1567,3.1248753639373033
-67,plasma cell,male,Hispanic or Latin American,10,0.019941770031508
-68,memory B cell,male,Hispanic or Latin American,47,0.09372631914808759
-69,naive B cell,male,Hispanic or Latin American,26,0.05184860208192079
-70,mature NK T cell,male,Hispanic or Latin American,10,0.019941770031508
-71,classical monocyte,male,Hispanic or Latin American,225,0.4486898257089299
-72,"naive thymus-derived CD4-positive, alpha-beta T cell",male,Hispanic or Latin American,6,0.011965062018904798
-73,"CD4-positive, alpha-beta memory T cell",male,Hispanic or Latin American,25,0.04985442507876999
-74,"CD8-positive, alpha-beta cytokine secreting effector T cell",male,Hispanic or Latin American,14,0.027918478044111194
-75,type I NK T cell,male,Hispanic or Latin American,24,0.04786024807561919
-76,CD141-positive myeloid dendritic cell,male,Hispanic or Latin American,1,0.0019941770031507997
-77,hematopoietic stem cell,male,European,12,0.023930124037809596
-78,erythrocyte,male,European,1637,3.264467754157859
-79,platelet,male,European,82,0.1635225142583656
-80,"CD8-positive, alpha-beta T cell",male,European,16,0.031906832050412795
-81,basophil,male,European,9,0.017947593028357196
-82,neutrophil,male,European,5834,11.634028636381766
-83,plasmacytoid dendritic cell,male,European,1,0.0019941770031507997
-84,plasma cell,male,European,206,0.4108004626490648
-85,memory B cell,male,European,10,0.019941770031508
-86,naive B cell,male,European,5,0.009970885015754
-87,mature NK T cell,male,European,99,0.19742352331192917
-88,classical monocyte,male,European,1875,3.739081880907749
-89,"naive thymus-derived CD4-positive, alpha-beta T cell",male,European,23,0.045866071072468394
-90,"CD4-positive, alpha-beta memory T cell",male,European,119,0.23730706337494514
-91,"CD8-positive, alpha-beta cytokine secreting effector T cell",male,European,23,0.045866071072468394
-92,type I NK T cell,male,European,9,0.017947593028357196
-93,CD141-positive myeloid dendritic cell,male,European,2,0.003988354006301599
-94,T cell,female,European,31,0.06181948709767479
+,dataset_name,cell_type,sex,race,count,percentage
+0,Tabula Sapiens - All Cells,hematopoietic stem cell,female,European,2,0.003988354006301599
+1,Tabula Sapiens - All Cells,common myeloid progenitor,female,European,1,0.0019941770031507997
+2,Tabula Sapiens - All Cells,erythrocyte,female,European,90,0.17947593028357198
+3,Tabula Sapiens - All Cells,monocyte,female,European,1634,3.2584852231484067
+4,Tabula Sapiens - All Cells,"CD4-positive, alpha-beta T cell",female,European,1290,2.5724883340645315
+5,Tabula Sapiens - All Cells,"CD8-positive, alpha-beta T cell",female,European,355,0.7079328361185339
+6,Tabula Sapiens - All Cells,neutrophil,female,European,3,0.005982531009452399
+7,Tabula Sapiens - All Cells,memory B cell,female,European,168,0.3350217365293343
+8,Tabula Sapiens - All Cells,naive B cell,female,European,263,0.5244685518286604
+9,Tabula Sapiens - All Cells,mature NK T cell,female,European,126,0.25126630239700076
+10,Tabula Sapiens - All Cells,plasmablast,female,European,7,0.013959239022055597
+11,Tabula Sapiens - All Cells,hematopoietic stem cell,female,African American or Afro-Caribbean,21,0.04187771706616679
+12,Tabula Sapiens - All Cells,common myeloid progenitor,female,African American or Afro-Caribbean,2,0.003988354006301599
+13,Tabula Sapiens - All Cells,granulocyte,female,African American or Afro-Caribbean,2,0.003988354006301599
+14,Tabula Sapiens - All Cells,erythrocyte,female,African American or Afro-Caribbean,333,0.6640609420492163
+15,Tabula Sapiens - All Cells,macrophage,female,African American or Afro-Caribbean,488,0.9731583775375903
+16,Tabula Sapiens - All Cells,monocyte,female,African American or Afro-Caribbean,7338,14.633270849120569
+17,Tabula Sapiens - All Cells,"CD4-positive, alpha-beta T cell",female,African American or Afro-Caribbean,1573,3.1368404259562075
+18,Tabula Sapiens - All Cells,"CD8-positive, alpha-beta T cell",female,African American or Afro-Caribbean,591,1.1785586088621225
+19,Tabula Sapiens - All Cells,neutrophil,female,African American or Afro-Caribbean,21,0.04187771706616679
+20,Tabula Sapiens - All Cells,plasma cell,female,African American or Afro-Caribbean,1,0.0019941770031507997
+21,Tabula Sapiens - All Cells,memory B cell,female,African American or Afro-Caribbean,89,0.17748175328042118
+22,Tabula Sapiens - All Cells,naive B cell,female,African American or Afro-Caribbean,450,0.8973796514178598
+23,Tabula Sapiens - All Cells,mature NK T cell,female,African American or Afro-Caribbean,490,0.9771467315438919
+24,Tabula Sapiens - All Cells,plasmablast,female,African American or Afro-Caribbean,3,0.005982531009452399
+25,Tabula Sapiens - All Cells,hematopoietic stem cell,female,European,23,0.045866071072468394
+26,Tabula Sapiens - All Cells,erythrocyte,female,European,7599,15.153751046942926
+27,Tabula Sapiens - All Cells,platelet,female,European,135,0.26921389542535795
+28,Tabula Sapiens - All Cells,"CD8-positive, alpha-beta T cell",female,European,198,0.39484704662385833
+29,Tabula Sapiens - All Cells,basophil,female,European,7,0.013959239022055597
+30,Tabula Sapiens - All Cells,neutrophil,female,European,1031,2.055996490248474
+31,Tabula Sapiens - All Cells,plasmacytoid dendritic cell,female,European,9,0.017947593028357196
+32,Tabula Sapiens - All Cells,plasma cell,female,European,238,0.4746141267498903
+33,Tabula Sapiens - All Cells,memory B cell,female,European,267,0.5324452598412635
+34,Tabula Sapiens - All Cells,naive B cell,female,European,729,1.4537550352969328
+35,Tabula Sapiens - All Cells,alpha-beta T cell,female,European,31,0.06181948709767479
+36,Tabula Sapiens - All Cells,mature NK T cell,female,European,1709,3.4080484983847166
+37,Tabula Sapiens - All Cells,classical monocyte,female,European,3058,6.098193275635146
+38,Tabula Sapiens - All Cells,non-classical monocyte,female,European,5,0.009970885015754
+39,Tabula Sapiens - All Cells,"naive thymus-derived CD4-positive, alpha-beta T cell",female,European,289,0.5763171539105811
+40,Tabula Sapiens - All Cells,"CD4-positive, alpha-beta memory T cell",female,European,668,1.3321102381047343
+41,Tabula Sapiens - All Cells,"CD8-positive, alpha-beta cytokine secreting effector T cell",female,European,1377,2.745981733338651
+42,Tabula Sapiens - All Cells,type I NK T cell,female,European,451,0.8993738284210107
+43,Tabula Sapiens - All Cells,CD141-positive myeloid dendritic cell,female,European,7,0.013959239022055597
+44,Tabula Sapiens - All Cells,hematopoietic stem cell,male,Hispanic or Latin American,11,0.021935947034658794
+45,Tabula Sapiens - All Cells,erythrocyte,male,Hispanic or Latin American,824,1.6432018505962591
+46,Tabula Sapiens - All Cells,platelet,male,Hispanic or Latin American,21,0.04187771706616679
+47,Tabula Sapiens - All Cells,"CD8-positive, alpha-beta T cell",male,Hispanic or Latin American,149,0.29713237346946914
+48,Tabula Sapiens - All Cells,basophil,male,Hispanic or Latin American,10,0.019941770031508
+49,Tabula Sapiens - All Cells,plasmacytoid dendritic cell,male,Hispanic or Latin American,1,0.0019941770031507997
+50,Tabula Sapiens - All Cells,plasma cell,male,Hispanic or Latin American,33,0.06580784110397639
+51,Tabula Sapiens - All Cells,memory B cell,male,Hispanic or Latin American,273,0.5444103218601684
+52,Tabula Sapiens - All Cells,naive B cell,male,Hispanic or Latin American,766,1.5275395844135125
+53,Tabula Sapiens - All Cells,mature NK T cell,male,Hispanic or Latin American,514,1.0250069796195111
+54,Tabula Sapiens - All Cells,classical monocyte,male,Hispanic or Latin American,2053,4.094045387468592
+55,Tabula Sapiens - All Cells,non-classical monocyte,male,Hispanic or Latin American,3,0.005982531009452399
+56,Tabula Sapiens - All Cells,"naive thymus-derived CD4-positive, alpha-beta T cell",male,Hispanic or Latin American,94,0.18745263829617517
+57,Tabula Sapiens - All Cells,"CD4-positive, alpha-beta memory T cell",male,Hispanic or Latin American,137,0.27320224943165955
+58,Tabula Sapiens - All Cells,"CD8-positive, alpha-beta cytokine secreting effector T cell",male,Hispanic or Latin American,79,0.1575399832489132
+59,Tabula Sapiens - All Cells,type I NK T cell,male,Hispanic or Latin American,34,0.06780201810712719
+60,Tabula Sapiens - All Cells,CD141-positive myeloid dendritic cell,male,Hispanic or Latin American,5,0.009970885015754
+61,Tabula Sapiens - All Cells,hematopoietic stem cell,male,Hispanic or Latin American,1,0.0019941770031507997
+62,Tabula Sapiens - All Cells,erythrocyte,male,Hispanic or Latin American,1,0.0019941770031507997
+63,Tabula Sapiens - All Cells,platelet,male,Hispanic or Latin American,1,0.0019941770031507997
+64,Tabula Sapiens - All Cells,"CD8-positive, alpha-beta T cell",male,Hispanic or Latin American,13,0.025924301040960395
+65,Tabula Sapiens - All Cells,basophil,male,Hispanic or Latin American,3,0.005982531009452399
+66,Tabula Sapiens - All Cells,neutrophil,male,Hispanic or Latin American,1567,3.1248753639373033
+67,Tabula Sapiens - All Cells,plasma cell,male,Hispanic or Latin American,10,0.019941770031508
+68,Tabula Sapiens - All Cells,memory B cell,male,Hispanic or Latin American,47,0.09372631914808759
+69,Tabula Sapiens - All Cells,naive B cell,male,Hispanic or Latin American,26,0.05184860208192079
+70,Tabula Sapiens - All Cells,mature NK T cell,male,Hispanic or Latin American,10,0.019941770031508
+71,Tabula Sapiens - All Cells,classical monocyte,male,Hispanic or Latin American,225,0.4486898257089299
+72,Tabula Sapiens - All Cells,"naive thymus-derived CD4-positive, alpha-beta T cell",male,Hispanic or Latin American,6,0.011965062018904798
+73,Tabula Sapiens - All Cells,"CD4-positive, alpha-beta memory T cell",male,Hispanic or Latin American,25,0.04985442507876999
+74,Tabula Sapiens - All Cells,"CD8-positive, alpha-beta cytokine secreting effector T cell",male,Hispanic or Latin American,14,0.027918478044111194
+75,Tabula Sapiens - All Cells,type I NK T cell,male,Hispanic or Latin American,24,0.04786024807561919
+76,Tabula Sapiens - All Cells,CD141-positive myeloid dendritic cell,male,Hispanic or Latin American,1,0.0019941770031507997
+77,Tabula Sapiens - All Cells,hematopoietic stem cell,male,European,12,0.023930124037809596
+78,Tabula Sapiens - All Cells,erythrocyte,male,European,1637,3.264467754157859
+79,Tabula Sapiens - All Cells,platelet,male,European,82,0.1635225142583656
+80,Tabula Sapiens - All Cells,"CD8-positive, alpha-beta T cell",male,European,16,0.031906832050412795
+81,Tabula Sapiens - All Cells,basophil,male,European,9,0.017947593028357196
+82,Tabula Sapiens - All Cells,neutrophil,male,European,5834,11.634028636381766
+83,Tabula Sapiens - All Cells,plasmacytoid dendritic cell,male,European,1,0.0019941770031507997
+84,Tabula Sapiens - All Cells,plasma cell,male,European,206,0.4108004626490648
+85,Tabula Sapiens - All Cells,memory B cell,male,European,10,0.019941770031508
+86,Tabula Sapiens - All Cells,naive B cell,male,European,5,0.009970885015754
+87,Tabula Sapiens - All Cells,mature NK T cell,male,European,99,0.19742352331192917
+88,Tabula Sapiens - All Cells,classical monocyte,male,European,1875,3.739081880907749
+89,Tabula Sapiens - All Cells,"naive thymus-derived CD4-positive, alpha-beta T cell",male,European,23,0.045866071072468394
+90,Tabula Sapiens - All Cells,"CD4-positive, alpha-beta memory T cell",male,European,119,0.23730706337494514
+91,Tabula Sapiens - All Cells,"CD8-positive, alpha-beta cytokine secreting effector T cell",male,European,23,0.045866071072468394
+92,Tabula Sapiens - All Cells,type I NK T cell,male,European,9,0.017947593028357196
+93,Tabula Sapiens - All Cells,CD141-positive myeloid dendritic cell,male,European,2,0.003988354006301599
+94,Tabula Sapiens - All Cells,T cell,female,European,31,0.06181948709767479

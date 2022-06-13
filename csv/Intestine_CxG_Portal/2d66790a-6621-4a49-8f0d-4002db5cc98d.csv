@@ -1,21 +1,21 @@
-,cell_type,sex,race,count,percentage
-0,fibroblast,unknown,unknown,255,35.966149506346966
-1,mesothelial cell,unknown,unknown,5,0.7052186177715092
-2,motor neuron,unknown,unknown,7,0.9873060648801129
-3,glial cell,unknown,unknown,6,0.846262341325811
-4,gut endothelial cell,unknown,unknown,32,4.513399153737659
-5,secretory cell,unknown,unknown,1,0.14104372355430184
-6,myofibroblast cell,unknown,unknown,30,4.231311706629055
-7,enterocyte,unknown,unknown,141,19.88716502115656
-8,pericyte cell,unknown,unknown,6,0.846262341325811
-9,gut absorptive cell,unknown,unknown,12,1.692524682651622
-10,leukocyte,unknown,unknown,1,0.14104372355430184
-11,interstitial cell of Cajal,unknown,unknown,21,2.9619181946403383
-12,neural cell,unknown,unknown,1,0.14104372355430184
-13,enteric smooth muscle cell,unknown,unknown,88,12.411847672778562
-14,inhibitory motor neuron,unknown,unknown,14,1.9746121297602257
-15,transit amplifying cell of colon,unknown,unknown,8,1.1283497884344147
-16,intestinal crypt stem cell of large intestine,unknown,unknown,47,6.629055007052186
-17,intestinal crypt stem cell of small intestine,unknown,unknown,11,1.5514809590973202
-18,progenitor cell,unknown,unknown,12,1.692524682651622
-19,intestine goblet cell,unknown,unknown,11,1.5514809590973202
+,dataset_name,cell_type,sex,race,count,percentage
+0,Spatiotemporal analysis of human intestinal development at single-cell resolution: Fetal A8,fibroblast,unknown,unknown,255,35.966149506346966
+1,Spatiotemporal analysis of human intestinal development at single-cell resolution: Fetal A8,mesothelial cell,unknown,unknown,5,0.7052186177715092
+2,Spatiotemporal analysis of human intestinal development at single-cell resolution: Fetal A8,motor neuron,unknown,unknown,7,0.9873060648801129
+3,Spatiotemporal analysis of human intestinal development at single-cell resolution: Fetal A8,glial cell,unknown,unknown,6,0.846262341325811
+4,Spatiotemporal analysis of human intestinal development at single-cell resolution: Fetal A8,gut endothelial cell,unknown,unknown,32,4.513399153737659
+5,Spatiotemporal analysis of human intestinal development at single-cell resolution: Fetal A8,secretory cell,unknown,unknown,1,0.14104372355430184
+6,Spatiotemporal analysis of human intestinal development at single-cell resolution: Fetal A8,myofibroblast cell,unknown,unknown,30,4.231311706629055
+7,Spatiotemporal analysis of human intestinal development at single-cell resolution: Fetal A8,enterocyte,unknown,unknown,141,19.88716502115656
+8,Spatiotemporal analysis of human intestinal development at single-cell resolution: Fetal A8,pericyte cell,unknown,unknown,6,0.846262341325811
+9,Spatiotemporal analysis of human intestinal development at single-cell resolution: Fetal A8,gut absorptive cell,unknown,unknown,12,1.692524682651622
+10,Spatiotemporal analysis of human intestinal development at single-cell resolution: Fetal A8,leukocyte,unknown,unknown,1,0.14104372355430184
+11,Spatiotemporal analysis of human intestinal development at single-cell resolution: Fetal A8,interstitial cell of Cajal,unknown,unknown,21,2.9619181946403383
+12,Spatiotemporal analysis of human intestinal development at single-cell resolution: Fetal A8,neural cell,unknown,unknown,1,0.14104372355430184
+13,Spatiotemporal analysis of human intestinal development at single-cell resolution: Fetal A8,enteric smooth muscle cell,unknown,unknown,88,12.411847672778562
+14,Spatiotemporal analysis of human intestinal development at single-cell resolution: Fetal A8,inhibitory motor neuron,unknown,unknown,14,1.9746121297602257
+15,Spatiotemporal analysis of human intestinal development at single-cell resolution: Fetal A8,transit amplifying cell of colon,unknown,unknown,8,1.1283497884344147
+16,Spatiotemporal analysis of human intestinal development at single-cell resolution: Fetal A8,intestinal crypt stem cell of large intestine,unknown,unknown,47,6.629055007052186
+17,Spatiotemporal analysis of human intestinal development at single-cell resolution: Fetal A8,intestinal crypt stem cell of small intestine,unknown,unknown,11,1.5514809590973202
+18,Spatiotemporal analysis of human intestinal development at single-cell resolution: Fetal A8,progenitor cell,unknown,unknown,12,1.692524682651622
+19,Spatiotemporal analysis of human intestinal development at single-cell resolution: Fetal A8,intestine goblet cell,unknown,unknown,11,1.5514809590973202

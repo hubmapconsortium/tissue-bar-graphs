@@ -1,13 +1,13 @@
-,cell_type,sex,race,count,percentage
-0,"CD4-positive, alpha-beta T cell",male,European,1262,11.411520028935708
-1,"CD8-positive, alpha-beta T cell",male,European,1685,15.23645899267565
-2,immature alpha-beta T cell,male,European,85,0.7686047563070803
-3,mature alpha-beta T cell,male,European,89,0.8047743918980017
-4,"CD4-positive, alpha-beta thymocyte",male,European,1846,16.692286825210235
-5,"CD8-positive, alpha-beta thymocyte",male,European,2158,19.513518401302107
-6,"CD4-positive, alpha-beta T cell",male,Hispanic or Latin American,731,6.61000090424089
-7,"CD8-positive, alpha-beta T cell",male,Hispanic or Latin American,706,6.383940681797632
-8,immature alpha-beta T cell,male,Hispanic or Latin American,86,0.7776471652048106
-9,mature alpha-beta T cell,male,Hispanic or Latin American,9,0.0813816800795732
-10,"CD4-positive, alpha-beta thymocyte",male,Hispanic or Latin American,1210,10.941314766253731
-11,"CD8-positive, alpha-beta thymocyte",male,Hispanic or Latin American,1192,10.778551406094582
+,dataset_name,cell_type,sex,race,count,percentage
+0,Single-cell transcriptomics of human T cells reveals tissue and activation signatures in health and disease,"CD4-positive, alpha-beta T cell",male,European,1262,11.411520028935708
+1,Single-cell transcriptomics of human T cells reveals tissue and activation signatures in health and disease,"CD8-positive, alpha-beta T cell",male,European,1685,15.23645899267565
+2,Single-cell transcriptomics of human T cells reveals tissue and activation signatures in health and disease,immature alpha-beta T cell,male,European,85,0.7686047563070803
+3,Single-cell transcriptomics of human T cells reveals tissue and activation signatures in health and disease,mature alpha-beta T cell,male,European,89,0.8047743918980017
+4,Single-cell transcriptomics of human T cells reveals tissue and activation signatures in health and disease,"CD4-positive, alpha-beta thymocyte",male,European,1846,16.692286825210235
+5,Single-cell transcriptomics of human T cells reveals tissue and activation signatures in health and disease,"CD8-positive, alpha-beta thymocyte",male,European,2158,19.513518401302107
+6,Single-cell transcriptomics of human T cells reveals tissue and activation signatures in health and disease,"CD4-positive, alpha-beta T cell",male,Hispanic or Latin American,731,6.61000090424089
+7,Single-cell transcriptomics of human T cells reveals tissue and activation signatures in health and disease,"CD8-positive, alpha-beta T cell",male,Hispanic or Latin American,706,6.383940681797632
+8,Single-cell transcriptomics of human T cells reveals tissue and activation signatures in health and disease,immature alpha-beta T cell,male,Hispanic or Latin American,86,0.7776471652048106
+9,Single-cell transcriptomics of human T cells reveals tissue and activation signatures in health and disease,mature alpha-beta T cell,male,Hispanic or Latin American,9,0.0813816800795732
+10,Single-cell transcriptomics of human T cells reveals tissue and activation signatures in health and disease,"CD4-positive, alpha-beta thymocyte",male,Hispanic or Latin American,1210,10.941314766253731
+11,Single-cell transcriptomics of human T cells reveals tissue and activation signatures in health and disease,"CD8-positive, alpha-beta thymocyte",male,Hispanic or Latin American,1192,10.778551406094582

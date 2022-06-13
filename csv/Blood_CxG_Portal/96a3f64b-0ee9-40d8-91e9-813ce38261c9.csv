@@ -1,360 +1,360 @@
-,cell_type,sex,race,count,percentage
-0,hematopoietic stem cell,female,European,13,0.012523602173326653
-1,erythrocyte,female,European,14,0.013486956186659472
-2,platelet,female,European,10,0.009633540133328197
-3,lymphocyte,female,European,15,0.014450310199992293
-4,natural killer cell,female,European,246,0.23698508727987364
-5,neutrophil,female,European,9,0.008670186119995375
-6,memory B cell,female,European,95,0.09151863126661786
-7,naive B cell,female,European,119,0.11463912758660554
-8,gamma-delta T cell,female,European,149,0.1435397479865901
-9,regulatory T cell,female,European,40,0.03853416053331279
-10,transitional stage B cell,female,European,65,0.06261801086663327
-11,classical monocyte,female,European,185,0.1782204924665716
-12,non-classical monocyte,female,European,27,0.026010558359986127
-13,"naive thymus-derived CD4-positive, alpha-beta T cell",female,European,320,0.3082732842665023
-14,"naive thymus-derived CD8-positive, alpha-beta T cell",female,European,92,0.08862856922661941
-15,"central memory CD4-positive, alpha-beta T cell",female,European,226,0.21771800701321722
-16,"effector memory CD8-positive, alpha-beta T cell",female,European,477,0.45951986435975495
-17,"CD16-negative, CD56-bright natural killer cell, human",female,European,21,0.02023043427998921
-18,mucosal invariant T cell,female,European,36,0.0346807444799815
-19,IgG plasmablast,female,European,2,0.001926708026665639
-20,IgA plasmablast,female,European,7,0.006743478093329736
-21,conventional dendritic cell,female,European,23,0.022157142306654852
-22,"activated CD4-positive, alpha-beta T cell, human",female,European,5,0.0048167700666640985
-23,"plasmacytoid dendritic cell, human",female,European,12,0.011560248159993835
-24,double negative thymocyte,female,European,10,0.009633540133328197
-25,hematopoietic stem cell,female,European,37,0.03564409849331432
-26,erythrocyte,female,European,35,0.033717390466648685
-27,platelet,female,European,6,0.005780124079996917
-28,lymphocyte,female,European,4,0.003853416053331278
-29,natural killer cell,female,European,426,0.4103888096797811
-30,neutrophil,female,European,7,0.006743478093329736
-31,memory B cell,female,European,54,0.052021116719972255
-32,naive B cell,female,European,60,0.05780124079996917
-33,gamma-delta T cell,female,European,7,0.006743478093329736
-34,regulatory T cell,female,European,14,0.013486956186659472
-35,transitional stage B cell,female,European,56,0.05394782474663789
-36,classical monocyte,female,European,508,0.48938383877307234
-37,non-classical monocyte,female,European,132,0.12716272975993217
-38,"naive thymus-derived CD4-positive, alpha-beta T cell",female,European,63,0.06069130283996763
-39,"naive thymus-derived CD8-positive, alpha-beta T cell",female,European,12,0.011560248159993835
-40,"central memory CD4-positive, alpha-beta T cell",female,European,65,0.06261801086663327
-41,"effector memory CD8-positive, alpha-beta T cell",female,European,251,0.24180185734653772
-42,"CD16-negative, CD56-bright natural killer cell, human",female,European,18,0.01734037223999075
-43,mucosal invariant T cell,female,European,1,0.0009633540133328195
-44,IgG plasmablast,female,European,1,0.0009633540133328195
-45,IgA plasmablast,female,European,4,0.003853416053331278
-46,conventional dendritic cell,female,European,33,0.031790682439983044
-47,"plasmacytoid dendritic cell, human",female,European,22,0.02119378829332203
-48,double negative thymocyte,female,European,2,0.001926708026665639
-49,hematopoietic stem cell,female,unknown,2,0.001926708026665639
-50,erythrocyte,female,unknown,2,0.001926708026665639
-51,platelet,female,unknown,27,0.026010558359986127
-52,lymphocyte,female,unknown,20,0.019267080266656394
-53,natural killer cell,female,unknown,919,0.8853223382528611
-54,memory B cell,female,unknown,77,0.0741782590266271
-55,naive B cell,female,unknown,255,0.24565527339986898
-56,gamma-delta T cell,female,unknown,224,0.21579129898655156
-57,regulatory T cell,female,unknown,17,0.016377018226657932
-58,transitional stage B cell,female,unknown,58,0.05587453277330353
-59,classical monocyte,female,unknown,1064,1.02500867018612
-60,non-classical monocyte,female,unknown,404,0.3891950213864591
-61,"naive thymus-derived CD4-positive, alpha-beta T cell",female,unknown,227,0.21868136102655
-62,"naive thymus-derived CD8-positive, alpha-beta T cell",female,unknown,10,0.009633540133328197
-63,"central memory CD4-positive, alpha-beta T cell",female,unknown,592,0.5703055758930291
-64,"effector memory CD8-positive, alpha-beta T cell",female,unknown,223,0.21482794497321875
-65,"CD4-positive, alpha-beta cytotoxic T cell",female,unknown,92,0.08862856922661941
-66,"CD16-negative, CD56-bright natural killer cell, human",female,unknown,38,0.03660745250664714
-67,mucosal invariant T cell,female,unknown,13,0.012523602173326653
-68,plasmablast,female,unknown,5,0.0048167700666640985
-69,conventional dendritic cell,female,unknown,105,0.10115217139994605
-70,"plasmacytoid dendritic cell, human",female,unknown,19,0.01830372625332357
-71,erythrocyte,female,unknown,4,0.003853416053331278
-72,platelet,female,unknown,9,0.008670186119995375
-73,lymphocyte,female,unknown,10,0.009633540133328197
-74,natural killer cell,female,unknown,593,0.571268929906362
-75,memory B cell,female,unknown,126,0.12138260567993527
-76,naive B cell,female,unknown,596,0.5741589919463604
-77,gamma-delta T cell,female,unknown,281,0.2707024777465223
-78,regulatory T cell,female,unknown,12,0.011560248159993835
-79,transitional stage B cell,female,unknown,84,0.08092173711995684
-80,classical monocyte,female,unknown,359,0.3458440907864822
-81,non-classical monocyte,female,unknown,132,0.12716272975993217
-82,"naive thymus-derived CD4-positive, alpha-beta T cell",female,unknown,84,0.08092173711995684
-83,"naive thymus-derived CD8-positive, alpha-beta T cell",female,unknown,10,0.009633540133328197
-84,"central memory CD4-positive, alpha-beta T cell",female,unknown,264,0.25432545951986435
-85,"effector memory CD8-positive, alpha-beta T cell",female,unknown,1214,1.1695117721860429
-86,"CD4-positive, alpha-beta cytotoxic T cell",female,unknown,211,0.2032676968132249
-87,"CD16-negative, CD56-bright natural killer cell, human",female,unknown,56,0.05394782474663789
-88,mucosal invariant T cell,female,unknown,6,0.005780124079996917
-89,plasmablast,female,unknown,7,0.006743478093329736
-90,conventional dendritic cell,female,unknown,35,0.033717390466648685
-91,"plasmacytoid dendritic cell, human",female,unknown,5,0.0048167700666640985
-92,hematopoietic stem cell,female,unknown,2,0.001926708026665639
-93,erythrocyte,female,unknown,2,0.001926708026665639
-94,platelet,female,unknown,97,0.0934453392932835
-95,lymphocyte,female,unknown,37,0.03564409849331432
-96,natural killer cell,female,unknown,515,0.49612731686640205
-97,memory B cell,female,unknown,76,0.07321490501329428
-98,naive B cell,female,unknown,278,0.26781241570652387
-99,gamma-delta T cell,female,unknown,219,0.21097452891988747
-100,regulatory T cell,female,unknown,28,0.026973912373318944
-101,transitional stage B cell,female,unknown,46,0.044314284613309704
-102,classical monocyte,female,unknown,997,0.960463951292821
-103,non-classical monocyte,female,unknown,351,0.33813725867981964
-104,"naive thymus-derived CD4-positive, alpha-beta T cell",female,unknown,276,0.2658857076798582
-105,"naive thymus-derived CD8-positive, alpha-beta T cell",female,unknown,26,0.025047204346653307
-106,"central memory CD4-positive, alpha-beta T cell",female,unknown,283,0.27262918577318795
-107,"effector memory CD8-positive, alpha-beta T cell",female,unknown,269,0.25914222958652844
-108,"CD4-positive, alpha-beta cytotoxic T cell",female,unknown,72,0.069361488959963
-109,"CD16-negative, CD56-bright natural killer cell, human",female,unknown,92,0.08862856922661941
-110,mucosal invariant T cell,female,unknown,74,0.07128819698662864
-111,plasmablast,female,unknown,11,0.010596894146661016
-112,conventional dendritic cell,female,unknown,116,0.11174906554660706
-113,"plasmacytoid dendritic cell, human",female,unknown,27,0.026010558359986127
-114,hematopoietic stem cell,female,European,73,0.07032484297329583
-115,platelet,female,European,351,0.33813725867981964
-116,lymphocyte,female,European,12,0.011560248159993835
-117,natural killer cell,female,European,341,0.32850371854649146
-118,neutrophil,female,European,1,0.0009633540133328195
-119,memory B cell,female,European,34,0.032754036453315864
-120,naive B cell,female,European,104,0.10018881738661323
-121,regulatory T cell,female,European,68,0.06550807290663173
-122,transitional stage B cell,female,European,169,0.1628068282532465
-123,classical monocyte,female,European,448,0.4315825979731031
-124,non-classical monocyte,female,European,139,0.13390620785326193
-125,"naive thymus-derived CD4-positive, alpha-beta T cell",female,European,652,0.6281068166929984
-126,"naive thymus-derived CD8-positive, alpha-beta T cell",female,European,30,0.028900620399984586
-127,"central memory CD4-positive, alpha-beta T cell",female,European,300,0.2890062039998459
-128,"effector memory CD8-positive, alpha-beta T cell",female,European,642,0.6184732765596701
-129,"CD4-positive, alpha-beta cytotoxic T cell",female,European,54,0.052021116719972255
-130,"CD16-negative, CD56-bright natural killer cell, human",female,European,19,0.01830372625332357
-131,mucosal invariant T cell,female,European,49,0.04720434665330816
-132,plasmablast,female,European,7,0.006743478093329736
-133,conventional dendritic cell,female,European,661,0.6367770028129937
-134,"activated CD4-positive, alpha-beta T cell, human",female,European,2,0.001926708026665639
-135,"plasmacytoid dendritic cell, human",female,European,206,0.19845092674656084
-136,hematopoietic stem cell,female,European,12,0.011560248159993835
-137,erythrocyte,female,European,1,0.0009633540133328195
-138,platelet,female,European,31,0.029863974413317403
-139,lymphocyte,female,European,12,0.011560248159993835
-140,natural killer cell,female,European,1416,1.3641092828792725
-141,memory B cell,female,European,30,0.028900620399984586
-142,naive B cell,female,European,23,0.022157142306654852
-143,regulatory T cell,female,European,76,0.07321490501329428
-144,transitional stage B cell,female,European,12,0.011560248159993835
-145,classical monocyte,female,European,911,0.8776155061461985
-146,non-classical monocyte,female,European,453,0.4363993680397672
-147,"naive thymus-derived CD4-positive, alpha-beta T cell",female,European,392,0.37763477322646527
-148,"naive thymus-derived CD8-positive, alpha-beta T cell",female,European,25,0.02408385033332049
-149,"central memory CD4-positive, alpha-beta T cell",female,European,813,0.7832068128395823
-150,"effector memory CD8-positive, alpha-beta T cell",female,European,110,0.10596894146661015
-151,"CD4-positive, alpha-beta cytotoxic T cell",female,European,39,0.03757080651997997
-152,"CD16-negative, CD56-bright natural killer cell, human",female,European,29,0.027937266386651765
-153,mucosal invariant T cell,female,European,39,0.03757080651997997
-154,plasmablast,female,European,5,0.0048167700666640985
-155,conventional dendritic cell,female,European,204,0.1965242187198952
-156,"activated CD4-positive, alpha-beta T cell, human",female,European,4,0.003853416053331278
-157,"plasmacytoid dendritic cell, human",female,European,145,0.13968633193325883
-158,hematopoietic stem cell,female,European,73,0.07032484297329583
-159,erythrocyte,female,European,1,0.0009633540133328195
-160,platelet,female,European,109,0.10500558745327733
-161,lymphocyte,female,European,21,0.02023043427998921
-162,natural killer cell,female,European,251,0.24180185734653772
-163,memory B cell,female,European,10,0.009633540133328197
-164,naive B cell,female,European,203,0.19556086470656234
-165,regulatory T cell,female,European,146,0.14064968594659166
-166,transitional stage B cell,female,European,113,0.10885900350660861
-167,classical monocyte,female,European,728,0.7013217217062926
-168,non-classical monocyte,female,European,437,0.4209857038264421
-169,"naive thymus-derived CD4-positive, alpha-beta T cell",female,European,617,0.5943894262263496
-170,"naive thymus-derived CD8-positive, alpha-beta T cell",female,European,4,0.003853416053331278
-171,"central memory CD4-positive, alpha-beta T cell",female,European,808,0.7783900427729182
-172,"effector memory CD8-positive, alpha-beta T cell",female,European,712,0.6859080574929675
-173,"CD4-positive, alpha-beta cytotoxic T cell",female,European,152,0.14642981002658856
-174,"CD16-negative, CD56-bright natural killer cell, human",female,European,8,0.007706832106662556
-175,plasmablast,female,European,10,0.009633540133328197
-176,conventional dendritic cell,female,European,148,0.14257639397325728
-177,"activated CD4-positive, alpha-beta T cell, human",female,European,1,0.0009633540133328195
-178,"activated CD8-positive, alpha-beta T cell, human",female,European,1,0.0009633540133328195
-179,"plasmacytoid dendritic cell, human",female,European,172,0.16569689029324497
-180,hematopoietic stem cell,male,European,13,0.012523602173326653
-181,erythrocyte,male,European,98,0.09440869330661632
-182,platelet,male,European,2,0.001926708026665639
-183,lymphocyte,male,European,16,0.015413664213325112
-184,natural killer cell,male,European,168,0.1618434742399137
-185,immature neutrophil,male,European,2,0.001926708026665639
-186,memory B cell,male,European,62,0.059727948826634805
-187,naive B cell,male,European,27,0.026010558359986127
-188,gamma-delta T cell,male,European,16,0.015413664213325112
-189,regulatory T cell,male,European,53,0.051057762706639434
-190,transitional stage B cell,male,European,75,0.07225155099996147
-191,classical monocyte,male,European,186,0.17918384647990443
-192,non-classical monocyte,male,European,48,0.04624099263997534
-193,"naive thymus-derived CD4-positive, alpha-beta T cell",male,European,96,0.09248198527995068
-194,"naive thymus-derived CD8-positive, alpha-beta T cell",male,European,49,0.04720434665330816
-195,"central memory CD4-positive, alpha-beta T cell",male,European,231,0.2225347770798813
-196,"effector memory CD8-positive, alpha-beta T cell",male,European,621,0.5982428422796809
-197,"CD16-negative, CD56-bright natural killer cell, human",male,European,4,0.003853416053331278
-198,mucosal invariant T cell,male,European,89,0.08573850718662093
-199,IgG plasmablast,male,European,3,0.0028900620399984586
-200,IgA plasmablast,male,European,2,0.001926708026665639
-201,conventional dendritic cell,male,European,26,0.025047204346653307
-202,"activated CD4-positive, alpha-beta T cell, human",male,European,7,0.006743478093329736
-203,"plasmacytoid dendritic cell, human",male,European,14,0.013486956186659472
-204,double negative thymocyte,male,European,3,0.0028900620399984586
-205,hematopoietic stem cell,male,European,59,0.05683788678663636
-206,platelet,male,European,134,0.12908943778659782
-207,lymphocyte,male,European,8,0.007706832106662556
-208,natural killer cell,male,European,245,0.23602173326654077
-209,memory B cell,male,European,16,0.015413664213325112
-210,naive B cell,male,European,36,0.0346807444799815
-211,regulatory T cell,male,European,51,0.0491310546799738
-212,transitional stage B cell,male,European,20,0.019267080266656394
-213,classical monocyte,male,European,427,0.4113521636931139
-214,non-classical monocyte,male,European,302,0.2909329120265115
-215,"naive thymus-derived CD4-positive, alpha-beta T cell",male,European,422,0.4065353936264498
-216,"naive thymus-derived CD8-positive, alpha-beta T cell",male,European,27,0.026010558359986127
-217,"central memory CD4-positive, alpha-beta T cell",male,European,393,0.3785981272397981
-218,"effector memory CD8-positive, alpha-beta T cell",male,European,758,0.7302223421062772
-219,"CD4-positive, alpha-beta cytotoxic T cell",male,European,302,0.2909329120265115
-220,"CD16-negative, CD56-bright natural killer cell, human",male,European,19,0.01830372625332357
-221,mucosal invariant T cell,male,European,32,0.030827328426650223
-222,plasmablast,male,European,1,0.0009633540133328195
-223,conventional dendritic cell,male,European,524,0.5047975029863975
-224,"activated CD4-positive, alpha-beta T cell, human",male,European,2,0.001926708026665639
-225,"plasmacytoid dendritic cell, human",male,European,277,0.266849061693191
-226,hematopoietic stem cell,male,Asian,24,0.02312049631998767
-227,erythrocyte,male,Asian,14,0.013486956186659472
-228,platelet,male,Asian,13,0.012523602173326653
-229,lymphocyte,male,Asian,33,0.031790682439983044
-230,natural killer cell,male,Asian,601,0.5789757620130245
-231,memory B cell,male,Asian,89,0.08573850718662093
-232,naive B cell,male,Asian,131,0.12619937574659937
-233,gamma-delta T cell,male,Asian,2,0.001926708026665639
-234,regulatory T cell,male,Asian,31,0.029863974413317403
-235,transitional stage B cell,male,Asian,225,0.21675465299988442
-236,classical monocyte,male,Asian,369,0.35547763091981044
-237,non-classical monocyte,male,Asian,323,0.3111633463065007
-238,"naive thymus-derived CD4-positive, alpha-beta T cell",male,Asian,310,0.29863974413317407
-239,"naive thymus-derived CD8-positive, alpha-beta T cell",male,Asian,253,0.24372856537320334
-240,"central memory CD4-positive, alpha-beta T cell",male,Asian,147,0.14161303995992447
-241,"effector memory CD8-positive, alpha-beta T cell",male,Asian,173,0.16666024430657778
-242,"CD16-negative, CD56-bright natural killer cell, human",male,Asian,59,0.05683788678663636
-243,mucosal invariant T cell,male,Asian,20,0.019267080266656394
-244,IgG plasmablast,male,Asian,5,0.0048167700666640985
-245,IgA plasmablast,male,Asian,19,0.01830372625332357
-246,conventional dendritic cell,male,Asian,54,0.052021116719972255
-247,"activated CD4-positive, alpha-beta T cell, human",male,Asian,4,0.003853416053331278
-248,"plasmacytoid dendritic cell, human",male,Asian,26,0.025047204346653307
-249,double negative thymocyte,male,Asian,15,0.014450310199992293
-250,hematopoietic stem cell,male,European,17,0.016377018226657932
-251,erythrocyte,male,European,17,0.016377018226657932
-252,platelet,male,European,32,0.030827328426650223
-253,lymphocyte,male,European,78,0.07514161303995993
-254,natural killer cell,male,European,3117,3.0027744595583985
-255,neutrophil,male,European,12,0.011560248159993835
-256,memory B cell,male,European,153,0.1473931640399214
-257,naive B cell,male,European,373,0.35933104697314167
-258,gamma-delta T cell,male,European,25,0.02408385033332049
-259,regulatory T cell,male,European,59,0.05683788678663636
-260,transitional stage B cell,male,European,285,0.27455589379985357
-261,classical monocyte,male,European,421,0.405572039613117
-262,non-classical monocyte,male,European,223,0.21482794497321875
-263,"naive thymus-derived CD4-positive, alpha-beta T cell",male,European,216,0.20808446687988902
-264,"naive thymus-derived CD8-positive, alpha-beta T cell",male,European,49,0.04720434665330816
-265,"central memory CD4-positive, alpha-beta T cell",male,European,286,0.2755192478131864
-266,"effector memory CD8-positive, alpha-beta T cell",male,European,1129,1.0876266810527533
-267,"CD16-negative, CD56-bright natural killer cell, human",male,European,136,0.13101614581326346
-268,mucosal invariant T cell,male,European,68,0.06550807290663173
-269,IgG plasmablast,male,European,9,0.008670186119995375
-270,IgA plasmablast,male,European,34,0.032754036453315864
-271,conventional dendritic cell,male,European,66,0.06358136487996609
-272,"activated CD4-positive, alpha-beta T cell, human",male,European,1,0.0009633540133328195
-273,"plasmacytoid dendritic cell, human",male,European,54,0.052021116719972255
-274,double negative thymocyte,male,European,18,0.01734037223999075
-275,hematopoietic stem cell,male,unknown,1,0.0009633540133328195
-276,erythrocyte,male,unknown,5,0.0048167700666640985
-277,platelet,male,unknown,16,0.015413664213325112
-278,lymphocyte,male,unknown,30,0.028900620399984586
-279,natural killer cell,male,unknown,1365,1.3149782281992988
-280,memory B cell,male,unknown,42,0.04046086855997842
-281,naive B cell,male,unknown,31,0.029863974413317403
-282,gamma-delta T cell,male,unknown,42,0.04046086855997842
-283,regulatory T cell,male,unknown,28,0.026973912373318944
-284,transitional stage B cell,male,unknown,277,0.266849061693191
-285,classical monocyte,male,unknown,1255,1.2090092867326885
-286,non-classical monocyte,male,unknown,237,0.2283149011598782
-287,"naive thymus-derived CD4-positive, alpha-beta T cell",male,unknown,108,0.10404223343994451
-288,"naive thymus-derived CD8-positive, alpha-beta T cell",male,unknown,20,0.019267080266656394
-289,"central memory CD4-positive, alpha-beta T cell",male,unknown,239,0.23024160918654388
-290,"effector memory CD8-positive, alpha-beta T cell",male,unknown,115,0.11078571153327425
-291,"CD4-positive, alpha-beta cytotoxic T cell",male,unknown,5,0.0048167700666640985
-292,"CD16-negative, CD56-bright natural killer cell, human",male,unknown,14,0.013486956186659472
-293,mucosal invariant T cell,male,unknown,2,0.001926708026665639
-294,plasmablast,male,unknown,10,0.009633540133328197
-295,conventional dendritic cell,male,unknown,53,0.051057762706639434
-296,"plasmacytoid dendritic cell, human",male,unknown,18,0.01734037223999075
-297,hematopoietic stem cell,male,European,49,0.04720434665330816
-298,erythrocyte,male,European,11,0.010596894146661016
-299,platelet,male,European,127,0.12234595969326809
-300,lymphocyte,male,European,26,0.025047204346653307
-301,natural killer cell,male,European,2312,2.227274478825479
-302,memory B cell,male,European,28,0.026973912373318944
-303,naive B cell,male,European,49,0.04720434665330816
-304,regulatory T cell,male,European,63,0.06069130283996763
-305,transitional stage B cell,male,European,60,0.05780124079996917
-306,classical monocyte,male,European,2050,1.9748757273322801
-307,non-classical monocyte,male,European,1207,1.162768294092713
-308,"naive thymus-derived CD4-positive, alpha-beta T cell",male,European,559,0.5385148934530462
-309,"naive thymus-derived CD8-positive, alpha-beta T cell",male,European,46,0.044314284613309704
-310,"central memory CD4-positive, alpha-beta T cell",male,European,498,0.47975029863974417
-311,"effector memory CD8-positive, alpha-beta T cell",male,European,88,0.08477515317328813
-312,"CD4-positive, alpha-beta cytotoxic T cell",male,European,49,0.04720434665330816
-313,"CD16-negative, CD56-bright natural killer cell, human",male,European,53,0.051057762706639434
-314,mucosal invariant T cell,male,European,63,0.06069130283996763
-315,plasmablast,male,European,6,0.005780124079996917
-316,conventional dendritic cell,male,European,416,0.4007552695464529
-317,"activated CD4-positive, alpha-beta T cell, human",male,European,3,0.0028900620399984586
-318,"plasmacytoid dendritic cell, human",male,European,267,0.2572155215598628
-319,platelet,unknown,European,14,0.013486956186659472
-320,lymphocyte,unknown,European,119,0.11463912758660554
-321,natural killer cell,unknown,European,2506,2.4141651574120457
-322,memory B cell,unknown,European,1138,1.0962968671727487
-323,naive B cell,unknown,European,957,0.9219297907595083
-324,gamma-delta T cell,unknown,European,278,0.26781241570652387
-325,regulatory T cell,unknown,European,251,0.24180185734653772
-326,transitional stage B cell,unknown,European,508,0.48938383877307234
-327,classical monocyte,unknown,European,11885,11.449462448460562
-328,non-classical monocyte,unknown,European,2065,1.9893260375322723
-329,"naive thymus-derived CD4-positive, alpha-beta T cell",unknown,European,1758,1.6935763554390966
-330,"naive thymus-derived CD8-positive, alpha-beta T cell",unknown,European,349,0.33621055065315403
-331,"central memory CD4-positive, alpha-beta T cell",unknown,European,3614,3.4815614041848097
-332,"effector memory CD8-positive, alpha-beta T cell",unknown,European,2858,2.753265770105198
-333,"CD16-negative, CD56-bright natural killer cell, human",unknown,European,113,0.10885900350660861
-334,mucosal invariant T cell,unknown,European,396,0.38148818927979655
-335,plasmablast,unknown,European,147,0.14161303995992447
-336,conventional dendritic cell,unknown,European,270,0.2601055835998613
-337,"plasmacytoid dendritic cell, human",unknown,European,258,0.24854533543986743
-338,double negative thymocyte,unknown,European,26,0.025047204346653307
-339,platelet,unknown,unknown,270,0.2601055835998613
-340,lymphocyte,unknown,unknown,53,0.051057762706639434
-341,natural killer cell,unknown,unknown,927,0.8930291703595238
-342,memory B cell,unknown,unknown,392,0.37763477322646527
-343,naive B cell,unknown,unknown,1515,1.4594813301992215
-344,gamma-delta T cell,unknown,unknown,454,0.4373627220531
-345,regulatory T cell,unknown,unknown,243,0.23409502523987516
-346,transitional stage B cell,unknown,unknown,415,0.3997919155331201
-347,classical monocyte,unknown,unknown,4273,4.116411698971137
-348,non-classical monocyte,unknown,unknown,482,0.46433663442641904
-349,"naive thymus-derived CD4-positive, alpha-beta T cell",unknown,unknown,2232,2.1502061577588534
-350,"naive thymus-derived CD8-positive, alpha-beta T cell",unknown,unknown,551,0.5308080613463836
-351,"central memory CD4-positive, alpha-beta T cell",unknown,unknown,2612,2.516280682825325
-352,"effector memory CD8-positive, alpha-beta T cell",unknown,unknown,597,0.5751223459596932
-353,"CD16-negative, CD56-bright natural killer cell, human",unknown,unknown,41,0.0394975145466456
-354,mucosal invariant T cell,unknown,unknown,737,0.7099919078262881
-355,plasmablast,unknown,unknown,44,0.04238757658664406
-356,conventional dendritic cell,unknown,unknown,304,0.2928596200531771
-357,"plasmacytoid dendritic cell, human",unknown,unknown,120,0.11560248159993834
-358,double negative thymocyte,unknown,unknown,15,0.014450310199992293
+,dataset_name,cell_type,sex,race,count,percentage
+0,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,hematopoietic stem cell,female,European,13,0.012523602173326653
+1,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,erythrocyte,female,European,14,0.013486956186659472
+2,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,female,European,10,0.009633540133328197
+3,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,lymphocyte,female,European,15,0.014450310199992293
+4,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,natural killer cell,female,European,246,0.23698508727987364
+5,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,neutrophil,female,European,9,0.008670186119995375
+6,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,memory B cell,female,European,95,0.09151863126661786
+7,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,naive B cell,female,European,119,0.11463912758660554
+8,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,gamma-delta T cell,female,European,149,0.1435397479865901
+9,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,regulatory T cell,female,European,40,0.03853416053331279
+10,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,transitional stage B cell,female,European,65,0.06261801086663327
+11,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,female,European,185,0.1782204924665716
+12,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,non-classical monocyte,female,European,27,0.026010558359986127
+13,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD4-positive, alpha-beta T cell",female,European,320,0.3082732842665023
+14,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD8-positive, alpha-beta T cell",female,European,92,0.08862856922661941
+15,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"central memory CD4-positive, alpha-beta T cell",female,European,226,0.21771800701321722
+16,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"effector memory CD8-positive, alpha-beta T cell",female,European,477,0.45951986435975495
+17,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD16-negative, CD56-bright natural killer cell, human",female,European,21,0.02023043427998921
+18,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,mucosal invariant T cell,female,European,36,0.0346807444799815
+19,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,IgG plasmablast,female,European,2,0.001926708026665639
+20,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,IgA plasmablast,female,European,7,0.006743478093329736
+21,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,conventional dendritic cell,female,European,23,0.022157142306654852
+22,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"activated CD4-positive, alpha-beta T cell, human",female,European,5,0.0048167700666640985
+23,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"plasmacytoid dendritic cell, human",female,European,12,0.011560248159993835
+24,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,double negative thymocyte,female,European,10,0.009633540133328197
+25,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,hematopoietic stem cell,female,European,37,0.03564409849331432
+26,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,erythrocyte,female,European,35,0.033717390466648685
+27,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,female,European,6,0.005780124079996917
+28,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,lymphocyte,female,European,4,0.003853416053331278
+29,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,natural killer cell,female,European,426,0.4103888096797811
+30,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,neutrophil,female,European,7,0.006743478093329736
+31,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,memory B cell,female,European,54,0.052021116719972255
+32,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,naive B cell,female,European,60,0.05780124079996917
+33,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,gamma-delta T cell,female,European,7,0.006743478093329736
+34,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,regulatory T cell,female,European,14,0.013486956186659472
+35,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,transitional stage B cell,female,European,56,0.05394782474663789
+36,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,female,European,508,0.48938383877307234
+37,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,non-classical monocyte,female,European,132,0.12716272975993217
+38,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD4-positive, alpha-beta T cell",female,European,63,0.06069130283996763
+39,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD8-positive, alpha-beta T cell",female,European,12,0.011560248159993835
+40,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"central memory CD4-positive, alpha-beta T cell",female,European,65,0.06261801086663327
+41,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"effector memory CD8-positive, alpha-beta T cell",female,European,251,0.24180185734653772
+42,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD16-negative, CD56-bright natural killer cell, human",female,European,18,0.01734037223999075
+43,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,mucosal invariant T cell,female,European,1,0.0009633540133328195
+44,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,IgG plasmablast,female,European,1,0.0009633540133328195
+45,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,IgA plasmablast,female,European,4,0.003853416053331278
+46,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,conventional dendritic cell,female,European,33,0.031790682439983044
+47,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"plasmacytoid dendritic cell, human",female,European,22,0.02119378829332203
+48,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,double negative thymocyte,female,European,2,0.001926708026665639
+49,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,hematopoietic stem cell,female,unknown,2,0.001926708026665639
+50,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,erythrocyte,female,unknown,2,0.001926708026665639
+51,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,female,unknown,27,0.026010558359986127
+52,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,lymphocyte,female,unknown,20,0.019267080266656394
+53,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,natural killer cell,female,unknown,919,0.8853223382528611
+54,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,memory B cell,female,unknown,77,0.0741782590266271
+55,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,naive B cell,female,unknown,255,0.24565527339986898
+56,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,gamma-delta T cell,female,unknown,224,0.21579129898655156
+57,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,regulatory T cell,female,unknown,17,0.016377018226657932
+58,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,transitional stage B cell,female,unknown,58,0.05587453277330353
+59,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,female,unknown,1064,1.02500867018612
+60,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,non-classical monocyte,female,unknown,404,0.3891950213864591
+61,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD4-positive, alpha-beta T cell",female,unknown,227,0.21868136102655
+62,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD8-positive, alpha-beta T cell",female,unknown,10,0.009633540133328197
+63,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"central memory CD4-positive, alpha-beta T cell",female,unknown,592,0.5703055758930291
+64,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"effector memory CD8-positive, alpha-beta T cell",female,unknown,223,0.21482794497321875
+65,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD4-positive, alpha-beta cytotoxic T cell",female,unknown,92,0.08862856922661941
+66,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD16-negative, CD56-bright natural killer cell, human",female,unknown,38,0.03660745250664714
+67,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,mucosal invariant T cell,female,unknown,13,0.012523602173326653
+68,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,plasmablast,female,unknown,5,0.0048167700666640985
+69,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,conventional dendritic cell,female,unknown,105,0.10115217139994605
+70,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"plasmacytoid dendritic cell, human",female,unknown,19,0.01830372625332357
+71,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,erythrocyte,female,unknown,4,0.003853416053331278
+72,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,female,unknown,9,0.008670186119995375
+73,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,lymphocyte,female,unknown,10,0.009633540133328197
+74,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,natural killer cell,female,unknown,593,0.571268929906362
+75,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,memory B cell,female,unknown,126,0.12138260567993527
+76,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,naive B cell,female,unknown,596,0.5741589919463604
+77,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,gamma-delta T cell,female,unknown,281,0.2707024777465223
+78,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,regulatory T cell,female,unknown,12,0.011560248159993835
+79,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,transitional stage B cell,female,unknown,84,0.08092173711995684
+80,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,female,unknown,359,0.3458440907864822
+81,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,non-classical monocyte,female,unknown,132,0.12716272975993217
+82,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD4-positive, alpha-beta T cell",female,unknown,84,0.08092173711995684
+83,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD8-positive, alpha-beta T cell",female,unknown,10,0.009633540133328197
+84,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"central memory CD4-positive, alpha-beta T cell",female,unknown,264,0.25432545951986435
+85,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"effector memory CD8-positive, alpha-beta T cell",female,unknown,1214,1.1695117721860429
+86,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD4-positive, alpha-beta cytotoxic T cell",female,unknown,211,0.2032676968132249
+87,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD16-negative, CD56-bright natural killer cell, human",female,unknown,56,0.05394782474663789
+88,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,mucosal invariant T cell,female,unknown,6,0.005780124079996917
+89,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,plasmablast,female,unknown,7,0.006743478093329736
+90,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,conventional dendritic cell,female,unknown,35,0.033717390466648685
+91,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"plasmacytoid dendritic cell, human",female,unknown,5,0.0048167700666640985
+92,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,hematopoietic stem cell,female,unknown,2,0.001926708026665639
+93,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,erythrocyte,female,unknown,2,0.001926708026665639
+94,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,female,unknown,97,0.0934453392932835
+95,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,lymphocyte,female,unknown,37,0.03564409849331432
+96,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,natural killer cell,female,unknown,515,0.49612731686640205
+97,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,memory B cell,female,unknown,76,0.07321490501329428
+98,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,naive B cell,female,unknown,278,0.26781241570652387
+99,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,gamma-delta T cell,female,unknown,219,0.21097452891988747
+100,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,regulatory T cell,female,unknown,28,0.026973912373318944
+101,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,transitional stage B cell,female,unknown,46,0.044314284613309704
+102,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,female,unknown,997,0.960463951292821
+103,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,non-classical monocyte,female,unknown,351,0.33813725867981964
+104,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD4-positive, alpha-beta T cell",female,unknown,276,0.2658857076798582
+105,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD8-positive, alpha-beta T cell",female,unknown,26,0.025047204346653307
+106,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"central memory CD4-positive, alpha-beta T cell",female,unknown,283,0.27262918577318795
+107,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"effector memory CD8-positive, alpha-beta T cell",female,unknown,269,0.25914222958652844
+108,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD4-positive, alpha-beta cytotoxic T cell",female,unknown,72,0.069361488959963
+109,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD16-negative, CD56-bright natural killer cell, human",female,unknown,92,0.08862856922661941
+110,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,mucosal invariant T cell,female,unknown,74,0.07128819698662864
+111,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,plasmablast,female,unknown,11,0.010596894146661016
+112,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,conventional dendritic cell,female,unknown,116,0.11174906554660706
+113,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"plasmacytoid dendritic cell, human",female,unknown,27,0.026010558359986127
+114,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,hematopoietic stem cell,female,European,73,0.07032484297329583
+115,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,female,European,351,0.33813725867981964
+116,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,lymphocyte,female,European,12,0.011560248159993835
+117,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,natural killer cell,female,European,341,0.32850371854649146
+118,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,neutrophil,female,European,1,0.0009633540133328195
+119,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,memory B cell,female,European,34,0.032754036453315864
+120,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,naive B cell,female,European,104,0.10018881738661323
+121,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,regulatory T cell,female,European,68,0.06550807290663173
+122,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,transitional stage B cell,female,European,169,0.1628068282532465
+123,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,female,European,448,0.4315825979731031
+124,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,non-classical monocyte,female,European,139,0.13390620785326193
+125,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD4-positive, alpha-beta T cell",female,European,652,0.6281068166929984
+126,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD8-positive, alpha-beta T cell",female,European,30,0.028900620399984586
+127,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"central memory CD4-positive, alpha-beta T cell",female,European,300,0.2890062039998459
+128,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"effector memory CD8-positive, alpha-beta T cell",female,European,642,0.6184732765596701
+129,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD4-positive, alpha-beta cytotoxic T cell",female,European,54,0.052021116719972255
+130,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD16-negative, CD56-bright natural killer cell, human",female,European,19,0.01830372625332357
+131,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,mucosal invariant T cell,female,European,49,0.04720434665330816
+132,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,plasmablast,female,European,7,0.006743478093329736
+133,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,conventional dendritic cell,female,European,661,0.6367770028129937
+134,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"activated CD4-positive, alpha-beta T cell, human",female,European,2,0.001926708026665639
+135,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"plasmacytoid dendritic cell, human",female,European,206,0.19845092674656084
+136,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,hematopoietic stem cell,female,European,12,0.011560248159993835
+137,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,erythrocyte,female,European,1,0.0009633540133328195
+138,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,female,European,31,0.029863974413317403
+139,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,lymphocyte,female,European,12,0.011560248159993835
+140,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,natural killer cell,female,European,1416,1.3641092828792725
+141,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,memory B cell,female,European,30,0.028900620399984586
+142,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,naive B cell,female,European,23,0.022157142306654852
+143,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,regulatory T cell,female,European,76,0.07321490501329428
+144,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,transitional stage B cell,female,European,12,0.011560248159993835
+145,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,female,European,911,0.8776155061461985
+146,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,non-classical monocyte,female,European,453,0.4363993680397672
+147,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD4-positive, alpha-beta T cell",female,European,392,0.37763477322646527
+148,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD8-positive, alpha-beta T cell",female,European,25,0.02408385033332049
+149,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"central memory CD4-positive, alpha-beta T cell",female,European,813,0.7832068128395823
+150,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"effector memory CD8-positive, alpha-beta T cell",female,European,110,0.10596894146661015
+151,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD4-positive, alpha-beta cytotoxic T cell",female,European,39,0.03757080651997997
+152,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD16-negative, CD56-bright natural killer cell, human",female,European,29,0.027937266386651765
+153,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,mucosal invariant T cell,female,European,39,0.03757080651997997
+154,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,plasmablast,female,European,5,0.0048167700666640985
+155,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,conventional dendritic cell,female,European,204,0.1965242187198952
+156,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"activated CD4-positive, alpha-beta T cell, human",female,European,4,0.003853416053331278
+157,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"plasmacytoid dendritic cell, human",female,European,145,0.13968633193325883
+158,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,hematopoietic stem cell,female,European,73,0.07032484297329583
+159,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,erythrocyte,female,European,1,0.0009633540133328195
+160,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,female,European,109,0.10500558745327733
+161,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,lymphocyte,female,European,21,0.02023043427998921
+162,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,natural killer cell,female,European,251,0.24180185734653772
+163,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,memory B cell,female,European,10,0.009633540133328197
+164,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,naive B cell,female,European,203,0.19556086470656234
+165,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,regulatory T cell,female,European,146,0.14064968594659166
+166,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,transitional stage B cell,female,European,113,0.10885900350660861
+167,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,female,European,728,0.7013217217062926
+168,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,non-classical monocyte,female,European,437,0.4209857038264421
+169,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD4-positive, alpha-beta T cell",female,European,617,0.5943894262263496
+170,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD8-positive, alpha-beta T cell",female,European,4,0.003853416053331278
+171,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"central memory CD4-positive, alpha-beta T cell",female,European,808,0.7783900427729182
+172,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"effector memory CD8-positive, alpha-beta T cell",female,European,712,0.6859080574929675
+173,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD4-positive, alpha-beta cytotoxic T cell",female,European,152,0.14642981002658856
+174,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD16-negative, CD56-bright natural killer cell, human",female,European,8,0.007706832106662556
+175,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,plasmablast,female,European,10,0.009633540133328197
+176,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,conventional dendritic cell,female,European,148,0.14257639397325728
+177,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"activated CD4-positive, alpha-beta T cell, human",female,European,1,0.0009633540133328195
+178,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"activated CD8-positive, alpha-beta T cell, human",female,European,1,0.0009633540133328195
+179,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"plasmacytoid dendritic cell, human",female,European,172,0.16569689029324497
+180,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,hematopoietic stem cell,male,European,13,0.012523602173326653
+181,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,erythrocyte,male,European,98,0.09440869330661632
+182,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,male,European,2,0.001926708026665639
+183,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,lymphocyte,male,European,16,0.015413664213325112
+184,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,natural killer cell,male,European,168,0.1618434742399137
+185,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,immature neutrophil,male,European,2,0.001926708026665639
+186,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,memory B cell,male,European,62,0.059727948826634805
+187,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,naive B cell,male,European,27,0.026010558359986127
+188,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,gamma-delta T cell,male,European,16,0.015413664213325112
+189,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,regulatory T cell,male,European,53,0.051057762706639434
+190,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,transitional stage B cell,male,European,75,0.07225155099996147
+191,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,male,European,186,0.17918384647990443
+192,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,non-classical monocyte,male,European,48,0.04624099263997534
+193,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD4-positive, alpha-beta T cell",male,European,96,0.09248198527995068
+194,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD8-positive, alpha-beta T cell",male,European,49,0.04720434665330816
+195,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"central memory CD4-positive, alpha-beta T cell",male,European,231,0.2225347770798813
+196,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"effector memory CD8-positive, alpha-beta T cell",male,European,621,0.5982428422796809
+197,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD16-negative, CD56-bright natural killer cell, human",male,European,4,0.003853416053331278
+198,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,mucosal invariant T cell,male,European,89,0.08573850718662093
+199,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,IgG plasmablast,male,European,3,0.0028900620399984586
+200,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,IgA plasmablast,male,European,2,0.001926708026665639
+201,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,conventional dendritic cell,male,European,26,0.025047204346653307
+202,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"activated CD4-positive, alpha-beta T cell, human",male,European,7,0.006743478093329736
+203,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"plasmacytoid dendritic cell, human",male,European,14,0.013486956186659472
+204,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,double negative thymocyte,male,European,3,0.0028900620399984586
+205,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,hematopoietic stem cell,male,European,59,0.05683788678663636
+206,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,male,European,134,0.12908943778659782
+207,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,lymphocyte,male,European,8,0.007706832106662556
+208,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,natural killer cell,male,European,245,0.23602173326654077
+209,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,memory B cell,male,European,16,0.015413664213325112
+210,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,naive B cell,male,European,36,0.0346807444799815
+211,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,regulatory T cell,male,European,51,0.0491310546799738
+212,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,transitional stage B cell,male,European,20,0.019267080266656394
+213,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,male,European,427,0.4113521636931139
+214,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,non-classical monocyte,male,European,302,0.2909329120265115
+215,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD4-positive, alpha-beta T cell",male,European,422,0.4065353936264498
+216,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD8-positive, alpha-beta T cell",male,European,27,0.026010558359986127
+217,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"central memory CD4-positive, alpha-beta T cell",male,European,393,0.3785981272397981
+218,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"effector memory CD8-positive, alpha-beta T cell",male,European,758,0.7302223421062772
+219,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD4-positive, alpha-beta cytotoxic T cell",male,European,302,0.2909329120265115
+220,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD16-negative, CD56-bright natural killer cell, human",male,European,19,0.01830372625332357
+221,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,mucosal invariant T cell,male,European,32,0.030827328426650223
+222,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,plasmablast,male,European,1,0.0009633540133328195
+223,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,conventional dendritic cell,male,European,524,0.5047975029863975
+224,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"activated CD4-positive, alpha-beta T cell, human",male,European,2,0.001926708026665639
+225,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"plasmacytoid dendritic cell, human",male,European,277,0.266849061693191
+226,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,hematopoietic stem cell,male,Asian,24,0.02312049631998767
+227,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,erythrocyte,male,Asian,14,0.013486956186659472
+228,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,male,Asian,13,0.012523602173326653
+229,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,lymphocyte,male,Asian,33,0.031790682439983044
+230,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,natural killer cell,male,Asian,601,0.5789757620130245
+231,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,memory B cell,male,Asian,89,0.08573850718662093
+232,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,naive B cell,male,Asian,131,0.12619937574659937
+233,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,gamma-delta T cell,male,Asian,2,0.001926708026665639
+234,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,regulatory T cell,male,Asian,31,0.029863974413317403
+235,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,transitional stage B cell,male,Asian,225,0.21675465299988442
+236,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,male,Asian,369,0.35547763091981044
+237,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,non-classical monocyte,male,Asian,323,0.3111633463065007
+238,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD4-positive, alpha-beta T cell",male,Asian,310,0.29863974413317407
+239,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD8-positive, alpha-beta T cell",male,Asian,253,0.24372856537320334
+240,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"central memory CD4-positive, alpha-beta T cell",male,Asian,147,0.14161303995992447
+241,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"effector memory CD8-positive, alpha-beta T cell",male,Asian,173,0.16666024430657778
+242,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD16-negative, CD56-bright natural killer cell, human",male,Asian,59,0.05683788678663636
+243,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,mucosal invariant T cell,male,Asian,20,0.019267080266656394
+244,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,IgG plasmablast,male,Asian,5,0.0048167700666640985
+245,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,IgA plasmablast,male,Asian,19,0.01830372625332357
+246,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,conventional dendritic cell,male,Asian,54,0.052021116719972255
+247,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"activated CD4-positive, alpha-beta T cell, human",male,Asian,4,0.003853416053331278
+248,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"plasmacytoid dendritic cell, human",male,Asian,26,0.025047204346653307
+249,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,double negative thymocyte,male,Asian,15,0.014450310199992293
+250,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,hematopoietic stem cell,male,European,17,0.016377018226657932
+251,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,erythrocyte,male,European,17,0.016377018226657932
+252,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,male,European,32,0.030827328426650223
+253,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,lymphocyte,male,European,78,0.07514161303995993
+254,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,natural killer cell,male,European,3117,3.0027744595583985
+255,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,neutrophil,male,European,12,0.011560248159993835
+256,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,memory B cell,male,European,153,0.1473931640399214
+257,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,naive B cell,male,European,373,0.35933104697314167
+258,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,gamma-delta T cell,male,European,25,0.02408385033332049
+259,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,regulatory T cell,male,European,59,0.05683788678663636
+260,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,transitional stage B cell,male,European,285,0.27455589379985357
+261,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,male,European,421,0.405572039613117
+262,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,non-classical monocyte,male,European,223,0.21482794497321875
+263,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD4-positive, alpha-beta T cell",male,European,216,0.20808446687988902
+264,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD8-positive, alpha-beta T cell",male,European,49,0.04720434665330816
+265,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"central memory CD4-positive, alpha-beta T cell",male,European,286,0.2755192478131864
+266,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"effector memory CD8-positive, alpha-beta T cell",male,European,1129,1.0876266810527533
+267,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD16-negative, CD56-bright natural killer cell, human",male,European,136,0.13101614581326346
+268,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,mucosal invariant T cell,male,European,68,0.06550807290663173
+269,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,IgG plasmablast,male,European,9,0.008670186119995375
+270,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,IgA plasmablast,male,European,34,0.032754036453315864
+271,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,conventional dendritic cell,male,European,66,0.06358136487996609
+272,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"activated CD4-positive, alpha-beta T cell, human",male,European,1,0.0009633540133328195
+273,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"plasmacytoid dendritic cell, human",male,European,54,0.052021116719972255
+274,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,double negative thymocyte,male,European,18,0.01734037223999075
+275,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,hematopoietic stem cell,male,unknown,1,0.0009633540133328195
+276,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,erythrocyte,male,unknown,5,0.0048167700666640985
+277,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,male,unknown,16,0.015413664213325112
+278,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,lymphocyte,male,unknown,30,0.028900620399984586
+279,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,natural killer cell,male,unknown,1365,1.3149782281992988
+280,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,memory B cell,male,unknown,42,0.04046086855997842
+281,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,naive B cell,male,unknown,31,0.029863974413317403
+282,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,gamma-delta T cell,male,unknown,42,0.04046086855997842
+283,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,regulatory T cell,male,unknown,28,0.026973912373318944
+284,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,transitional stage B cell,male,unknown,277,0.266849061693191
+285,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,male,unknown,1255,1.2090092867326885
+286,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,non-classical monocyte,male,unknown,237,0.2283149011598782
+287,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD4-positive, alpha-beta T cell",male,unknown,108,0.10404223343994451
+288,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD8-positive, alpha-beta T cell",male,unknown,20,0.019267080266656394
+289,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"central memory CD4-positive, alpha-beta T cell",male,unknown,239,0.23024160918654388
+290,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"effector memory CD8-positive, alpha-beta T cell",male,unknown,115,0.11078571153327425
+291,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD4-positive, alpha-beta cytotoxic T cell",male,unknown,5,0.0048167700666640985
+292,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD16-negative, CD56-bright natural killer cell, human",male,unknown,14,0.013486956186659472
+293,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,mucosal invariant T cell,male,unknown,2,0.001926708026665639
+294,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,plasmablast,male,unknown,10,0.009633540133328197
+295,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,conventional dendritic cell,male,unknown,53,0.051057762706639434
+296,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"plasmacytoid dendritic cell, human",male,unknown,18,0.01734037223999075
+297,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,hematopoietic stem cell,male,European,49,0.04720434665330816
+298,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,erythrocyte,male,European,11,0.010596894146661016
+299,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,male,European,127,0.12234595969326809
+300,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,lymphocyte,male,European,26,0.025047204346653307
+301,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,natural killer cell,male,European,2312,2.227274478825479
+302,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,memory B cell,male,European,28,0.026973912373318944
+303,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,naive B cell,male,European,49,0.04720434665330816
+304,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,regulatory T cell,male,European,63,0.06069130283996763
+305,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,transitional stage B cell,male,European,60,0.05780124079996917
+306,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,male,European,2050,1.9748757273322801
+307,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,non-classical monocyte,male,European,1207,1.162768294092713
+308,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD4-positive, alpha-beta T cell",male,European,559,0.5385148934530462
+309,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD8-positive, alpha-beta T cell",male,European,46,0.044314284613309704
+310,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"central memory CD4-positive, alpha-beta T cell",male,European,498,0.47975029863974417
+311,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"effector memory CD8-positive, alpha-beta T cell",male,European,88,0.08477515317328813
+312,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD4-positive, alpha-beta cytotoxic T cell",male,European,49,0.04720434665330816
+313,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD16-negative, CD56-bright natural killer cell, human",male,European,53,0.051057762706639434
+314,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,mucosal invariant T cell,male,European,63,0.06069130283996763
+315,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,plasmablast,male,European,6,0.005780124079996917
+316,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,conventional dendritic cell,male,European,416,0.4007552695464529
+317,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"activated CD4-positive, alpha-beta T cell, human",male,European,3,0.0028900620399984586
+318,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"plasmacytoid dendritic cell, human",male,European,267,0.2572155215598628
+319,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,unknown,European,14,0.013486956186659472
+320,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,lymphocyte,unknown,European,119,0.11463912758660554
+321,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,natural killer cell,unknown,European,2506,2.4141651574120457
+322,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,memory B cell,unknown,European,1138,1.0962968671727487
+323,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,naive B cell,unknown,European,957,0.9219297907595083
+324,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,gamma-delta T cell,unknown,European,278,0.26781241570652387
+325,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,regulatory T cell,unknown,European,251,0.24180185734653772
+326,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,transitional stage B cell,unknown,European,508,0.48938383877307234
+327,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,unknown,European,11885,11.449462448460562
+328,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,non-classical monocyte,unknown,European,2065,1.9893260375322723
+329,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD4-positive, alpha-beta T cell",unknown,European,1758,1.6935763554390966
+330,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD8-positive, alpha-beta T cell",unknown,European,349,0.33621055065315403
+331,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"central memory CD4-positive, alpha-beta T cell",unknown,European,3614,3.4815614041848097
+332,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"effector memory CD8-positive, alpha-beta T cell",unknown,European,2858,2.753265770105198
+333,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD16-negative, CD56-bright natural killer cell, human",unknown,European,113,0.10885900350660861
+334,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,mucosal invariant T cell,unknown,European,396,0.38148818927979655
+335,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,plasmablast,unknown,European,147,0.14161303995992447
+336,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,conventional dendritic cell,unknown,European,270,0.2601055835998613
+337,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"plasmacytoid dendritic cell, human",unknown,European,258,0.24854533543986743
+338,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,double negative thymocyte,unknown,European,26,0.025047204346653307
+339,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,unknown,unknown,270,0.2601055835998613
+340,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,lymphocyte,unknown,unknown,53,0.051057762706639434
+341,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,natural killer cell,unknown,unknown,927,0.8930291703595238
+342,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,memory B cell,unknown,unknown,392,0.37763477322646527
+343,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,naive B cell,unknown,unknown,1515,1.4594813301992215
+344,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,gamma-delta T cell,unknown,unknown,454,0.4373627220531
+345,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,regulatory T cell,unknown,unknown,243,0.23409502523987516
+346,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,transitional stage B cell,unknown,unknown,415,0.3997919155331201
+347,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,unknown,unknown,4273,4.116411698971137
+348,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,non-classical monocyte,unknown,unknown,482,0.46433663442641904
+349,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD4-positive, alpha-beta T cell",unknown,unknown,2232,2.1502061577588534
+350,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD8-positive, alpha-beta T cell",unknown,unknown,551,0.5308080613463836
+351,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"central memory CD4-positive, alpha-beta T cell",unknown,unknown,2612,2.516280682825325
+352,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"effector memory CD8-positive, alpha-beta T cell",unknown,unknown,597,0.5751223459596932
+353,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD16-negative, CD56-bright natural killer cell, human",unknown,unknown,41,0.0394975145466456
+354,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,mucosal invariant T cell,unknown,unknown,737,0.7099919078262881
+355,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,plasmablast,unknown,unknown,44,0.04238757658664406
+356,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,conventional dendritic cell,unknown,unknown,304,0.2928596200531771
+357,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"plasmacytoid dendritic cell, human",unknown,unknown,120,0.11560248159993834
+358,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,double negative thymocyte,unknown,unknown,15,0.014450310199992293

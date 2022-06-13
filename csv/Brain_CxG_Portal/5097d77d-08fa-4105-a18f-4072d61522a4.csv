@@ -1,5 +1,5 @@
-,cell_type,sex,race,count,percentage
-0,astrocyte of the cerebral cortex,female,European,17532,49.497459062676455
-1,astrocyte of the cerebral cortex,female,admixed ancestry,995,2.8091473743647657
-2,astrocyte of the cerebral cortex,male,Asian,1127,3.1818181818181817
-3,astrocyte of the cerebral cortex,male,European,15766,44.5115753811406
+,dataset_name,cell_type,sex,race,count,percentage
+0,Astro - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),astrocyte of the cerebral cortex,female,European,17532,49.497459062676455
+1,Astro - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),astrocyte of the cerebral cortex,female,admixed ancestry,995,2.8091473743647657
+2,Astro - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),astrocyte of the cerebral cortex,male,Asian,1127,3.1818181818181817
+3,Astro - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),astrocyte of the cerebral cortex,male,European,15766,44.5115753811406

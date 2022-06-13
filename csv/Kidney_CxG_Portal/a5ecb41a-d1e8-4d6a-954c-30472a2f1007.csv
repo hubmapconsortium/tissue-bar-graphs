@@ -1,29 +1,29 @@
-,cell_type,sex,race,count,percentage
-0,endothelial cell,male,European,12090,31.767302538231124
-1,macrophage,male,European,220,0.5780650585947764
-2,kidney granular cell,male,European,150,0.39413526722371117
-3,mesangial cell,male,European,39,0.1024751694781649
-4,glomerular visceral epithelial cell,male,European,477,1.2533501497714015
-5,leukocyte,male,European,1156,3.037469126070734
-6,blood vessel smooth muscle cell,male,European,397,1.0431446739187555
-7,kidney interstitial fibroblast,male,European,447,1.1745230963266593
-8,kidney proximal convoluted tubule epithelial cell,male,European,2808,7.378212202427874
-9,kidney distal convoluted tubule epithelial cell,male,European,334,0.8776078616847969
-10,macula densa epithelial cell,male,European,14,0.03678595827421304
-11,kidney loop of Henle thick ascending limb epithelial cell,male,European,289,0.7593672815176835
-12,kidney collecting duct principal cell,male,European,423,1.1114614535708656
-13,kidney collecting duct intercalated cell,male,European,185,0.4861001629092438
-14,endothelial cell,male,European,12090,31.767302538231124
-15,macrophage,male,European,220,0.5780650585947764
-16,kidney granular cell,male,European,150,0.39413526722371117
-17,mesangial cell,male,European,39,0.1024751694781649
-18,glomerular visceral epithelial cell,male,European,477,1.2533501497714015
-19,leukocyte,male,European,1156,3.037469126070734
-20,blood vessel smooth muscle cell,male,European,397,1.0431446739187555
-21,kidney interstitial fibroblast,male,European,447,1.1745230963266593
-22,kidney proximal convoluted tubule epithelial cell,male,European,2808,7.378212202427874
-23,kidney distal convoluted tubule epithelial cell,male,European,334,0.8776078616847969
-24,macula densa epithelial cell,male,European,14,0.03678595827421304
-25,kidney loop of Henle thick ascending limb epithelial cell,male,European,289,0.7593672815176835
-26,kidney collecting duct principal cell,male,European,423,1.1114614535708656
-27,kidney collecting duct intercalated cell,male,European,185,0.4861001629092438
+,dataset_name,cell_type,sex,race,count,percentage
+0,Spatial transcriptomics in the healthy human kidney: Puck_200113_11,endothelial cell,male,European,12090,31.767302538231124
+1,Spatial transcriptomics in the healthy human kidney: Puck_200113_11,macrophage,male,European,220,0.5780650585947764
+2,Spatial transcriptomics in the healthy human kidney: Puck_200113_11,kidney granular cell,male,European,150,0.39413526722371117
+3,Spatial transcriptomics in the healthy human kidney: Puck_200113_11,mesangial cell,male,European,39,0.1024751694781649
+4,Spatial transcriptomics in the healthy human kidney: Puck_200113_11,glomerular visceral epithelial cell,male,European,477,1.2533501497714015
+5,Spatial transcriptomics in the healthy human kidney: Puck_200113_11,leukocyte,male,European,1156,3.037469126070734
+6,Spatial transcriptomics in the healthy human kidney: Puck_200113_11,blood vessel smooth muscle cell,male,European,397,1.0431446739187555
+7,Spatial transcriptomics in the healthy human kidney: Puck_200113_11,kidney interstitial fibroblast,male,European,447,1.1745230963266593
+8,Spatial transcriptomics in the healthy human kidney: Puck_200113_11,kidney proximal convoluted tubule epithelial cell,male,European,2808,7.378212202427874
+9,Spatial transcriptomics in the healthy human kidney: Puck_200113_11,kidney distal convoluted tubule epithelial cell,male,European,334,0.8776078616847969
+10,Spatial transcriptomics in the healthy human kidney: Puck_200113_11,macula densa epithelial cell,male,European,14,0.03678595827421304
+11,Spatial transcriptomics in the healthy human kidney: Puck_200113_11,kidney loop of Henle thick ascending limb epithelial cell,male,European,289,0.7593672815176835
+12,Spatial transcriptomics in the healthy human kidney: Puck_200113_11,kidney collecting duct principal cell,male,European,423,1.1114614535708656
+13,Spatial transcriptomics in the healthy human kidney: Puck_200113_11,kidney collecting duct intercalated cell,male,European,185,0.4861001629092438
+14,Spatial transcriptomics in the healthy human kidney: Puck_200113_11,endothelial cell,male,European,12090,31.767302538231124
+15,Spatial transcriptomics in the healthy human kidney: Puck_200113_11,macrophage,male,European,220,0.5780650585947764
+16,Spatial transcriptomics in the healthy human kidney: Puck_200113_11,kidney granular cell,male,European,150,0.39413526722371117
+17,Spatial transcriptomics in the healthy human kidney: Puck_200113_11,mesangial cell,male,European,39,0.1024751694781649
+18,Spatial transcriptomics in the healthy human kidney: Puck_200113_11,glomerular visceral epithelial cell,male,European,477,1.2533501497714015
+19,Spatial transcriptomics in the healthy human kidney: Puck_200113_11,leukocyte,male,European,1156,3.037469126070734
+20,Spatial transcriptomics in the healthy human kidney: Puck_200113_11,blood vessel smooth muscle cell,male,European,397,1.0431446739187555
+21,Spatial transcriptomics in the healthy human kidney: Puck_200113_11,kidney interstitial fibroblast,male,European,447,1.1745230963266593
+22,Spatial transcriptomics in the healthy human kidney: Puck_200113_11,kidney proximal convoluted tubule epithelial cell,male,European,2808,7.378212202427874
+23,Spatial transcriptomics in the healthy human kidney: Puck_200113_11,kidney distal convoluted tubule epithelial cell,male,European,334,0.8776078616847969
+24,Spatial transcriptomics in the healthy human kidney: Puck_200113_11,macula densa epithelial cell,male,European,14,0.03678595827421304
+25,Spatial transcriptomics in the healthy human kidney: Puck_200113_11,kidney loop of Henle thick ascending limb epithelial cell,male,European,289,0.7593672815176835
+26,Spatial transcriptomics in the healthy human kidney: Puck_200113_11,kidney collecting duct principal cell,male,European,423,1.1114614535708656
+27,Spatial transcriptomics in the healthy human kidney: Puck_200113_11,kidney collecting duct intercalated cell,male,European,185,0.4861001629092438

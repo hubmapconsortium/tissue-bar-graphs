@@ -1,94 +1,94 @@
-,cell_type,sex,race,count,percentage
-0,granulocyte,female,European,13,0.07818608287724785
-1,erythrocyte,female,European,14,0.08420039694472845
-2,platelet,female,European,10,0.06014314067480604
-3,B cell,female,European,286,1.7200938232994525
-4,monocyte,female,European,33,0.19847236422685993
-5,natural killer cell,female,European,261,1.5697359716124377
-6,"CD4-positive, alpha-beta T cell",female,European,2,0.012028628134961207
-7,neutrophil,female,European,12,0.07217176880976725
-8,plasmacytoid dendritic cell,female,European,14,0.08420039694472845
-9,gamma-delta T cell,female,European,188,1.1306910446863536
-10,"CD4-positive, alpha-beta memory T cell",female,European,287,1.7261081373669334
-11,naive T cell,female,European,415,2.4959403380044503
-12,"CD8-positive, alpha-beta memory T cell",female,European,506,3.0432429181451854
-13,class switched memory B cell,female,European,3,0.018042942202441813
-14,IgG plasmablast,female,European,2,0.012028628134961207
-15,IgA plasmablast,female,European,7,0.04210019847236422
-16,conventional dendritic cell,female,European,18,0.10825765321465088
-17,"effector CD8-positive, alpha-beta T cell",female,European,20,0.12028628134961208
-18,CD14-positive monocyte,female,European,215,1.2930775245083297
-19,granulocyte,female,European,37,0.22252962049678235
-20,erythrocyte,female,European,35,0.21050099236182113
-21,platelet,female,European,6,0.036085884404883625
-22,B cell,female,European,185,1.1126481024839117
-23,monocyte,female,European,149,0.8961327960546099
-24,natural killer cell,female,European,444,2.670355445961388
-25,"CD4-positive, alpha-beta T cell",female,European,1,0.006014314067480603
-26,neutrophil,female,European,17,0.10224333914717026
-27,plasmacytoid dendritic cell,female,European,26,0.1563721657544957
-28,gamma-delta T cell,female,European,10,0.06014314067480604
-29,"CD4-positive, alpha-beta memory T cell",female,European,98,0.5894027786130992
-30,naive T cell,female,European,107,0.6435316052204246
-31,"CD8-positive, alpha-beta memory T cell",female,European,259,1.5577073434774764
-32,IgG plasmablast,female,European,1,0.006014314067480603
-33,IgA plasmablast,female,European,4,0.024057256269922413
-34,conventional dendritic cell,female,European,37,0.22252962049678235
-35,"effector CD8-positive, alpha-beta T cell",female,European,4,0.024057256269922413
-36,CD14-positive monocyte,female,European,680,4.08973356588681
-37,granulocyte,male,European,18,0.10825765321465088
-38,erythrocyte,male,European,98,0.5894027786130992
-39,platelet,male,European,2,0.012028628134961207
-40,B cell,male,European,182,1.09460516028147
-41,monocyte,male,European,52,0.3127443315089914
-42,natural killer cell,male,European,215,1.2930775245083297
-43,"CD4-positive, alpha-beta T cell",male,European,3,0.018042942202441813
-44,neutrophil,male,European,1,0.006014314067480603
-45,plasmacytoid dendritic cell,male,European,17,0.10224333914717026
-46,gamma-delta T cell,male,European,70,0.42100198472364225
-47,"CD4-positive, alpha-beta memory T cell",male,European,297,1.7862512780417394
-48,naive T cell,male,European,192,1.154748300956276
-49,"CD8-positive, alpha-beta memory T cell",male,European,566,3.4041017621940215
-50,class switched memory B cell,male,European,8,0.04811451253984483
-51,IgG plasmablast,male,European,3,0.018042942202441813
-52,IgA plasmablast,male,European,2,0.012028628134961207
-53,conventional dendritic cell,male,European,32,0.1924580501593793
-54,"effector CD8-positive, alpha-beta T cell",male,European,16,0.09622902507968965
-55,CD14-positive monocyte,male,European,224,1.3472063511156551
-56,granulocyte,male,Asian,24,0.1443435376195345
-57,erythrocyte,male,Asian,14,0.08420039694472845
-58,platelet,male,Asian,13,0.07818608287724785
-59,B cell,male,Asian,480,2.88687075239069
-60,monocyte,male,Asian,403,2.4237685691946833
-61,natural killer cell,male,Asian,593,3.566488242015998
-62,"CD4-positive, alpha-beta T cell",male,Asian,5,0.03007157033740302
-63,neutrophil,male,Asian,3,0.018042942202441813
-64,plasmacytoid dendritic cell,male,Asian,26,0.1563721657544957
-65,gamma-delta T cell,male,Asian,25,0.1503578516870151
-66,"CD4-positive, alpha-beta memory T cell",male,Asian,180,1.0825765321465086
-67,naive T cell,male,Asian,596,3.5845311842184397
-68,"CD8-positive, alpha-beta memory T cell",male,Asian,231,1.3893065495880195
-69,class switched memory B cell,male,Asian,7,0.04210019847236422
-70,IgG plasmablast,male,Asian,5,0.03007157033740302
-71,IgA plasmablast,male,Asian,19,0.11427196728213146
-72,conventional dendritic cell,male,Asian,52,0.3127443315089914
-73,"effector CD8-positive, alpha-beta T cell",male,Asian,26,0.1563721657544957
-74,CD14-positive monocyte,male,Asian,444,2.670355445961388
-75,granulocyte,male,European,18,0.10825765321465088
-76,erythrocyte,male,European,17,0.10224333914717026
-77,platelet,male,European,32,0.1924580501593793
-78,B cell,male,European,833,5.009923618211342
-79,monocyte,male,European,278,1.6719793107596077
-80,natural killer cell,male,European,3194,19.20971913153305
-81,neutrophil,male,European,18,0.10825765321465088
-82,plasmacytoid dendritic cell,male,European,59,0.3548445299813556
-83,gamma-delta T cell,male,European,110,0.6615745474228665
-84,"CD4-positive, alpha-beta memory T cell",male,European,346,2.080952667348289
-85,naive T cell,male,European,306,1.8403801046490649
-86,"CD8-positive, alpha-beta memory T cell",male,European,1191,7.163048054369399
-87,class switched memory B cell,male,European,10,0.06014314067480604
-88,IgG plasmablast,male,European,9,0.05412882660732544
-89,IgA plasmablast,male,European,34,0.20448667829434053
-90,conventional dendritic cell,male,European,65,0.3909304143862392
-91,"effector CD8-positive, alpha-beta T cell",male,European,66,0.39694472845371986
-92,CD14-positive monocyte,male,European,491,2.9530282071329768
+,dataset_name,cell_type,sex,race,count,percentage
+0,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,granulocyte,female,European,13,0.07818608287724785
+1,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,erythrocyte,female,European,14,0.08420039694472845
+2,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,platelet,female,European,10,0.06014314067480604
+3,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,B cell,female,European,286,1.7200938232994525
+4,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,monocyte,female,European,33,0.19847236422685993
+5,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,natural killer cell,female,European,261,1.5697359716124377
+6,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,"CD4-positive, alpha-beta T cell",female,European,2,0.012028628134961207
+7,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,neutrophil,female,European,12,0.07217176880976725
+8,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,plasmacytoid dendritic cell,female,European,14,0.08420039694472845
+9,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,gamma-delta T cell,female,European,188,1.1306910446863536
+10,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,"CD4-positive, alpha-beta memory T cell",female,European,287,1.7261081373669334
+11,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,naive T cell,female,European,415,2.4959403380044503
+12,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,"CD8-positive, alpha-beta memory T cell",female,European,506,3.0432429181451854
+13,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,class switched memory B cell,female,European,3,0.018042942202441813
+14,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,IgG plasmablast,female,European,2,0.012028628134961207
+15,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,IgA plasmablast,female,European,7,0.04210019847236422
+16,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,conventional dendritic cell,female,European,18,0.10825765321465088
+17,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,"effector CD8-positive, alpha-beta T cell",female,European,20,0.12028628134961208
+18,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,CD14-positive monocyte,female,European,215,1.2930775245083297
+19,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,granulocyte,female,European,37,0.22252962049678235
+20,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,erythrocyte,female,European,35,0.21050099236182113
+21,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,platelet,female,European,6,0.036085884404883625
+22,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,B cell,female,European,185,1.1126481024839117
+23,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,monocyte,female,European,149,0.8961327960546099
+24,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,natural killer cell,female,European,444,2.670355445961388
+25,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,"CD4-positive, alpha-beta T cell",female,European,1,0.006014314067480603
+26,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,neutrophil,female,European,17,0.10224333914717026
+27,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,plasmacytoid dendritic cell,female,European,26,0.1563721657544957
+28,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,gamma-delta T cell,female,European,10,0.06014314067480604
+29,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,"CD4-positive, alpha-beta memory T cell",female,European,98,0.5894027786130992
+30,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,naive T cell,female,European,107,0.6435316052204246
+31,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,"CD8-positive, alpha-beta memory T cell",female,European,259,1.5577073434774764
+32,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,IgG plasmablast,female,European,1,0.006014314067480603
+33,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,IgA plasmablast,female,European,4,0.024057256269922413
+34,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,conventional dendritic cell,female,European,37,0.22252962049678235
+35,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,"effector CD8-positive, alpha-beta T cell",female,European,4,0.024057256269922413
+36,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,CD14-positive monocyte,female,European,680,4.08973356588681
+37,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,granulocyte,male,European,18,0.10825765321465088
+38,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,erythrocyte,male,European,98,0.5894027786130992
+39,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,platelet,male,European,2,0.012028628134961207
+40,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,B cell,male,European,182,1.09460516028147
+41,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,monocyte,male,European,52,0.3127443315089914
+42,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,natural killer cell,male,European,215,1.2930775245083297
+43,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,"CD4-positive, alpha-beta T cell",male,European,3,0.018042942202441813
+44,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,neutrophil,male,European,1,0.006014314067480603
+45,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,plasmacytoid dendritic cell,male,European,17,0.10224333914717026
+46,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,gamma-delta T cell,male,European,70,0.42100198472364225
+47,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,"CD4-positive, alpha-beta memory T cell",male,European,297,1.7862512780417394
+48,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,naive T cell,male,European,192,1.154748300956276
+49,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,"CD8-positive, alpha-beta memory T cell",male,European,566,3.4041017621940215
+50,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,class switched memory B cell,male,European,8,0.04811451253984483
+51,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,IgG plasmablast,male,European,3,0.018042942202441813
+52,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,IgA plasmablast,male,European,2,0.012028628134961207
+53,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,conventional dendritic cell,male,European,32,0.1924580501593793
+54,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,"effector CD8-positive, alpha-beta T cell",male,European,16,0.09622902507968965
+55,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,CD14-positive monocyte,male,European,224,1.3472063511156551
+56,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,granulocyte,male,Asian,24,0.1443435376195345
+57,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,erythrocyte,male,Asian,14,0.08420039694472845
+58,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,platelet,male,Asian,13,0.07818608287724785
+59,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,B cell,male,Asian,480,2.88687075239069
+60,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,monocyte,male,Asian,403,2.4237685691946833
+61,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,natural killer cell,male,Asian,593,3.566488242015998
+62,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,"CD4-positive, alpha-beta T cell",male,Asian,5,0.03007157033740302
+63,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,neutrophil,male,Asian,3,0.018042942202441813
+64,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,plasmacytoid dendritic cell,male,Asian,26,0.1563721657544957
+65,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,gamma-delta T cell,male,Asian,25,0.1503578516870151
+66,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,"CD4-positive, alpha-beta memory T cell",male,Asian,180,1.0825765321465086
+67,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,naive T cell,male,Asian,596,3.5845311842184397
+68,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,"CD8-positive, alpha-beta memory T cell",male,Asian,231,1.3893065495880195
+69,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,class switched memory B cell,male,Asian,7,0.04210019847236422
+70,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,IgG plasmablast,male,Asian,5,0.03007157033740302
+71,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,IgA plasmablast,male,Asian,19,0.11427196728213146
+72,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,conventional dendritic cell,male,Asian,52,0.3127443315089914
+73,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,"effector CD8-positive, alpha-beta T cell",male,Asian,26,0.1563721657544957
+74,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,CD14-positive monocyte,male,Asian,444,2.670355445961388
+75,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,granulocyte,male,European,18,0.10825765321465088
+76,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,erythrocyte,male,European,17,0.10224333914717026
+77,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,platelet,male,European,32,0.1924580501593793
+78,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,B cell,male,European,833,5.009923618211342
+79,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,monocyte,male,European,278,1.6719793107596077
+80,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,natural killer cell,male,European,3194,19.20971913153305
+81,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,neutrophil,male,European,18,0.10825765321465088
+82,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,plasmacytoid dendritic cell,male,European,59,0.3548445299813556
+83,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,gamma-delta T cell,male,European,110,0.6615745474228665
+84,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,"CD4-positive, alpha-beta memory T cell",male,European,346,2.080952667348289
+85,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,naive T cell,male,European,306,1.8403801046490649
+86,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,"CD8-positive, alpha-beta memory T cell",male,European,1191,7.163048054369399
+87,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,class switched memory B cell,male,European,10,0.06014314067480604
+88,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,IgG plasmablast,male,European,9,0.05412882660732544
+89,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,IgA plasmablast,male,European,34,0.20448667829434053
+90,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,conventional dendritic cell,male,European,65,0.3909304143862392
+91,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,"effector CD8-positive, alpha-beta T cell",male,European,66,0.39694472845371986
+92,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,CD14-positive monocyte,male,European,491,2.9530282071329768

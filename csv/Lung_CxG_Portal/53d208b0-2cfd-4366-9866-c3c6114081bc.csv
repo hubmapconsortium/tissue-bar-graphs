@@ -1,74 +1,74 @@
-,cell_type,sex,race,count,percentage
-0,fibroblast,female,European,173,0.4848382938176111
-1,mesothelial cell,female,European,10,0.028025334902752087
-2,club cell,female,European,55,0.15413934196513648
-3,myofibroblast cell,female,European,2,0.0056050669805504175
-4,macrophage,female,European,8571,24.020514545148814
-5,B cell,female,European,65,0.18216467686788856
-6,vascular associated smooth muscle cell,female,European,43,0.12050894008183398
-7,dendritic cell,female,European,278,0.7791043102965081
-8,"CD4-positive, alpha-beta T cell",female,European,160,0.4484053584440334
-9,"CD8-positive, alpha-beta T cell",female,European,159,0.44560282495375825
-10,basal cell,female,European,52,0.14573174149431087
-11,pericyte cell,female,European,21,0.05885320329577939
-12,basophil,female,European,494,1.384451544195953
-13,neutrophil,female,European,2,0.0056050669805504175
-14,plasmacytoid dendritic cell,female,European,18,0.050445602824953764
-15,plasma cell,female,European,35,0.09808867215963231
-16,mature NK T cell,female,European,12,0.033630401883302505
-17,classical monocyte,female,European,381,1.0677652597948546
-18,non-classical monocyte,female,European,157,0.4399977579732078
-19,type I pneumocyte,female,European,147,0.4119724230704557
-20,type II pneumocyte,female,European,1190,3.335014853427498
-21,endothelial cell of lymphatic vessel,female,European,29,0.08127347121798105
-22,capillary endothelial cell,female,European,224,0.6277675018216468
-23,respiratory goblet cell,female,European,275,0.7706967098256824
-24,adventitial cell,female,European,77,0.21579507875119108
-25,vein endothelial cell,female,European,136,0.3811445546774284
-26,bronchial smooth muscle cell,female,European,33,0.09248360517908188
-27,lung ciliated cell,female,European,287,0.804327111708985
-28,serous cell of epithelium of bronchus,female,European,6,0.016815200941651252
-29,endothelial cell of artery,female,European,84,0.23541281318311755
-30,lung microvascular endothelial cell,female,European,22,0.06165573678605459
-31,fibroblast,female,African American or Afro-Caribbean,163,0.456812958914859
-32,mesothelial cell,female,African American or Afro-Caribbean,7,0.01961773443192646
-33,club cell,female,African American or Afro-Caribbean,983,2.75489042094053
-34,myofibroblast cell,female,African American or Afro-Caribbean,8,0.02242026792220167
-35,macrophage,female,African American or Afro-Caribbean,3582,10.038674962165798
-36,B cell,female,African American or Afro-Caribbean,22,0.06165573678605459
-37,vascular associated smooth muscle cell,female,African American or Afro-Caribbean,37,0.10369373914018273
-38,dendritic cell,female,African American or Afro-Caribbean,38,0.10649627263045794
-39,"CD4-positive, alpha-beta T cell",female,African American or Afro-Caribbean,383,1.0733703267754051
-40,"CD8-positive, alpha-beta T cell",female,African American or Afro-Caribbean,393,1.101395661678157
-41,basal cell,female,African American or Afro-Caribbean,2136,5.986211535227846
-42,pericyte cell,female,African American or Afro-Caribbean,192,0.5380864301328401
-43,basophil,female,African American or Afro-Caribbean,192,0.5380864301328401
-44,neutrophil,female,African American or Afro-Caribbean,36,0.10089120564990753
-45,plasma cell,female,African American or Afro-Caribbean,99,0.2774508155372457
-46,mature NK T cell,female,African American or Afro-Caribbean,94,0.26343814808586963
-47,classical monocyte,female,African American or Afro-Caribbean,1106,3.099602040244381
-48,non-classical monocyte,female,African American or Afro-Caribbean,848,2.376548399753377
-49,type I pneumocyte,female,African American or Afro-Caribbean,64,0.17936214337761336
-50,type II pneumocyte,female,African American or Afro-Caribbean,4092,11.467967042206155
-51,endothelial cell of lymphatic vessel,female,African American or Afro-Caribbean,18,0.050445602824953764
-52,capillary endothelial cell,female,African American or Afro-Caribbean,1310,3.6713188722605232
-53,respiratory goblet cell,female,African American or Afro-Caribbean,479,1.342413541841825
-54,intermediate monocyte,female,African American or Afro-Caribbean,252,0.7062384395493526
-55,adventitial cell,female,African American or Afro-Caribbean,271,0.7594865758645816
-56,vein endothelial cell,female,African American or Afro-Caribbean,372,1.0425424583823777
-57,bronchial smooth muscle cell,female,African American or Afro-Caribbean,48,0.13452160753321002
-58,pulmonary ionocyte,female,African American or Afro-Caribbean,19,0.05324813631522897
-59,lung ciliated cell,female,African American or Afro-Caribbean,315,0.8827980494366907
-60,serous cell of epithelium of bronchus,female,African American or Afro-Caribbean,9,0.025222801412476882
-61,endothelial cell of artery,female,African American or Afro-Caribbean,103,0.2886609494983465
-62,lung microvascular endothelial cell,female,African American or Afro-Caribbean,463,1.2975730059974215
-63,blood vessel endothelial cell,male,European,47,0.13171907404293481
-64,smooth muscle cell,male,European,25,0.07006333725688021
-65,macrophage,male,European,7,0.01961773443192646
-66,neutrophil,male,European,136,0.3811445546774284
-67,mature NK T cell,male,European,26,0.07286587074715543
-68,"effector CD4-positive, alpha-beta T cell",male,European,132,0.36993442071632754
-69,"effector CD8-positive, alpha-beta T cell",male,European,80,0.2242026792220167
-70,type II pneumocyte,male,European,3864,10.828989406423407
-71,respiratory goblet cell,male,European,8,0.02242026792220167
-72,adventitial cell,male,European,25,0.07006333725688021
+,dataset_name,cell_type,sex,race,count,percentage
+0,Tabula Sapiens - All Cells,fibroblast,female,European,173,0.4848382938176111
+1,Tabula Sapiens - All Cells,mesothelial cell,female,European,10,0.028025334902752087
+2,Tabula Sapiens - All Cells,club cell,female,European,55,0.15413934196513648
+3,Tabula Sapiens - All Cells,myofibroblast cell,female,European,2,0.0056050669805504175
+4,Tabula Sapiens - All Cells,macrophage,female,European,8571,24.020514545148814
+5,Tabula Sapiens - All Cells,B cell,female,European,65,0.18216467686788856
+6,Tabula Sapiens - All Cells,vascular associated smooth muscle cell,female,European,43,0.12050894008183398
+7,Tabula Sapiens - All Cells,dendritic cell,female,European,278,0.7791043102965081
+8,Tabula Sapiens - All Cells,"CD4-positive, alpha-beta T cell",female,European,160,0.4484053584440334
+9,Tabula Sapiens - All Cells,"CD8-positive, alpha-beta T cell",female,European,159,0.44560282495375825
+10,Tabula Sapiens - All Cells,basal cell,female,European,52,0.14573174149431087
+11,Tabula Sapiens - All Cells,pericyte cell,female,European,21,0.05885320329577939
+12,Tabula Sapiens - All Cells,basophil,female,European,494,1.384451544195953
+13,Tabula Sapiens - All Cells,neutrophil,female,European,2,0.0056050669805504175
+14,Tabula Sapiens - All Cells,plasmacytoid dendritic cell,female,European,18,0.050445602824953764
+15,Tabula Sapiens - All Cells,plasma cell,female,European,35,0.09808867215963231
+16,Tabula Sapiens - All Cells,mature NK T cell,female,European,12,0.033630401883302505
+17,Tabula Sapiens - All Cells,classical monocyte,female,European,381,1.0677652597948546
+18,Tabula Sapiens - All Cells,non-classical monocyte,female,European,157,0.4399977579732078
+19,Tabula Sapiens - All Cells,type I pneumocyte,female,European,147,0.4119724230704557
+20,Tabula Sapiens - All Cells,type II pneumocyte,female,European,1190,3.335014853427498
+21,Tabula Sapiens - All Cells,endothelial cell of lymphatic vessel,female,European,29,0.08127347121798105
+22,Tabula Sapiens - All Cells,capillary endothelial cell,female,European,224,0.6277675018216468
+23,Tabula Sapiens - All Cells,respiratory goblet cell,female,European,275,0.7706967098256824
+24,Tabula Sapiens - All Cells,adventitial cell,female,European,77,0.21579507875119108
+25,Tabula Sapiens - All Cells,vein endothelial cell,female,European,136,0.3811445546774284
+26,Tabula Sapiens - All Cells,bronchial smooth muscle cell,female,European,33,0.09248360517908188
+27,Tabula Sapiens - All Cells,lung ciliated cell,female,European,287,0.804327111708985
+28,Tabula Sapiens - All Cells,serous cell of epithelium of bronchus,female,European,6,0.016815200941651252
+29,Tabula Sapiens - All Cells,endothelial cell of artery,female,European,84,0.23541281318311755
+30,Tabula Sapiens - All Cells,lung microvascular endothelial cell,female,European,22,0.06165573678605459
+31,Tabula Sapiens - All Cells,fibroblast,female,African American or Afro-Caribbean,163,0.456812958914859
+32,Tabula Sapiens - All Cells,mesothelial cell,female,African American or Afro-Caribbean,7,0.01961773443192646
+33,Tabula Sapiens - All Cells,club cell,female,African American or Afro-Caribbean,983,2.75489042094053
+34,Tabula Sapiens - All Cells,myofibroblast cell,female,African American or Afro-Caribbean,8,0.02242026792220167
+35,Tabula Sapiens - All Cells,macrophage,female,African American or Afro-Caribbean,3582,10.038674962165798
+36,Tabula Sapiens - All Cells,B cell,female,African American or Afro-Caribbean,22,0.06165573678605459
+37,Tabula Sapiens - All Cells,vascular associated smooth muscle cell,female,African American or Afro-Caribbean,37,0.10369373914018273
+38,Tabula Sapiens - All Cells,dendritic cell,female,African American or Afro-Caribbean,38,0.10649627263045794
+39,Tabula Sapiens - All Cells,"CD4-positive, alpha-beta T cell",female,African American or Afro-Caribbean,383,1.0733703267754051
+40,Tabula Sapiens - All Cells,"CD8-positive, alpha-beta T cell",female,African American or Afro-Caribbean,393,1.101395661678157
+41,Tabula Sapiens - All Cells,basal cell,female,African American or Afro-Caribbean,2136,5.986211535227846
+42,Tabula Sapiens - All Cells,pericyte cell,female,African American or Afro-Caribbean,192,0.5380864301328401
+43,Tabula Sapiens - All Cells,basophil,female,African American or Afro-Caribbean,192,0.5380864301328401
+44,Tabula Sapiens - All Cells,neutrophil,female,African American or Afro-Caribbean,36,0.10089120564990753
+45,Tabula Sapiens - All Cells,plasma cell,female,African American or Afro-Caribbean,99,0.2774508155372457
+46,Tabula Sapiens - All Cells,mature NK T cell,female,African American or Afro-Caribbean,94,0.26343814808586963
+47,Tabula Sapiens - All Cells,classical monocyte,female,African American or Afro-Caribbean,1106,3.099602040244381
+48,Tabula Sapiens - All Cells,non-classical monocyte,female,African American or Afro-Caribbean,848,2.376548399753377
+49,Tabula Sapiens - All Cells,type I pneumocyte,female,African American or Afro-Caribbean,64,0.17936214337761336
+50,Tabula Sapiens - All Cells,type II pneumocyte,female,African American or Afro-Caribbean,4092,11.467967042206155
+51,Tabula Sapiens - All Cells,endothelial cell of lymphatic vessel,female,African American or Afro-Caribbean,18,0.050445602824953764
+52,Tabula Sapiens - All Cells,capillary endothelial cell,female,African American or Afro-Caribbean,1310,3.6713188722605232
+53,Tabula Sapiens - All Cells,respiratory goblet cell,female,African American or Afro-Caribbean,479,1.342413541841825
+54,Tabula Sapiens - All Cells,intermediate monocyte,female,African American or Afro-Caribbean,252,0.7062384395493526
+55,Tabula Sapiens - All Cells,adventitial cell,female,African American or Afro-Caribbean,271,0.7594865758645816
+56,Tabula Sapiens - All Cells,vein endothelial cell,female,African American or Afro-Caribbean,372,1.0425424583823777
+57,Tabula Sapiens - All Cells,bronchial smooth muscle cell,female,African American or Afro-Caribbean,48,0.13452160753321002
+58,Tabula Sapiens - All Cells,pulmonary ionocyte,female,African American or Afro-Caribbean,19,0.05324813631522897
+59,Tabula Sapiens - All Cells,lung ciliated cell,female,African American or Afro-Caribbean,315,0.8827980494366907
+60,Tabula Sapiens - All Cells,serous cell of epithelium of bronchus,female,African American or Afro-Caribbean,9,0.025222801412476882
+61,Tabula Sapiens - All Cells,endothelial cell of artery,female,African American or Afro-Caribbean,103,0.2886609494983465
+62,Tabula Sapiens - All Cells,lung microvascular endothelial cell,female,African American or Afro-Caribbean,463,1.2975730059974215
+63,Tabula Sapiens - All Cells,blood vessel endothelial cell,male,European,47,0.13171907404293481
+64,Tabula Sapiens - All Cells,smooth muscle cell,male,European,25,0.07006333725688021
+65,Tabula Sapiens - All Cells,macrophage,male,European,7,0.01961773443192646
+66,Tabula Sapiens - All Cells,neutrophil,male,European,136,0.3811445546774284
+67,Tabula Sapiens - All Cells,mature NK T cell,male,European,26,0.07286587074715543
+68,Tabula Sapiens - All Cells,"effector CD4-positive, alpha-beta T cell",male,European,132,0.36993442071632754
+69,Tabula Sapiens - All Cells,"effector CD8-positive, alpha-beta T cell",male,European,80,0.2242026792220167
+70,Tabula Sapiens - All Cells,type II pneumocyte,male,European,3864,10.828989406423407
+71,Tabula Sapiens - All Cells,respiratory goblet cell,male,European,8,0.02242026792220167
+72,Tabula Sapiens - All Cells,adventitial cell,male,European,25,0.07006333725688021

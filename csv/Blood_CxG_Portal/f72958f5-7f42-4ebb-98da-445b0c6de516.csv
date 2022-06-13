@@ -1,29 +1,29 @@
-,cell_type,sex,race,count,percentage
-0,club cell,female,unknown,5,0.10708931248661384
-1,B cell,female,unknown,340,7.28207324908974
-2,dendritic cell,female,unknown,2,0.04283572499464553
-3,megakaryocyte,female,unknown,12,0.2570143499678732
-4,natural killer cell,female,unknown,331,7.089312486613836
-5,basophil,female,unknown,1,0.021417862497322766
-6,myeloid dendritic cell,female,unknown,14,0.29985007496251875
-7,plasmacytoid dendritic cell,female,unknown,14,0.29985007496251875
-8,plasma cell,female,unknown,4,0.08567144998929106
-9,"CD4-positive, alpha-beta thymocyte",female,unknown,317,6.789462411651318
-10,"CD8-positive, alpha-beta thymocyte",female,unknown,351,7.517669736560291
-11,classical monocyte,female,unknown,636,13.62176054829728
-12,non-classical monocyte,female,unknown,73,1.563503962304562
-13,"CD4-positive, alpha-beta memory T cell",female,unknown,248,5.3116298993360465
-14,"CD8-positive, alpha-beta memory T cell",female,unknown,101,2.1632041122295993
-15,B cell,male,unknown,135,2.8914114371385735
-16,megakaryocyte,male,unknown,17,0.36410366245448705
-17,natural killer cell,male,unknown,192,4.112229599485971
-18,basal cell,male,unknown,24,0.5140286999357464
-19,myeloid dendritic cell,male,unknown,17,0.36410366245448705
-20,plasmacytoid dendritic cell,male,unknown,7,0.14992503748125938
-21,plasma cell,male,unknown,2,0.04283572499464553
-22,"CD4-positive, alpha-beta thymocyte",male,unknown,327,7.003641036624544
-23,"CD8-positive, alpha-beta thymocyte",male,unknown,280,5.997001499250374
-24,classical monocyte,male,unknown,428,9.166845148854144
-25,non-classical monocyte,male,unknown,127,2.720068537159991
-26,"CD4-positive, alpha-beta memory T cell",male,unknown,346,7.410580424073678
-27,"CD8-positive, alpha-beta memory T cell",male,unknown,318,6.81088027414864
+,dataset_name,cell_type,sex,race,count,percentage
+0,Azimuth meta-analysis of 10 datasets of healthy and diseased human lung,club cell,female,unknown,5,0.10708931248661384
+1,Azimuth meta-analysis of 10 datasets of healthy and diseased human lung,B cell,female,unknown,340,7.28207324908974
+2,Azimuth meta-analysis of 10 datasets of healthy and diseased human lung,dendritic cell,female,unknown,2,0.04283572499464553
+3,Azimuth meta-analysis of 10 datasets of healthy and diseased human lung,megakaryocyte,female,unknown,12,0.2570143499678732
+4,Azimuth meta-analysis of 10 datasets of healthy and diseased human lung,natural killer cell,female,unknown,331,7.089312486613836
+5,Azimuth meta-analysis of 10 datasets of healthy and diseased human lung,basophil,female,unknown,1,0.021417862497322766
+6,Azimuth meta-analysis of 10 datasets of healthy and diseased human lung,myeloid dendritic cell,female,unknown,14,0.29985007496251875
+7,Azimuth meta-analysis of 10 datasets of healthy and diseased human lung,plasmacytoid dendritic cell,female,unknown,14,0.29985007496251875
+8,Azimuth meta-analysis of 10 datasets of healthy and diseased human lung,plasma cell,female,unknown,4,0.08567144998929106
+9,Azimuth meta-analysis of 10 datasets of healthy and diseased human lung,"CD4-positive, alpha-beta thymocyte",female,unknown,317,6.789462411651318
+10,Azimuth meta-analysis of 10 datasets of healthy and diseased human lung,"CD8-positive, alpha-beta thymocyte",female,unknown,351,7.517669736560291
+11,Azimuth meta-analysis of 10 datasets of healthy and diseased human lung,classical monocyte,female,unknown,636,13.62176054829728
+12,Azimuth meta-analysis of 10 datasets of healthy and diseased human lung,non-classical monocyte,female,unknown,73,1.563503962304562
+13,Azimuth meta-analysis of 10 datasets of healthy and diseased human lung,"CD4-positive, alpha-beta memory T cell",female,unknown,248,5.3116298993360465
+14,Azimuth meta-analysis of 10 datasets of healthy and diseased human lung,"CD8-positive, alpha-beta memory T cell",female,unknown,101,2.1632041122295993
+15,Azimuth meta-analysis of 10 datasets of healthy and diseased human lung,B cell,male,unknown,135,2.8914114371385735
+16,Azimuth meta-analysis of 10 datasets of healthy and diseased human lung,megakaryocyte,male,unknown,17,0.36410366245448705
+17,Azimuth meta-analysis of 10 datasets of healthy and diseased human lung,natural killer cell,male,unknown,192,4.112229599485971
+18,Azimuth meta-analysis of 10 datasets of healthy and diseased human lung,basal cell,male,unknown,24,0.5140286999357464
+19,Azimuth meta-analysis of 10 datasets of healthy and diseased human lung,myeloid dendritic cell,male,unknown,17,0.36410366245448705
+20,Azimuth meta-analysis of 10 datasets of healthy and diseased human lung,plasmacytoid dendritic cell,male,unknown,7,0.14992503748125938
+21,Azimuth meta-analysis of 10 datasets of healthy and diseased human lung,plasma cell,male,unknown,2,0.04283572499464553
+22,Azimuth meta-analysis of 10 datasets of healthy and diseased human lung,"CD4-positive, alpha-beta thymocyte",male,unknown,327,7.003641036624544
+23,Azimuth meta-analysis of 10 datasets of healthy and diseased human lung,"CD8-positive, alpha-beta thymocyte",male,unknown,280,5.997001499250374
+24,Azimuth meta-analysis of 10 datasets of healthy and diseased human lung,classical monocyte,male,unknown,428,9.166845148854144
+25,Azimuth meta-analysis of 10 datasets of healthy and diseased human lung,non-classical monocyte,male,unknown,127,2.720068537159991
+26,Azimuth meta-analysis of 10 datasets of healthy and diseased human lung,"CD4-positive, alpha-beta memory T cell",male,unknown,346,7.410580424073678
+27,Azimuth meta-analysis of 10 datasets of healthy and diseased human lung,"CD8-positive, alpha-beta memory T cell",male,unknown,318,6.81088027414864

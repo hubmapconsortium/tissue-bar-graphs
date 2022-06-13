@@ -1,170 +1,170 @@
-,cell_type,sex,race,count,percentage
-0,lymphocyte,female,European,15,0.035727896341463415
-1,natural killer cell,female,European,246,0.5859375
-2,gamma-delta T cell,female,European,149,0.3548971036585366
-3,regulatory T cell,female,European,40,0.09527439024390244
-4,"naive thymus-derived CD4-positive, alpha-beta T cell",female,European,320,0.7621951219512195
-5,"naive thymus-derived CD8-positive, alpha-beta T cell",female,European,92,0.21913109756097562
-6,"central memory CD4-positive, alpha-beta T cell",female,European,226,0.5383003048780487
-7,"effector memory CD8-positive, alpha-beta T cell",female,European,477,1.1361471036585367
-8,"CD16-negative, CD56-bright natural killer cell, human",female,European,21,0.05001905487804878
-9,mucosal invariant T cell,female,European,36,0.0857469512195122
-10,"activated CD4-positive, alpha-beta T cell, human",female,European,5,0.011909298780487805
-11,double negative thymocyte,female,European,10,0.02381859756097561
-12,lymphocyte,female,European,4,0.009527439024390244
-13,natural killer cell,female,European,426,1.014672256097561
-14,gamma-delta T cell,female,European,7,0.016673018292682928
-15,regulatory T cell,female,European,14,0.033346036585365856
-16,"naive thymus-derived CD4-positive, alpha-beta T cell",female,European,63,0.15005716463414634
-17,"naive thymus-derived CD8-positive, alpha-beta T cell",female,European,12,0.02858231707317073
-18,"central memory CD4-positive, alpha-beta T cell",female,European,65,0.15482088414634146
-19,"effector memory CD8-positive, alpha-beta T cell",female,European,251,0.5978467987804879
-20,"CD16-negative, CD56-bright natural killer cell, human",female,European,18,0.0428734756097561
-21,mucosal invariant T cell,female,European,1,0.002381859756097561
-22,double negative thymocyte,female,European,2,0.004763719512195122
-23,lymphocyte,female,unknown,20,0.04763719512195122
-24,natural killer cell,female,unknown,919,2.1889291158536586
-25,gamma-delta T cell,female,unknown,224,0.5335365853658537
-26,regulatory T cell,female,unknown,17,0.040491615853658534
-27,"naive thymus-derived CD4-positive, alpha-beta T cell",female,unknown,227,0.5406821646341463
-28,"naive thymus-derived CD8-positive, alpha-beta T cell",female,unknown,10,0.02381859756097561
-29,"central memory CD4-positive, alpha-beta T cell",female,unknown,592,1.4100609756097562
-30,"effector memory CD8-positive, alpha-beta T cell",female,unknown,223,0.5311547256097562
-31,"CD4-positive, alpha-beta cytotoxic T cell",female,unknown,92,0.21913109756097562
-32,"CD16-negative, CD56-bright natural killer cell, human",female,unknown,38,0.09051067073170732
-33,mucosal invariant T cell,female,unknown,13,0.030964176829268292
-34,lymphocyte,female,unknown,10,0.02381859756097561
-35,natural killer cell,female,unknown,593,1.4124428353658536
-36,gamma-delta T cell,female,unknown,281,0.6693025914634146
-37,regulatory T cell,female,unknown,12,0.02858231707317073
-38,"naive thymus-derived CD4-positive, alpha-beta T cell",female,unknown,84,0.20007621951219512
-39,"naive thymus-derived CD8-positive, alpha-beta T cell",female,unknown,10,0.02381859756097561
-40,"central memory CD4-positive, alpha-beta T cell",female,unknown,264,0.6288109756097562
-41,"effector memory CD8-positive, alpha-beta T cell",female,unknown,1214,2.891577743902439
-42,"CD4-positive, alpha-beta cytotoxic T cell",female,unknown,211,0.5025724085365854
-43,"CD16-negative, CD56-bright natural killer cell, human",female,unknown,56,0.13338414634146342
-44,mucosal invariant T cell,female,unknown,6,0.014291158536585365
-45,lymphocyte,female,unknown,37,0.08812881097560976
-46,natural killer cell,female,unknown,515,1.2266577743902438
-47,gamma-delta T cell,female,unknown,219,0.5216272865853658
-48,regulatory T cell,female,unknown,28,0.06669207317073171
-49,"naive thymus-derived CD4-positive, alpha-beta T cell",female,unknown,276,0.6573932926829268
-50,"naive thymus-derived CD8-positive, alpha-beta T cell",female,unknown,26,0.061928353658536585
-51,"central memory CD4-positive, alpha-beta T cell",female,unknown,283,0.6740663109756098
-52,"effector memory CD8-positive, alpha-beta T cell",female,unknown,269,0.6407202743902438
-53,"CD4-positive, alpha-beta cytotoxic T cell",female,unknown,72,0.1714939024390244
-54,"CD16-negative, CD56-bright natural killer cell, human",female,unknown,92,0.21913109756097562
-55,mucosal invariant T cell,female,unknown,74,0.17625762195121952
-56,lymphocyte,female,European,12,0.02858231707317073
-57,natural killer cell,female,European,341,0.8122141768292682
-58,regulatory T cell,female,European,68,0.16196646341463414
-59,"naive thymus-derived CD4-positive, alpha-beta T cell",female,European,652,1.5529725609756098
-60,"naive thymus-derived CD8-positive, alpha-beta T cell",female,European,30,0.07145579268292683
-61,"central memory CD4-positive, alpha-beta T cell",female,European,300,0.7145579268292683
-62,"effector memory CD8-positive, alpha-beta T cell",female,European,642,1.529153963414634
-63,"CD4-positive, alpha-beta cytotoxic T cell",female,European,54,0.1286204268292683
-64,"CD16-negative, CD56-bright natural killer cell, human",female,European,19,0.04525533536585366
-65,mucosal invariant T cell,female,European,49,0.11671112804878048
-66,"activated CD4-positive, alpha-beta T cell, human",female,European,2,0.004763719512195122
-67,lymphocyte,female,European,12,0.02858231707317073
-68,natural killer cell,female,European,1416,3.3727134146341466
-69,regulatory T cell,female,European,76,0.18102134146341464
-70,"naive thymus-derived CD4-positive, alpha-beta T cell",female,European,392,0.9336890243902438
-71,"naive thymus-derived CD8-positive, alpha-beta T cell",female,European,25,0.059546493902439025
-72,"central memory CD4-positive, alpha-beta T cell",female,European,813,1.936451981707317
-73,"effector memory CD8-positive, alpha-beta T cell",female,European,110,0.2620045731707317
-74,"CD4-positive, alpha-beta cytotoxic T cell",female,European,39,0.09289253048780488
-75,"CD16-negative, CD56-bright natural killer cell, human",female,European,29,0.06907393292682927
-76,mucosal invariant T cell,female,European,39,0.09289253048780488
-77,"activated CD4-positive, alpha-beta T cell, human",female,European,4,0.009527439024390244
-78,lymphocyte,female,European,21,0.05001905487804878
-79,natural killer cell,female,European,251,0.5978467987804879
-80,regulatory T cell,female,European,146,0.3477515243902439
-81,"naive thymus-derived CD4-positive, alpha-beta T cell",female,European,617,1.4696074695121952
-82,"naive thymus-derived CD8-positive, alpha-beta T cell",female,European,4,0.009527439024390244
-83,"central memory CD4-positive, alpha-beta T cell",female,European,808,1.9245426829268293
-84,"effector memory CD8-positive, alpha-beta T cell",female,European,712,1.6958841463414636
-85,"CD4-positive, alpha-beta cytotoxic T cell",female,European,152,0.3620426829268293
-86,"CD16-negative, CD56-bright natural killer cell, human",female,European,8,0.019054878048780487
-87,"activated CD4-positive, alpha-beta T cell, human",female,European,1,0.002381859756097561
-88,"activated CD8-positive, alpha-beta T cell, human",female,European,1,0.002381859756097561
-89,lymphocyte,male,European,16,0.038109756097560975
-90,natural killer cell,male,European,168,0.40015243902439024
-91,gamma-delta T cell,male,European,16,0.038109756097560975
-92,regulatory T cell,male,European,53,0.12623856707317074
-93,"naive thymus-derived CD4-positive, alpha-beta T cell",male,European,96,0.22865853658536583
-94,"naive thymus-derived CD8-positive, alpha-beta T cell",male,European,49,0.11671112804878048
-95,"central memory CD4-positive, alpha-beta T cell",male,European,231,0.5502096036585366
-96,"effector memory CD8-positive, alpha-beta T cell",male,European,621,1.4791349085365855
-97,"CD16-negative, CD56-bright natural killer cell, human",male,European,4,0.009527439024390244
-98,mucosal invariant T cell,male,European,89,0.21198551829268295
-99,"activated CD4-positive, alpha-beta T cell, human",male,European,7,0.016673018292682928
-100,double negative thymocyte,male,European,3,0.007145579268292682
-101,lymphocyte,male,European,8,0.019054878048780487
-102,natural killer cell,male,European,245,0.5835556402439024
-103,regulatory T cell,male,European,51,0.12147484756097561
-104,"naive thymus-derived CD4-positive, alpha-beta T cell",male,European,422,1.0051448170731707
-105,"naive thymus-derived CD8-positive, alpha-beta T cell",male,European,27,0.06431021341463415
-106,"central memory CD4-positive, alpha-beta T cell",male,European,393,0.9360708841463415
-107,"effector memory CD8-positive, alpha-beta T cell",male,European,758,1.8054496951219512
-108,"CD4-positive, alpha-beta cytotoxic T cell",male,European,302,0.7193216463414634
-109,"CD16-negative, CD56-bright natural killer cell, human",male,European,19,0.04525533536585366
-110,mucosal invariant T cell,male,European,32,0.07621951219512195
-111,"activated CD4-positive, alpha-beta T cell, human",male,European,2,0.004763719512195122
-112,lymphocyte,male,Asian,33,0.07860137195121952
-113,natural killer cell,male,Asian,601,1.431497713414634
-114,gamma-delta T cell,male,Asian,2,0.004763719512195122
-115,regulatory T cell,male,Asian,31,0.07383765243902439
-116,"naive thymus-derived CD4-positive, alpha-beta T cell",male,Asian,310,0.7383765243902438
-117,"naive thymus-derived CD8-positive, alpha-beta T cell",male,Asian,253,0.602610518292683
-118,"central memory CD4-positive, alpha-beta T cell",male,Asian,147,0.3501333841463415
-119,"effector memory CD8-positive, alpha-beta T cell",male,Asian,173,0.4120617378048781
-120,"CD16-negative, CD56-bright natural killer cell, human",male,Asian,59,0.1405297256097561
-121,mucosal invariant T cell,male,Asian,20,0.04763719512195122
-122,"activated CD4-positive, alpha-beta T cell, human",male,Asian,4,0.009527439024390244
-123,double negative thymocyte,male,Asian,15,0.035727896341463415
-124,lymphocyte,male,European,78,0.18578506097560976
-125,natural killer cell,male,European,3117,7.424256859756098
-126,gamma-delta T cell,male,European,25,0.059546493902439025
-127,regulatory T cell,male,European,59,0.1405297256097561
-128,"naive thymus-derived CD4-positive, alpha-beta T cell",male,European,216,0.5144817073170732
-129,"naive thymus-derived CD8-positive, alpha-beta T cell",male,European,49,0.11671112804878048
-130,"central memory CD4-positive, alpha-beta T cell",male,European,286,0.6812118902439024
-131,"effector memory CD8-positive, alpha-beta T cell",male,European,1129,2.689119664634146
-132,"CD16-negative, CD56-bright natural killer cell, human",male,European,136,0.3239329268292683
-133,mucosal invariant T cell,male,European,68,0.16196646341463414
-134,"activated CD4-positive, alpha-beta T cell, human",male,European,1,0.002381859756097561
-135,double negative thymocyte,male,European,18,0.0428734756097561
-136,lymphocyte,male,unknown,30,0.07145579268292683
-137,natural killer cell,male,unknown,1365,3.2512385670731705
-138,gamma-delta T cell,male,unknown,42,0.10003810975609756
-139,regulatory T cell,male,unknown,28,0.06669207317073171
-140,"naive thymus-derived CD4-positive, alpha-beta T cell",male,unknown,108,0.2572408536585366
-141,"naive thymus-derived CD8-positive, alpha-beta T cell",male,unknown,20,0.04763719512195122
-142,"central memory CD4-positive, alpha-beta T cell",male,unknown,239,0.569264481707317
-143,"effector memory CD8-positive, alpha-beta T cell",male,unknown,115,0.2739138719512195
-144,"CD4-positive, alpha-beta cytotoxic T cell",male,unknown,5,0.011909298780487805
-145,"CD16-negative, CD56-bright natural killer cell, human",male,unknown,14,0.033346036585365856
-146,mucosal invariant T cell,male,unknown,2,0.004763719512195122
-147,lymphocyte,male,European,26,0.061928353658536585
-148,natural killer cell,male,European,2312,5.506859756097561
-149,regulatory T cell,male,European,63,0.15005716463414634
-150,"naive thymus-derived CD4-positive, alpha-beta T cell",male,European,559,1.3314596036585367
-151,"naive thymus-derived CD8-positive, alpha-beta T cell",male,European,46,0.10956554878048781
-152,"central memory CD4-positive, alpha-beta T cell",male,European,498,1.1861661585365855
-153,"effector memory CD8-positive, alpha-beta T cell",male,European,88,0.20960365853658539
-154,"CD4-positive, alpha-beta cytotoxic T cell",male,European,49,0.11671112804878048
-155,"CD16-negative, CD56-bright natural killer cell, human",male,European,53,0.12623856707317074
-156,mucosal invariant T cell,male,European,63,0.15005716463414634
-157,"activated CD4-positive, alpha-beta T cell, human",male,European,3,0.007145579268292682
-158,lymphocyte,unknown,unknown,53,0.12623856707317074
-159,natural killer cell,unknown,unknown,927,2.207983993902439
-160,gamma-delta T cell,unknown,unknown,454,1.0813643292682926
-161,regulatory T cell,unknown,unknown,243,0.5787919207317073
-162,"naive thymus-derived CD4-positive, alpha-beta T cell",unknown,unknown,2232,5.316310975609756
-163,"naive thymus-derived CD8-positive, alpha-beta T cell",unknown,unknown,551,1.3124047256097562
-164,"central memory CD4-positive, alpha-beta T cell",unknown,unknown,2612,6.2214176829268295
-165,"effector memory CD8-positive, alpha-beta T cell",unknown,unknown,597,1.4219702743902438
-166,"CD16-negative, CD56-bright natural killer cell, human",unknown,unknown,41,0.09765625
-167,mucosal invariant T cell,unknown,unknown,737,1.7554306402439026
-168,double negative thymocyte,unknown,unknown,15,0.035727896341463415
+,dataset_name,cell_type,sex,race,count,percentage
+0,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,lymphocyte,female,European,15,0.035727896341463415
+1,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,natural killer cell,female,European,246,0.5859375
+2,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,gamma-delta T cell,female,European,149,0.3548971036585366
+3,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,regulatory T cell,female,European,40,0.09527439024390244
+4,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD4-positive, alpha-beta T cell",female,European,320,0.7621951219512195
+5,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD8-positive, alpha-beta T cell",female,European,92,0.21913109756097562
+6,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"central memory CD4-positive, alpha-beta T cell",female,European,226,0.5383003048780487
+7,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"effector memory CD8-positive, alpha-beta T cell",female,European,477,1.1361471036585367
+8,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD16-negative, CD56-bright natural killer cell, human",female,European,21,0.05001905487804878
+9,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,mucosal invariant T cell,female,European,36,0.0857469512195122
+10,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"activated CD4-positive, alpha-beta T cell, human",female,European,5,0.011909298780487805
+11,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,double negative thymocyte,female,European,10,0.02381859756097561
+12,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,lymphocyte,female,European,4,0.009527439024390244
+13,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,natural killer cell,female,European,426,1.014672256097561
+14,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,gamma-delta T cell,female,European,7,0.016673018292682928
+15,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,regulatory T cell,female,European,14,0.033346036585365856
+16,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD4-positive, alpha-beta T cell",female,European,63,0.15005716463414634
+17,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD8-positive, alpha-beta T cell",female,European,12,0.02858231707317073
+18,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"central memory CD4-positive, alpha-beta T cell",female,European,65,0.15482088414634146
+19,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"effector memory CD8-positive, alpha-beta T cell",female,European,251,0.5978467987804879
+20,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD16-negative, CD56-bright natural killer cell, human",female,European,18,0.0428734756097561
+21,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,mucosal invariant T cell,female,European,1,0.002381859756097561
+22,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,double negative thymocyte,female,European,2,0.004763719512195122
+23,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,lymphocyte,female,unknown,20,0.04763719512195122
+24,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,natural killer cell,female,unknown,919,2.1889291158536586
+25,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,gamma-delta T cell,female,unknown,224,0.5335365853658537
+26,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,regulatory T cell,female,unknown,17,0.040491615853658534
+27,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD4-positive, alpha-beta T cell",female,unknown,227,0.5406821646341463
+28,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD8-positive, alpha-beta T cell",female,unknown,10,0.02381859756097561
+29,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"central memory CD4-positive, alpha-beta T cell",female,unknown,592,1.4100609756097562
+30,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"effector memory CD8-positive, alpha-beta T cell",female,unknown,223,0.5311547256097562
+31,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD4-positive, alpha-beta cytotoxic T cell",female,unknown,92,0.21913109756097562
+32,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD16-negative, CD56-bright natural killer cell, human",female,unknown,38,0.09051067073170732
+33,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,mucosal invariant T cell,female,unknown,13,0.030964176829268292
+34,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,lymphocyte,female,unknown,10,0.02381859756097561
+35,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,natural killer cell,female,unknown,593,1.4124428353658536
+36,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,gamma-delta T cell,female,unknown,281,0.6693025914634146
+37,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,regulatory T cell,female,unknown,12,0.02858231707317073
+38,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD4-positive, alpha-beta T cell",female,unknown,84,0.20007621951219512
+39,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD8-positive, alpha-beta T cell",female,unknown,10,0.02381859756097561
+40,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"central memory CD4-positive, alpha-beta T cell",female,unknown,264,0.6288109756097562
+41,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"effector memory CD8-positive, alpha-beta T cell",female,unknown,1214,2.891577743902439
+42,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD4-positive, alpha-beta cytotoxic T cell",female,unknown,211,0.5025724085365854
+43,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD16-negative, CD56-bright natural killer cell, human",female,unknown,56,0.13338414634146342
+44,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,mucosal invariant T cell,female,unknown,6,0.014291158536585365
+45,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,lymphocyte,female,unknown,37,0.08812881097560976
+46,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,natural killer cell,female,unknown,515,1.2266577743902438
+47,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,gamma-delta T cell,female,unknown,219,0.5216272865853658
+48,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,regulatory T cell,female,unknown,28,0.06669207317073171
+49,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD4-positive, alpha-beta T cell",female,unknown,276,0.6573932926829268
+50,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD8-positive, alpha-beta T cell",female,unknown,26,0.061928353658536585
+51,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"central memory CD4-positive, alpha-beta T cell",female,unknown,283,0.6740663109756098
+52,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"effector memory CD8-positive, alpha-beta T cell",female,unknown,269,0.6407202743902438
+53,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD4-positive, alpha-beta cytotoxic T cell",female,unknown,72,0.1714939024390244
+54,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD16-negative, CD56-bright natural killer cell, human",female,unknown,92,0.21913109756097562
+55,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,mucosal invariant T cell,female,unknown,74,0.17625762195121952
+56,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,lymphocyte,female,European,12,0.02858231707317073
+57,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,natural killer cell,female,European,341,0.8122141768292682
+58,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,regulatory T cell,female,European,68,0.16196646341463414
+59,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD4-positive, alpha-beta T cell",female,European,652,1.5529725609756098
+60,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD8-positive, alpha-beta T cell",female,European,30,0.07145579268292683
+61,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"central memory CD4-positive, alpha-beta T cell",female,European,300,0.7145579268292683
+62,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"effector memory CD8-positive, alpha-beta T cell",female,European,642,1.529153963414634
+63,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD4-positive, alpha-beta cytotoxic T cell",female,European,54,0.1286204268292683
+64,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD16-negative, CD56-bright natural killer cell, human",female,European,19,0.04525533536585366
+65,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,mucosal invariant T cell,female,European,49,0.11671112804878048
+66,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"activated CD4-positive, alpha-beta T cell, human",female,European,2,0.004763719512195122
+67,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,lymphocyte,female,European,12,0.02858231707317073
+68,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,natural killer cell,female,European,1416,3.3727134146341466
+69,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,regulatory T cell,female,European,76,0.18102134146341464
+70,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD4-positive, alpha-beta T cell",female,European,392,0.9336890243902438
+71,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD8-positive, alpha-beta T cell",female,European,25,0.059546493902439025
+72,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"central memory CD4-positive, alpha-beta T cell",female,European,813,1.936451981707317
+73,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"effector memory CD8-positive, alpha-beta T cell",female,European,110,0.2620045731707317
+74,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD4-positive, alpha-beta cytotoxic T cell",female,European,39,0.09289253048780488
+75,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD16-negative, CD56-bright natural killer cell, human",female,European,29,0.06907393292682927
+76,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,mucosal invariant T cell,female,European,39,0.09289253048780488
+77,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"activated CD4-positive, alpha-beta T cell, human",female,European,4,0.009527439024390244
+78,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,lymphocyte,female,European,21,0.05001905487804878
+79,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,natural killer cell,female,European,251,0.5978467987804879
+80,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,regulatory T cell,female,European,146,0.3477515243902439
+81,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD4-positive, alpha-beta T cell",female,European,617,1.4696074695121952
+82,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD8-positive, alpha-beta T cell",female,European,4,0.009527439024390244
+83,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"central memory CD4-positive, alpha-beta T cell",female,European,808,1.9245426829268293
+84,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"effector memory CD8-positive, alpha-beta T cell",female,European,712,1.6958841463414636
+85,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD4-positive, alpha-beta cytotoxic T cell",female,European,152,0.3620426829268293
+86,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD16-negative, CD56-bright natural killer cell, human",female,European,8,0.019054878048780487
+87,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"activated CD4-positive, alpha-beta T cell, human",female,European,1,0.002381859756097561
+88,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"activated CD8-positive, alpha-beta T cell, human",female,European,1,0.002381859756097561
+89,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,lymphocyte,male,European,16,0.038109756097560975
+90,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,natural killer cell,male,European,168,0.40015243902439024
+91,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,gamma-delta T cell,male,European,16,0.038109756097560975
+92,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,regulatory T cell,male,European,53,0.12623856707317074
+93,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD4-positive, alpha-beta T cell",male,European,96,0.22865853658536583
+94,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD8-positive, alpha-beta T cell",male,European,49,0.11671112804878048
+95,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"central memory CD4-positive, alpha-beta T cell",male,European,231,0.5502096036585366
+96,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"effector memory CD8-positive, alpha-beta T cell",male,European,621,1.4791349085365855
+97,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD16-negative, CD56-bright natural killer cell, human",male,European,4,0.009527439024390244
+98,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,mucosal invariant T cell,male,European,89,0.21198551829268295
+99,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"activated CD4-positive, alpha-beta T cell, human",male,European,7,0.016673018292682928
+100,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,double negative thymocyte,male,European,3,0.007145579268292682
+101,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,lymphocyte,male,European,8,0.019054878048780487
+102,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,natural killer cell,male,European,245,0.5835556402439024
+103,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,regulatory T cell,male,European,51,0.12147484756097561
+104,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD4-positive, alpha-beta T cell",male,European,422,1.0051448170731707
+105,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD8-positive, alpha-beta T cell",male,European,27,0.06431021341463415
+106,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"central memory CD4-positive, alpha-beta T cell",male,European,393,0.9360708841463415
+107,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"effector memory CD8-positive, alpha-beta T cell",male,European,758,1.8054496951219512
+108,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD4-positive, alpha-beta cytotoxic T cell",male,European,302,0.7193216463414634
+109,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD16-negative, CD56-bright natural killer cell, human",male,European,19,0.04525533536585366
+110,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,mucosal invariant T cell,male,European,32,0.07621951219512195
+111,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"activated CD4-positive, alpha-beta T cell, human",male,European,2,0.004763719512195122
+112,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,lymphocyte,male,Asian,33,0.07860137195121952
+113,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,natural killer cell,male,Asian,601,1.431497713414634
+114,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,gamma-delta T cell,male,Asian,2,0.004763719512195122
+115,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,regulatory T cell,male,Asian,31,0.07383765243902439
+116,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD4-positive, alpha-beta T cell",male,Asian,310,0.7383765243902438
+117,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD8-positive, alpha-beta T cell",male,Asian,253,0.602610518292683
+118,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"central memory CD4-positive, alpha-beta T cell",male,Asian,147,0.3501333841463415
+119,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"effector memory CD8-positive, alpha-beta T cell",male,Asian,173,0.4120617378048781
+120,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD16-negative, CD56-bright natural killer cell, human",male,Asian,59,0.1405297256097561
+121,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,mucosal invariant T cell,male,Asian,20,0.04763719512195122
+122,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"activated CD4-positive, alpha-beta T cell, human",male,Asian,4,0.009527439024390244
+123,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,double negative thymocyte,male,Asian,15,0.035727896341463415
+124,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,lymphocyte,male,European,78,0.18578506097560976
+125,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,natural killer cell,male,European,3117,7.424256859756098
+126,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,gamma-delta T cell,male,European,25,0.059546493902439025
+127,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,regulatory T cell,male,European,59,0.1405297256097561
+128,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD4-positive, alpha-beta T cell",male,European,216,0.5144817073170732
+129,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD8-positive, alpha-beta T cell",male,European,49,0.11671112804878048
+130,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"central memory CD4-positive, alpha-beta T cell",male,European,286,0.6812118902439024
+131,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"effector memory CD8-positive, alpha-beta T cell",male,European,1129,2.689119664634146
+132,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD16-negative, CD56-bright natural killer cell, human",male,European,136,0.3239329268292683
+133,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,mucosal invariant T cell,male,European,68,0.16196646341463414
+134,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"activated CD4-positive, alpha-beta T cell, human",male,European,1,0.002381859756097561
+135,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,double negative thymocyte,male,European,18,0.0428734756097561
+136,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,lymphocyte,male,unknown,30,0.07145579268292683
+137,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,natural killer cell,male,unknown,1365,3.2512385670731705
+138,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,gamma-delta T cell,male,unknown,42,0.10003810975609756
+139,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,regulatory T cell,male,unknown,28,0.06669207317073171
+140,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD4-positive, alpha-beta T cell",male,unknown,108,0.2572408536585366
+141,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD8-positive, alpha-beta T cell",male,unknown,20,0.04763719512195122
+142,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"central memory CD4-positive, alpha-beta T cell",male,unknown,239,0.569264481707317
+143,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"effector memory CD8-positive, alpha-beta T cell",male,unknown,115,0.2739138719512195
+144,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD4-positive, alpha-beta cytotoxic T cell",male,unknown,5,0.011909298780487805
+145,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD16-negative, CD56-bright natural killer cell, human",male,unknown,14,0.033346036585365856
+146,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,mucosal invariant T cell,male,unknown,2,0.004763719512195122
+147,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,lymphocyte,male,European,26,0.061928353658536585
+148,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,natural killer cell,male,European,2312,5.506859756097561
+149,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,regulatory T cell,male,European,63,0.15005716463414634
+150,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD4-positive, alpha-beta T cell",male,European,559,1.3314596036585367
+151,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD8-positive, alpha-beta T cell",male,European,46,0.10956554878048781
+152,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"central memory CD4-positive, alpha-beta T cell",male,European,498,1.1861661585365855
+153,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"effector memory CD8-positive, alpha-beta T cell",male,European,88,0.20960365853658539
+154,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD4-positive, alpha-beta cytotoxic T cell",male,European,49,0.11671112804878048
+155,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD16-negative, CD56-bright natural killer cell, human",male,European,53,0.12623856707317074
+156,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,mucosal invariant T cell,male,European,63,0.15005716463414634
+157,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"activated CD4-positive, alpha-beta T cell, human",male,European,3,0.007145579268292682
+158,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,lymphocyte,unknown,unknown,53,0.12623856707317074
+159,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,natural killer cell,unknown,unknown,927,2.207983993902439
+160,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,gamma-delta T cell,unknown,unknown,454,1.0813643292682926
+161,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,regulatory T cell,unknown,unknown,243,0.5787919207317073
+162,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD4-positive, alpha-beta T cell",unknown,unknown,2232,5.316310975609756
+163,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD8-positive, alpha-beta T cell",unknown,unknown,551,1.3124047256097562
+164,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"central memory CD4-positive, alpha-beta T cell",unknown,unknown,2612,6.2214176829268295
+165,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"effector memory CD8-positive, alpha-beta T cell",unknown,unknown,597,1.4219702743902438
+166,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD16-negative, CD56-bright natural killer cell, human",unknown,unknown,41,0.09765625
+167,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,mucosal invariant T cell,unknown,unknown,737,1.7554306402439026
+168,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,double negative thymocyte,unknown,unknown,15,0.035727896341463415
