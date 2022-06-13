@@ -35,6 +35,15 @@
       (change)="emitSpec()">
     <label for="percentage">Percentage</label>
   </div>
+  <div>
+    <label>X-Axis: </label>
+    <input type="radio" name="xAxisAtrr" id="dataset_name" name="xAxisField" value="dataset_name" [(ngModel)]="xAxisField"
+      (change)="emitSpec()">
+    <label for="dataset_name">Dataset Name</label>
+    <input type="radio" name="xAxisAtrr" id="dataset_id" name="xAxisField" value="dataset_id" [(ngModel)]="xAxisField"
+      (change)="emitSpec()">
+    <label for="dataset_id">Dataset ID</label>
+  </div>
 </div>
 <ng-template #elseBlock>
   <div><small style="color: gray">Working...</small></div>

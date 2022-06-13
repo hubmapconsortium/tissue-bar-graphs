@@ -26,6 +26,7 @@ export class ConfigSelectorsComponent implements OnChanges {
   @Input() orderType: OrderType
   @Input() groupBy: GraphAttribute
   @Input() yAxisField: GraphAttribute
+  @Input() xAxisField: GraphAttribute
   @Input() previewMode: PreviewMode
   @Output() vegaSpecEvent: EventEmitter<VisualizationSpec>
 
@@ -102,7 +103,7 @@ export class ConfigSelectorsComponent implements OnChanges {
       // Create master list of all datasets
       for (const [index, csvData] of datasets.entries()) {
         csvData.forEach(row => {
-          row['dataset'] = this.config.datasets[index]
+          row['dataset_id'] = this.config.datasets[index]
           row['index'] = index
           uniqueCTs.add(row['cell_type'])
           this.graphData.push(row)
@@ -116,6 +117,9 @@ export class ConfigSelectorsComponent implements OnChanges {
     this.cellTypes = Array.from(uniqueCTs).sort()
     if (this.config.defaultYAxisField) {
       this.yAxisField = this.config.defaultYAxisField
+    }
+    if (this.config.defaultXAxisField) {
+      this.xAxisField = this.config.defaultXAxisField
     }
     if (this.config.defaultGroupBy) {
       this.groupBy = this.config.defaultGroupBy
@@ -132,7 +136,7 @@ export class ConfigSelectorsComponent implements OnChanges {
     const options: StackedBarsSpecOptions = {
       graphTitle: 'Cell Population Comparison',
       values: this.graphData,
-      xAxisField: GraphAttribute.Dataset,
+      xAxisField: this.xAxisField,
       yAxisField: this.yAxisField,
       sortBy: this.sortBy,
       orderType: this.orderType,

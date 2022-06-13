@@ -5,7 +5,7 @@ const PREVIEW_CONFIG_JSON = 'https://raw.githubusercontent.com/hubmapconsortium/
 enum GraphAttribute {
   None = '',
   CellType = 'cell_type',
-  Dataset = 'dataset',
+  Dataset = 'dataset_id',
   Count = 'count',
   Percentage = 'percentage',
   Order = 'order',
@@ -17,7 +17,8 @@ enum GraphAttribute {
   Location = 'location',
   Laterality = 'laterality',
   YPosition = 'y_pos',
-  DonorId = 'donor_id'
+  DonorId = 'donor_id',
+  DatasetName = 'dataset_name'
 }
 
 enum OrderType {
@@ -41,12 +42,14 @@ interface Configuration {
   colorPalette: string[],
   sortAttributes: GraphAttribute[],
   defaultYAxisField?: GraphAttribute
+  defaultXAxisField?: GraphAttribute
   defaultGroupBy?: GraphAttribute
 }
 
 function getAttributeTitle(attribute: GraphAttribute): string {
   switch (attribute) {
-    case GraphAttribute.Dataset: return 'Dataset'
+    case GraphAttribute.Dataset: return 'Dataset ID'
+    case GraphAttribute.DatasetName: return 'Dataset Name'
     case GraphAttribute.CellType: return 'Cell Type'
     case GraphAttribute.Count: return 'Cell Count'
     case GraphAttribute.Percentage: return 'Cell Proportion'

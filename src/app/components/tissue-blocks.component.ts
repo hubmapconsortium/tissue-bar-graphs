@@ -16,6 +16,7 @@ export class TissueBlocksComponent {
   @Input() orderType: OrderType
   @Input() groupBy: GraphAttribute
   @Input() yAxisField: GraphAttribute
+  @Input() xAxisField: GraphAttribute
   @Input() showUi: Boolean
   @Input() previewMode: PreviewMode
 
@@ -24,6 +25,7 @@ export class TissueBlocksComponent {
     this.configSource = MAIN_CONFIG_JSON
     this.datasetSource = null
     this.yAxisField = GraphAttribute.Count
+    this.xAxisField = GraphAttribute.DatasetName
     this.orderType = OrderType.Descending
     this.groupBy = GraphAttribute.None
     this.showUi = false
