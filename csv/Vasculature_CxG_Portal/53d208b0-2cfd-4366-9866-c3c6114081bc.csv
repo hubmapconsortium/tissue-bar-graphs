@@ -1,44 +1,44 @@
-,dataset_name,cell_type,sex,race,count,percentage
-0,Tabula Sapiens - All Cells,fibroblast,female,African American or Afro-Caribbean,3027,15.24399456111195
-1,Tabula Sapiens - All Cells,epithelial cell,female,African American or Afro-Caribbean,26,0.1309361937855668
-2,Tabula Sapiens - All Cells,T cell,female,African American or Afro-Caribbean,231,1.1633177217102282
-3,Tabula Sapiens - All Cells,mast cell,female,African American or Afro-Caribbean,72,0.36259253663695423
-4,Tabula Sapiens - All Cells,endothelial cell,female,African American or Afro-Caribbean,1549,7.800775545147806
-5,Tabula Sapiens - All Cells,smooth muscle cell,female,African American or Afro-Caribbean,1265,6.370549428413154
-6,Tabula Sapiens - All Cells,erythrocyte,female,African American or Afro-Caribbean,47,0.23669235030467842
-7,Tabula Sapiens - All Cells,macrophage,female,African American or Afro-Caribbean,1907,9.603666213425996
-8,Tabula Sapiens - All Cells,B cell,female,African American or Afro-Caribbean,10,0.05036007453291031
-9,Tabula Sapiens - All Cells,pericyte cell,female,African American or Afro-Caribbean,384,1.9338268620637558
-10,Tabula Sapiens - All Cells,plasma cell,female,African American or Afro-Caribbean,35,0.17626026086518606
-11,Tabula Sapiens - All Cells,mature NK T cell,female,African American or Afro-Caribbean,95,0.4784207080626479
-12,Tabula Sapiens - All Cells,fibroblast,male,European,2840,14.302261167346527
-13,Tabula Sapiens - All Cells,T cell,male,European,245,1.2338218260563025
-14,Tabula Sapiens - All Cells,mast cell,male,European,33,0.16618824595860401
-15,Tabula Sapiens - All Cells,endothelial cell,male,European,15,0.07554011179936546
-16,Tabula Sapiens - All Cells,smooth muscle cell,male,European,1810,9.115173490456765
-17,Tabula Sapiens - All Cells,erythrocyte,male,European,17,0.08561212670594753
-18,Tabula Sapiens - All Cells,macrophage,male,European,1394,7.020194389887697
-19,Tabula Sapiens - All Cells,B cell,male,European,11,0.05539608198620134
-20,Tabula Sapiens - All Cells,pericyte cell,male,European,809,4.074130029712443
-21,Tabula Sapiens - All Cells,plasma cell,male,European,7,0.035252052173037215
-22,Tabula Sapiens - All Cells,mature NK T cell,male,European,26,0.1309361937855668
-23,Tabula Sapiens - All Cells,endothelial cell of lymphatic vessel,male,European,44,0.22158432794480537
-24,Tabula Sapiens - All Cells,capillary endothelial cell,male,European,1034,5.207231706702926
-25,Tabula Sapiens - All Cells,endothelial cell of artery,male,European,138,0.6949690285541623
-26,Tabula Sapiens - All Cells,fibroblast,female,African American or Afro-Caribbean,203,1.0223095130180793
-27,Tabula Sapiens - All Cells,T cell,female,African American or Afro-Caribbean,1,0.005036007453291031
-28,Tabula Sapiens - All Cells,smooth muscle cell,female,African American or Afro-Caribbean,33,0.16618824595860401
-29,Tabula Sapiens - All Cells,pericyte cell,female,African American or Afro-Caribbean,27,0.13597220123885784
-30,Tabula Sapiens - All Cells,fibroblast,male,European,934,4.703630961373823
-31,Tabula Sapiens - All Cells,T cell,male,European,92,0.46331268570277484
-32,Tabula Sapiens - All Cells,mast cell,male,European,29,0.14604421614543991
-33,Tabula Sapiens - All Cells,endothelial cell,male,European,5,0.025180037266455155
-34,Tabula Sapiens - All Cells,smooth muscle cell,male,European,537,2.704336002417284
-35,Tabula Sapiens - All Cells,erythrocyte,male,European,10,0.05036007453291031
-36,Tabula Sapiens - All Cells,macrophage,male,European,589,2.9662083899884175
-37,Tabula Sapiens - All Cells,B cell,male,European,5,0.025180037266455155
-38,Tabula Sapiens - All Cells,pericyte cell,male,European,283,1.4251901092813617
-39,Tabula Sapiens - All Cells,plasma cell,male,European,2,0.010072014906582062
-40,Tabula Sapiens - All Cells,mature NK T cell,male,European,13,0.0654680968927834
-41,Tabula Sapiens - All Cells,endothelial cell of lymphatic vessel,male,European,2,0.010072014906582062
-42,Tabula Sapiens - All Cells,endothelial cell of artery,male,European,21,0.10575615651911163
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
+0,Tabula Sapiens - All Cells,fibroblast,CL:0000057,female,African American or Afro-Caribbean,3027,15.24399456111195
+1,Tabula Sapiens - All Cells,epithelial cell,CL:0000066,female,African American or Afro-Caribbean,26,0.1309361937855668
+2,Tabula Sapiens - All Cells,T cell,CL:0000084,female,African American or Afro-Caribbean,231,1.1633177217102282
+3,Tabula Sapiens - All Cells,mast cell,CL:0000097,female,African American or Afro-Caribbean,72,0.36259253663695423
+4,Tabula Sapiens - All Cells,endothelial cell,CL:0000115,female,African American or Afro-Caribbean,1549,7.800775545147806
+5,Tabula Sapiens - All Cells,smooth muscle cell,CL:0000192,female,African American or Afro-Caribbean,1265,6.370549428413154
+6,Tabula Sapiens - All Cells,erythrocyte,CL:0000232,female,African American or Afro-Caribbean,47,0.23669235030467842
+7,Tabula Sapiens - All Cells,macrophage,CL:0000235,female,African American or Afro-Caribbean,1907,9.603666213425996
+8,Tabula Sapiens - All Cells,B cell,CL:0000236,female,African American or Afro-Caribbean,10,0.05036007453291031
+9,Tabula Sapiens - All Cells,pericyte cell,CL:0000669,female,African American or Afro-Caribbean,384,1.9338268620637558
+10,Tabula Sapiens - All Cells,plasma cell,CL:0000786,female,African American or Afro-Caribbean,35,0.17626026086518606
+11,Tabula Sapiens - All Cells,mature NK T cell,CL:0000814,female,African American or Afro-Caribbean,95,0.4784207080626479
+12,Tabula Sapiens - All Cells,fibroblast,CL:0000057,male,European,2840,14.302261167346527
+13,Tabula Sapiens - All Cells,T cell,CL:0000084,male,European,245,1.2338218260563025
+14,Tabula Sapiens - All Cells,mast cell,CL:0000097,male,European,33,0.16618824595860401
+15,Tabula Sapiens - All Cells,endothelial cell,CL:0000115,male,European,15,0.07554011179936546
+16,Tabula Sapiens - All Cells,smooth muscle cell,CL:0000192,male,European,1810,9.115173490456765
+17,Tabula Sapiens - All Cells,erythrocyte,CL:0000232,male,European,17,0.08561212670594753
+18,Tabula Sapiens - All Cells,macrophage,CL:0000235,male,European,1394,7.020194389887697
+19,Tabula Sapiens - All Cells,B cell,CL:0000236,male,European,11,0.05539608198620134
+20,Tabula Sapiens - All Cells,pericyte cell,CL:0000669,male,European,809,4.074130029712443
+21,Tabula Sapiens - All Cells,plasma cell,CL:0000786,male,European,7,0.035252052173037215
+22,Tabula Sapiens - All Cells,mature NK T cell,CL:0000814,male,European,26,0.1309361937855668
+23,Tabula Sapiens - All Cells,endothelial cell of lymphatic vessel,CL:0002138,male,European,44,0.22158432794480537
+24,Tabula Sapiens - All Cells,capillary endothelial cell,CL:0002144,male,European,1034,5.207231706702926
+25,Tabula Sapiens - All Cells,endothelial cell of artery,CL:1000413,male,European,138,0.6949690285541623
+26,Tabula Sapiens - All Cells,fibroblast,CL:0000057,female,African American or Afro-Caribbean,203,1.0223095130180793
+27,Tabula Sapiens - All Cells,T cell,CL:0000084,female,African American or Afro-Caribbean,1,0.005036007453291031
+28,Tabula Sapiens - All Cells,smooth muscle cell,CL:0000192,female,African American or Afro-Caribbean,33,0.16618824595860401
+29,Tabula Sapiens - All Cells,pericyte cell,CL:0000669,female,African American or Afro-Caribbean,27,0.13597220123885784
+30,Tabula Sapiens - All Cells,fibroblast,CL:0000057,male,European,934,4.703630961373823
+31,Tabula Sapiens - All Cells,T cell,CL:0000084,male,European,92,0.46331268570277484
+32,Tabula Sapiens - All Cells,mast cell,CL:0000097,male,European,29,0.14604421614543991
+33,Tabula Sapiens - All Cells,endothelial cell,CL:0000115,male,European,5,0.025180037266455155
+34,Tabula Sapiens - All Cells,smooth muscle cell,CL:0000192,male,European,537,2.704336002417284
+35,Tabula Sapiens - All Cells,erythrocyte,CL:0000232,male,European,10,0.05036007453291031
+36,Tabula Sapiens - All Cells,macrophage,CL:0000235,male,European,589,2.9662083899884175
+37,Tabula Sapiens - All Cells,B cell,CL:0000236,male,European,5,0.025180037266455155
+38,Tabula Sapiens - All Cells,pericyte cell,CL:0000669,male,European,283,1.4251901092813617
+39,Tabula Sapiens - All Cells,plasma cell,CL:0000786,male,European,2,0.010072014906582062
+40,Tabula Sapiens - All Cells,mature NK T cell,CL:0000814,male,European,13,0.0654680968927834
+41,Tabula Sapiens - All Cells,endothelial cell of lymphatic vessel,CL:0002138,male,European,2,0.010072014906582062
+42,Tabula Sapiens - All Cells,endothelial cell of artery,CL:1000413,male,European,21,0.10575615651911163

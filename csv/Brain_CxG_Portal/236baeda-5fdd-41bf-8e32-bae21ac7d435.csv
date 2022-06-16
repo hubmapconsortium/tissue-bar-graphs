@@ -1,5 +1,5 @@
-,dataset_name,cell_type,sex,race,count,percentage
-0,VLMC - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),vascular leptomeningeal cell,female,European,1182,60.09150991357397
-1,VLMC - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),vascular leptomeningeal cell,female,admixed ancestry,64,3.253685815963396
-2,VLMC - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),vascular leptomeningeal cell,male,Asian,31,1.5760040671072701
-3,VLMC - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),vascular leptomeningeal cell,male,European,690,35.078800203355364
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
+0,VLMC - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),vascular leptomeningeal cell,CL:4023051,female,European,1182,60.09150991357397
+1,VLMC - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),vascular leptomeningeal cell,CL:4023051,female,admixed ancestry,64,3.253685815963396
+2,VLMC - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),vascular leptomeningeal cell,CL:4023051,male,Asian,31,1.5760040671072701
+3,VLMC - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),vascular leptomeningeal cell,CL:4023051,male,European,690,35.078800203355364

@@ -1,59 +1,59 @@
-,dataset_name,cell_type,sex,race,count,percentage
-0,Survey of human embryonic development,native cell,female,unknown,1455,12.018833636213449
-1,Survey of human embryonic development,ciliated epithelial cell,female,unknown,69,0.5699653064596067
-2,Survey of human embryonic development,squamous epithelial cell,female,unknown,712,5.88138113332232
-3,Survey of human embryonic development,mesothelial cell,female,unknown,98,0.8095159425078473
-4,Survey of human embryonic development,glial cell,female,unknown,61,0.5038823723773336
-5,Survey of human embryonic development,goblet cell,female,unknown,1970,16.27292251775979
-6,Survey of human embryonic development,neuroendocrine cell,female,unknown,187,1.5446885841731373
-7,Survey of human embryonic development,stromal cell,female,unknown,890,7.3517264166529
-8,Survey of human embryonic development,myeloid cell,female,unknown,82,0.6773500743433009
-9,Survey of human embryonic development,erythroblast,female,unknown,47,0.38823723773335533
-10,Survey of human embryonic development,innate lymphoid cell,female,unknown,317,2.618536263010078
-11,Survey of human embryonic development,endothelial cell of lymphatic vessel,female,unknown,62,0.5121427391376177
-12,Survey of human embryonic development,endothelial cell of vascular tree,female,unknown,238,1.9659672889476294
-13,Survey of human embryonic development,brush cell,female,unknown,640,5.286634726581861
-14,Survey of human embryonic development,enteric neuron,female,unknown,55,0.4543201718156286
-15,Survey of human embryonic development,native cell,female,unknown,81,0.6690897075830167
-16,Survey of human embryonic development,ciliated epithelial cell,female,unknown,120,0.9912440112340989
-17,Survey of human embryonic development,squamous epithelial cell,female,unknown,150,1.2390550140426235
-18,Survey of human embryonic development,mesothelial cell,female,unknown,5,0.04130183380142079
-19,Survey of human embryonic development,glial cell,female,unknown,2,0.016520733520568313
-20,Survey of human embryonic development,goblet cell,female,unknown,426,3.518916239881051
-21,Survey of human embryonic development,neuroendocrine cell,female,unknown,6,0.04956220056170494
-22,Survey of human embryonic development,stromal cell,female,unknown,22,0.18172806872625144
-23,Survey of human embryonic development,myeloid cell,female,unknown,9,0.07434330084255741
-24,Survey of human embryonic development,erythroblast,female,unknown,7,0.0578225673219891
-25,Survey of human embryonic development,innate lymphoid cell,female,unknown,25,0.20650916900710392
-26,Survey of human embryonic development,endothelial cell of lymphatic vessel,female,unknown,5,0.04130183380142079
-27,Survey of human embryonic development,endothelial cell of vascular tree,female,unknown,11,0.09086403436312572
-28,Survey of human embryonic development,brush cell,female,unknown,74,0.6112671402610276
-29,Survey of human embryonic development,enteric neuron,female,unknown,4,0.03304146704113663
-30,Survey of human embryonic development,native cell,male,unknown,708,5.848339666281182
-31,Survey of human embryonic development,mesothelial cell,male,unknown,12,0.09912440112340988
-32,Survey of human embryonic development,glial cell,male,unknown,26,0.21476953576738808
-33,Survey of human embryonic development,goblet cell,male,unknown,934,7.715182554105403
-34,Survey of human embryonic development,neuroendocrine cell,male,unknown,50,0.41301833801420784
-35,Survey of human embryonic development,stromal cell,male,unknown,336,2.775483231455477
-36,Survey of human embryonic development,myeloid cell,male,unknown,23,0.1899884354865356
-37,Survey of human embryonic development,erythroblast,male,unknown,23,0.1899884354865356
-38,Survey of human embryonic development,innate lymphoid cell,male,unknown,47,0.38823723773335533
-39,Survey of human embryonic development,endothelial cell of lymphatic vessel,male,unknown,8,0.06608293408227325
-40,Survey of human embryonic development,endothelial cell of vascular tree,male,unknown,45,0.371716504212787
-41,Survey of human embryonic development,brush cell,male,unknown,34,0.28085246984966133
-42,Survey of human embryonic development,enteric neuron,male,unknown,10,0.08260366760284157
-43,Survey of human embryonic development,native cell,male,unknown,156,1.2886172146043284
-44,Survey of human embryonic development,ciliated epithelial cell,male,unknown,109,0.9003799768709732
-45,Survey of human embryonic development,squamous epithelial cell,male,unknown,1094,9.036841235750867
-46,Survey of human embryonic development,mesothelial cell,male,unknown,20,0.16520733520568315
-47,Survey of human embryonic development,glial cell,male,unknown,7,0.0578225673219891
-48,Survey of human embryonic development,goblet cell,male,unknown,294,2.428547827523542
-49,Survey of human embryonic development,neuroendocrine cell,male,unknown,57,0.47084090533619694
-50,Survey of human embryonic development,stromal cell,male,unknown,120,0.9912440112340989
-51,Survey of human embryonic development,myeloid cell,male,unknown,10,0.08260366760284157
-52,Survey of human embryonic development,erythroblast,male,unknown,35,0.28911283660994547
-53,Survey of human embryonic development,innate lymphoid cell,male,unknown,47,0.38823723773335533
-54,Survey of human embryonic development,endothelial cell of lymphatic vessel,male,unknown,7,0.0578225673219891
-55,Survey of human embryonic development,endothelial cell of vascular tree,male,unknown,16,0.1321658681645465
-56,Survey of human embryonic development,brush cell,male,unknown,44,0.3634561374525029
-57,Survey of human embryonic development,enteric neuron,male,unknown,4,0.03304146704113663
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
+0,Survey of human embryonic development,native cell,CL:0000003,female,unknown,1455,12.018833636213449
+1,Survey of human embryonic development,ciliated epithelial cell,CL:0000067,female,unknown,69,0.5699653064596067
+2,Survey of human embryonic development,squamous epithelial cell,CL:0000076,female,unknown,712,5.88138113332232
+3,Survey of human embryonic development,mesothelial cell,CL:0000077,female,unknown,98,0.8095159425078473
+4,Survey of human embryonic development,glial cell,CL:0000125,female,unknown,61,0.5038823723773336
+5,Survey of human embryonic development,goblet cell,CL:0000160,female,unknown,1970,16.27292251775979
+6,Survey of human embryonic development,neuroendocrine cell,CL:0000165,female,unknown,187,1.5446885841731373
+7,Survey of human embryonic development,stromal cell,CL:0000499,female,unknown,890,7.3517264166529
+8,Survey of human embryonic development,myeloid cell,CL:0000763,female,unknown,82,0.6773500743433009
+9,Survey of human embryonic development,erythroblast,CL:0000765,female,unknown,47,0.38823723773335533
+10,Survey of human embryonic development,innate lymphoid cell,CL:0001065,female,unknown,317,2.618536263010078
+11,Survey of human embryonic development,endothelial cell of lymphatic vessel,CL:0002138,female,unknown,62,0.5121427391376177
+12,Survey of human embryonic development,endothelial cell of vascular tree,CL:0002139,female,unknown,238,1.9659672889476294
+13,Survey of human embryonic development,brush cell,CL:0002204,female,unknown,640,5.286634726581861
+14,Survey of human embryonic development,enteric neuron,CL:0007011,female,unknown,55,0.4543201718156286
+15,Survey of human embryonic development,native cell,CL:0000003,female,unknown,81,0.6690897075830167
+16,Survey of human embryonic development,ciliated epithelial cell,CL:0000067,female,unknown,120,0.9912440112340989
+17,Survey of human embryonic development,squamous epithelial cell,CL:0000076,female,unknown,150,1.2390550140426235
+18,Survey of human embryonic development,mesothelial cell,CL:0000077,female,unknown,5,0.04130183380142079
+19,Survey of human embryonic development,glial cell,CL:0000125,female,unknown,2,0.016520733520568313
+20,Survey of human embryonic development,goblet cell,CL:0000160,female,unknown,426,3.518916239881051
+21,Survey of human embryonic development,neuroendocrine cell,CL:0000165,female,unknown,6,0.04956220056170494
+22,Survey of human embryonic development,stromal cell,CL:0000499,female,unknown,22,0.18172806872625144
+23,Survey of human embryonic development,myeloid cell,CL:0000763,female,unknown,9,0.07434330084255741
+24,Survey of human embryonic development,erythroblast,CL:0000765,female,unknown,7,0.0578225673219891
+25,Survey of human embryonic development,innate lymphoid cell,CL:0001065,female,unknown,25,0.20650916900710392
+26,Survey of human embryonic development,endothelial cell of lymphatic vessel,CL:0002138,female,unknown,5,0.04130183380142079
+27,Survey of human embryonic development,endothelial cell of vascular tree,CL:0002139,female,unknown,11,0.09086403436312572
+28,Survey of human embryonic development,brush cell,CL:0002204,female,unknown,74,0.6112671402610276
+29,Survey of human embryonic development,enteric neuron,CL:0007011,female,unknown,4,0.03304146704113663
+30,Survey of human embryonic development,native cell,CL:0000003,male,unknown,708,5.848339666281182
+31,Survey of human embryonic development,mesothelial cell,CL:0000077,male,unknown,12,0.09912440112340988
+32,Survey of human embryonic development,glial cell,CL:0000125,male,unknown,26,0.21476953576738808
+33,Survey of human embryonic development,goblet cell,CL:0000160,male,unknown,934,7.715182554105403
+34,Survey of human embryonic development,neuroendocrine cell,CL:0000165,male,unknown,50,0.41301833801420784
+35,Survey of human embryonic development,stromal cell,CL:0000499,male,unknown,336,2.775483231455477
+36,Survey of human embryonic development,myeloid cell,CL:0000763,male,unknown,23,0.1899884354865356
+37,Survey of human embryonic development,erythroblast,CL:0000765,male,unknown,23,0.1899884354865356
+38,Survey of human embryonic development,innate lymphoid cell,CL:0001065,male,unknown,47,0.38823723773335533
+39,Survey of human embryonic development,endothelial cell of lymphatic vessel,CL:0002138,male,unknown,8,0.06608293408227325
+40,Survey of human embryonic development,endothelial cell of vascular tree,CL:0002139,male,unknown,45,0.371716504212787
+41,Survey of human embryonic development,brush cell,CL:0002204,male,unknown,34,0.28085246984966133
+42,Survey of human embryonic development,enteric neuron,CL:0007011,male,unknown,10,0.08260366760284157
+43,Survey of human embryonic development,native cell,CL:0000003,male,unknown,156,1.2886172146043284
+44,Survey of human embryonic development,ciliated epithelial cell,CL:0000067,male,unknown,109,0.9003799768709732
+45,Survey of human embryonic development,squamous epithelial cell,CL:0000076,male,unknown,1094,9.036841235750867
+46,Survey of human embryonic development,mesothelial cell,CL:0000077,male,unknown,20,0.16520733520568315
+47,Survey of human embryonic development,glial cell,CL:0000125,male,unknown,7,0.0578225673219891
+48,Survey of human embryonic development,goblet cell,CL:0000160,male,unknown,294,2.428547827523542
+49,Survey of human embryonic development,neuroendocrine cell,CL:0000165,male,unknown,57,0.47084090533619694
+50,Survey of human embryonic development,stromal cell,CL:0000499,male,unknown,120,0.9912440112340989
+51,Survey of human embryonic development,myeloid cell,CL:0000763,male,unknown,10,0.08260366760284157
+52,Survey of human embryonic development,erythroblast,CL:0000765,male,unknown,35,0.28911283660994547
+53,Survey of human embryonic development,innate lymphoid cell,CL:0001065,male,unknown,47,0.38823723773335533
+54,Survey of human embryonic development,endothelial cell of lymphatic vessel,CL:0002138,male,unknown,7,0.0578225673219891
+55,Survey of human embryonic development,endothelial cell of vascular tree,CL:0002139,male,unknown,16,0.1321658681645465
+56,Survey of human embryonic development,brush cell,CL:0002204,male,unknown,44,0.3634561374525029
+57,Survey of human embryonic development,enteric neuron,CL:0007011,male,unknown,4,0.03304146704113663

@@ -1,29 +1,29 @@
-,dataset_name,cell_type,sex,race,count,percentage
-0,mature,urothelial cell,female,unknown,43,7.325383304940375
-1,mature,kidney epithelial cell,female,unknown,1,0.17035775127768313
-2,mature,mononuclear phagocyte,female,unknown,1,0.17035775127768313
-3,mature,"CD4-positive, alpha-beta T cell",female,unknown,6,1.0221465076660987
-4,mature,epithelial cell of proximal tubule,female,unknown,2,0.34071550255536626
-5,mature,kidney epithelial cell,female,unknown,33,5.621805792163544
-6,mature,fibroblast,female,unknown,6,1.0221465076660987
-7,mature,mast cell,female,unknown,4,0.6814310051107325
-8,mature,mononuclear phagocyte,female,unknown,54,9.19931856899489
-9,mature,myofibroblast cell,female,unknown,21,3.577512776831346
-10,mature,B cell,female,unknown,14,2.385008517887564
-11,mature,lymphocyte,female,unknown,34,5.792163543441227
-12,mature,natural killer cell,female,unknown,8,1.362862010221465
-13,mature,"CD4-positive, alpha-beta T cell",female,unknown,21,3.577512776831346
-14,mature,"CD8-positive, alpha-beta T cell",female,unknown,21,3.577512776831346
-15,mature,glomerular endothelial cell,female,unknown,4,0.6814310051107325
-16,mature,renal beta-intercalated cell,female,unknown,11,1.8739352640545146
-17,mature,epithelial cell of proximal tubule,female,unknown,183,31.175468483816015
-18,mature,kidney epithelial cell,female,unknown,4,0.6814310051107325
-19,mature,renal principal cell,female,unknown,12,2.0442930153321974
-20,mature,renal alpha-intercalated cell,female,unknown,35,5.9625212947189095
-21,mature,progenitor cell,female,unknown,16,2.72572402044293
-22,mature,epithelial cell of glomerular capsule,female,unknown,1,0.17035775127768313
-23,mature,kidney connecting tubule epithelial cell,female,unknown,5,0.8517887563884157
-24,mature,peritubular capillary endothelial cell,female,unknown,10,1.7035775127768313
-25,mature,kidney loop of Henle thick ascending limb epithelial cell,female,unknown,3,0.5110732538330494
-26,mature,vasa recta ascending limb cell,female,unknown,21,3.577512776831346
-27,mature,vasa recta descending limb cell,female,unknown,13,2.2146507666098807
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
+0,mature,urothelial cell,CL:0000731,female,unknown,43,7.325383304940375
+1,mature,kidney epithelial cell,CL:0002518,female,unknown,1,0.17035775127768313
+2,mature,mononuclear phagocyte,CL:0000113,female,unknown,1,0.17035775127768313
+3,mature,"CD4-positive, alpha-beta T cell",CL:0000624,female,unknown,6,1.0221465076660987
+4,mature,epithelial cell of proximal tubule,CL:0002306,female,unknown,2,0.34071550255536626
+5,mature,kidney epithelial cell,CL:0002518,female,unknown,33,5.621805792163544
+6,mature,fibroblast,CL:0000057,female,unknown,6,1.0221465076660987
+7,mature,mast cell,CL:0000097,female,unknown,4,0.6814310051107325
+8,mature,mononuclear phagocyte,CL:0000113,female,unknown,54,9.19931856899489
+9,mature,myofibroblast cell,CL:0000186,female,unknown,21,3.577512776831346
+10,mature,B cell,CL:0000236,female,unknown,14,2.385008517887564
+11,mature,lymphocyte,CL:0000542,female,unknown,34,5.792163543441227
+12,mature,natural killer cell,CL:0000623,female,unknown,8,1.362862010221465
+13,mature,"CD4-positive, alpha-beta T cell",CL:0000624,female,unknown,21,3.577512776831346
+14,mature,"CD8-positive, alpha-beta T cell",CL:0000625,female,unknown,21,3.577512776831346
+15,mature,glomerular endothelial cell,CL:0002188,female,unknown,4,0.6814310051107325
+16,mature,renal beta-intercalated cell,CL:0002201,female,unknown,11,1.8739352640545146
+17,mature,epithelial cell of proximal tubule,CL:0002306,female,unknown,183,31.175468483816015
+18,mature,kidney epithelial cell,CL:0002518,female,unknown,4,0.6814310051107325
+19,mature,renal principal cell,CL:0005009,female,unknown,12,2.0442930153321974
+20,mature,renal alpha-intercalated cell,CL:0005011,female,unknown,35,5.9625212947189095
+21,mature,progenitor cell,CL:0011026,female,unknown,16,2.72572402044293
+22,mature,epithelial cell of glomerular capsule,CL:1000450,female,unknown,1,0.17035775127768313
+23,mature,kidney connecting tubule epithelial cell,CL:1000768,female,unknown,5,0.8517887563884157
+24,mature,peritubular capillary endothelial cell,CL:1001033,female,unknown,10,1.7035775127768313
+25,mature,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,female,unknown,3,0.5110732538330494
+26,mature,vasa recta ascending limb cell,CL:1001131,female,unknown,21,3.577512776831346
+27,mature,vasa recta descending limb cell,CL:1001285,female,unknown,13,2.2146507666098807

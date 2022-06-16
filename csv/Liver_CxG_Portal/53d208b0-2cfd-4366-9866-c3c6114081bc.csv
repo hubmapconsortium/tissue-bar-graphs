@@ -1,25 +1,25 @@
-,dataset_name,cell_type,sex,race,count,percentage
-0,Tabula Sapiens - All Cells,fibroblast,male,European,6,0.11983223487118035
-1,Tabula Sapiens - All Cells,T cell,male,European,126,2.5164769322947875
-2,Tabula Sapiens - All Cells,endothelial cell,male,European,267,5.3325344517675255
-3,Tabula Sapiens - All Cells,hepatocyte,male,European,1491,29.778310365488313
-4,Tabula Sapiens - All Cells,erythrocyte,male,European,106,2.1170361493908527
-5,Tabula Sapiens - All Cells,macrophage,male,European,2,0.039944078290393446
-6,Tabula Sapiens - All Cells,monocyte,male,European,7,0.13980427401637707
-7,Tabula Sapiens - All Cells,neutrophil,male,European,2,0.039944078290393446
-8,Tabula Sapiens - All Cells,plasma cell,male,European,15,0.2995805871779509
-9,Tabula Sapiens - All Cells,mature NK T cell,male,European,14,0.27960854803275415
-10,Tabula Sapiens - All Cells,intrahepatic cholangiocyte,male,European,31,0.6191332135010985
-11,Tabula Sapiens - All Cells,endothelial cell of hepatic sinusoid,male,European,80,1.5977631316157381
-12,Tabula Sapiens - All Cells,fibroblast,male,European,70,1.3980427401637707
-13,Tabula Sapiens - All Cells,T cell,male,European,20,0.39944078290393453
-14,Tabula Sapiens - All Cells,hepatocyte,male,European,67,1.3381266227281805
-15,Tabula Sapiens - All Cells,erythrocyte,male,European,2,0.039944078290393446
-16,Tabula Sapiens - All Cells,macrophage,male,European,1379,27.541441981226285
-17,Tabula Sapiens - All Cells,monocyte,male,European,605,12.083083682844018
-18,Tabula Sapiens - All Cells,neutrophil,male,European,81,1.6177351707609346
-19,Tabula Sapiens - All Cells,plasma cell,male,European,19,0.37946874375873774
-20,Tabula Sapiens - All Cells,mature NK T cell,male,European,231,4.613541042540444
-21,Tabula Sapiens - All Cells,intrahepatic cholangiocyte,male,European,11,0.21969243059716398
-22,Tabula Sapiens - All Cells,endothelial cell of hepatic sinusoid,male,European,341,6.810465348512083
-23,Tabula Sapiens - All Cells,liver dendritic cell,male,European,34,0.6790493309366886
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
+0,Tabula Sapiens - All Cells,fibroblast,CL:0000057,male,European,6,0.11983223487118035
+1,Tabula Sapiens - All Cells,T cell,CL:0000084,male,European,126,2.5164769322947875
+2,Tabula Sapiens - All Cells,endothelial cell,CL:0000115,male,European,267,5.3325344517675255
+3,Tabula Sapiens - All Cells,hepatocyte,CL:0000182,male,European,1491,29.778310365488313
+4,Tabula Sapiens - All Cells,erythrocyte,CL:0000232,male,European,106,2.1170361493908527
+5,Tabula Sapiens - All Cells,macrophage,CL:0000235,male,European,2,0.039944078290393446
+6,Tabula Sapiens - All Cells,monocyte,CL:0000576,male,European,7,0.13980427401637707
+7,Tabula Sapiens - All Cells,neutrophil,CL:0000775,male,European,2,0.039944078290393446
+8,Tabula Sapiens - All Cells,plasma cell,CL:0000786,male,European,15,0.2995805871779509
+9,Tabula Sapiens - All Cells,mature NK T cell,CL:0000814,male,European,14,0.27960854803275415
+10,Tabula Sapiens - All Cells,intrahepatic cholangiocyte,CL:0002538,male,European,31,0.6191332135010985
+11,Tabula Sapiens - All Cells,endothelial cell of hepatic sinusoid,CL:1000398,male,European,80,1.5977631316157381
+12,Tabula Sapiens - All Cells,fibroblast,CL:0000057,male,European,70,1.3980427401637707
+13,Tabula Sapiens - All Cells,T cell,CL:0000084,male,European,20,0.39944078290393453
+14,Tabula Sapiens - All Cells,hepatocyte,CL:0000182,male,European,67,1.3381266227281805
+15,Tabula Sapiens - All Cells,erythrocyte,CL:0000232,male,European,2,0.039944078290393446
+16,Tabula Sapiens - All Cells,macrophage,CL:0000235,male,European,1379,27.541441981226285
+17,Tabula Sapiens - All Cells,monocyte,CL:0000576,male,European,605,12.083083682844018
+18,Tabula Sapiens - All Cells,neutrophil,CL:0000775,male,European,81,1.6177351707609346
+19,Tabula Sapiens - All Cells,plasma cell,CL:0000786,male,European,19,0.37946874375873774
+20,Tabula Sapiens - All Cells,mature NK T cell,CL:0000814,male,European,231,4.613541042540444
+21,Tabula Sapiens - All Cells,intrahepatic cholangiocyte,CL:0002538,male,European,11,0.21969243059716398
+22,Tabula Sapiens - All Cells,endothelial cell of hepatic sinusoid,CL:1000398,male,European,341,6.810465348512083
+23,Tabula Sapiens - All Cells,liver dendritic cell,CL:2000055,male,European,34,0.6790493309366886

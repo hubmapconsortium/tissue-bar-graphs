@@ -1,6 +1,6 @@
-,dataset_name,cell_type,sex,race,count,percentage
-0,L5/6 NP - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),near-projecting glutamatergic cortical neuron,female,European,6945,51.45969176052163
-1,L5/6 NP - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),near-projecting glutamatergic cortical neuron,female,"Greater Middle Eastern  (Middle Eastern, North African or Persian)",192,1.4226437462951986
-2,L5/6 NP - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),near-projecting glutamatergic cortical neuron,female,admixed ancestry,416,3.082394783639597
-3,L5/6 NP - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),near-projecting glutamatergic cortical neuron,male,Asian,221,1.637522228808536
-4,L5/6 NP - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),near-projecting glutamatergic cortical neuron,male,European,5722,42.397747480735035
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
+0,L5/6 NP - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),near-projecting glutamatergic cortical neuron,CL:4023012,female,European,6945,51.45969176052163
+1,L5/6 NP - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),near-projecting glutamatergic cortical neuron,CL:4023012,female,"Greater Middle Eastern  (Middle Eastern, North African or Persian)",192,1.4226437462951986
+2,L5/6 NP - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),near-projecting glutamatergic cortical neuron,CL:4023012,female,admixed ancestry,416,3.082394783639597
+3,L5/6 NP - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),near-projecting glutamatergic cortical neuron,CL:4023012,male,Asian,221,1.637522228808536
+4,L5/6 NP - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),near-projecting glutamatergic cortical neuron,CL:4023012,male,European,5722,42.397747480735035

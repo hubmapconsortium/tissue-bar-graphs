@@ -1,15 +1,15 @@
-,dataset_name,cell_type,sex,race,count,percentage
-0,Tabula Sapiens - All Cells,T cell,female,African American or Afro-Caribbean,2324,20.43076923076923
-1,Tabula Sapiens - All Cells,mast cell,female,African American or Afro-Caribbean,16,0.14065934065934066
-2,Tabula Sapiens - All Cells,macrophage,female,African American or Afro-Caribbean,219,1.9252747252747255
-3,Tabula Sapiens - All Cells,B cell,female,African American or Afro-Caribbean,43,0.378021978021978
-4,Tabula Sapiens - All Cells,vascular associated smooth muscle cell,female,African American or Afro-Caribbean,71,0.6241758241758242
-5,Tabula Sapiens - All Cells,basal cell,female,African American or Afro-Caribbean,476,4.184615384615385
-6,Tabula Sapiens - All Cells,pericyte cell,female,African American or Afro-Caribbean,106,0.9318681318681318
-7,Tabula Sapiens - All Cells,plasma cell,female,African American or Afro-Caribbean,194,1.7054945054945054
-8,Tabula Sapiens - All Cells,mature NK T cell,female,African American or Afro-Caribbean,19,0.16703296703296705
-9,Tabula Sapiens - All Cells,endothelial cell of lymphatic vessel,female,African American or Afro-Caribbean,32,0.2813186813186813
-10,Tabula Sapiens - All Cells,luminal epithelial cell of mammary gland,female,African American or Afro-Caribbean,5378,47.27912087912088
-11,Tabula Sapiens - All Cells,vein endothelial cell,female,African American or Afro-Caribbean,263,2.312087912087912
-12,Tabula Sapiens - All Cells,endothelial cell of artery,female,African American or Afro-Caribbean,168,1.4769230769230768
-13,Tabula Sapiens - All Cells,fibroblast of breast,female,African American or Afro-Caribbean,2066,18.162637362637362
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
+0,Tabula Sapiens - All Cells,T cell,CL:0000084,female,African American or Afro-Caribbean,2324,20.43076923076923
+1,Tabula Sapiens - All Cells,mast cell,CL:0000097,female,African American or Afro-Caribbean,16,0.14065934065934066
+2,Tabula Sapiens - All Cells,macrophage,CL:0000235,female,African American or Afro-Caribbean,219,1.9252747252747255
+3,Tabula Sapiens - All Cells,B cell,CL:0000236,female,African American or Afro-Caribbean,43,0.378021978021978
+4,Tabula Sapiens - All Cells,vascular associated smooth muscle cell,CL:0000359,female,African American or Afro-Caribbean,71,0.6241758241758242
+5,Tabula Sapiens - All Cells,basal cell,CL:0000646,female,African American or Afro-Caribbean,476,4.184615384615385
+6,Tabula Sapiens - All Cells,pericyte cell,CL:0000669,female,African American or Afro-Caribbean,106,0.9318681318681318
+7,Tabula Sapiens - All Cells,plasma cell,CL:0000786,female,African American or Afro-Caribbean,194,1.7054945054945054
+8,Tabula Sapiens - All Cells,mature NK T cell,CL:0000814,female,African American or Afro-Caribbean,19,0.16703296703296705
+9,Tabula Sapiens - All Cells,endothelial cell of lymphatic vessel,CL:0002138,female,African American or Afro-Caribbean,32,0.2813186813186813
+10,Tabula Sapiens - All Cells,luminal epithelial cell of mammary gland,CL:0002326,female,African American or Afro-Caribbean,5378,47.27912087912088
+11,Tabula Sapiens - All Cells,vein endothelial cell,CL:0002543,female,African American or Afro-Caribbean,263,2.312087912087912
+12,Tabula Sapiens - All Cells,endothelial cell of artery,CL:1000413,female,African American or Afro-Caribbean,168,1.4769230769230768
+13,Tabula Sapiens - All Cells,fibroblast of breast,CL:4006000,female,African American or Afro-Caribbean,2066,18.162637362637362

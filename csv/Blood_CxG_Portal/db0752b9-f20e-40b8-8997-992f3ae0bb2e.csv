@@ -1,17 +1,17 @@
-,dataset_name,cell_type,sex,race,count,percentage
-0,Classical Monocyte sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,female,European,178,0.7057330901593847
-1,Classical Monocyte sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,female,European,465,1.8436285782253587
-2,Classical Monocyte sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,female,unknown,1056,4.1868210292601695
-3,Classical Monocyte sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,female,unknown,359,1.423360558242804
-4,Classical Monocyte sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,female,unknown,835,3.3106018555229566
-5,Classical Monocyte sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,female,European,429,1.700896043136944
-6,Classical Monocyte sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,female,European,891,3.532630243438268
-7,Classical Monocyte sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,female,European,676,2.6801998255491237
-8,Classical Monocyte sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,male,European,180,0.7136626754420744
-9,Classical Monocyte sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,male,European,421,1.6691777020061849
-10,Classical Monocyte sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,male,Asian,360,1.4273253508841488
-11,Classical Monocyte sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,male,European,418,1.6572833240821503
-12,Classical Monocyte sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,male,unknown,1251,4.959955594322417
-13,Classical Monocyte sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,male,European,2036,8.07231781777813
-14,Classical Monocyte sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,unknown,European,11409,45.234319245103485
-15,Classical Monocyte sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,unknown,unknown,4258,16.882087066846406
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
+0,Classical Monocyte sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,CL:0000860,female,European,178,0.7057330901593847
+1,Classical Monocyte sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,CL:0000860,female,European,465,1.8436285782253587
+2,Classical Monocyte sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,CL:0000860,female,unknown,1056,4.1868210292601695
+3,Classical Monocyte sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,CL:0000860,female,unknown,359,1.423360558242804
+4,Classical Monocyte sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,CL:0000860,female,unknown,835,3.3106018555229566
+5,Classical Monocyte sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,CL:0000860,female,European,429,1.700896043136944
+6,Classical Monocyte sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,CL:0000860,female,European,891,3.532630243438268
+7,Classical Monocyte sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,CL:0000860,female,European,676,2.6801998255491237
+8,Classical Monocyte sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,CL:0000860,male,European,180,0.7136626754420744
+9,Classical Monocyte sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,CL:0000860,male,European,421,1.6691777020061849
+10,Classical Monocyte sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,CL:0000860,male,Asian,360,1.4273253508841488
+11,Classical Monocyte sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,CL:0000860,male,European,418,1.6572833240821503
+12,Classical Monocyte sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,CL:0000860,male,unknown,1251,4.959955594322417
+13,Classical Monocyte sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,CL:0000860,male,European,2036,8.07231781777813
+14,Classical Monocyte sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,CL:0000860,unknown,European,11409,45.234319245103485
+15,Classical Monocyte sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,CL:0000860,unknown,unknown,4258,16.882087066846406

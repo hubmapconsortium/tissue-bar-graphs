@@ -1,135 +1,135 @@
-,dataset_name,cell_type,sex,race,count,percentage
-0,fetal,native cell,female,unknown,134,0.49259272874315335
-1,fetal,mast cell,female,unknown,2,0.007352130279748558
-2,fetal,endothelial cell,female,unknown,234,0.8601992427305811
-3,fetal,mesenchymal stem cell,female,unknown,226,0.830790721611587
-4,fetal,macrophage,female,unknown,109,0.4006911002462964
-5,fetal,megakaryocyte,female,unknown,3,0.011028195419622836
-6,fetal,monocyte,female,unknown,14,0.051464911958239906
-7,fetal,natural killer cell,female,unknown,89,0.3271697974488108
-8,fetal,"CD4-positive, alpha-beta T cell",female,unknown,1,0.003676065139874279
-9,fetal,"CD8-positive, alpha-beta T cell",female,unknown,1,0.003676065139874279
-10,fetal,erythroid lineage cell,female,unknown,5,0.018380325699371394
-11,fetal,neutrophil,female,unknown,15,0.05514097709811418
-12,fetal,plasmacytoid dendritic cell,female,unknown,2,0.007352130279748558
-13,fetal,conventional dendritic cell,female,unknown,15,0.05514097709811418
-14,fetal,innate lymphoid cell,female,unknown,27,0.09925375877660551
-15,fetal,epithelial cell of proximal tubule,female,unknown,100,0.36760651398742783
-16,fetal,epithelial cell of nephron,female,unknown,1127,4.142925412638312
-17,fetal,epithelial cell of glomerular capsule,female,unknown,134,0.49259272874315335
-18,fetal,nephron tubule epithelial cell,female,unknown,55,0.20218358269308534
-19,fetal,kidney interstitial cell,female,unknown,890,3.271697974488108
-20,fetal,kidney connecting tubule epithelial cell,female,unknown,52,0.19115538727346248
-21,fetal,kidney collecting duct cell,female,unknown,46,0.1690989964342168
-22,fetal,native cell,female,unknown,89,0.3271697974488108
-23,fetal,mast cell,female,unknown,15,0.05514097709811418
-24,fetal,endothelial cell,female,unknown,191,0.7021284417159872
-25,fetal,mesenchymal stem cell,female,unknown,145,0.5330294452817703
-26,fetal,macrophage,female,unknown,225,0.8271146564717127
-27,fetal,B cell,female,unknown,49,0.18012719185383966
-28,fetal,megakaryocyte,female,unknown,31,0.11395801933610263
-29,fetal,monocyte,female,unknown,149,0.5477337058412676
-30,fetal,natural killer cell,female,unknown,122,0.448479947064662
-31,fetal,"CD4-positive, alpha-beta T cell",female,unknown,20,0.07352130279748557
-32,fetal,"CD8-positive, alpha-beta T cell",female,unknown,2,0.007352130279748558
-33,fetal,erythroid lineage cell,female,unknown,10,0.03676065139874279
-34,fetal,neutrophil,female,unknown,16,0.05881704223798846
-35,fetal,plasmacytoid dendritic cell,female,unknown,7,0.025732455979119953
-36,fetal,conventional dendritic cell,female,unknown,66,0.2426202992317024
-37,fetal,innate lymphoid cell,female,unknown,21,0.07719736793735985
-38,fetal,epithelial cell of proximal tubule,female,unknown,439,1.613792596404808
-39,fetal,epithelial cell of nephron,female,unknown,901,3.3121346910267255
-40,fetal,epithelial cell of glomerular capsule,female,unknown,95,0.34922618828805646
-41,fetal,nephron tubule epithelial cell,female,unknown,124,0.4558320773444105
-42,fetal,kidney interstitial cell,female,unknown,1699,6.2456346726464
-43,fetal,kidney connecting tubule epithelial cell,female,unknown,185,0.6800720508767415
-44,fetal,kidney collecting duct cell,female,unknown,108,0.39701503510642205
-45,fetal,native cell,female,unknown,99,0.3639304488475536
-46,fetal,mast cell,female,unknown,17,0.06249310737786273
-47,fetal,endothelial cell,female,unknown,147,0.540381575561519
-48,fetal,mesenchymal stem cell,female,unknown,188,0.6911002462963644
-49,fetal,macrophage,female,unknown,595,2.187258758225196
-50,fetal,B cell,female,unknown,260,0.9557769363673123
-51,fetal,megakaryocyte,female,unknown,15,0.05514097709811418
-52,fetal,monocyte,female,unknown,509,1.8711171561960078
-53,fetal,natural killer cell,female,unknown,390,1.4336654045509687
-54,fetal,"CD4-positive, alpha-beta T cell",female,unknown,352,1.293974929235746
-55,fetal,"CD8-positive, alpha-beta T cell",female,unknown,39,0.14336654045509686
-56,fetal,erythroid lineage cell,female,unknown,5,0.018380325699371394
-57,fetal,neutrophil,female,unknown,53,0.19483145241333677
-58,fetal,plasmacytoid dendritic cell,female,unknown,52,0.19115538727346248
-59,fetal,conventional dendritic cell,female,unknown,418,1.5365952284674484
-60,fetal,innate lymphoid cell,female,unknown,34,0.12498621475572547
-61,fetal,epithelial cell of proximal tubule,female,unknown,196,0.7205087674153586
-62,fetal,epithelial cell of nephron,female,unknown,769,2.82689409256332
-63,fetal,epithelial cell of glomerular capsule,female,unknown,97,0.35657831856780503
-64,fetal,nephron tubule epithelial cell,female,unknown,99,0.3639304488475536
-65,fetal,kidney interstitial cell,female,unknown,1167,4.289968018233283
-66,fetal,kidney connecting tubule epithelial cell,female,unknown,45,0.16542293129434255
-67,fetal,kidney collecting duct cell,female,unknown,76,0.2793809506304452
-68,fetal,native cell,female,unknown,46,0.1690989964342168
-69,fetal,mast cell,female,unknown,30,0.11028195419622835
-70,fetal,endothelial cell,female,unknown,133,0.488916663603279
-71,fetal,mesenchymal stem cell,female,unknown,284,1.0440024997242952
-72,fetal,macrophage,female,unknown,927,3.4077123846634563
-73,fetal,B cell,female,unknown,19,0.0698452376576113
-74,fetal,megakaryocyte,female,unknown,9,0.03308458625886851
-75,fetal,monocyte,female,unknown,113,0.4153953608057935
-76,fetal,natural killer cell,female,unknown,36,0.13233834503547404
-77,fetal,"CD4-positive, alpha-beta T cell",female,unknown,5,0.018380325699371394
-78,fetal,"CD8-positive, alpha-beta T cell",female,unknown,12,0.04411278167849134
-79,fetal,erythroid lineage cell,female,unknown,5,0.018380325699371394
-80,fetal,neutrophil,female,unknown,11,0.040436716538617065
-81,fetal,plasmacytoid dendritic cell,female,unknown,5,0.018380325699371394
-82,fetal,conventional dendritic cell,female,unknown,238,0.8749035032900784
-83,fetal,innate lymphoid cell,female,unknown,61,0.224239973532331
-84,fetal,epithelial cell of proximal tubule,female,unknown,166,0.6102268132191302
-85,fetal,epithelial cell of nephron,female,unknown,2522,9.27103628276293
-86,fetal,epithelial cell of glomerular capsule,female,unknown,25,0.09190162849685696
-87,fetal,nephron tubule epithelial cell,female,unknown,37,0.1360144101753483
-88,fetal,kidney interstitial cell,female,unknown,1185,4.35613719075102
-89,fetal,kidney connecting tubule epithelial cell,female,unknown,160,0.5881704223798846
-90,fetal,kidney collecting duct cell,female,unknown,21,0.07719736793735985
-91,fetal,native cell,male,unknown,74,0.2720288203506966
-92,fetal,mast cell,male,unknown,16,0.05881704223798846
-93,fetal,endothelial cell,male,unknown,322,1.1836929750395178
-94,fetal,mesenchymal stem cell,male,unknown,278,1.0219461088850494
-95,fetal,macrophage,male,unknown,654,2.404146601477778
-96,fetal,B cell,male,unknown,58,0.21321177811270817
-97,fetal,megakaryocyte,male,unknown,45,0.16542293129434255
-98,fetal,monocyte,male,unknown,143,0.5256773150020219
-99,fetal,natural killer cell,male,unknown,111,0.4080432305260449
-100,fetal,"CD4-positive, alpha-beta T cell",male,unknown,62,0.22791603867220525
-101,fetal,"CD8-positive, alpha-beta T cell",male,unknown,18,0.06616917251773702
-102,fetal,erythroid lineage cell,male,unknown,6,0.02205639083924567
-103,fetal,neutrophil,male,unknown,130,0.47788846818365616
-104,fetal,plasmacytoid dendritic cell,male,unknown,23,0.0845494982171084
-105,fetal,conventional dendritic cell,male,unknown,211,0.7756497445134728
-106,fetal,innate lymphoid cell,male,unknown,25,0.09190162849685696
-107,fetal,epithelial cell of proximal tubule,male,unknown,420,1.543947358747197
-108,fetal,epithelial cell of nephron,male,unknown,1220,4.48479947064662
-109,fetal,epithelial cell of glomerular capsule,male,unknown,144,0.5293533801418961
-110,fetal,nephron tubule epithelial cell,male,unknown,159,0.5844943572400103
-111,fetal,kidney interstitial cell,male,unknown,1499,5.510421644671544
-112,fetal,kidney connecting tubule epithelial cell,male,unknown,223,0.8197625261919641
-113,fetal,kidney collecting duct cell,male,unknown,158,0.580818292100136
-114,fetal,native cell,male,unknown,89,0.3271697974488108
-115,fetal,mast cell,male,unknown,5,0.018380325699371394
-116,fetal,endothelial cell,male,unknown,179,0.6580156600374958
-117,fetal,mesenchymal stem cell,male,unknown,72,0.2646766900709481
-118,fetal,macrophage,male,unknown,40,0.14704260559497115
-119,fetal,megakaryocyte,male,unknown,21,0.07719736793735985
-120,fetal,monocyte,male,unknown,4,0.014704260559497116
-121,fetal,natural killer cell,male,unknown,26,0.09557769363673124
-122,fetal,"CD8-positive, alpha-beta T cell",male,unknown,1,0.003676065139874279
-123,fetal,erythroid lineage cell,male,unknown,4,0.014704260559497116
-124,fetal,neutrophil,male,unknown,4,0.014704260559497116
-125,fetal,conventional dendritic cell,male,unknown,5,0.018380325699371394
-126,fetal,innate lymphoid cell,male,unknown,9,0.03308458625886851
-127,fetal,epithelial cell of proximal tubule,male,unknown,30,0.11028195419622835
-128,fetal,epithelial cell of nephron,male,unknown,552,2.0291879572106017
-129,fetal,epithelial cell of glomerular capsule,male,unknown,30,0.11028195419622835
-130,fetal,nephron tubule epithelial cell,male,unknown,21,0.07719736793735985
-131,fetal,kidney interstitial cell,male,unknown,404,1.4851303165092085
-132,fetal,kidney connecting tubule epithelial cell,male,unknown,35,0.12866227989559975
-133,fetal,kidney collecting duct cell,male,unknown,11,0.040436716538617065
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
+0,fetal,native cell,CL:0000003,female,unknown,134,0.49259272874315335
+1,fetal,mast cell,CL:0000097,female,unknown,2,0.007352130279748558
+2,fetal,endothelial cell,CL:0000115,female,unknown,234,0.8601992427305811
+3,fetal,mesenchymal stem cell,CL:0000134,female,unknown,226,0.830790721611587
+4,fetal,macrophage,CL:0000235,female,unknown,109,0.4006911002462964
+5,fetal,megakaryocyte,CL:0000556,female,unknown,3,0.011028195419622836
+6,fetal,monocyte,CL:0000576,female,unknown,14,0.051464911958239906
+7,fetal,natural killer cell,CL:0000623,female,unknown,89,0.3271697974488108
+8,fetal,"CD4-positive, alpha-beta T cell",CL:0000624,female,unknown,1,0.003676065139874279
+9,fetal,"CD8-positive, alpha-beta T cell",CL:0000625,female,unknown,1,0.003676065139874279
+10,fetal,erythroid lineage cell,CL:0000764,female,unknown,5,0.018380325699371394
+11,fetal,neutrophil,CL:0000775,female,unknown,15,0.05514097709811418
+12,fetal,plasmacytoid dendritic cell,CL:0000784,female,unknown,2,0.007352130279748558
+13,fetal,conventional dendritic cell,CL:0000990,female,unknown,15,0.05514097709811418
+14,fetal,innate lymphoid cell,CL:0001065,female,unknown,27,0.09925375877660551
+15,fetal,epithelial cell of proximal tubule,CL:0002306,female,unknown,100,0.36760651398742783
+16,fetal,epithelial cell of nephron,CL:1000449,female,unknown,1127,4.142925412638312
+17,fetal,epithelial cell of glomerular capsule,CL:1000450,female,unknown,134,0.49259272874315335
+18,fetal,nephron tubule epithelial cell,CL:1000494,female,unknown,55,0.20218358269308534
+19,fetal,kidney interstitial cell,CL:1000500,female,unknown,890,3.271697974488108
+20,fetal,kidney connecting tubule epithelial cell,CL:1000768,female,unknown,52,0.19115538727346248
+21,fetal,kidney collecting duct cell,CL:1001225,female,unknown,46,0.1690989964342168
+22,fetal,native cell,CL:0000003,female,unknown,89,0.3271697974488108
+23,fetal,mast cell,CL:0000097,female,unknown,15,0.05514097709811418
+24,fetal,endothelial cell,CL:0000115,female,unknown,191,0.7021284417159872
+25,fetal,mesenchymal stem cell,CL:0000134,female,unknown,145,0.5330294452817703
+26,fetal,macrophage,CL:0000235,female,unknown,225,0.8271146564717127
+27,fetal,B cell,CL:0000236,female,unknown,49,0.18012719185383966
+28,fetal,megakaryocyte,CL:0000556,female,unknown,31,0.11395801933610263
+29,fetal,monocyte,CL:0000576,female,unknown,149,0.5477337058412676
+30,fetal,natural killer cell,CL:0000623,female,unknown,122,0.448479947064662
+31,fetal,"CD4-positive, alpha-beta T cell",CL:0000624,female,unknown,20,0.07352130279748557
+32,fetal,"CD8-positive, alpha-beta T cell",CL:0000625,female,unknown,2,0.007352130279748558
+33,fetal,erythroid lineage cell,CL:0000764,female,unknown,10,0.03676065139874279
+34,fetal,neutrophil,CL:0000775,female,unknown,16,0.05881704223798846
+35,fetal,plasmacytoid dendritic cell,CL:0000784,female,unknown,7,0.025732455979119953
+36,fetal,conventional dendritic cell,CL:0000990,female,unknown,66,0.2426202992317024
+37,fetal,innate lymphoid cell,CL:0001065,female,unknown,21,0.07719736793735985
+38,fetal,epithelial cell of proximal tubule,CL:0002306,female,unknown,439,1.613792596404808
+39,fetal,epithelial cell of nephron,CL:1000449,female,unknown,901,3.3121346910267255
+40,fetal,epithelial cell of glomerular capsule,CL:1000450,female,unknown,95,0.34922618828805646
+41,fetal,nephron tubule epithelial cell,CL:1000494,female,unknown,124,0.4558320773444105
+42,fetal,kidney interstitial cell,CL:1000500,female,unknown,1699,6.2456346726464
+43,fetal,kidney connecting tubule epithelial cell,CL:1000768,female,unknown,185,0.6800720508767415
+44,fetal,kidney collecting duct cell,CL:1001225,female,unknown,108,0.39701503510642205
+45,fetal,native cell,CL:0000003,female,unknown,99,0.3639304488475536
+46,fetal,mast cell,CL:0000097,female,unknown,17,0.06249310737786273
+47,fetal,endothelial cell,CL:0000115,female,unknown,147,0.540381575561519
+48,fetal,mesenchymal stem cell,CL:0000134,female,unknown,188,0.6911002462963644
+49,fetal,macrophage,CL:0000235,female,unknown,595,2.187258758225196
+50,fetal,B cell,CL:0000236,female,unknown,260,0.9557769363673123
+51,fetal,megakaryocyte,CL:0000556,female,unknown,15,0.05514097709811418
+52,fetal,monocyte,CL:0000576,female,unknown,509,1.8711171561960078
+53,fetal,natural killer cell,CL:0000623,female,unknown,390,1.4336654045509687
+54,fetal,"CD4-positive, alpha-beta T cell",CL:0000624,female,unknown,352,1.293974929235746
+55,fetal,"CD8-positive, alpha-beta T cell",CL:0000625,female,unknown,39,0.14336654045509686
+56,fetal,erythroid lineage cell,CL:0000764,female,unknown,5,0.018380325699371394
+57,fetal,neutrophil,CL:0000775,female,unknown,53,0.19483145241333677
+58,fetal,plasmacytoid dendritic cell,CL:0000784,female,unknown,52,0.19115538727346248
+59,fetal,conventional dendritic cell,CL:0000990,female,unknown,418,1.5365952284674484
+60,fetal,innate lymphoid cell,CL:0001065,female,unknown,34,0.12498621475572547
+61,fetal,epithelial cell of proximal tubule,CL:0002306,female,unknown,196,0.7205087674153586
+62,fetal,epithelial cell of nephron,CL:1000449,female,unknown,769,2.82689409256332
+63,fetal,epithelial cell of glomerular capsule,CL:1000450,female,unknown,97,0.35657831856780503
+64,fetal,nephron tubule epithelial cell,CL:1000494,female,unknown,99,0.3639304488475536
+65,fetal,kidney interstitial cell,CL:1000500,female,unknown,1167,4.289968018233283
+66,fetal,kidney connecting tubule epithelial cell,CL:1000768,female,unknown,45,0.16542293129434255
+67,fetal,kidney collecting duct cell,CL:1001225,female,unknown,76,0.2793809506304452
+68,fetal,native cell,CL:0000003,female,unknown,46,0.1690989964342168
+69,fetal,mast cell,CL:0000097,female,unknown,30,0.11028195419622835
+70,fetal,endothelial cell,CL:0000115,female,unknown,133,0.488916663603279
+71,fetal,mesenchymal stem cell,CL:0000134,female,unknown,284,1.0440024997242952
+72,fetal,macrophage,CL:0000235,female,unknown,927,3.4077123846634563
+73,fetal,B cell,CL:0000236,female,unknown,19,0.0698452376576113
+74,fetal,megakaryocyte,CL:0000556,female,unknown,9,0.03308458625886851
+75,fetal,monocyte,CL:0000576,female,unknown,113,0.4153953608057935
+76,fetal,natural killer cell,CL:0000623,female,unknown,36,0.13233834503547404
+77,fetal,"CD4-positive, alpha-beta T cell",CL:0000624,female,unknown,5,0.018380325699371394
+78,fetal,"CD8-positive, alpha-beta T cell",CL:0000625,female,unknown,12,0.04411278167849134
+79,fetal,erythroid lineage cell,CL:0000764,female,unknown,5,0.018380325699371394
+80,fetal,neutrophil,CL:0000775,female,unknown,11,0.040436716538617065
+81,fetal,plasmacytoid dendritic cell,CL:0000784,female,unknown,5,0.018380325699371394
+82,fetal,conventional dendritic cell,CL:0000990,female,unknown,238,0.8749035032900784
+83,fetal,innate lymphoid cell,CL:0001065,female,unknown,61,0.224239973532331
+84,fetal,epithelial cell of proximal tubule,CL:0002306,female,unknown,166,0.6102268132191302
+85,fetal,epithelial cell of nephron,CL:1000449,female,unknown,2522,9.27103628276293
+86,fetal,epithelial cell of glomerular capsule,CL:1000450,female,unknown,25,0.09190162849685696
+87,fetal,nephron tubule epithelial cell,CL:1000494,female,unknown,37,0.1360144101753483
+88,fetal,kidney interstitial cell,CL:1000500,female,unknown,1185,4.35613719075102
+89,fetal,kidney connecting tubule epithelial cell,CL:1000768,female,unknown,160,0.5881704223798846
+90,fetal,kidney collecting duct cell,CL:1001225,female,unknown,21,0.07719736793735985
+91,fetal,native cell,CL:0000003,male,unknown,74,0.2720288203506966
+92,fetal,mast cell,CL:0000097,male,unknown,16,0.05881704223798846
+93,fetal,endothelial cell,CL:0000115,male,unknown,322,1.1836929750395178
+94,fetal,mesenchymal stem cell,CL:0000134,male,unknown,278,1.0219461088850494
+95,fetal,macrophage,CL:0000235,male,unknown,654,2.404146601477778
+96,fetal,B cell,CL:0000236,male,unknown,58,0.21321177811270817
+97,fetal,megakaryocyte,CL:0000556,male,unknown,45,0.16542293129434255
+98,fetal,monocyte,CL:0000576,male,unknown,143,0.5256773150020219
+99,fetal,natural killer cell,CL:0000623,male,unknown,111,0.4080432305260449
+100,fetal,"CD4-positive, alpha-beta T cell",CL:0000624,male,unknown,62,0.22791603867220525
+101,fetal,"CD8-positive, alpha-beta T cell",CL:0000625,male,unknown,18,0.06616917251773702
+102,fetal,erythroid lineage cell,CL:0000764,male,unknown,6,0.02205639083924567
+103,fetal,neutrophil,CL:0000775,male,unknown,130,0.47788846818365616
+104,fetal,plasmacytoid dendritic cell,CL:0000784,male,unknown,23,0.0845494982171084
+105,fetal,conventional dendritic cell,CL:0000990,male,unknown,211,0.7756497445134728
+106,fetal,innate lymphoid cell,CL:0001065,male,unknown,25,0.09190162849685696
+107,fetal,epithelial cell of proximal tubule,CL:0002306,male,unknown,420,1.543947358747197
+108,fetal,epithelial cell of nephron,CL:1000449,male,unknown,1220,4.48479947064662
+109,fetal,epithelial cell of glomerular capsule,CL:1000450,male,unknown,144,0.5293533801418961
+110,fetal,nephron tubule epithelial cell,CL:1000494,male,unknown,159,0.5844943572400103
+111,fetal,kidney interstitial cell,CL:1000500,male,unknown,1499,5.510421644671544
+112,fetal,kidney connecting tubule epithelial cell,CL:1000768,male,unknown,223,0.8197625261919641
+113,fetal,kidney collecting duct cell,CL:1001225,male,unknown,158,0.580818292100136
+114,fetal,native cell,CL:0000003,male,unknown,89,0.3271697974488108
+115,fetal,mast cell,CL:0000097,male,unknown,5,0.018380325699371394
+116,fetal,endothelial cell,CL:0000115,male,unknown,179,0.6580156600374958
+117,fetal,mesenchymal stem cell,CL:0000134,male,unknown,72,0.2646766900709481
+118,fetal,macrophage,CL:0000235,male,unknown,40,0.14704260559497115
+119,fetal,megakaryocyte,CL:0000556,male,unknown,21,0.07719736793735985
+120,fetal,monocyte,CL:0000576,male,unknown,4,0.014704260559497116
+121,fetal,natural killer cell,CL:0000623,male,unknown,26,0.09557769363673124
+122,fetal,"CD8-positive, alpha-beta T cell",CL:0000625,male,unknown,1,0.003676065139874279
+123,fetal,erythroid lineage cell,CL:0000764,male,unknown,4,0.014704260559497116
+124,fetal,neutrophil,CL:0000775,male,unknown,4,0.014704260559497116
+125,fetal,conventional dendritic cell,CL:0000990,male,unknown,5,0.018380325699371394
+126,fetal,innate lymphoid cell,CL:0001065,male,unknown,9,0.03308458625886851
+127,fetal,epithelial cell of proximal tubule,CL:0002306,male,unknown,30,0.11028195419622835
+128,fetal,epithelial cell of nephron,CL:1000449,male,unknown,552,2.0291879572106017
+129,fetal,epithelial cell of glomerular capsule,CL:1000450,male,unknown,30,0.11028195419622835
+130,fetal,nephron tubule epithelial cell,CL:1000494,male,unknown,21,0.07719736793735985
+131,fetal,kidney interstitial cell,CL:1000500,male,unknown,404,1.4851303165092085
+132,fetal,kidney connecting tubule epithelial cell,CL:1000768,male,unknown,35,0.12866227989559975
+133,fetal,kidney collecting duct cell,CL:1001225,male,unknown,11,0.040436716538617065

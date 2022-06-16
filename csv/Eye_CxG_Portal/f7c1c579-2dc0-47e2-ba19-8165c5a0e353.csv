@@ -1,64 +1,64 @@
-,dataset_name,cell_type,sex,race,count,percentage
-0,Survey of human embryonic development,bipolar neuron,female,unknown,323,0.6231190678293078
-1,Survey of human embryonic development,astrocyte,female,unknown,59,0.11382051084188594
-2,Survey of human embryonic development,microglial cell,female,unknown,24,0.046299868817038355
-3,Survey of human embryonic development,cell of skeletal muscle,female,unknown,15,0.028937418010648967
-4,Survey of human embryonic development,smooth muscle cell,female,unknown,6,0.011574967204259589
-5,Survey of human embryonic development,photoreceptor cell,female,unknown,2464,4.753453198549271
-6,Survey of human embryonic development,ganglion interneuron,female,unknown,576,1.1111968516089203
-7,Survey of human embryonic development,stromal cell,female,unknown,399,0.7697353190832626
-8,Survey of human embryonic development,amacrine cell,female,unknown,1544,2.978624893896134
-9,Survey of human embryonic development,corneal epithelial cell,female,unknown,13,0.025079095609229107
-10,Survey of human embryonic development,retinal ganglion cell,female,unknown,3504,6.759780847287599
-11,Survey of human embryonic development,retina horizontal cell,female,unknown,544,1.0494636931862027
-12,Survey of human embryonic development,endothelial cell of vascular tree,female,unknown,59,0.11382051084188594
-13,Survey of human embryonic development,retinal pigment epithelial cell,female,unknown,147,0.2835866965043599
-14,Survey of human embryonic development,lens fiber cell,female,unknown,64,0.12346631684543562
-15,Survey of human embryonic development,Muller cell,female,unknown,3862,7.450420557141754
-16,Survey of human embryonic development,bipolar neuron,female,unknown,161,0.310594953314299
-17,Survey of human embryonic development,astrocyte,female,unknown,12,0.023149934408519177
-18,Survey of human embryonic development,microglial cell,female,unknown,8,0.015433289605679452
-19,Survey of human embryonic development,smooth muscle cell,female,unknown,2,0.003858322401419863
-20,Survey of human embryonic development,photoreceptor cell,female,unknown,1572,3.032641407516012
-21,Survey of human embryonic development,ganglion interneuron,female,unknown,136,0.2623659232965507
-22,Survey of human embryonic development,stromal cell,female,unknown,104,0.20063276487383286
-23,Survey of human embryonic development,amacrine cell,female,unknown,1265,2.440388918898063
-24,Survey of human embryonic development,corneal epithelial cell,female,unknown,23,0.04437070761632842
-25,Survey of human embryonic development,retinal ganglion cell,female,unknown,1112,2.1452272551894436
-26,Survey of human embryonic development,retina horizontal cell,female,unknown,236,0.45528204336754374
-27,Survey of human embryonic development,endothelial cell of vascular tree,female,unknown,29,0.055945674820588015
-28,Survey of human embryonic development,retinal pigment epithelial cell,female,unknown,92,0.17748283046531368
-29,Survey of human embryonic development,lens fiber cell,female,unknown,58,0.11189134964117603
-30,Survey of human embryonic development,Muller cell,female,unknown,1837,3.543869125704144
-31,Survey of human embryonic development,bipolar neuron,male,unknown,18,0.03472490161277876
-32,Survey of human embryonic development,astrocyte,male,unknown,6,0.011574967204259589
-33,Survey of human embryonic development,microglial cell,male,unknown,6,0.011574967204259589
-34,Survey of human embryonic development,cell of skeletal muscle,male,unknown,131,0.252720117293001
-35,Survey of human embryonic development,smooth muscle cell,male,unknown,2,0.003858322401419863
-36,Survey of human embryonic development,photoreceptor cell,male,unknown,419,0.8083185430974612
-37,Survey of human embryonic development,ganglion interneuron,male,unknown,101,0.19484528127170306
-38,Survey of human embryonic development,stromal cell,male,unknown,114,0.2199243768809322
-39,Survey of human embryonic development,amacrine cell,male,unknown,148,0.2855158577050698
-40,Survey of human embryonic development,corneal epithelial cell,male,unknown,13,0.025079095609229107
-41,Survey of human embryonic development,retinal ganglion cell,male,unknown,500,0.9645806003549657
-42,Survey of human embryonic development,retina horizontal cell,male,unknown,62,0.11960799444401575
-43,Survey of human embryonic development,endothelial cell of vascular tree,male,unknown,4,0.007716644802839726
-44,Survey of human embryonic development,retinal pigment epithelial cell,male,unknown,48,0.09259973763407671
-45,Survey of human embryonic development,lens fiber cell,male,unknown,15,0.028937418010648967
-46,Survey of human embryonic development,Muller cell,male,unknown,303,0.5845358438151091
-47,Survey of human embryonic development,bipolar neuron,male,unknown,705,1.3600586465005016
-48,Survey of human embryonic development,astrocyte,male,unknown,104,0.20063276487383286
-49,Survey of human embryonic development,microglial cell,male,unknown,50,0.09645806003549656
-50,Survey of human embryonic development,cell of skeletal muscle,male,unknown,2,0.003858322401419863
-51,Survey of human embryonic development,smooth muscle cell,male,unknown,35,0.06752064202484759
-52,Survey of human embryonic development,photoreceptor cell,male,unknown,7943,15.323327417238986
-53,Survey of human embryonic development,ganglion interneuron,male,unknown,585,1.1285593024153098
-54,Survey of human embryonic development,stromal cell,male,unknown,432,0.8333976387066903
-55,Survey of human embryonic development,amacrine cell,male,unknown,5190,10.012346631684544
-56,Survey of human embryonic development,corneal epithelial cell,male,unknown,55,0.10610386603904622
-57,Survey of human embryonic development,retinal ganglion cell,male,unknown,3629,7.000925997376341
-58,Survey of human embryonic development,retina horizontal cell,male,unknown,1458,2.81271703063508
-59,Survey of human embryonic development,endothelial cell of vascular tree,male,unknown,119,0.2295701828844818
-60,Survey of human embryonic development,retinal pigment epithelial cell,male,unknown,417,0.8044602206960414
-61,Survey of human embryonic development,lens fiber cell,male,unknown,109,0.2102785708773825
-62,Survey of human embryonic development,Muller cell,male,unknown,8863,17.098155721892123
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
+0,Survey of human embryonic development,bipolar neuron,CL:0000103,female,unknown,323,0.6231190678293078
+1,Survey of human embryonic development,astrocyte,CL:0000127,female,unknown,59,0.11382051084188594
+2,Survey of human embryonic development,microglial cell,CL:0000129,female,unknown,24,0.046299868817038355
+3,Survey of human embryonic development,cell of skeletal muscle,CL:0000188,female,unknown,15,0.028937418010648967
+4,Survey of human embryonic development,smooth muscle cell,CL:0000192,female,unknown,6,0.011574967204259589
+5,Survey of human embryonic development,photoreceptor cell,CL:0000210,female,unknown,2464,4.753453198549271
+6,Survey of human embryonic development,ganglion interneuron,CL:0000397,female,unknown,576,1.1111968516089203
+7,Survey of human embryonic development,stromal cell,CL:0000499,female,unknown,399,0.7697353190832626
+8,Survey of human embryonic development,amacrine cell,CL:0000561,female,unknown,1544,2.978624893896134
+9,Survey of human embryonic development,corneal epithelial cell,CL:0000575,female,unknown,13,0.025079095609229107
+10,Survey of human embryonic development,retinal ganglion cell,CL:0000740,female,unknown,3504,6.759780847287599
+11,Survey of human embryonic development,retina horizontal cell,CL:0000745,female,unknown,544,1.0494636931862027
+12,Survey of human embryonic development,endothelial cell of vascular tree,CL:0002139,female,unknown,59,0.11382051084188594
+13,Survey of human embryonic development,retinal pigment epithelial cell,CL:0002586,female,unknown,147,0.2835866965043599
+14,Survey of human embryonic development,lens fiber cell,CL:0011004,female,unknown,64,0.12346631684543562
+15,Survey of human embryonic development,Muller cell,CL:0011107,female,unknown,3862,7.450420557141754
+16,Survey of human embryonic development,bipolar neuron,CL:0000103,female,unknown,161,0.310594953314299
+17,Survey of human embryonic development,astrocyte,CL:0000127,female,unknown,12,0.023149934408519177
+18,Survey of human embryonic development,microglial cell,CL:0000129,female,unknown,8,0.015433289605679452
+19,Survey of human embryonic development,smooth muscle cell,CL:0000192,female,unknown,2,0.003858322401419863
+20,Survey of human embryonic development,photoreceptor cell,CL:0000210,female,unknown,1572,3.032641407516012
+21,Survey of human embryonic development,ganglion interneuron,CL:0000397,female,unknown,136,0.2623659232965507
+22,Survey of human embryonic development,stromal cell,CL:0000499,female,unknown,104,0.20063276487383286
+23,Survey of human embryonic development,amacrine cell,CL:0000561,female,unknown,1265,2.440388918898063
+24,Survey of human embryonic development,corneal epithelial cell,CL:0000575,female,unknown,23,0.04437070761632842
+25,Survey of human embryonic development,retinal ganglion cell,CL:0000740,female,unknown,1112,2.1452272551894436
+26,Survey of human embryonic development,retina horizontal cell,CL:0000745,female,unknown,236,0.45528204336754374
+27,Survey of human embryonic development,endothelial cell of vascular tree,CL:0002139,female,unknown,29,0.055945674820588015
+28,Survey of human embryonic development,retinal pigment epithelial cell,CL:0002586,female,unknown,92,0.17748283046531368
+29,Survey of human embryonic development,lens fiber cell,CL:0011004,female,unknown,58,0.11189134964117603
+30,Survey of human embryonic development,Muller cell,CL:0011107,female,unknown,1837,3.543869125704144
+31,Survey of human embryonic development,bipolar neuron,CL:0000103,male,unknown,18,0.03472490161277876
+32,Survey of human embryonic development,astrocyte,CL:0000127,male,unknown,6,0.011574967204259589
+33,Survey of human embryonic development,microglial cell,CL:0000129,male,unknown,6,0.011574967204259589
+34,Survey of human embryonic development,cell of skeletal muscle,CL:0000188,male,unknown,131,0.252720117293001
+35,Survey of human embryonic development,smooth muscle cell,CL:0000192,male,unknown,2,0.003858322401419863
+36,Survey of human embryonic development,photoreceptor cell,CL:0000210,male,unknown,419,0.8083185430974612
+37,Survey of human embryonic development,ganglion interneuron,CL:0000397,male,unknown,101,0.19484528127170306
+38,Survey of human embryonic development,stromal cell,CL:0000499,male,unknown,114,0.2199243768809322
+39,Survey of human embryonic development,amacrine cell,CL:0000561,male,unknown,148,0.2855158577050698
+40,Survey of human embryonic development,corneal epithelial cell,CL:0000575,male,unknown,13,0.025079095609229107
+41,Survey of human embryonic development,retinal ganglion cell,CL:0000740,male,unknown,500,0.9645806003549657
+42,Survey of human embryonic development,retina horizontal cell,CL:0000745,male,unknown,62,0.11960799444401575
+43,Survey of human embryonic development,endothelial cell of vascular tree,CL:0002139,male,unknown,4,0.007716644802839726
+44,Survey of human embryonic development,retinal pigment epithelial cell,CL:0002586,male,unknown,48,0.09259973763407671
+45,Survey of human embryonic development,lens fiber cell,CL:0011004,male,unknown,15,0.028937418010648967
+46,Survey of human embryonic development,Muller cell,CL:0011107,male,unknown,303,0.5845358438151091
+47,Survey of human embryonic development,bipolar neuron,CL:0000103,male,unknown,705,1.3600586465005016
+48,Survey of human embryonic development,astrocyte,CL:0000127,male,unknown,104,0.20063276487383286
+49,Survey of human embryonic development,microglial cell,CL:0000129,male,unknown,50,0.09645806003549656
+50,Survey of human embryonic development,cell of skeletal muscle,CL:0000188,male,unknown,2,0.003858322401419863
+51,Survey of human embryonic development,smooth muscle cell,CL:0000192,male,unknown,35,0.06752064202484759
+52,Survey of human embryonic development,photoreceptor cell,CL:0000210,male,unknown,7943,15.323327417238986
+53,Survey of human embryonic development,ganglion interneuron,CL:0000397,male,unknown,585,1.1285593024153098
+54,Survey of human embryonic development,stromal cell,CL:0000499,male,unknown,432,0.8333976387066903
+55,Survey of human embryonic development,amacrine cell,CL:0000561,male,unknown,5190,10.012346631684544
+56,Survey of human embryonic development,corneal epithelial cell,CL:0000575,male,unknown,55,0.10610386603904622
+57,Survey of human embryonic development,retinal ganglion cell,CL:0000740,male,unknown,3629,7.000925997376341
+58,Survey of human embryonic development,retina horizontal cell,CL:0000745,male,unknown,1458,2.81271703063508
+59,Survey of human embryonic development,endothelial cell of vascular tree,CL:0002139,male,unknown,119,0.2295701828844818
+60,Survey of human embryonic development,retinal pigment epithelial cell,CL:0002586,male,unknown,417,0.8044602206960414
+61,Survey of human embryonic development,lens fiber cell,CL:0011004,male,unknown,109,0.2102785708773825
+62,Survey of human embryonic development,Muller cell,CL:0011107,male,unknown,8863,17.098155721892123

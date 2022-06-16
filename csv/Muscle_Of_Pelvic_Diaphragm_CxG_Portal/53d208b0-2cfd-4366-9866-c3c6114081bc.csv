@@ -1,51 +1,51 @@
-,dataset_name,cell_type,sex,race,count,percentage
-0,Tabula Sapiens - All Cells,T cell,female,African American or Afro-Caribbean,2,0.025559105431309903
-1,Tabula Sapiens - All Cells,mast cell,female,African American or Afro-Caribbean,10,0.12779552715654952
-2,Tabula Sapiens - All Cells,mesenchymal stem cell,female,African American or Afro-Caribbean,338,4.319488817891374
-3,Tabula Sapiens - All Cells,slow muscle cell,female,African American or Afro-Caribbean,6,0.07667731629392971
-4,Tabula Sapiens - All Cells,fast muscle cell,female,African American or Afro-Caribbean,39,0.49840255591054317
-5,Tabula Sapiens - All Cells,smooth muscle cell,female,African American or Afro-Caribbean,8,0.10223642172523961
-6,Tabula Sapiens - All Cells,macrophage,female,African American or Afro-Caribbean,82,1.0479233226837061
-7,Tabula Sapiens - All Cells,tendon cell,female,African American or Afro-Caribbean,3,0.038338658146964855
-8,Tabula Sapiens - All Cells,"CD4-positive, alpha-beta T cell",female,African American or Afro-Caribbean,41,0.5239616613418531
-9,Tabula Sapiens - All Cells,"CD8-positive, alpha-beta T cell",female,African American or Afro-Caribbean,112,1.4313099041533546
-10,Tabula Sapiens - All Cells,pericyte cell,female,African American or Afro-Caribbean,57,0.7284345047923323
-11,Tabula Sapiens - All Cells,endothelial cell of lymphatic vessel,female,African American or Afro-Caribbean,35,0.44728434504792336
-12,Tabula Sapiens - All Cells,endothelial cell of vascular tree,female,African American or Afro-Caribbean,128,1.6357827476038338
-13,Tabula Sapiens - All Cells,capillary endothelial cell,female,African American or Afro-Caribbean,83,1.060702875399361
-14,Tabula Sapiens - All Cells,skeletal muscle satellite stem cell,female,African American or Afro-Caribbean,185,2.364217252396166
-15,Tabula Sapiens - All Cells,endothelial cell of artery,female,African American or Afro-Caribbean,2,0.025559105431309903
-16,Tabula Sapiens - All Cells,T cell,female,African American or Afro-Caribbean,154,1.9680511182108624
-17,Tabula Sapiens - All Cells,mesenchymal stem cell,female,African American or Afro-Caribbean,1699,21.712460063897765
-18,Tabula Sapiens - All Cells,slow muscle cell,female,African American or Afro-Caribbean,4,0.051118210862619806
-19,Tabula Sapiens - All Cells,fast muscle cell,female,African American or Afro-Caribbean,3,0.038338658146964855
-20,Tabula Sapiens - All Cells,erythrocyte,female,African American or Afro-Caribbean,6,0.07667731629392971
-21,Tabula Sapiens - All Cells,macrophage,female,African American or Afro-Caribbean,224,2.862619808306709
-22,Tabula Sapiens - All Cells,tendon cell,female,African American or Afro-Caribbean,15,0.19169329073482427
-23,Tabula Sapiens - All Cells,"CD4-positive, alpha-beta T cell",female,African American or Afro-Caribbean,2,0.025559105431309903
-24,Tabula Sapiens - All Cells,pericyte cell,female,African American or Afro-Caribbean,92,1.1757188498402555
-25,Tabula Sapiens - All Cells,mature NK T cell,female,African American or Afro-Caribbean,1,0.012779552715654952
-26,Tabula Sapiens - All Cells,endothelial cell of lymphatic vessel,female,African American or Afro-Caribbean,32,0.40894568690095845
-27,Tabula Sapiens - All Cells,endothelial cell of vascular tree,female,African American or Afro-Caribbean,1627,20.792332268370608
-28,Tabula Sapiens - All Cells,capillary endothelial cell,female,African American or Afro-Caribbean,88,1.1246006389776357
-29,Tabula Sapiens - All Cells,skeletal muscle satellite stem cell,female,African American or Afro-Caribbean,476,6.083067092651757
-30,Tabula Sapiens - All Cells,endothelial cell of artery,female,African American or Afro-Caribbean,19,0.24281150159744408
-31,Tabula Sapiens - All Cells,mesothelial cell,male,European,11,0.14057507987220447
-32,Tabula Sapiens - All Cells,T cell,male,European,42,0.536741214057508
-33,Tabula Sapiens - All Cells,mast cell,male,European,2,0.025559105431309903
-34,Tabula Sapiens - All Cells,mesenchymal stem cell,male,European,1071,13.686900958466452
-35,Tabula Sapiens - All Cells,slow muscle cell,male,European,6,0.07667731629392971
-36,Tabula Sapiens - All Cells,fast muscle cell,male,European,22,0.28115015974440893
-37,Tabula Sapiens - All Cells,smooth muscle cell,male,European,8,0.10223642172523961
-38,Tabula Sapiens - All Cells,erythrocyte,male,European,1,0.012779552715654952
-39,Tabula Sapiens - All Cells,macrophage,male,European,350,4.472843450479233
-40,Tabula Sapiens - All Cells,tendon cell,male,European,28,0.35782747603833864
-41,Tabula Sapiens - All Cells,"CD4-positive, alpha-beta T cell",male,European,32,0.40894568690095845
-42,Tabula Sapiens - All Cells,"CD8-positive, alpha-beta T cell",male,European,21,0.268370607028754
-43,Tabula Sapiens - All Cells,pericyte cell,male,European,13,0.16613418530351437
-44,Tabula Sapiens - All Cells,mature NK T cell,male,European,6,0.07667731629392971
-45,Tabula Sapiens - All Cells,endothelial cell of lymphatic vessel,male,European,18,0.23003194888178916
-46,Tabula Sapiens - All Cells,endothelial cell of vascular tree,male,European,54,0.6900958466453674
-47,Tabula Sapiens - All Cells,capillary endothelial cell,male,European,22,0.28115015974440893
-48,Tabula Sapiens - All Cells,skeletal muscle satellite stem cell,male,European,535,6.8370607028754
-49,Tabula Sapiens - All Cells,endothelial cell of artery,male,European,10,0.12779552715654952
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
+0,Tabula Sapiens - All Cells,T cell,CL:0000084,female,African American or Afro-Caribbean,2,0.025559105431309903
+1,Tabula Sapiens - All Cells,mast cell,CL:0000097,female,African American or Afro-Caribbean,10,0.12779552715654952
+2,Tabula Sapiens - All Cells,mesenchymal stem cell,CL:0000134,female,African American or Afro-Caribbean,338,4.319488817891374
+3,Tabula Sapiens - All Cells,slow muscle cell,CL:0000189,female,African American or Afro-Caribbean,6,0.07667731629392971
+4,Tabula Sapiens - All Cells,fast muscle cell,CL:0000190,female,African American or Afro-Caribbean,39,0.49840255591054317
+5,Tabula Sapiens - All Cells,smooth muscle cell,CL:0000192,female,African American or Afro-Caribbean,8,0.10223642172523961
+6,Tabula Sapiens - All Cells,macrophage,CL:0000235,female,African American or Afro-Caribbean,82,1.0479233226837061
+7,Tabula Sapiens - All Cells,tendon cell,CL:0000388,female,African American or Afro-Caribbean,3,0.038338658146964855
+8,Tabula Sapiens - All Cells,"CD4-positive, alpha-beta T cell",CL:0000624,female,African American or Afro-Caribbean,41,0.5239616613418531
+9,Tabula Sapiens - All Cells,"CD8-positive, alpha-beta T cell",CL:0000625,female,African American or Afro-Caribbean,112,1.4313099041533546
+10,Tabula Sapiens - All Cells,pericyte cell,CL:0000669,female,African American or Afro-Caribbean,57,0.7284345047923323
+11,Tabula Sapiens - All Cells,endothelial cell of lymphatic vessel,CL:0002138,female,African American or Afro-Caribbean,35,0.44728434504792336
+12,Tabula Sapiens - All Cells,endothelial cell of vascular tree,CL:0002139,female,African American or Afro-Caribbean,128,1.6357827476038338
+13,Tabula Sapiens - All Cells,capillary endothelial cell,CL:0002144,female,African American or Afro-Caribbean,83,1.060702875399361
+14,Tabula Sapiens - All Cells,skeletal muscle satellite stem cell,CL:0008011,female,African American or Afro-Caribbean,185,2.364217252396166
+15,Tabula Sapiens - All Cells,endothelial cell of artery,CL:1000413,female,African American or Afro-Caribbean,2,0.025559105431309903
+16,Tabula Sapiens - All Cells,T cell,CL:0000084,female,African American or Afro-Caribbean,154,1.9680511182108624
+17,Tabula Sapiens - All Cells,mesenchymal stem cell,CL:0000134,female,African American or Afro-Caribbean,1699,21.712460063897765
+18,Tabula Sapiens - All Cells,slow muscle cell,CL:0000189,female,African American or Afro-Caribbean,4,0.051118210862619806
+19,Tabula Sapiens - All Cells,fast muscle cell,CL:0000190,female,African American or Afro-Caribbean,3,0.038338658146964855
+20,Tabula Sapiens - All Cells,erythrocyte,CL:0000232,female,African American or Afro-Caribbean,6,0.07667731629392971
+21,Tabula Sapiens - All Cells,macrophage,CL:0000235,female,African American or Afro-Caribbean,224,2.862619808306709
+22,Tabula Sapiens - All Cells,tendon cell,CL:0000388,female,African American or Afro-Caribbean,15,0.19169329073482427
+23,Tabula Sapiens - All Cells,"CD4-positive, alpha-beta T cell",CL:0000624,female,African American or Afro-Caribbean,2,0.025559105431309903
+24,Tabula Sapiens - All Cells,pericyte cell,CL:0000669,female,African American or Afro-Caribbean,92,1.1757188498402555
+25,Tabula Sapiens - All Cells,mature NK T cell,CL:0000814,female,African American or Afro-Caribbean,1,0.012779552715654952
+26,Tabula Sapiens - All Cells,endothelial cell of lymphatic vessel,CL:0002138,female,African American or Afro-Caribbean,32,0.40894568690095845
+27,Tabula Sapiens - All Cells,endothelial cell of vascular tree,CL:0002139,female,African American or Afro-Caribbean,1627,20.792332268370608
+28,Tabula Sapiens - All Cells,capillary endothelial cell,CL:0002144,female,African American or Afro-Caribbean,88,1.1246006389776357
+29,Tabula Sapiens - All Cells,skeletal muscle satellite stem cell,CL:0008011,female,African American or Afro-Caribbean,476,6.083067092651757
+30,Tabula Sapiens - All Cells,endothelial cell of artery,CL:1000413,female,African American or Afro-Caribbean,19,0.24281150159744408
+31,Tabula Sapiens - All Cells,mesothelial cell,CL:0000077,male,European,11,0.14057507987220447
+32,Tabula Sapiens - All Cells,T cell,CL:0000084,male,European,42,0.536741214057508
+33,Tabula Sapiens - All Cells,mast cell,CL:0000097,male,European,2,0.025559105431309903
+34,Tabula Sapiens - All Cells,mesenchymal stem cell,CL:0000134,male,European,1071,13.686900958466452
+35,Tabula Sapiens - All Cells,slow muscle cell,CL:0000189,male,European,6,0.07667731629392971
+36,Tabula Sapiens - All Cells,fast muscle cell,CL:0000190,male,European,22,0.28115015974440893
+37,Tabula Sapiens - All Cells,smooth muscle cell,CL:0000192,male,European,8,0.10223642172523961
+38,Tabula Sapiens - All Cells,erythrocyte,CL:0000232,male,European,1,0.012779552715654952
+39,Tabula Sapiens - All Cells,macrophage,CL:0000235,male,European,350,4.472843450479233
+40,Tabula Sapiens - All Cells,tendon cell,CL:0000388,male,European,28,0.35782747603833864
+41,Tabula Sapiens - All Cells,"CD4-positive, alpha-beta T cell",CL:0000624,male,European,32,0.40894568690095845
+42,Tabula Sapiens - All Cells,"CD8-positive, alpha-beta T cell",CL:0000625,male,European,21,0.268370607028754
+43,Tabula Sapiens - All Cells,pericyte cell,CL:0000669,male,European,13,0.16613418530351437
+44,Tabula Sapiens - All Cells,mature NK T cell,CL:0000814,male,European,6,0.07667731629392971
+45,Tabula Sapiens - All Cells,endothelial cell of lymphatic vessel,CL:0002138,male,European,18,0.23003194888178916
+46,Tabula Sapiens - All Cells,endothelial cell of vascular tree,CL:0002139,male,European,54,0.6900958466453674
+47,Tabula Sapiens - All Cells,capillary endothelial cell,CL:0002144,male,European,22,0.28115015974440893
+48,Tabula Sapiens - All Cells,skeletal muscle satellite stem cell,CL:0008011,male,European,535,6.8370607028754
+49,Tabula Sapiens - All Cells,endothelial cell of artery,CL:1000413,male,European,10,0.12779552715654952

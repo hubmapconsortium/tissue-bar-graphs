@@ -1,9 +1,9 @@
-,dataset_name,cell_type,sex,race,count,percentage
-0,Single-cell longitudinal analysis of SARS-CoV-2 infection in human bronchial epithelial cells,club cell,unknown,unknown,4521,19.997346072186836
-1,Single-cell longitudinal analysis of SARS-CoV-2 infection in human bronchial epithelial cells,brush cell of bronchus,unknown,unknown,69,0.30520169851380047
-2,Single-cell longitudinal analysis of SARS-CoV-2 infection in human bronchial epithelial cells,ciliated cell of the bronchus,unknown,unknown,6669,29.498407643312103
-3,Single-cell longitudinal analysis of SARS-CoV-2 infection in human bronchial epithelial cells,somatic cell,unknown,unknown,1522,6.732130219391366
-4,Single-cell longitudinal analysis of SARS-CoV-2 infection in human bronchial epithelial cells,pulmonary ionocyte,unknown,unknown,126,0.5573248407643312
-5,Single-cell longitudinal analysis of SARS-CoV-2 infection in human bronchial epithelial cells,lung neuroendocrine cell,unknown,unknown,74,0.32731776362349607
-6,Single-cell longitudinal analysis of SARS-CoV-2 infection in human bronchial epithelial cells,bronchial goblet cell,unknown,unknown,43,0.19019815994338288
-7,Single-cell longitudinal analysis of SARS-CoV-2 infection in human bronchial epithelial cells,basal cell of epithelium of bronchus,unknown,unknown,9584,42.39207360226469
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
+0,Single-cell longitudinal analysis of SARS-CoV-2 infection in human bronchial epithelial cells,club cell,CL:0000158,unknown,unknown,4521,19.997346072186836
+1,Single-cell longitudinal analysis of SARS-CoV-2 infection in human bronchial epithelial cells,brush cell of bronchus,CL:0002208,unknown,unknown,69,0.30520169851380047
+2,Single-cell longitudinal analysis of SARS-CoV-2 infection in human bronchial epithelial cells,ciliated cell of the bronchus,CL:0002332,unknown,unknown,6669,29.498407643312103
+3,Single-cell longitudinal analysis of SARS-CoV-2 infection in human bronchial epithelial cells,somatic cell,CL:0002371,unknown,unknown,1522,6.732130219391366
+4,Single-cell longitudinal analysis of SARS-CoV-2 infection in human bronchial epithelial cells,pulmonary ionocyte,CL:0017000,unknown,unknown,126,0.5573248407643312
+5,Single-cell longitudinal analysis of SARS-CoV-2 infection in human bronchial epithelial cells,lung neuroendocrine cell,CL:1000223,unknown,unknown,74,0.32731776362349607
+6,Single-cell longitudinal analysis of SARS-CoV-2 infection in human bronchial epithelial cells,bronchial goblet cell,CL:1000312,unknown,unknown,43,0.19019815994338288
+7,Single-cell longitudinal analysis of SARS-CoV-2 infection in human bronchial epithelial cells,basal cell of epithelium of bronchus,CL:1000349,unknown,unknown,9584,42.39207360226469

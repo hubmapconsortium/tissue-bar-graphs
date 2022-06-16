@@ -1,26 +1,26 @@
-,dataset_name,cell_type,sex,race,count,percentage
-0,Tabula Sapiens - All Cells,erythroid progenitor cell,male,Hispanic or Latin American,52,0.31755725190839695
-1,Tabula Sapiens - All Cells,fibroblast,male,Hispanic or Latin American,207,1.2641221374045801
-2,Tabula Sapiens - All Cells,epithelial cell,male,Hispanic or Latin American,6637,40.53129770992366
-3,Tabula Sapiens - All Cells,endothelial cell,male,Hispanic or Latin American,471,2.8763358778625956
-4,Tabula Sapiens - All Cells,club cell,male,Hispanic or Latin American,290,1.7709923664122138
-5,Tabula Sapiens - All Cells,smooth muscle cell,male,Hispanic or Latin American,285,1.7404580152671756
-6,Tabula Sapiens - All Cells,macrophage,male,Hispanic or Latin American,317,1.9358778625954198
-7,Tabula Sapiens - All Cells,stromal cell,male,Hispanic or Latin American,32,0.19541984732824427
-8,Tabula Sapiens - All Cells,monocyte,male,Hispanic or Latin American,33,0.2015267175572519
-9,Tabula Sapiens - All Cells,"CD8-positive, alpha-beta T cell",male,Hispanic or Latin American,1081,6.601526717557252
-10,Tabula Sapiens - All Cells,mature NK T cell,male,Hispanic or Latin American,430,2.6259541984732824
-11,Tabula Sapiens - All Cells,luminal cell of prostate epithelium,male,Hispanic or Latin American,60,0.366412213740458
-12,Tabula Sapiens - All Cells,basal cell of prostate epithelium,male,Hispanic or Latin American,3198,19.529770992366412
-13,Tabula Sapiens - All Cells,sperm,male,European,11,0.06717557251908397
-14,Tabula Sapiens - All Cells,erythroid progenitor cell,male,European,34,0.20763358778625954
-15,Tabula Sapiens - All Cells,fibroblast,male,European,16,0.09770992366412214
-16,Tabula Sapiens - All Cells,epithelial cell,male,European,211,1.2885496183206107
-17,Tabula Sapiens - All Cells,T cell,male,European,586,3.5786259541984737
-18,Tabula Sapiens - All Cells,mast cell,male,European,9,0.05496183206106871
-19,Tabula Sapiens - All Cells,endothelial cell,male,European,114,0.6961832061068702
-20,Tabula Sapiens - All Cells,club cell,male,European,788,4.812213740458015
-21,Tabula Sapiens - All Cells,myeloid cell,male,European,365,2.2290076335877864
-22,Tabula Sapiens - All Cells,neutrophil,male,European,16,0.09770992366412214
-23,Tabula Sapiens - All Cells,luminal cell of prostate epithelium,male,European,1032,6.302290076335877
-24,Tabula Sapiens - All Cells,basal cell of prostate epithelium,male,European,100,0.6106870229007634
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
+0,Tabula Sapiens - All Cells,erythroid progenitor cell,CL:0000038,male,Hispanic or Latin American,52,0.31755725190839695
+1,Tabula Sapiens - All Cells,fibroblast,CL:0000057,male,Hispanic or Latin American,207,1.2641221374045801
+2,Tabula Sapiens - All Cells,epithelial cell,CL:0000066,male,Hispanic or Latin American,6637,40.53129770992366
+3,Tabula Sapiens - All Cells,endothelial cell,CL:0000115,male,Hispanic or Latin American,471,2.8763358778625956
+4,Tabula Sapiens - All Cells,club cell,CL:0000158,male,Hispanic or Latin American,290,1.7709923664122138
+5,Tabula Sapiens - All Cells,smooth muscle cell,CL:0000192,male,Hispanic or Latin American,285,1.7404580152671756
+6,Tabula Sapiens - All Cells,macrophage,CL:0000235,male,Hispanic or Latin American,317,1.9358778625954198
+7,Tabula Sapiens - All Cells,stromal cell,CL:0000499,male,Hispanic or Latin American,32,0.19541984732824427
+8,Tabula Sapiens - All Cells,monocyte,CL:0000576,male,Hispanic or Latin American,33,0.2015267175572519
+9,Tabula Sapiens - All Cells,"CD8-positive, alpha-beta T cell",CL:0000625,male,Hispanic or Latin American,1081,6.601526717557252
+10,Tabula Sapiens - All Cells,mature NK T cell,CL:0000814,male,Hispanic or Latin American,430,2.6259541984732824
+11,Tabula Sapiens - All Cells,luminal cell of prostate epithelium,CL:0002340,male,Hispanic or Latin American,60,0.366412213740458
+12,Tabula Sapiens - All Cells,basal cell of prostate epithelium,CL:0002341,male,Hispanic or Latin American,3198,19.529770992366412
+13,Tabula Sapiens - All Cells,sperm,CL:0000019,male,European,11,0.06717557251908397
+14,Tabula Sapiens - All Cells,erythroid progenitor cell,CL:0000038,male,European,34,0.20763358778625954
+15,Tabula Sapiens - All Cells,fibroblast,CL:0000057,male,European,16,0.09770992366412214
+16,Tabula Sapiens - All Cells,epithelial cell,CL:0000066,male,European,211,1.2885496183206107
+17,Tabula Sapiens - All Cells,T cell,CL:0000084,male,European,586,3.5786259541984737
+18,Tabula Sapiens - All Cells,mast cell,CL:0000097,male,European,9,0.05496183206106871
+19,Tabula Sapiens - All Cells,endothelial cell,CL:0000115,male,European,114,0.6961832061068702
+20,Tabula Sapiens - All Cells,club cell,CL:0000158,male,European,788,4.812213740458015
+21,Tabula Sapiens - All Cells,myeloid cell,CL:0000763,male,European,365,2.2290076335877864
+22,Tabula Sapiens - All Cells,neutrophil,CL:0000775,male,European,16,0.09770992366412214
+23,Tabula Sapiens - All Cells,luminal cell of prostate epithelium,CL:0002340,male,European,1032,6.302290076335877
+24,Tabula Sapiens - All Cells,basal cell of prostate epithelium,CL:0002341,male,European,100,0.6106870229007634

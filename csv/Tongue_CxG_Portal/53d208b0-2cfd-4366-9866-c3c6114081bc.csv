@@ -1,29 +1,29 @@
-,dataset_name,cell_type,sex,race,count,percentage
-0,Tabula Sapiens - All Cells,fibroblast,female,African American or Afro-Caribbean,8,0.05326231691078562
-1,Tabula Sapiens - All Cells,keratinocyte,female,African American or Afro-Caribbean,5,0.033288948069241014
-2,Tabula Sapiens - All Cells,basal cell,female,African American or Afro-Caribbean,164,1.0918774966711053
-3,Tabula Sapiens - All Cells,pericyte cell,female,African American or Afro-Caribbean,2,0.013315579227696404
-4,Tabula Sapiens - All Cells,leukocyte,female,African American or Afro-Caribbean,6,0.03994673768308921
-5,Tabula Sapiens - All Cells,tongue muscle cell,female,African American or Afro-Caribbean,1,0.006657789613848202
-6,Tabula Sapiens - All Cells,fibroblast,female,European,115,0.7656458055925432
-7,Tabula Sapiens - All Cells,epithelial cell,female,European,2114,14.074567243675098
-8,Tabula Sapiens - All Cells,keratinocyte,female,European,14,0.09320905459387484
-9,Tabula Sapiens - All Cells,basal cell,female,European,5355,35.65246338215712
-10,Tabula Sapiens - All Cells,pericyte cell,female,European,81,0.5392809587217045
-11,Tabula Sapiens - All Cells,leukocyte,female,European,1609,10.712383488681757
-12,Tabula Sapiens - All Cells,endothelial cell of lymphatic vessel,female,European,21,0.13981358189081225
-13,Tabula Sapiens - All Cells,capillary endothelial cell,female,European,23,0.15312916111850866
-14,Tabula Sapiens - All Cells,vein endothelial cell,female,European,70,0.4660452729693742
-15,Tabula Sapiens - All Cells,tongue muscle cell,female,European,7,0.04660452729693742
-16,Tabula Sapiens - All Cells,endothelial cell of artery,female,European,8,0.05326231691078562
-17,Tabula Sapiens - All Cells,fibroblast,male,European,128,0.8521970705725699
-18,Tabula Sapiens - All Cells,keratinocyte,male,European,3648,24.28761651131824
-19,Tabula Sapiens - All Cells,basal cell,male,European,762,5.07323568575233
-20,Tabula Sapiens - All Cells,pericyte cell,male,European,34,0.2263648468708389
-21,Tabula Sapiens - All Cells,leukocyte,male,European,494,3.288948069241012
-22,Tabula Sapiens - All Cells,endothelial cell of lymphatic vessel,male,European,23,0.15312916111850866
-23,Tabula Sapiens - All Cells,capillary endothelial cell,male,European,78,0.5193075898801598
-24,Tabula Sapiens - All Cells,vein endothelial cell,male,European,156,1.0386151797603196
-25,Tabula Sapiens - All Cells,Schwann cell,male,European,10,0.06657789613848203
-26,Tabula Sapiens - All Cells,tongue muscle cell,male,European,52,0.34620505992010653
-27,Tabula Sapiens - All Cells,endothelial cell of artery,male,European,32,0.21304926764314247
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
+0,Tabula Sapiens - All Cells,fibroblast,CL:0000057,female,African American or Afro-Caribbean,8,0.05326231691078562
+1,Tabula Sapiens - All Cells,keratinocyte,CL:0000312,female,African American or Afro-Caribbean,5,0.033288948069241014
+2,Tabula Sapiens - All Cells,basal cell,CL:0000646,female,African American or Afro-Caribbean,164,1.0918774966711053
+3,Tabula Sapiens - All Cells,pericyte cell,CL:0000669,female,African American or Afro-Caribbean,2,0.013315579227696404
+4,Tabula Sapiens - All Cells,leukocyte,CL:0000738,female,African American or Afro-Caribbean,6,0.03994673768308921
+5,Tabula Sapiens - All Cells,tongue muscle cell,CL:0002673,female,African American or Afro-Caribbean,1,0.006657789613848202
+6,Tabula Sapiens - All Cells,fibroblast,CL:0000057,female,European,115,0.7656458055925432
+7,Tabula Sapiens - All Cells,epithelial cell,CL:0000066,female,European,2114,14.074567243675098
+8,Tabula Sapiens - All Cells,keratinocyte,CL:0000312,female,European,14,0.09320905459387484
+9,Tabula Sapiens - All Cells,basal cell,CL:0000646,female,European,5355,35.65246338215712
+10,Tabula Sapiens - All Cells,pericyte cell,CL:0000669,female,European,81,0.5392809587217045
+11,Tabula Sapiens - All Cells,leukocyte,CL:0000738,female,European,1609,10.712383488681757
+12,Tabula Sapiens - All Cells,endothelial cell of lymphatic vessel,CL:0002138,female,European,21,0.13981358189081225
+13,Tabula Sapiens - All Cells,capillary endothelial cell,CL:0002144,female,European,23,0.15312916111850866
+14,Tabula Sapiens - All Cells,vein endothelial cell,CL:0002543,female,European,70,0.4660452729693742
+15,Tabula Sapiens - All Cells,tongue muscle cell,CL:0002673,female,European,7,0.04660452729693742
+16,Tabula Sapiens - All Cells,endothelial cell of artery,CL:1000413,female,European,8,0.05326231691078562
+17,Tabula Sapiens - All Cells,fibroblast,CL:0000057,male,European,128,0.8521970705725699
+18,Tabula Sapiens - All Cells,keratinocyte,CL:0000312,male,European,3648,24.28761651131824
+19,Tabula Sapiens - All Cells,basal cell,CL:0000646,male,European,762,5.07323568575233
+20,Tabula Sapiens - All Cells,pericyte cell,CL:0000669,male,European,34,0.2263648468708389
+21,Tabula Sapiens - All Cells,leukocyte,CL:0000738,male,European,494,3.288948069241012
+22,Tabula Sapiens - All Cells,endothelial cell of lymphatic vessel,CL:0002138,male,European,23,0.15312916111850866
+23,Tabula Sapiens - All Cells,capillary endothelial cell,CL:0002144,male,European,78,0.5193075898801598
+24,Tabula Sapiens - All Cells,vein endothelial cell,CL:0002543,male,European,156,1.0386151797603196
+25,Tabula Sapiens - All Cells,Schwann cell,CL:0002573,male,European,10,0.06657789613848203
+26,Tabula Sapiens - All Cells,tongue muscle cell,CL:0002673,male,European,52,0.34620505992010653
+27,Tabula Sapiens - All Cells,endothelial cell of artery,CL:1000413,male,European,32,0.21304926764314247

@@ -1,6 +1,6 @@
-,dataset_name,cell_type,sex,race,count,percentage
-0,Pax6 - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),caudal ganglionic eminence derived GABAergic cortical interneuron,female,European,2569,50.17578124999999
-1,Pax6 - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),caudal ganglionic eminence derived GABAergic cortical interneuron,female,"Greater Middle Eastern  (Middle Eastern, North African or Persian)",2,0.0390625
-2,Pax6 - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),caudal ganglionic eminence derived GABAergic cortical interneuron,female,admixed ancestry,119,2.32421875
-3,Pax6 - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),caudal ganglionic eminence derived GABAergic cortical interneuron,male,Asian,114,2.2265625
-4,Pax6 - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),caudal ganglionic eminence derived GABAergic cortical interneuron,male,European,2316,45.234375
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
+0,Pax6 - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),caudal ganglionic eminence derived GABAergic cortical interneuron,CL:4023070,female,European,2569,50.17578124999999
+1,Pax6 - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),caudal ganglionic eminence derived GABAergic cortical interneuron,CL:4023070,female,"Greater Middle Eastern  (Middle Eastern, North African or Persian)",2,0.0390625
+2,Pax6 - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),caudal ganglionic eminence derived GABAergic cortical interneuron,CL:4023070,female,admixed ancestry,119,2.32421875
+3,Pax6 - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),caudal ganglionic eminence derived GABAergic cortical interneuron,CL:4023070,male,Asian,114,2.2265625
+4,Pax6 - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),caudal ganglionic eminence derived GABAergic cortical interneuron,CL:4023070,male,European,2316,45.234375

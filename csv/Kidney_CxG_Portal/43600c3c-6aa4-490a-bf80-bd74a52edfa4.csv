@@ -1,29 +1,29 @@
-,dataset_name,cell_type,sex,race,count,percentage
-0,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,endothelial cell,male,African American,13555,28.408852747621243
-1,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,macrophage,male,African American,109,0.22844448170348328
-2,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,kidney granular cell,male,African American,125,0.2619776166324349
-3,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,mesangial cell,male,African American,22,0.04610806052730854
-4,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,glomerular visceral epithelial cell,male,African American,290,0.607788070587249
-5,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,leukocyte,male,African American,1386,2.9048078132204385
-6,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,blood vessel smooth muscle cell,male,African American,700,1.4670746531416357
-7,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,kidney interstitial fibroblast,male,African American,484,1.014377331600788
-8,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,kidney proximal convoluted tubule epithelial cell,male,African American,4889,10.246468541727795
-9,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,kidney distal convoluted tubule epithelial cell,male,African American,518,1.0856352433248104
-10,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,macula densa epithelial cell,male,African American,19,0.03982059772813011
-11,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,kidney loop of Henle thick ascending limb epithelial cell,male,African American,439,0.9200653896131115
-12,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,kidney collecting duct principal cell,male,African American,1059,2.2194743681099887
-13,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,kidney collecting duct intercalated cell,male,African American,262,0.5491050844615837
-14,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,endothelial cell,male,African American,13555,28.408852747621243
-15,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,macrophage,male,African American,109,0.22844448170348328
-16,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,kidney granular cell,male,African American,125,0.2619776166324349
-17,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,mesangial cell,male,African American,22,0.04610806052730854
-18,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,glomerular visceral epithelial cell,male,African American,290,0.607788070587249
-19,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,leukocyte,male,African American,1386,2.9048078132204385
-20,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,blood vessel smooth muscle cell,male,African American,700,1.4670746531416357
-21,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,kidney interstitial fibroblast,male,African American,484,1.014377331600788
-22,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,kidney proximal convoluted tubule epithelial cell,male,African American,4889,10.246468541727795
-23,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,kidney distal convoluted tubule epithelial cell,male,African American,518,1.0856352433248104
-24,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,macula densa epithelial cell,male,African American,19,0.03982059772813011
-25,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,kidney loop of Henle thick ascending limb epithelial cell,male,African American,439,0.9200653896131115
-26,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,kidney collecting duct principal cell,male,African American,1059,2.2194743681099887
-27,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,kidney collecting duct intercalated cell,male,African American,262,0.5491050844615837
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
+0,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,endothelial cell,CL:0000115,male,African American,13555,28.408852747621243
+1,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,macrophage,CL:0000235,male,African American,109,0.22844448170348328
+2,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,kidney granular cell,CL:0000648,male,African American,125,0.2619776166324349
+3,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,mesangial cell,CL:0000650,male,African American,22,0.04610806052730854
+4,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,glomerular visceral epithelial cell,CL:0000653,male,African American,290,0.607788070587249
+5,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,leukocyte,CL:0000738,male,African American,1386,2.9048078132204385
+6,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,blood vessel smooth muscle cell,CL:0019018,male,African American,700,1.4670746531416357
+7,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,kidney interstitial fibroblast,CL:1000692,male,African American,484,1.014377331600788
+8,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,kidney proximal convoluted tubule epithelial cell,CL:1000838,male,African American,4889,10.246468541727795
+9,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,kidney distal convoluted tubule epithelial cell,CL:1000849,male,African American,518,1.0856352433248104
+10,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,macula densa epithelial cell,CL:1000850,male,African American,19,0.03982059772813011
+11,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,male,African American,439,0.9200653896131115
+12,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,kidney collecting duct principal cell,CL:1001431,male,African American,1059,2.2194743681099887
+13,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,kidney collecting duct intercalated cell,CL:1001432,male,African American,262,0.5491050844615837
+14,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,endothelial cell,CL:0000115,male,African American,13555,28.408852747621243
+15,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,macrophage,CL:0000235,male,African American,109,0.22844448170348328
+16,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,kidney granular cell,CL:0000648,male,African American,125,0.2619776166324349
+17,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,mesangial cell,CL:0000650,male,African American,22,0.04610806052730854
+18,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,glomerular visceral epithelial cell,CL:0000653,male,African American,290,0.607788070587249
+19,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,leukocyte,CL:0000738,male,African American,1386,2.9048078132204385
+20,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,blood vessel smooth muscle cell,CL:0019018,male,African American,700,1.4670746531416357
+21,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,kidney interstitial fibroblast,CL:1000692,male,African American,484,1.014377331600788
+22,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,kidney proximal convoluted tubule epithelial cell,CL:1000838,male,African American,4889,10.246468541727795
+23,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,kidney distal convoluted tubule epithelial cell,CL:1000849,male,African American,518,1.0856352433248104
+24,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,macula densa epithelial cell,CL:1000850,male,African American,19,0.03982059772813011
+25,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,male,African American,439,0.9200653896131115
+26,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,kidney collecting duct principal cell,CL:1001431,male,African American,1059,2.2194743681099887
+27,Spatial transcriptomics in the healthy human kidney: Puck_200104_16,kidney collecting duct intercalated cell,CL:1001432,male,African American,262,0.5491050844615837

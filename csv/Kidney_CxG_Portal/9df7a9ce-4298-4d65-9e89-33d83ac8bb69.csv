@@ -1,33 +1,33 @@
-,dataset_name,cell_type,sex,race,count,percentage
-0,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,native cell,male,European,10624,14.760885875455026
-1,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,endothelial cell,male,European,3728,5.179648206296719
-2,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,mesangial cell,male,European,634,0.8808736488176285
-3,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,glomerular visceral epithelial cell,male,European,184,0.2556478728429711
-4,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,pericyte cell,male,European,88,0.12226637396837746
-5,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,leukocyte,male,European,217,0.30149776308111265
-6,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,blood vessel smooth muscle cell,male,European,349,0.4848973240336788
-7,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,kidney interstitial fibroblast,male,European,1636,2.2730430433211994
-8,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,kidney connecting tubule epithelial cell,male,European,13,0.018062077972601218
-9,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,kidney proximal convoluted tubule epithelial cell,male,European,4276,5.941034262372524
-10,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,kidney distal convoluted tubule epithelial cell,male,European,22,0.030566593492094365
-11,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,kidney loop of Henle epithelial cell,male,European,1,0.0013893906132770167
-12,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,kidney loop of Henle thick ascending limb epithelial cell,male,European,3886,5.399171923194487
-13,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,kidney loop of Henle thin descending limb epithelial cell,male,European,7017,9.749353933364826
-14,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,kidney collecting duct principal cell,male,European,2765,3.8416650457109514
-15,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,kidney collecting duct intercalated cell,male,European,547,0.7599966654625282
-16,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,native cell,male,European,10624,14.760885875455026
-17,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,endothelial cell,male,European,3728,5.179648206296719
-18,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,mesangial cell,male,European,634,0.8808736488176285
-19,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,glomerular visceral epithelial cell,male,European,184,0.2556478728429711
-20,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,pericyte cell,male,European,88,0.12226637396837746
-21,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,leukocyte,male,European,217,0.30149776308111265
-22,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,blood vessel smooth muscle cell,male,European,349,0.4848973240336788
-23,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,kidney interstitial fibroblast,male,European,1636,2.2730430433211994
-24,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,kidney connecting tubule epithelial cell,male,European,13,0.018062077972601218
-25,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,kidney proximal convoluted tubule epithelial cell,male,European,4276,5.941034262372524
-26,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,kidney distal convoluted tubule epithelial cell,male,European,22,0.030566593492094365
-27,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,kidney loop of Henle epithelial cell,male,European,1,0.0013893906132770167
-28,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,kidney loop of Henle thick ascending limb epithelial cell,male,European,3886,5.399171923194487
-29,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,kidney loop of Henle thin descending limb epithelial cell,male,European,7017,9.749353933364826
-30,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,kidney collecting duct principal cell,male,European,2765,3.8416650457109514
-31,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,kidney collecting duct intercalated cell,male,European,547,0.7599966654625282
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
+0,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,native cell,CL:0000003,male,European,10624,14.760885875455026
+1,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,endothelial cell,CL:0000115,male,European,3728,5.179648206296719
+2,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,mesangial cell,CL:0000650,male,European,634,0.8808736488176285
+3,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,glomerular visceral epithelial cell,CL:0000653,male,European,184,0.2556478728429711
+4,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,pericyte cell,CL:0000669,male,European,88,0.12226637396837746
+5,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,leukocyte,CL:0000738,male,European,217,0.30149776308111265
+6,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,blood vessel smooth muscle cell,CL:0019018,male,European,349,0.4848973240336788
+7,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,kidney interstitial fibroblast,CL:1000692,male,European,1636,2.2730430433211994
+8,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,kidney connecting tubule epithelial cell,CL:1000768,male,European,13,0.018062077972601218
+9,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,kidney proximal convoluted tubule epithelial cell,CL:1000838,male,European,4276,5.941034262372524
+10,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,kidney distal convoluted tubule epithelial cell,CL:1000849,male,European,22,0.030566593492094365
+11,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,kidney loop of Henle epithelial cell,CL:1000909,male,European,1,0.0013893906132770167
+12,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,male,European,3886,5.399171923194487
+13,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,kidney loop of Henle thin descending limb epithelial cell,CL:1001111,male,European,7017,9.749353933364826
+14,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,kidney collecting duct principal cell,CL:1001431,male,European,2765,3.8416650457109514
+15,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,kidney collecting duct intercalated cell,CL:1001432,male,European,547,0.7599966654625282
+16,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,native cell,CL:0000003,male,European,10624,14.760885875455026
+17,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,endothelial cell,CL:0000115,male,European,3728,5.179648206296719
+18,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,mesangial cell,CL:0000650,male,European,634,0.8808736488176285
+19,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,glomerular visceral epithelial cell,CL:0000653,male,European,184,0.2556478728429711
+20,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,pericyte cell,CL:0000669,male,European,88,0.12226637396837746
+21,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,leukocyte,CL:0000738,male,European,217,0.30149776308111265
+22,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,blood vessel smooth muscle cell,CL:0019018,male,European,349,0.4848973240336788
+23,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,kidney interstitial fibroblast,CL:1000692,male,European,1636,2.2730430433211994
+24,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,kidney connecting tubule epithelial cell,CL:1000768,male,European,13,0.018062077972601218
+25,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,kidney proximal convoluted tubule epithelial cell,CL:1000838,male,European,4276,5.941034262372524
+26,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,kidney distal convoluted tubule epithelial cell,CL:1000849,male,European,22,0.030566593492094365
+27,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,kidney loop of Henle epithelial cell,CL:1000909,male,European,1,0.0013893906132770167
+28,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,male,European,3886,5.399171923194487
+29,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,kidney loop of Henle thin descending limb epithelial cell,CL:1001111,male,European,7017,9.749353933364826
+30,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,kidney collecting duct principal cell,CL:1001431,male,European,2765,3.8416650457109514
+31,Spatial transcriptomics in the healthy human kidney: Puck_200903_12,kidney collecting duct intercalated cell,CL:1001432,male,European,547,0.7599966654625282

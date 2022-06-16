@@ -1,27 +1,27 @@
-,dataset_name,cell_type,sex,race,count,percentage
-0,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,endothelial cell,female,European,7539,32.904155027932966
-1,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,macrophage,female,European,30,0.13093575418994413
-2,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,kidney granular cell,female,European,37,0.16148743016759776
-3,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,mesangial cell,female,European,2,0.008729050279329608
-4,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,glomerular visceral epithelial cell,female,European,152,0.6634078212290503
-5,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,leukocyte,female,European,577,2.5183310055865924
-6,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,blood vessel smooth muscle cell,female,European,641,2.7976606145251397
-7,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,kidney interstitial fibroblast,female,European,259,1.1304120111731844
-8,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,kidney proximal convoluted tubule epithelial cell,female,European,1302,5.682611731843576
-9,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,kidney distal convoluted tubule epithelial cell,female,European,211,0.9209148044692738
-10,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,kidney loop of Henle thick ascending limb epithelial cell,female,European,149,0.6503142458100558
-11,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,kidney collecting duct principal cell,female,European,350,1.5275837988826817
-12,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,kidney collecting duct intercalated cell,female,European,207,0.9034567039106146
-13,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,endothelial cell,female,European,7539,32.904155027932966
-14,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,macrophage,female,European,30,0.13093575418994413
-15,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,kidney granular cell,female,European,37,0.16148743016759776
-16,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,mesangial cell,female,European,2,0.008729050279329608
-17,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,glomerular visceral epithelial cell,female,European,152,0.6634078212290503
-18,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,leukocyte,female,European,577,2.5183310055865924
-19,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,blood vessel smooth muscle cell,female,European,641,2.7976606145251397
-20,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,kidney interstitial fibroblast,female,European,259,1.1304120111731844
-21,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,kidney proximal convoluted tubule epithelial cell,female,European,1302,5.682611731843576
-22,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,kidney distal convoluted tubule epithelial cell,female,European,211,0.9209148044692738
-23,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,kidney loop of Henle thick ascending limb epithelial cell,female,European,149,0.6503142458100558
-24,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,kidney collecting duct principal cell,female,European,350,1.5275837988826817
-25,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,kidney collecting duct intercalated cell,female,European,207,0.9034567039106146
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
+0,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,endothelial cell,CL:0000115,female,European,7539,32.904155027932966
+1,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,macrophage,CL:0000235,female,European,30,0.13093575418994413
+2,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,kidney granular cell,CL:0000648,female,European,37,0.16148743016759776
+3,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,mesangial cell,CL:0000650,female,European,2,0.008729050279329608
+4,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,glomerular visceral epithelial cell,CL:0000653,female,European,152,0.6634078212290503
+5,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,leukocyte,CL:0000738,female,European,577,2.5183310055865924
+6,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,blood vessel smooth muscle cell,CL:0019018,female,European,641,2.7976606145251397
+7,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,kidney interstitial fibroblast,CL:1000692,female,European,259,1.1304120111731844
+8,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,kidney proximal convoluted tubule epithelial cell,CL:1000838,female,European,1302,5.682611731843576
+9,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,kidney distal convoluted tubule epithelial cell,CL:1000849,female,European,211,0.9209148044692738
+10,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,female,European,149,0.6503142458100558
+11,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,kidney collecting duct principal cell,CL:1001431,female,European,350,1.5275837988826817
+12,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,kidney collecting duct intercalated cell,CL:1001432,female,European,207,0.9034567039106146
+13,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,endothelial cell,CL:0000115,female,European,7539,32.904155027932966
+14,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,macrophage,CL:0000235,female,European,30,0.13093575418994413
+15,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,kidney granular cell,CL:0000648,female,European,37,0.16148743016759776
+16,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,mesangial cell,CL:0000650,female,European,2,0.008729050279329608
+17,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,glomerular visceral epithelial cell,CL:0000653,female,European,152,0.6634078212290503
+18,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,leukocyte,CL:0000738,female,European,577,2.5183310055865924
+19,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,blood vessel smooth muscle cell,CL:0019018,female,European,641,2.7976606145251397
+20,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,kidney interstitial fibroblast,CL:1000692,female,European,259,1.1304120111731844
+21,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,kidney proximal convoluted tubule epithelial cell,CL:1000838,female,European,1302,5.682611731843576
+22,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,kidney distal convoluted tubule epithelial cell,CL:1000849,female,European,211,0.9209148044692738
+23,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,female,European,149,0.6503142458100558
+24,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,kidney collecting duct principal cell,CL:1001431,female,European,350,1.5275837988826817
+25,Spatial transcriptomics in the healthy human kidney: Puck_200113_07,kidney collecting duct intercalated cell,CL:1001432,female,European,207,0.9034567039106146

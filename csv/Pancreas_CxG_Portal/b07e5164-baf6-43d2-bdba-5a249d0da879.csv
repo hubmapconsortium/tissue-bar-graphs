@@ -1,39 +1,39 @@
-,dataset_name,cell_type,sex,race,count,percentage
-0,A Single-Cell Transcriptome Atlas of the Human Pancreas,endothelial cell,female,unknown,6,0.28222013170272814
-1,A Single-Cell Transcriptome Atlas of the Human Pancreas,type B pancreatic cell,female,unknown,121,5.691439322671684
-2,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic A cell,female,unknown,301,14.15804327375353
-3,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic D cell,female,unknown,68,3.1984948259642523
-4,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic acinar cell,female,unknown,55,2.5870178739416745
-5,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic ductal cell,female,unknown,80,3.762935089369708
-6,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic PP cell,female,unknown,5,0.23518344308560676
-7,A Single-Cell Transcriptome Atlas of the Human Pancreas,mesenchymal cell,female,unknown,50,2.351834430856068
-8,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic endocrine cell,female,unknown,1,0.047036688617121354
-9,A Single-Cell Transcriptome Atlas of the Human Pancreas,endothelial cell,male,unknown,2,0.09407337723424271
-10,A Single-Cell Transcriptome Atlas of the Human Pancreas,type B pancreatic cell,male,unknown,154,7.243650047036689
-11,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic A cell,male,unknown,248,11.665098777046095
-12,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic D cell,male,unknown,74,3.4807149576669802
-13,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic acinar cell,male,unknown,5,0.23518344308560676
-14,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic ductal cell,male,unknown,21,0.9877704609595485
-15,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic PP cell,male,unknown,59,2.7751646284101597
-16,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic epsilon cell,male,unknown,2,0.09407337723424271
-17,A Single-Cell Transcriptome Atlas of the Human Pancreas,mesenchymal cell,male,unknown,6,0.28222013170272814
-18,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic endocrine cell,male,unknown,3,0.14111006585136407
-19,A Single-Cell Transcriptome Atlas of the Human Pancreas,endothelial cell,male,unknown,4,0.18814675446848542
-20,A Single-Cell Transcriptome Atlas of the Human Pancreas,type B pancreatic cell,male,unknown,14,0.658513640639699
-21,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic A cell,male,unknown,54,2.539981185324553
-22,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic D cell,male,unknown,7,0.3292568203198495
-23,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic acinar cell,male,unknown,53,2.4929444967074317
-24,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic ductal cell,male,unknown,39,1.8344308560677327
-25,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic PP cell,male,unknown,9,0.4233301975540922
-26,A Single-Cell Transcriptome Atlas of the Human Pancreas,mesenchymal cell,male,unknown,1,0.047036688617121354
-27,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic endocrine cell,male,unknown,1,0.047036688617121354
-28,A Single-Cell Transcriptome Atlas of the Human Pancreas,endothelial cell,male,unknown,9,0.4233301975540922
-29,A Single-Cell Transcriptome Atlas of the Human Pancreas,type B pancreatic cell,male,unknown,159,7.4788334901222955
-30,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic A cell,male,unknown,209,9.830667920978362
-31,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic D cell,male,unknown,44,2.06961429915334
-32,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic acinar cell,male,unknown,106,4.985888993414863
-33,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic ductal cell,male,unknown,106,4.985888993414863
-34,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic PP cell,male,unknown,25,1.175917215428034
-35,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic epsilon cell,male,unknown,1,0.047036688617121354
-36,A Single-Cell Transcriptome Atlas of the Human Pancreas,mesenchymal cell,male,unknown,21,0.9877704609595485
-37,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic endocrine cell,male,unknown,3,0.14111006585136407
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
+0,A Single-Cell Transcriptome Atlas of the Human Pancreas,endothelial cell,CL:0000115,female,unknown,6,0.28222013170272814
+1,A Single-Cell Transcriptome Atlas of the Human Pancreas,type B pancreatic cell,CL:0000169,female,unknown,121,5.691439322671684
+2,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic A cell,CL:0000171,female,unknown,301,14.15804327375353
+3,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic D cell,CL:0000173,female,unknown,68,3.1984948259642523
+4,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic acinar cell,CL:0002064,female,unknown,55,2.5870178739416745
+5,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic ductal cell,CL:0002079,female,unknown,80,3.762935089369708
+6,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic PP cell,CL:0002275,female,unknown,5,0.23518344308560676
+7,A Single-Cell Transcriptome Atlas of the Human Pancreas,mesenchymal cell,CL:0008019,female,unknown,50,2.351834430856068
+8,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic endocrine cell,CL:0008024,female,unknown,1,0.047036688617121354
+9,A Single-Cell Transcriptome Atlas of the Human Pancreas,endothelial cell,CL:0000115,male,unknown,2,0.09407337723424271
+10,A Single-Cell Transcriptome Atlas of the Human Pancreas,type B pancreatic cell,CL:0000169,male,unknown,154,7.243650047036689
+11,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic A cell,CL:0000171,male,unknown,248,11.665098777046095
+12,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic D cell,CL:0000173,male,unknown,74,3.4807149576669802
+13,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic acinar cell,CL:0002064,male,unknown,5,0.23518344308560676
+14,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic ductal cell,CL:0002079,male,unknown,21,0.9877704609595485
+15,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic PP cell,CL:0002275,male,unknown,59,2.7751646284101597
+16,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic epsilon cell,CL:0005019,male,unknown,2,0.09407337723424271
+17,A Single-Cell Transcriptome Atlas of the Human Pancreas,mesenchymal cell,CL:0008019,male,unknown,6,0.28222013170272814
+18,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic endocrine cell,CL:0008024,male,unknown,3,0.14111006585136407
+19,A Single-Cell Transcriptome Atlas of the Human Pancreas,endothelial cell,CL:0000115,male,unknown,4,0.18814675446848542
+20,A Single-Cell Transcriptome Atlas of the Human Pancreas,type B pancreatic cell,CL:0000169,male,unknown,14,0.658513640639699
+21,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic A cell,CL:0000171,male,unknown,54,2.539981185324553
+22,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic D cell,CL:0000173,male,unknown,7,0.3292568203198495
+23,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic acinar cell,CL:0002064,male,unknown,53,2.4929444967074317
+24,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic ductal cell,CL:0002079,male,unknown,39,1.8344308560677327
+25,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic PP cell,CL:0002275,male,unknown,9,0.4233301975540922
+26,A Single-Cell Transcriptome Atlas of the Human Pancreas,mesenchymal cell,CL:0008019,male,unknown,1,0.047036688617121354
+27,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic endocrine cell,CL:0008024,male,unknown,1,0.047036688617121354
+28,A Single-Cell Transcriptome Atlas of the Human Pancreas,endothelial cell,CL:0000115,male,unknown,9,0.4233301975540922
+29,A Single-Cell Transcriptome Atlas of the Human Pancreas,type B pancreatic cell,CL:0000169,male,unknown,159,7.4788334901222955
+30,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic A cell,CL:0000171,male,unknown,209,9.830667920978362
+31,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic D cell,CL:0000173,male,unknown,44,2.06961429915334
+32,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic acinar cell,CL:0002064,male,unknown,106,4.985888993414863
+33,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic ductal cell,CL:0002079,male,unknown,106,4.985888993414863
+34,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic PP cell,CL:0002275,male,unknown,25,1.175917215428034
+35,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic epsilon cell,CL:0005019,male,unknown,1,0.047036688617121354
+36,A Single-Cell Transcriptome Atlas of the Human Pancreas,mesenchymal cell,CL:0008019,male,unknown,21,0.9877704609595485
+37,A Single-Cell Transcriptome Atlas of the Human Pancreas,pancreatic endocrine cell,CL:0008024,male,unknown,3,0.14111006585136407

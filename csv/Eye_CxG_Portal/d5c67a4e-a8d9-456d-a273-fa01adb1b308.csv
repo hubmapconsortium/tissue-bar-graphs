@@ -1,19 +1,19 @@
-,dataset_name,cell_type,sex,race,count,percentage
-0,Retina,native cell,female,unknown,784,4.38380675464102
-1,Retina,microglial cell,female,unknown,71,0.39700290762692914
-2,Retina,amacrine cell,female,unknown,118,0.6598076492954597
-3,Retina,retinal cone cell,female,unknown,332,1.8564079624245136
-4,Retina,retinal rod cell,female,unknown,3776,21.11384477745471
-5,Retina,Mueller cell,female,unknown,186,1.0400357861775889
-6,Retina,retinal ganglion cell,female,unknown,56,0.31312905390293
-7,Retina,ON-bipolar cell,female,unknown,795,4.445314247371952
-8,Retina,OFF-bipolar cell,female,unknown,291,1.6271527622455828
-9,Retina,native cell,male,unknown,2684,15.007828226347572
-10,Retina,microglial cell,male,unknown,61,0.34108700514426304
-11,Retina,amacrine cell,male,unknown,120,0.6709908297919929
-12,Retina,retinal cone cell,male,unknown,175,0.9785282934466563
-13,Retina,retinal rod cell,male,unknown,7411,41.43927532990382
-14,Retina,Mueller cell,male,unknown,327,1.8284500111831807
-15,Retina,retinal ganglion cell,male,unknown,1,0.0055915902482666065
-16,Retina,ON-bipolar cell,male,unknown,508,2.840527846119436
-17,Retina,OFF-bipolar cell,male,unknown,188,1.051218966674122
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
+0,Retina,native cell,CL:0000003,female,unknown,784,4.38380675464102
+1,Retina,microglial cell,CL:0000129,female,unknown,71,0.39700290762692914
+2,Retina,amacrine cell,CL:0000561,female,unknown,118,0.6598076492954597
+3,Retina,retinal cone cell,CL:0000573,female,unknown,332,1.8564079624245136
+4,Retina,retinal rod cell,CL:0000604,female,unknown,3776,21.11384477745471
+5,Retina,Mueller cell,CL:0000636,female,unknown,186,1.0400357861775889
+6,Retina,retinal ganglion cell,CL:0000740,female,unknown,56,0.31312905390293
+7,Retina,ON-bipolar cell,CL:0000749,female,unknown,795,4.445314247371952
+8,Retina,OFF-bipolar cell,CL:0000750,female,unknown,291,1.6271527622455828
+9,Retina,native cell,CL:0000003,male,unknown,2684,15.007828226347572
+10,Retina,microglial cell,CL:0000129,male,unknown,61,0.34108700514426304
+11,Retina,amacrine cell,CL:0000561,male,unknown,120,0.6709908297919929
+12,Retina,retinal cone cell,CL:0000573,male,unknown,175,0.9785282934466563
+13,Retina,retinal rod cell,CL:0000604,male,unknown,7411,41.43927532990382
+14,Retina,Mueller cell,CL:0000636,male,unknown,327,1.8284500111831807
+15,Retina,retinal ganglion cell,CL:0000740,male,unknown,1,0.0055915902482666065
+16,Retina,ON-bipolar cell,CL:0000749,male,unknown,508,2.840527846119436
+17,Retina,OFF-bipolar cell,CL:0000750,male,unknown,188,1.051218966674122

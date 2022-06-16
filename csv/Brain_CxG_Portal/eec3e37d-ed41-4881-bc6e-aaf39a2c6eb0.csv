@@ -1,6 +1,6 @@
-,dataset_name,cell_type,sex,race,count,percentage
-0,Lamp5 - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),Lamp5 GABAergic cortical interneuron,female,European,11721,49.00903161063723
-1,Lamp5 - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),Lamp5 GABAergic cortical interneuron,female,"Greater Middle Eastern  (Middle Eastern, North African or Persian)",107,0.44739923064057535
-2,Lamp5 - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),Lamp5 GABAergic cortical interneuron,female,admixed ancestry,654,2.7345709984947315
-3,Lamp5 - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),Lamp5 GABAergic cortical interneuron,male,Asian,637,2.663488877738752
-4,Lamp5 - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),Lamp5 GABAergic cortical interneuron,male,European,10797,45.14550928248871
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
+0,Lamp5 - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),Lamp5 GABAergic cortical interneuron,CL:4023011,female,European,11721,49.00903161063723
+1,Lamp5 - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),Lamp5 GABAergic cortical interneuron,CL:4023011,female,"Greater Middle Eastern  (Middle Eastern, North African or Persian)",107,0.44739923064057535
+2,Lamp5 - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),Lamp5 GABAergic cortical interneuron,CL:4023011,female,admixed ancestry,654,2.7345709984947315
+3,Lamp5 - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),Lamp5 GABAergic cortical interneuron,CL:4023011,male,Asian,637,2.663488877738752
+4,Lamp5 - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),Lamp5 GABAergic cortical interneuron,CL:4023011,male,European,10797,45.14550928248871

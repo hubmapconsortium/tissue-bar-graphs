@@ -1,6 +1,6 @@
-,dataset_name,cell_type,sex,race,count,percentage
-0,Vip - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),Vip GABAergic cortical interneuron,female,European,29993,48.04106868272681
-1,Vip - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),Vip GABAergic cortical interneuron,female,"Greater Middle Eastern  (Middle Eastern, North African or Persian)",288,0.4613018964633521
-2,Vip - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),Vip GABAergic cortical interneuron,female,admixed ancestry,1694,2.7133521271143004
-3,Vip - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),Vip GABAergic cortical interneuron,male,Asian,1730,2.771014864172219
-4,Vip - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),Vip GABAergic cortical interneuron,male,European,28727,46.01326242952332
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
+0,Vip - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),Vip GABAergic cortical interneuron,CL:4023016,female,European,29993,48.04106868272681
+1,Vip - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),Vip GABAergic cortical interneuron,CL:4023016,female,"Greater Middle Eastern  (Middle Eastern, North African or Persian)",288,0.4613018964633521
+2,Vip - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),Vip GABAergic cortical interneuron,CL:4023016,female,admixed ancestry,1694,2.7133521271143004
+3,Vip - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),Vip GABAergic cortical interneuron,CL:4023016,male,Asian,1730,2.771014864172219
+4,Vip - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),Vip GABAergic cortical interneuron,CL:4023016,male,European,28727,46.01326242952332
