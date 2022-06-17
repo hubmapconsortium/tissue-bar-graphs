@@ -1,43 +1,43 @@
-,cell_type,donor_id,age,bmi,sex,race,count,percentage
-0,Afferent / Efferent Arteriole Endothelial,HBM735.QDFT.264,67.0,32.5,Male,White,9,0.0412617
-1,Ascending Thin Limb,HBM735.QDFT.264,67.0,32.5,Male,White,609,2.79204
-2,Ascending Vasa Recta Endothelial,HBM735.QDFT.264,67.0,32.5,Male,White,175,0.802311
-3,Classical Dendritic,HBM735.QDFT.264,67.0,32.5,Male,White,245,1.12323
-4,Connecting Tubule,HBM735.QDFT.264,67.0,32.5,Male,White,2578,11.8192
-5,Connecting Tubule Intercalated Type A,HBM735.QDFT.264,67.0,32.5,Male,White,5,0.0229232
-6,Connecting Tubule Principal,HBM735.QDFT.264,67.0,32.5,Male,White,26,0.1192
-7,Cortical Collecting Duct Intercalated Type A,HBM735.QDFT.264,67.0,32.5,Male,White,37,0.169631
-8,Cortical Collecting Duct Principal,HBM735.QDFT.264,67.0,32.5,Male,White,488,2.2373
-9,Cortical Thick Ascending Limb,HBM735.QDFT.264,67.0,32.5,Male,White,4897,22.4509
-10,Cortical Vascular Smooth Muscle / Pericyte,HBM735.QDFT.264,67.0,32.5,Male,White,36,0.165047
-11,Descending Thin Limb Type 1,HBM735.QDFT.264,67.0,32.5,Male,White,370,1.69631
-12,Descending Thin Limb Type 2,HBM735.QDFT.264,67.0,32.5,Male,White,689,3.15881
-13,Descending Thin Limb Type 3,HBM735.QDFT.264,67.0,32.5,Male,White,5,0.0229232
-14,Descending Vasa Recta Endothelial ,HBM735.QDFT.264,67.0,32.5,Male,White,81,0.371355
-15,Distal Convoluted Tubule Type 1,HBM735.QDFT.264,67.0,32.5,Male,White,2405,11.026
-16,Distal Convoluted Tubule Type 2,HBM735.QDFT.264,67.0,32.5,Male,White,18,0.0825234
-17,Fibroblast,HBM735.QDFT.264,67.0,32.5,Male,White,1028,4.713
-18,Glomerular Capillary Endothelial,HBM735.QDFT.264,67.0,32.5,Male,White,161,0.738126
-19,Inner Medullary Collecting Duct,HBM735.QDFT.264,67.0,32.5,Male,White,704,3.22758
-20,Intercalated Type B,HBM735.QDFT.264,67.0,32.5,Male,White,169,0.774803
-21,Lymphatic Endothelial,HBM735.QDFT.264,67.0,32.5,Male,White,6,0.0275078
-22,M2 Macrophage,HBM735.QDFT.264,67.0,32.5,Male,White,79,0.362186
-23,Macula Densa,HBM735.QDFT.264,67.0,32.5,Male,White,25,0.114616
-24,Mast,HBM735.QDFT.264,67.0,32.5,Male,White,44,0.201724
-25,Medullary Fibroblast,HBM735.QDFT.264,67.0,32.5,Male,White,96,0.440125
-26,Medullary Thick Ascending Limb,HBM735.QDFT.264,67.0,32.5,Male,White,2828,12.9653
-27,Mesangial,HBM735.QDFT.264,67.0,32.5,Male,White,40,0.183385
-28,Monocyte-derived,HBM735.QDFT.264,67.0,32.5,Male,White,121,0.554741
-29,Neutrophil,HBM735.QDFT.264,67.0,32.5,Male,White,1,0.00458463
-30,Outer Medullary Collecting Duct Intercalated Type A,HBM735.QDFT.264,67.0,32.5,Male,White,122,0.559325
-31,Outer Medullary Collecting Duct Principal,HBM735.QDFT.264,67.0,32.5,Male,White,7,0.0320924
-32,Parietal Epithelial,HBM735.QDFT.264,67.0,32.5,Male,White,129,0.591418
-33,Peritubular Capilary Endothelial ,HBM735.QDFT.264,67.0,32.5,Male,White,93,0.426371
-34,Plasma,HBM735.QDFT.264,67.0,32.5,Male,White,2,0.00916926
-35,Plasmacytoid Dendritic,HBM735.QDFT.264,67.0,32.5,Male,White,1,0.00458463
-36,Podocyte,HBM735.QDFT.264,67.0,32.5,Male,White,195,0.894003
-37,Proximal Tubule Epithelial Segment 1,HBM735.QDFT.264,67.0,32.5,Male,White,2288,10.4896
-38,Proximal Tubule Epithelial Segment 2,HBM735.QDFT.264,67.0,32.5,Male,White,3,0.0137539
-39,Proximal Tubule Epithelial Segment 3,HBM735.QDFT.264,67.0,32.5,Male,White,878,4.02531
-40,Schwann / Neural,HBM735.QDFT.264,67.0,32.5,Male,White,2,0.00916926
-41,Vascular Smooth Muscle / Pericyte,HBM735.QDFT.264,67.0,32.5,Male,White,117,0.536402
+,cell_type,donor_id,age,bmi,sex,race,count,percentage,dataset_name
+0,Afferent / Efferent Arteriole Endothelial,HBM735.QDFT.264,67.0,32.5,Male,White,9,0.0412617,Broad Institute RTI_HuBMAP Process_93.9
+1,Ascending Thin Limb,HBM735.QDFT.264,67.0,32.5,Male,White,609,2.79204,Broad Institute RTI_HuBMAP Process_93.9
+2,Ascending Vasa Recta Endothelial,HBM735.QDFT.264,67.0,32.5,Male,White,175,0.802311,Broad Institute RTI_HuBMAP Process_93.9
+3,Classical Dendritic,HBM735.QDFT.264,67.0,32.5,Male,White,245,1.12323,Broad Institute RTI_HuBMAP Process_93.9
+4,Connecting Tubule,HBM735.QDFT.264,67.0,32.5,Male,White,2578,11.8192,Broad Institute RTI_HuBMAP Process_93.9
+5,Connecting Tubule Intercalated Type A,HBM735.QDFT.264,67.0,32.5,Male,White,5,0.0229232,Broad Institute RTI_HuBMAP Process_93.9
+6,Connecting Tubule Principal,HBM735.QDFT.264,67.0,32.5,Male,White,26,0.1192,Broad Institute RTI_HuBMAP Process_93.9
+7,Cortical Collecting Duct Intercalated Type A,HBM735.QDFT.264,67.0,32.5,Male,White,37,0.169631,Broad Institute RTI_HuBMAP Process_93.9
+8,Cortical Collecting Duct Principal,HBM735.QDFT.264,67.0,32.5,Male,White,488,2.2373,Broad Institute RTI_HuBMAP Process_93.9
+9,Cortical Thick Ascending Limb,HBM735.QDFT.264,67.0,32.5,Male,White,4897,22.4509,Broad Institute RTI_HuBMAP Process_93.9
+10,Cortical Vascular Smooth Muscle / Pericyte,HBM735.QDFT.264,67.0,32.5,Male,White,36,0.165047,Broad Institute RTI_HuBMAP Process_93.9
+11,Descending Thin Limb Type 1,HBM735.QDFT.264,67.0,32.5,Male,White,370,1.69631,Broad Institute RTI_HuBMAP Process_93.9
+12,Descending Thin Limb Type 2,HBM735.QDFT.264,67.0,32.5,Male,White,689,3.15881,Broad Institute RTI_HuBMAP Process_93.9
+13,Descending Thin Limb Type 3,HBM735.QDFT.264,67.0,32.5,Male,White,5,0.0229232,Broad Institute RTI_HuBMAP Process_93.9
+14,Descending Vasa Recta Endothelial ,HBM735.QDFT.264,67.0,32.5,Male,White,81,0.371355,Broad Institute RTI_HuBMAP Process_93.9
+15,Distal Convoluted Tubule Type 1,HBM735.QDFT.264,67.0,32.5,Male,White,2405,11.026,Broad Institute RTI_HuBMAP Process_93.9
+16,Distal Convoluted Tubule Type 2,HBM735.QDFT.264,67.0,32.5,Male,White,18,0.0825234,Broad Institute RTI_HuBMAP Process_93.9
+17,Fibroblast,HBM735.QDFT.264,67.0,32.5,Male,White,1028,4.713,Broad Institute RTI_HuBMAP Process_93.9
+18,Glomerular Capillary Endothelial,HBM735.QDFT.264,67.0,32.5,Male,White,161,0.738126,Broad Institute RTI_HuBMAP Process_93.9
+19,Inner Medullary Collecting Duct,HBM735.QDFT.264,67.0,32.5,Male,White,704,3.22758,Broad Institute RTI_HuBMAP Process_93.9
+20,Intercalated Type B,HBM735.QDFT.264,67.0,32.5,Male,White,169,0.774803,Broad Institute RTI_HuBMAP Process_93.9
+21,Lymphatic Endothelial,HBM735.QDFT.264,67.0,32.5,Male,White,6,0.0275078,Broad Institute RTI_HuBMAP Process_93.9
+22,M2 Macrophage,HBM735.QDFT.264,67.0,32.5,Male,White,79,0.362186,Broad Institute RTI_HuBMAP Process_93.9
+23,Macula Densa,HBM735.QDFT.264,67.0,32.5,Male,White,25,0.114616,Broad Institute RTI_HuBMAP Process_93.9
+24,Mast,HBM735.QDFT.264,67.0,32.5,Male,White,44,0.201724,Broad Institute RTI_HuBMAP Process_93.9
+25,Medullary Fibroblast,HBM735.QDFT.264,67.0,32.5,Male,White,96,0.440125,Broad Institute RTI_HuBMAP Process_93.9
+26,Medullary Thick Ascending Limb,HBM735.QDFT.264,67.0,32.5,Male,White,2828,12.9653,Broad Institute RTI_HuBMAP Process_93.9
+27,Mesangial,HBM735.QDFT.264,67.0,32.5,Male,White,40,0.183385,Broad Institute RTI_HuBMAP Process_93.9
+28,Monocyte-derived,HBM735.QDFT.264,67.0,32.5,Male,White,121,0.554741,Broad Institute RTI_HuBMAP Process_93.9
+29,Neutrophil,HBM735.QDFT.264,67.0,32.5,Male,White,1,0.00458463,Broad Institute RTI_HuBMAP Process_93.9
+30,Outer Medullary Collecting Duct Intercalated Type A,HBM735.QDFT.264,67.0,32.5,Male,White,122,0.559325,Broad Institute RTI_HuBMAP Process_93.9
+31,Outer Medullary Collecting Duct Principal,HBM735.QDFT.264,67.0,32.5,Male,White,7,0.0320924,Broad Institute RTI_HuBMAP Process_93.9
+32,Parietal Epithelial,HBM735.QDFT.264,67.0,32.5,Male,White,129,0.591418,Broad Institute RTI_HuBMAP Process_93.9
+33,Peritubular Capilary Endothelial ,HBM735.QDFT.264,67.0,32.5,Male,White,93,0.426371,Broad Institute RTI_HuBMAP Process_93.9
+34,Plasma,HBM735.QDFT.264,67.0,32.5,Male,White,2,0.00916926,Broad Institute RTI_HuBMAP Process_93.9
+35,Plasmacytoid Dendritic,HBM735.QDFT.264,67.0,32.5,Male,White,1,0.00458463,Broad Institute RTI_HuBMAP Process_93.9
+36,Podocyte,HBM735.QDFT.264,67.0,32.5,Male,White,195,0.894003,Broad Institute RTI_HuBMAP Process_93.9
+37,Proximal Tubule Epithelial Segment 1,HBM735.QDFT.264,67.0,32.5,Male,White,2288,10.4896,Broad Institute RTI_HuBMAP Process_93.9
+38,Proximal Tubule Epithelial Segment 2,HBM735.QDFT.264,67.0,32.5,Male,White,3,0.0137539,Broad Institute RTI_HuBMAP Process_93.9
+39,Proximal Tubule Epithelial Segment 3,HBM735.QDFT.264,67.0,32.5,Male,White,878,4.02531,Broad Institute RTI_HuBMAP Process_93.9
+40,Schwann / Neural,HBM735.QDFT.264,67.0,32.5,Male,White,2,0.00916926,Broad Institute RTI_HuBMAP Process_93.9
+41,Vascular Smooth Muscle / Pericyte,HBM735.QDFT.264,67.0,32.5,Male,White,117,0.536402,Broad Institute RTI_HuBMAP Process_93.9
