@@ -1,29 +1,29 @@
-,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
-0,Tabula Sapiens - All Cells,fibroblast,CL:0000057,female,African American or Afro-Caribbean,101,0.7383040935672515
-1,Tabula Sapiens - All Cells,gut endothelial cell,CL:0000131,female,African American or Afro-Caribbean,22,0.16081871345029242
-2,Tabula Sapiens - All Cells,goblet cell,CL:0000160,female,African American or Afro-Caribbean,166,1.213450292397661
-3,Tabula Sapiens - All Cells,B cell,CL:0000236,female,African American or Afro-Caribbean,28,0.20467836257309943
-4,Tabula Sapiens - All Cells,enterocyte,CL:0000584,female,African American or Afro-Caribbean,1464,10.701754385964913
-5,Tabula Sapiens - All Cells,"CD8-positive, alpha-beta T cell",CL:0000625,female,African American or Afro-Caribbean,42,0.30701754385964913
-6,Tabula Sapiens - All Cells,neutrophil,CL:0000775,female,African American or Afro-Caribbean,5,0.03654970760233918
-7,Tabula Sapiens - All Cells,intestinal crypt stem cell,CL:0002250,female,African American or Afro-Caribbean,143,1.0453216374269005
-8,Tabula Sapiens - All Cells,paneth cell of colon,CL:0009009,female,African American or Afro-Caribbean,57,0.4166666666666667
-9,Tabula Sapiens - All Cells,transit amplifying cell of colon,CL:0009011,female,African American or Afro-Caribbean,156,1.1403508771929824
-10,Tabula Sapiens - All Cells,intestinal tuft cell,CL:0019032,female,African American or Afro-Caribbean,21,0.15350877192982457
-11,Tabula Sapiens - All Cells,intestinal enteroendocrine cell,CL:1001516,female,African American or Afro-Caribbean,36,0.2631578947368421
-12,Tabula Sapiens - All Cells,fibroblast,CL:0000057,male,European,852,6.228070175438597
-13,Tabula Sapiens - All Cells,mast cell,CL:0000097,male,European,38,0.2777777777777778
-14,Tabula Sapiens - All Cells,gut endothelial cell,CL:0000131,male,European,31,0.22660818713450293
-15,Tabula Sapiens - All Cells,B cell,CL:0000236,male,European,469,3.4283625730994154
-16,Tabula Sapiens - All Cells,monocyte,CL:0000576,male,European,543,3.969298245614035
-17,Tabula Sapiens - All Cells,"CD4-positive, alpha-beta T cell",CL:0000624,male,European,2872,20.994152046783626
-18,Tabula Sapiens - All Cells,"CD8-positive, alpha-beta T cell",CL:0000625,male,European,2105,15.387426900584794
-19,Tabula Sapiens - All Cells,neutrophil,CL:0000775,male,European,22,0.16081871345029242
-20,Tabula Sapiens - All Cells,plasma cell,CL:0000786,male,European,330,2.4122807017543857
-21,Tabula Sapiens - All Cells,enterocyte of epithelium of large intestine,CL:0002071,male,European,2764,20.2046783625731
-22,Tabula Sapiens - All Cells,paneth cell of colon,CL:0009009,male,European,831,6.074561403508772
-23,Tabula Sapiens - All Cells,transit amplifying cell of colon,CL:0009011,male,European,52,0.38011695906432746
-24,Tabula Sapiens - All Cells,intestinal crypt stem cell of large intestine,CL:0009016,male,European,114,0.8333333333333334
-25,Tabula Sapiens - All Cells,intestinal tuft cell,CL:0019032,male,European,12,0.08771929824561403
-26,Tabula Sapiens - All Cells,large intestine goblet cell,CL:1000320,male,European,385,2.814327485380117
-27,Tabula Sapiens - All Cells,intestinal enteroendocrine cell,CL:1001516,male,European,19,0.1388888888888889
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,development_stage,count,percentage
+0,Tabula Sapiens - All Cells,fibroblast,CL:0000057,female,African American or Afro-Caribbean,61-year-old human stage,101,0.7383040935672515
+1,Tabula Sapiens - All Cells,gut endothelial cell,CL:0000131,female,African American or Afro-Caribbean,61-year-old human stage,22,0.16081871345029242
+2,Tabula Sapiens - All Cells,goblet cell,CL:0000160,female,African American or Afro-Caribbean,61-year-old human stage,166,1.213450292397661
+3,Tabula Sapiens - All Cells,B cell,CL:0000236,female,African American or Afro-Caribbean,61-year-old human stage,28,0.20467836257309943
+4,Tabula Sapiens - All Cells,enterocyte,CL:0000584,female,African American or Afro-Caribbean,61-year-old human stage,1464,10.701754385964913
+5,Tabula Sapiens - All Cells,"CD8-positive, alpha-beta T cell",CL:0000625,female,African American or Afro-Caribbean,61-year-old human stage,42,0.30701754385964913
+6,Tabula Sapiens - All Cells,neutrophil,CL:0000775,female,African American or Afro-Caribbean,61-year-old human stage,5,0.03654970760233918
+7,Tabula Sapiens - All Cells,intestinal crypt stem cell,CL:0002250,female,African American or Afro-Caribbean,61-year-old human stage,143,1.0453216374269005
+8,Tabula Sapiens - All Cells,paneth cell of colon,CL:0009009,female,African American or Afro-Caribbean,61-year-old human stage,57,0.4166666666666667
+9,Tabula Sapiens - All Cells,transit amplifying cell of colon,CL:0009011,female,African American or Afro-Caribbean,61-year-old human stage,156,1.1403508771929824
+10,Tabula Sapiens - All Cells,intestinal tuft cell,CL:0019032,female,African American or Afro-Caribbean,61-year-old human stage,21,0.15350877192982457
+11,Tabula Sapiens - All Cells,intestinal enteroendocrine cell,CL:1001516,female,African American or Afro-Caribbean,61-year-old human stage,36,0.2631578947368421
+12,Tabula Sapiens - All Cells,fibroblast,CL:0000057,male,European,59-year-old human stage,852,6.228070175438597
+13,Tabula Sapiens - All Cells,mast cell,CL:0000097,male,European,59-year-old human stage,38,0.2777777777777778
+14,Tabula Sapiens - All Cells,gut endothelial cell,CL:0000131,male,European,59-year-old human stage,31,0.22660818713450293
+15,Tabula Sapiens - All Cells,B cell,CL:0000236,male,European,59-year-old human stage,469,3.4283625730994154
+16,Tabula Sapiens - All Cells,monocyte,CL:0000576,male,European,59-year-old human stage,543,3.969298245614035
+17,Tabula Sapiens - All Cells,"CD4-positive, alpha-beta T cell",CL:0000624,male,European,59-year-old human stage,2872,20.994152046783626
+18,Tabula Sapiens - All Cells,"CD8-positive, alpha-beta T cell",CL:0000625,male,European,59-year-old human stage,2105,15.387426900584794
+19,Tabula Sapiens - All Cells,neutrophil,CL:0000775,male,European,59-year-old human stage,22,0.16081871345029242
+20,Tabula Sapiens - All Cells,plasma cell,CL:0000786,male,European,59-year-old human stage,330,2.4122807017543857
+21,Tabula Sapiens - All Cells,enterocyte of epithelium of large intestine,CL:0002071,male,European,59-year-old human stage,2764,20.2046783625731
+22,Tabula Sapiens - All Cells,paneth cell of colon,CL:0009009,male,European,59-year-old human stage,831,6.074561403508772
+23,Tabula Sapiens - All Cells,transit amplifying cell of colon,CL:0009011,male,European,59-year-old human stage,52,0.38011695906432746
+24,Tabula Sapiens - All Cells,intestinal crypt stem cell of large intestine,CL:0009016,male,European,59-year-old human stage,114,0.8333333333333334
+25,Tabula Sapiens - All Cells,intestinal tuft cell,CL:0019032,male,European,59-year-old human stage,12,0.08771929824561403
+26,Tabula Sapiens - All Cells,large intestine goblet cell,CL:1000320,male,European,59-year-old human stage,385,2.814327485380117
+27,Tabula Sapiens - All Cells,intestinal enteroendocrine cell,CL:1001516,male,European,59-year-old human stage,19,0.1388888888888889

@@ -1,94 +1,94 @@
-,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
-0,Tabula Sapiens - All Cells,mast cell,CL:0000097,female,African American or Afro-Caribbean,24,0.03571109722346219
-1,Tabula Sapiens - All Cells,endothelial cell,CL:0000115,female,African American or Afro-Caribbean,15,0.02231943576466387
-2,Tabula Sapiens - All Cells,macrophage,CL:0000235,female,African American or Afro-Caribbean,62,0.09225366782727733
-3,Tabula Sapiens - All Cells,plasma cell,CL:0000786,female,African American or Afro-Caribbean,261,0.38835818230515134
-4,Tabula Sapiens - All Cells,memory B cell,CL:0000787,female,African American or Afro-Caribbean,3319,4.938547153527958
-5,Tabula Sapiens - All Cells,naive B cell,CL:0000788,female,African American or Afro-Caribbean,1335,1.9864297830550843
-6,Tabula Sapiens - All Cells,mature NK T cell,CL:0000814,female,African American or Afro-Caribbean,246,0.36603874654048746
-7,Tabula Sapiens - All Cells,regulatory T cell,CL:0000815,female,African American or Afro-Caribbean,8,0.011903699074487397
-8,Tabula Sapiens - All Cells,classical monocyte,CL:0000860,female,African American or Afro-Caribbean,85,0.12647680266642858
-9,Tabula Sapiens - All Cells,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,female,African American or Afro-Caribbean,1499,2.230455614082076
-10,Tabula Sapiens - All Cells,"CD4-positive, alpha-beta memory T cell",CL:0000897,female,African American or Afro-Caribbean,1434,2.133738059101866
-11,Tabula Sapiens - All Cells,"CD8-positive, alpha-beta memory T cell",CL:0000909,female,African American or Afro-Caribbean,864,1.2855995000446387
-12,Tabula Sapiens - All Cells,innate lymphoid cell,CL:0001065,female,African American or Afro-Caribbean,368,0.5475701574264202
-13,Tabula Sapiens - All Cells,intermediate monocyte,CL:0002393,female,African American or Afro-Caribbean,172,0.25592953010147906
-14,Tabula Sapiens - All Cells,CD141-positive myeloid dendritic cell,CL:0002394,female,African American or Afro-Caribbean,53,0.07886200636847901
-15,Tabula Sapiens - All Cells,CD1c-positive myeloid dendritic cell,CL:0002399,female,African American or Afro-Caribbean,22,0.03273517245484034
-16,Tabula Sapiens - All Cells,hematopoietic stem cell,CL:0000037,female,European,30,0.04463887152932774
-17,Tabula Sapiens - All Cells,T cell,CL:0000084,female,European,620,0.9225366782727732
-18,Tabula Sapiens - All Cells,mast cell,CL:0000097,female,European,104,0.15474808796833617
-19,Tabula Sapiens - All Cells,endothelial cell,CL:0000115,female,European,6,0.008927774305865548
-20,Tabula Sapiens - All Cells,erythrocyte,CL:0000232,female,European,3,0.004463887152932774
-21,Tabula Sapiens - All Cells,macrophage,CL:0000235,female,European,114,0.16962771181144543
-22,Tabula Sapiens - All Cells,B cell,CL:0000236,female,European,7401,11.012409606285154
-23,Tabula Sapiens - All Cells,stromal cell,CL:0000499,female,European,5,0.007439811921554624
-24,Tabula Sapiens - All Cells,neutrophil,CL:0000775,female,European,24,0.03571109722346219
-25,Tabula Sapiens - All Cells,plasmacytoid dendritic cell,CL:0000784,female,European,6,0.008927774305865548
-26,Tabula Sapiens - All Cells,plasma cell,CL:0000786,female,European,334,0.49697943635984887
-27,Tabula Sapiens - All Cells,mature NK T cell,CL:0000814,female,European,181,0.2693211915602774
-28,Tabula Sapiens - All Cells,regulatory T cell,CL:0000815,female,European,189,0.28122489063476475
-29,Tabula Sapiens - All Cells,mature conventional dendritic cell,CL:0000841,female,European,2,0.0029759247686218493
-30,Tabula Sapiens - All Cells,classical monocyte,CL:0000860,female,European,105,0.15623605035264707
-31,Tabula Sapiens - All Cells,non-classical monocyte,CL:0000875,female,European,13,0.01934351099604202
-32,Tabula Sapiens - All Cells,type I NK T cell,CL:0000921,female,European,728,1.083236615778353
-33,Tabula Sapiens - All Cells,"effector CD4-positive, alpha-beta T cell",CL:0001044,female,European,1566,2.330149093830908
-34,Tabula Sapiens - All Cells,"effector CD8-positive, alpha-beta T cell",CL:0001050,female,European,790,1.1754902836056305
-35,Tabula Sapiens - All Cells,innate lymphoid cell,CL:0001065,female,European,713,1.0609171800136894
-36,Tabula Sapiens - All Cells,intermediate monocyte,CL:0002393,female,European,75,0.11159717882331935
-37,Tabula Sapiens - All Cells,CD141-positive myeloid dendritic cell,CL:0002394,female,European,15,0.02231943576466387
-38,Tabula Sapiens - All Cells,CD1c-positive myeloid dendritic cell,CL:0002399,female,European,57,0.08481385590572271
-39,Tabula Sapiens - All Cells,hematopoietic stem cell,CL:0000037,male,European,4,0.005951849537243699
-40,Tabula Sapiens - All Cells,T cell,CL:0000084,male,European,3228,4.803142576555665
-41,Tabula Sapiens - All Cells,mast cell,CL:0000097,male,European,15,0.02231943576466387
-42,Tabula Sapiens - All Cells,endothelial cell,CL:0000115,male,European,137,0.20385084665059666
-43,Tabula Sapiens - All Cells,erythrocyte,CL:0000232,male,European,21,0.031247210070529413
-44,Tabula Sapiens - All Cells,macrophage,CL:0000235,male,European,972,1.4462994375502187
-45,Tabula Sapiens - All Cells,B cell,CL:0000236,male,European,7848,11.677528792072136
-46,Tabula Sapiens - All Cells,stromal cell,CL:0000499,male,European,106,0.15772401273695802
-47,Tabula Sapiens - All Cells,neutrophil,CL:0000775,male,European,83,0.12350087789780675
-48,Tabula Sapiens - All Cells,plasma cell,CL:0000786,male,European,2092,3.112817307978454
-49,Tabula Sapiens - All Cells,mature NK T cell,CL:0000814,male,European,256,0.3809183703835967
-50,Tabula Sapiens - All Cells,regulatory T cell,CL:0000815,male,European,692,1.02966996994316
-51,Tabula Sapiens - All Cells,mature conventional dendritic cell,CL:0000841,male,European,15,0.02231943576466387
-52,Tabula Sapiens - All Cells,classical monocyte,CL:0000860,male,European,56,0.08332589352141177
-53,Tabula Sapiens - All Cells,non-classical monocyte,CL:0000875,male,European,18,0.026783322917596643
-54,Tabula Sapiens - All Cells,type I NK T cell,CL:0000921,male,European,3030,4.5085260244621015
-55,Tabula Sapiens - All Cells,"effector CD4-positive, alpha-beta T cell",CL:0001044,male,European,5342,7.948695056988959
-56,Tabula Sapiens - All Cells,"effector CD8-positive, alpha-beta T cell",CL:0001050,male,European,5070,7.543969288456388
-57,Tabula Sapiens - All Cells,innate lymphoid cell,CL:0001065,male,European,1339,1.9923816325923283
-58,Tabula Sapiens - All Cells,intermediate monocyte,CL:0002393,male,European,59,0.08778978067434455
-59,Tabula Sapiens - All Cells,CD141-positive myeloid dendritic cell,CL:0002394,male,European,33,0.049102758682260515
-60,Tabula Sapiens - All Cells,CD1c-positive myeloid dendritic cell,CL:0002399,male,European,11,0.01636758622742017
-61,Tabula Sapiens - All Cells,mast cell,CL:0000097,female,African American or Afro-Caribbean,16,0.023807398148974795
-62,Tabula Sapiens - All Cells,plasma cell,CL:0000786,female,African American or Afro-Caribbean,256,0.3809183703835967
-63,Tabula Sapiens - All Cells,memory B cell,CL:0000787,female,African American or Afro-Caribbean,3211,4.777847216022379
-64,Tabula Sapiens - All Cells,naive B cell,CL:0000788,female,African American or Afro-Caribbean,1330,1.9789899711335295
-65,Tabula Sapiens - All Cells,mature NK T cell,CL:0000814,female,African American or Afro-Caribbean,245,0.36455078415617653
-66,Tabula Sapiens - All Cells,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,female,African American or Afro-Caribbean,1439,2.1411778710234204
-67,Tabula Sapiens - All Cells,"CD4-positive, alpha-beta memory T cell",CL:0000897,female,African American or Afro-Caribbean,1368,2.0355325417373447
-68,Tabula Sapiens - All Cells,"CD8-positive, alpha-beta memory T cell",CL:0000909,female,African American or Afro-Caribbean,825,1.2275689670565129
-69,Tabula Sapiens - All Cells,innate lymphoid cell,CL:0001065,female,African American or Afro-Caribbean,365,0.5431062702734875
-70,Tabula Sapiens - All Cells,intermediate monocyte,CL:0002393,female,African American or Afro-Caribbean,167,0.24848971817992443
-71,Tabula Sapiens - All Cells,CD1c-positive myeloid dendritic cell,CL:0002399,female,African American or Afro-Caribbean,20,0.029759247686218494
-72,Tabula Sapiens - All Cells,hematopoietic stem cell,CL:0000037,female,European,25,0.037199059607773116
-73,Tabula Sapiens - All Cells,T cell,CL:0000084,female,European,281,0.4181174299913698
-74,Tabula Sapiens - All Cells,mast cell,CL:0000097,female,European,96,0.14284438889384876
-75,Tabula Sapiens - All Cells,endothelial cell,CL:0000115,female,European,3,0.004463887152932774
-76,Tabula Sapiens - All Cells,erythrocyte,CL:0000232,female,European,1,0.0014879623843109247
-77,Tabula Sapiens - All Cells,macrophage,CL:0000235,female,European,110,0.16367586227420172
-78,Tabula Sapiens - All Cells,B cell,CL:0000236,female,European,1466,2.1813528553998154
-79,Tabula Sapiens - All Cells,neutrophil,CL:0000775,female,European,16,0.023807398148974795
-80,Tabula Sapiens - All Cells,plasma cell,CL:0000786,female,European,207,0.3080082135523614
-81,Tabula Sapiens - All Cells,mature NK T cell,CL:0000814,female,European,131,0.19492307234473114
-82,Tabula Sapiens - All Cells,regulatory T cell,CL:0000815,female,European,139,0.20682677141921854
-83,Tabula Sapiens - All Cells,mature conventional dendritic cell,CL:0000841,female,European,1,0.0014879623843109247
-84,Tabula Sapiens - All Cells,classical monocyte,CL:0000860,female,European,75,0.11159717882331935
-85,Tabula Sapiens - All Cells,non-classical monocyte,CL:0000875,female,European,10,0.014879623843109247
-86,Tabula Sapiens - All Cells,type I NK T cell,CL:0000921,female,European,433,0.6442877124066304
-87,Tabula Sapiens - All Cells,"effector CD4-positive, alpha-beta T cell",CL:0001044,female,European,855,1.2722078385858406
-88,Tabula Sapiens - All Cells,"effector CD8-positive, alpha-beta T cell",CL:0001050,female,European,444,0.6606552986340506
-89,Tabula Sapiens - All Cells,innate lymphoid cell,CL:0001065,female,European,278,0.4136535428384371
-90,Tabula Sapiens - All Cells,intermediate monocyte,CL:0002393,female,European,57,0.08481385590572271
-91,Tabula Sapiens - All Cells,CD141-positive myeloid dendritic cell,CL:0002394,female,European,14,0.020831473380352943
-92,Tabula Sapiens - All Cells,CD1c-positive myeloid dendritic cell,CL:0002399,female,European,47,0.06993423206261347
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,development_stage,count,percentage
+0,Tabula Sapiens - All Cells,mast cell,CL:0000097,female,African American or Afro-Caribbean,61-year-old human stage,24,0.03571109722346219
+1,Tabula Sapiens - All Cells,endothelial cell,CL:0000115,female,African American or Afro-Caribbean,61-year-old human stage,15,0.02231943576466387
+2,Tabula Sapiens - All Cells,macrophage,CL:0000235,female,African American or Afro-Caribbean,61-year-old human stage,62,0.09225366782727733
+3,Tabula Sapiens - All Cells,plasma cell,CL:0000786,female,African American or Afro-Caribbean,61-year-old human stage,261,0.38835818230515134
+4,Tabula Sapiens - All Cells,memory B cell,CL:0000787,female,African American or Afro-Caribbean,61-year-old human stage,3319,4.938547153527958
+5,Tabula Sapiens - All Cells,naive B cell,CL:0000788,female,African American or Afro-Caribbean,61-year-old human stage,1335,1.9864297830550843
+6,Tabula Sapiens - All Cells,mature NK T cell,CL:0000814,female,African American or Afro-Caribbean,61-year-old human stage,246,0.36603874654048746
+7,Tabula Sapiens - All Cells,regulatory T cell,CL:0000815,female,African American or Afro-Caribbean,61-year-old human stage,8,0.011903699074487397
+8,Tabula Sapiens - All Cells,classical monocyte,CL:0000860,female,African American or Afro-Caribbean,61-year-old human stage,85,0.12647680266642858
+9,Tabula Sapiens - All Cells,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,female,African American or Afro-Caribbean,61-year-old human stage,1499,2.230455614082076
+10,Tabula Sapiens - All Cells,"CD4-positive, alpha-beta memory T cell",CL:0000897,female,African American or Afro-Caribbean,61-year-old human stage,1434,2.133738059101866
+11,Tabula Sapiens - All Cells,"CD8-positive, alpha-beta memory T cell",CL:0000909,female,African American or Afro-Caribbean,61-year-old human stage,864,1.2855995000446387
+12,Tabula Sapiens - All Cells,innate lymphoid cell,CL:0001065,female,African American or Afro-Caribbean,61-year-old human stage,368,0.5475701574264202
+13,Tabula Sapiens - All Cells,intermediate monocyte,CL:0002393,female,African American or Afro-Caribbean,61-year-old human stage,172,0.25592953010147906
+14,Tabula Sapiens - All Cells,CD141-positive myeloid dendritic cell,CL:0002394,female,African American or Afro-Caribbean,61-year-old human stage,53,0.07886200636847901
+15,Tabula Sapiens - All Cells,CD1c-positive myeloid dendritic cell,CL:0002399,female,African American or Afro-Caribbean,61-year-old human stage,22,0.03273517245484034
+16,Tabula Sapiens - All Cells,hematopoietic stem cell,CL:0000037,female,European,69-year-old human stage,30,0.04463887152932774
+17,Tabula Sapiens - All Cells,T cell,CL:0000084,female,European,69-year-old human stage,620,0.9225366782727732
+18,Tabula Sapiens - All Cells,mast cell,CL:0000097,female,European,69-year-old human stage,104,0.15474808796833617
+19,Tabula Sapiens - All Cells,endothelial cell,CL:0000115,female,European,69-year-old human stage,6,0.008927774305865548
+20,Tabula Sapiens - All Cells,erythrocyte,CL:0000232,female,European,69-year-old human stage,3,0.004463887152932774
+21,Tabula Sapiens - All Cells,macrophage,CL:0000235,female,European,69-year-old human stage,114,0.16962771181144543
+22,Tabula Sapiens - All Cells,B cell,CL:0000236,female,European,69-year-old human stage,7401,11.012409606285154
+23,Tabula Sapiens - All Cells,stromal cell,CL:0000499,female,European,69-year-old human stage,5,0.007439811921554624
+24,Tabula Sapiens - All Cells,neutrophil,CL:0000775,female,European,69-year-old human stage,24,0.03571109722346219
+25,Tabula Sapiens - All Cells,plasmacytoid dendritic cell,CL:0000784,female,European,69-year-old human stage,6,0.008927774305865548
+26,Tabula Sapiens - All Cells,plasma cell,CL:0000786,female,European,69-year-old human stage,334,0.49697943635984887
+27,Tabula Sapiens - All Cells,mature NK T cell,CL:0000814,female,European,69-year-old human stage,181,0.2693211915602774
+28,Tabula Sapiens - All Cells,regulatory T cell,CL:0000815,female,European,69-year-old human stage,189,0.28122489063476475
+29,Tabula Sapiens - All Cells,mature conventional dendritic cell,CL:0000841,female,European,69-year-old human stage,2,0.0029759247686218493
+30,Tabula Sapiens - All Cells,classical monocyte,CL:0000860,female,European,69-year-old human stage,105,0.15623605035264707
+31,Tabula Sapiens - All Cells,non-classical monocyte,CL:0000875,female,European,69-year-old human stage,13,0.01934351099604202
+32,Tabula Sapiens - All Cells,type I NK T cell,CL:0000921,female,European,69-year-old human stage,728,1.083236615778353
+33,Tabula Sapiens - All Cells,"effector CD4-positive, alpha-beta T cell",CL:0001044,female,European,69-year-old human stage,1566,2.330149093830908
+34,Tabula Sapiens - All Cells,"effector CD8-positive, alpha-beta T cell",CL:0001050,female,European,69-year-old human stage,790,1.1754902836056305
+35,Tabula Sapiens - All Cells,innate lymphoid cell,CL:0001065,female,European,69-year-old human stage,713,1.0609171800136894
+36,Tabula Sapiens - All Cells,intermediate monocyte,CL:0002393,female,European,69-year-old human stage,75,0.11159717882331935
+37,Tabula Sapiens - All Cells,CD141-positive myeloid dendritic cell,CL:0002394,female,European,69-year-old human stage,15,0.02231943576466387
+38,Tabula Sapiens - All Cells,CD1c-positive myeloid dendritic cell,CL:0002399,female,European,69-year-old human stage,57,0.08481385590572271
+39,Tabula Sapiens - All Cells,hematopoietic stem cell,CL:0000037,male,European,59-year-old human stage,4,0.005951849537243699
+40,Tabula Sapiens - All Cells,T cell,CL:0000084,male,European,59-year-old human stage,3228,4.803142576555665
+41,Tabula Sapiens - All Cells,mast cell,CL:0000097,male,European,59-year-old human stage,15,0.02231943576466387
+42,Tabula Sapiens - All Cells,endothelial cell,CL:0000115,male,European,59-year-old human stage,137,0.20385084665059666
+43,Tabula Sapiens - All Cells,erythrocyte,CL:0000232,male,European,59-year-old human stage,21,0.031247210070529413
+44,Tabula Sapiens - All Cells,macrophage,CL:0000235,male,European,59-year-old human stage,972,1.4462994375502187
+45,Tabula Sapiens - All Cells,B cell,CL:0000236,male,European,59-year-old human stage,7848,11.677528792072136
+46,Tabula Sapiens - All Cells,stromal cell,CL:0000499,male,European,59-year-old human stage,106,0.15772401273695802
+47,Tabula Sapiens - All Cells,neutrophil,CL:0000775,male,European,59-year-old human stage,83,0.12350087789780675
+48,Tabula Sapiens - All Cells,plasma cell,CL:0000786,male,European,59-year-old human stage,2092,3.112817307978454
+49,Tabula Sapiens - All Cells,mature NK T cell,CL:0000814,male,European,59-year-old human stage,256,0.3809183703835967
+50,Tabula Sapiens - All Cells,regulatory T cell,CL:0000815,male,European,59-year-old human stage,692,1.02966996994316
+51,Tabula Sapiens - All Cells,mature conventional dendritic cell,CL:0000841,male,European,59-year-old human stage,15,0.02231943576466387
+52,Tabula Sapiens - All Cells,classical monocyte,CL:0000860,male,European,59-year-old human stage,56,0.08332589352141177
+53,Tabula Sapiens - All Cells,non-classical monocyte,CL:0000875,male,European,59-year-old human stage,18,0.026783322917596643
+54,Tabula Sapiens - All Cells,type I NK T cell,CL:0000921,male,European,59-year-old human stage,3030,4.5085260244621015
+55,Tabula Sapiens - All Cells,"effector CD4-positive, alpha-beta T cell",CL:0001044,male,European,59-year-old human stage,5342,7.948695056988959
+56,Tabula Sapiens - All Cells,"effector CD8-positive, alpha-beta T cell",CL:0001050,male,European,59-year-old human stage,5070,7.543969288456388
+57,Tabula Sapiens - All Cells,innate lymphoid cell,CL:0001065,male,European,59-year-old human stage,1339,1.9923816325923283
+58,Tabula Sapiens - All Cells,intermediate monocyte,CL:0002393,male,European,59-year-old human stage,59,0.08778978067434455
+59,Tabula Sapiens - All Cells,CD141-positive myeloid dendritic cell,CL:0002394,male,European,59-year-old human stage,33,0.049102758682260515
+60,Tabula Sapiens - All Cells,CD1c-positive myeloid dendritic cell,CL:0002399,male,European,59-year-old human stage,11,0.01636758622742017
+61,Tabula Sapiens - All Cells,mast cell,CL:0000097,female,African American or Afro-Caribbean,61-year-old human stage,16,0.023807398148974795
+62,Tabula Sapiens - All Cells,plasma cell,CL:0000786,female,African American or Afro-Caribbean,61-year-old human stage,256,0.3809183703835967
+63,Tabula Sapiens - All Cells,memory B cell,CL:0000787,female,African American or Afro-Caribbean,61-year-old human stage,3211,4.777847216022379
+64,Tabula Sapiens - All Cells,naive B cell,CL:0000788,female,African American or Afro-Caribbean,61-year-old human stage,1330,1.9789899711335295
+65,Tabula Sapiens - All Cells,mature NK T cell,CL:0000814,female,African American or Afro-Caribbean,61-year-old human stage,245,0.36455078415617653
+66,Tabula Sapiens - All Cells,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,female,African American or Afro-Caribbean,61-year-old human stage,1439,2.1411778710234204
+67,Tabula Sapiens - All Cells,"CD4-positive, alpha-beta memory T cell",CL:0000897,female,African American or Afro-Caribbean,61-year-old human stage,1368,2.0355325417373447
+68,Tabula Sapiens - All Cells,"CD8-positive, alpha-beta memory T cell",CL:0000909,female,African American or Afro-Caribbean,61-year-old human stage,825,1.2275689670565129
+69,Tabula Sapiens - All Cells,innate lymphoid cell,CL:0001065,female,African American or Afro-Caribbean,61-year-old human stage,365,0.5431062702734875
+70,Tabula Sapiens - All Cells,intermediate monocyte,CL:0002393,female,African American or Afro-Caribbean,61-year-old human stage,167,0.24848971817992443
+71,Tabula Sapiens - All Cells,CD1c-positive myeloid dendritic cell,CL:0002399,female,African American or Afro-Caribbean,61-year-old human stage,20,0.029759247686218494
+72,Tabula Sapiens - All Cells,hematopoietic stem cell,CL:0000037,female,European,69-year-old human stage,25,0.037199059607773116
+73,Tabula Sapiens - All Cells,T cell,CL:0000084,female,European,69-year-old human stage,281,0.4181174299913698
+74,Tabula Sapiens - All Cells,mast cell,CL:0000097,female,European,69-year-old human stage,96,0.14284438889384876
+75,Tabula Sapiens - All Cells,endothelial cell,CL:0000115,female,European,69-year-old human stage,3,0.004463887152932774
+76,Tabula Sapiens - All Cells,erythrocyte,CL:0000232,female,European,69-year-old human stage,1,0.0014879623843109247
+77,Tabula Sapiens - All Cells,macrophage,CL:0000235,female,European,69-year-old human stage,110,0.16367586227420172
+78,Tabula Sapiens - All Cells,B cell,CL:0000236,female,European,69-year-old human stage,1466,2.1813528553998154
+79,Tabula Sapiens - All Cells,neutrophil,CL:0000775,female,European,69-year-old human stage,16,0.023807398148974795
+80,Tabula Sapiens - All Cells,plasma cell,CL:0000786,female,European,69-year-old human stage,207,0.3080082135523614
+81,Tabula Sapiens - All Cells,mature NK T cell,CL:0000814,female,European,69-year-old human stage,131,0.19492307234473114
+82,Tabula Sapiens - All Cells,regulatory T cell,CL:0000815,female,European,69-year-old human stage,139,0.20682677141921854
+83,Tabula Sapiens - All Cells,mature conventional dendritic cell,CL:0000841,female,European,69-year-old human stage,1,0.0014879623843109247
+84,Tabula Sapiens - All Cells,classical monocyte,CL:0000860,female,European,69-year-old human stage,75,0.11159717882331935
+85,Tabula Sapiens - All Cells,non-classical monocyte,CL:0000875,female,European,69-year-old human stage,10,0.014879623843109247
+86,Tabula Sapiens - All Cells,type I NK T cell,CL:0000921,female,European,69-year-old human stage,433,0.6442877124066304
+87,Tabula Sapiens - All Cells,"effector CD4-positive, alpha-beta T cell",CL:0001044,female,European,69-year-old human stage,855,1.2722078385858406
+88,Tabula Sapiens - All Cells,"effector CD8-positive, alpha-beta T cell",CL:0001050,female,European,69-year-old human stage,444,0.6606552986340506
+89,Tabula Sapiens - All Cells,innate lymphoid cell,CL:0001065,female,European,69-year-old human stage,278,0.4136535428384371
+90,Tabula Sapiens - All Cells,intermediate monocyte,CL:0002393,female,European,69-year-old human stage,57,0.08481385590572271
+91,Tabula Sapiens - All Cells,CD141-positive myeloid dendritic cell,CL:0002394,female,European,69-year-old human stage,14,0.020831473380352943
+92,Tabula Sapiens - All Cells,CD1c-positive myeloid dendritic cell,CL:0002399,female,European,69-year-old human stage,47,0.06993423206261347

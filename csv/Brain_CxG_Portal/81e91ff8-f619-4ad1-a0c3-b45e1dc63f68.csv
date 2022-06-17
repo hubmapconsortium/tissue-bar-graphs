@@ -1,6 +1,6 @@
-,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
-0,Sst Chodl - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),sst GABAergic cortical interneuron,CL:4023017,female,European,424,43.353783231083845
-1,Sst Chodl - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),sst GABAergic cortical interneuron,CL:4023017,female,"Greater Middle Eastern  (Middle Eastern, North African or Persian)",2,0.2044989775051125
-2,Sst Chodl - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),sst GABAergic cortical interneuron,CL:4023017,female,admixed ancestry,32,3.2719836400818
-3,Sst Chodl - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),sst GABAergic cortical interneuron,CL:4023017,male,Asian,23,2.3517382413087935
-4,Sst Chodl - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),sst GABAergic cortical interneuron,CL:4023017,male,European,497,50.81799591002045
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,development_stage,count,percentage
+0,Sst Chodl - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),sst GABAergic cortical interneuron,CL:4023017,female,European,human adult stage,424,43.353783231083845
+1,Sst Chodl - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),sst GABAergic cortical interneuron,CL:4023017,female,"Greater Middle Eastern  (Middle Eastern, North African or Persian)",human adult stage,2,0.2044989775051125
+2,Sst Chodl - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),sst GABAergic cortical interneuron,CL:4023017,female,admixed ancestry,human adult stage,32,3.2719836400818
+3,Sst Chodl - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),sst GABAergic cortical interneuron,CL:4023017,male,Asian,human adult stage,23,2.3517382413087935
+4,Sst Chodl - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),sst GABAergic cortical interneuron,CL:4023017,male,European,human adult stage,497,50.81799591002045

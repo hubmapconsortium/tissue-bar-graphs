@@ -1,220 +1,220 @@
-,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
-0,Single-cell multiomic profiling of human lungs across age groups,native cell,CL:0000003,female,European,153,0.32903225806451614
-1,Single-cell multiomic profiling of human lungs across age groups,fibroblast,CL:0000057,female,European,493,1.060215053763441
-2,Single-cell multiomic profiling of human lungs across age groups,ciliated cell,CL:0000064,female,European,85,0.1827956989247312
-3,Single-cell multiomic profiling of human lungs across age groups,epithelial cell,CL:0000066,female,European,84,0.18064516129032257
-4,Single-cell multiomic profiling of human lungs across age groups,blood vessel endothelial cell,CL:0000071,female,European,3,0.0064516129032258064
-5,Single-cell multiomic profiling of human lungs across age groups,T cell,CL:0000084,female,European,384,0.8258064516129032
-6,Single-cell multiomic profiling of human lungs across age groups,mast cell,CL:0000097,female,European,9,0.01935483870967742
-7,Single-cell multiomic profiling of human lungs across age groups,endothelial cell,CL:0000115,female,European,287,0.6172043010752688
-8,Single-cell multiomic profiling of human lungs across age groups,chondrocyte,CL:0000138,female,European,3,0.0064516129032258064
-9,Single-cell multiomic profiling of human lungs across age groups,club cell,CL:0000158,female,European,139,0.2989247311827957
-10,Single-cell multiomic profiling of human lungs across age groups,goblet cell,CL:0000160,female,European,24,0.05161290322580645
-11,Single-cell multiomic profiling of human lungs across age groups,myofibroblast cell,CL:0000186,female,European,25,0.053763440860215055
-12,Single-cell multiomic profiling of human lungs across age groups,smooth muscle cell,CL:0000192,female,European,18,0.03870967741935484
-13,Single-cell multiomic profiling of human lungs across age groups,macrophage,CL:0000235,female,European,126,0.2709677419354839
-14,Single-cell multiomic profiling of human lungs across age groups,B cell,CL:0000236,female,European,117,0.25161290322580643
-15,Single-cell multiomic profiling of human lungs across age groups,vascular associated smooth muscle cell,CL:0000359,female,European,17,0.03655913978494624
-16,Single-cell multiomic profiling of human lungs across age groups,dendritic cell,CL:0000451,female,European,26,0.05591397849462365
-17,Single-cell multiomic profiling of human lungs across age groups,monocyte,CL:0000576,female,European,534,1.1483870967741936
-18,Single-cell multiomic profiling of human lungs across age groups,alveolar macrophage,CL:0000583,female,European,1360,2.924731182795699
-19,Single-cell multiomic profiling of human lungs across age groups,enucleate erythrocyte,CL:0000595,female,European,3,0.0064516129032258064
-20,Single-cell multiomic profiling of human lungs across age groups,natural killer cell,CL:0000623,female,European,185,0.39784946236559143
-21,Single-cell multiomic profiling of human lungs across age groups,basal cell,CL:0000646,female,European,24,0.05161290322580645
-22,Single-cell multiomic profiling of human lungs across age groups,pericyte cell,CL:0000669,female,European,52,0.1118279569892473
-23,Single-cell multiomic profiling of human lungs across age groups,type I pneumocyte,CL:0002062,female,European,308,0.6623655913978495
-24,Single-cell multiomic profiling of human lungs across age groups,type II pneumocyte,CL:0002063,female,European,664,1.4279569892473118
-25,Single-cell multiomic profiling of human lungs across age groups,vein endothelial cell,CL:0002543,female,European,25,0.053763440860215055
-26,Single-cell multiomic profiling of human lungs across age groups,lung neuroendocrine cell,CL:1000223,female,European,5,0.010752688172043012
-27,Single-cell multiomic profiling of human lungs across age groups,endothelial cell of artery,CL:1000413,female,European,64,0.13763440860215054
-28,Single-cell multiomic profiling of human lungs across age groups,native cell,CL:0000003,female,African American,239,0.513978494623656
-29,Single-cell multiomic profiling of human lungs across age groups,fibroblast,CL:0000057,female,African American,235,0.5053763440860215
-30,Single-cell multiomic profiling of human lungs across age groups,ciliated cell,CL:0000064,female,African American,152,0.32688172043010755
-31,Single-cell multiomic profiling of human lungs across age groups,epithelial cell,CL:0000066,female,African American,62,0.13333333333333333
-32,Single-cell multiomic profiling of human lungs across age groups,blood vessel endothelial cell,CL:0000071,female,African American,1,0.002150537634408602
-33,Single-cell multiomic profiling of human lungs across age groups,T cell,CL:0000084,female,African American,265,0.5698924731182796
-34,Single-cell multiomic profiling of human lungs across age groups,mast cell,CL:0000097,female,African American,10,0.021505376344086023
-35,Single-cell multiomic profiling of human lungs across age groups,endothelial cell,CL:0000115,female,African American,132,0.2838709677419355
-36,Single-cell multiomic profiling of human lungs across age groups,chondrocyte,CL:0000138,female,African American,21,0.04516129032258064
-37,Single-cell multiomic profiling of human lungs across age groups,club cell,CL:0000158,female,African American,141,0.3032258064516129
-38,Single-cell multiomic profiling of human lungs across age groups,goblet cell,CL:0000160,female,African American,60,0.12903225806451613
-39,Single-cell multiomic profiling of human lungs across age groups,myofibroblast cell,CL:0000186,female,African American,4,0.008602150537634409
-40,Single-cell multiomic profiling of human lungs across age groups,smooth muscle cell,CL:0000192,female,African American,9,0.01935483870967742
-41,Single-cell multiomic profiling of human lungs across age groups,macrophage,CL:0000235,female,African American,100,0.21505376344086022
-42,Single-cell multiomic profiling of human lungs across age groups,B cell,CL:0000236,female,African American,18,0.03870967741935484
-43,Single-cell multiomic profiling of human lungs across age groups,vascular associated smooth muscle cell,CL:0000359,female,African American,11,0.023655913978494623
-44,Single-cell multiomic profiling of human lungs across age groups,dendritic cell,CL:0000451,female,African American,13,0.027956989247311825
-45,Single-cell multiomic profiling of human lungs across age groups,monocyte,CL:0000576,female,African American,410,0.8817204301075269
-46,Single-cell multiomic profiling of human lungs across age groups,alveolar macrophage,CL:0000583,female,African American,1153,2.479569892473118
-47,Single-cell multiomic profiling of human lungs across age groups,enucleate erythrocyte,CL:0000595,female,African American,3,0.0064516129032258064
-48,Single-cell multiomic profiling of human lungs across age groups,natural killer cell,CL:0000623,female,African American,89,0.19139784946236557
-49,Single-cell multiomic profiling of human lungs across age groups,basal cell,CL:0000646,female,African American,40,0.08602150537634409
-50,Single-cell multiomic profiling of human lungs across age groups,pericyte cell,CL:0000669,female,African American,21,0.04516129032258064
-51,Single-cell multiomic profiling of human lungs across age groups,type I pneumocyte,CL:0002062,female,African American,435,0.935483870967742
-52,Single-cell multiomic profiling of human lungs across age groups,type II pneumocyte,CL:0002063,female,African American,1029,2.2129032258064516
-53,Single-cell multiomic profiling of human lungs across age groups,vein endothelial cell,CL:0002543,female,African American,13,0.027956989247311825
-54,Single-cell multiomic profiling of human lungs across age groups,lung neuroendocrine cell,CL:1000223,female,African American,4,0.008602150537634409
-55,Single-cell multiomic profiling of human lungs across age groups,endothelial cell of artery,CL:1000413,female,African American,10,0.021505376344086023
-56,Single-cell multiomic profiling of human lungs across age groups,native cell,CL:0000003,female,European,51,0.10967741935483871
-57,Single-cell multiomic profiling of human lungs across age groups,fibroblast,CL:0000057,female,European,208,0.4473118279569892
-58,Single-cell multiomic profiling of human lungs across age groups,ciliated cell,CL:0000064,female,European,32,0.06881720430107527
-59,Single-cell multiomic profiling of human lungs across age groups,epithelial cell,CL:0000066,female,European,22,0.047311827956989246
-60,Single-cell multiomic profiling of human lungs across age groups,blood vessel endothelial cell,CL:0000071,female,European,3,0.0064516129032258064
-61,Single-cell multiomic profiling of human lungs across age groups,T cell,CL:0000084,female,European,211,0.4537634408602151
-62,Single-cell multiomic profiling of human lungs across age groups,mast cell,CL:0000097,female,European,5,0.010752688172043012
-63,Single-cell multiomic profiling of human lungs across age groups,endothelial cell,CL:0000115,female,European,111,0.23870967741935484
-64,Single-cell multiomic profiling of human lungs across age groups,chondrocyte,CL:0000138,female,European,4,0.008602150537634409
-65,Single-cell multiomic profiling of human lungs across age groups,club cell,CL:0000158,female,European,21,0.04516129032258064
-66,Single-cell multiomic profiling of human lungs across age groups,goblet cell,CL:0000160,female,European,8,0.017204301075268817
-67,Single-cell multiomic profiling of human lungs across age groups,myofibroblast cell,CL:0000186,female,European,3,0.0064516129032258064
-68,Single-cell multiomic profiling of human lungs across age groups,smooth muscle cell,CL:0000192,female,European,3,0.0064516129032258064
-69,Single-cell multiomic profiling of human lungs across age groups,macrophage,CL:0000235,female,European,39,0.08387096774193549
-70,Single-cell multiomic profiling of human lungs across age groups,B cell,CL:0000236,female,European,37,0.07956989247311827
-71,Single-cell multiomic profiling of human lungs across age groups,vascular associated smooth muscle cell,CL:0000359,female,European,5,0.010752688172043012
-72,Single-cell multiomic profiling of human lungs across age groups,dendritic cell,CL:0000451,female,European,13,0.027956989247311825
-73,Single-cell multiomic profiling of human lungs across age groups,monocyte,CL:0000576,female,European,93,0.2
-74,Single-cell multiomic profiling of human lungs across age groups,alveolar macrophage,CL:0000583,female,European,334,0.7182795698924731
-75,Single-cell multiomic profiling of human lungs across age groups,enucleate erythrocyte,CL:0000595,female,European,5,0.010752688172043012
-76,Single-cell multiomic profiling of human lungs across age groups,natural killer cell,CL:0000623,female,European,56,0.12043010752688173
-77,Single-cell multiomic profiling of human lungs across age groups,basal cell,CL:0000646,female,European,5,0.010752688172043012
-78,Single-cell multiomic profiling of human lungs across age groups,pericyte cell,CL:0000669,female,European,9,0.01935483870967742
-79,Single-cell multiomic profiling of human lungs across age groups,type I pneumocyte,CL:0002062,female,European,183,0.39354838709677414
-80,Single-cell multiomic profiling of human lungs across age groups,type II pneumocyte,CL:0002063,female,European,301,0.6473118279569893
-81,Single-cell multiomic profiling of human lungs across age groups,vein endothelial cell,CL:0002543,female,European,5,0.010752688172043012
-82,Single-cell multiomic profiling of human lungs across age groups,endothelial cell of artery,CL:1000413,female,European,11,0.023655913978494623
-83,Single-cell multiomic profiling of human lungs across age groups,native cell,CL:0000003,female,unknown,371,0.7978494623655914
-84,Single-cell multiomic profiling of human lungs across age groups,fibroblast,CL:0000057,female,unknown,1567,3.3698924731182793
-85,Single-cell multiomic profiling of human lungs across age groups,ciliated cell,CL:0000064,female,unknown,67,0.14408602150537633
-86,Single-cell multiomic profiling of human lungs across age groups,epithelial cell,CL:0000066,female,unknown,161,0.3462365591397849
-87,Single-cell multiomic profiling of human lungs across age groups,blood vessel endothelial cell,CL:0000071,female,unknown,2,0.004301075268817204
-88,Single-cell multiomic profiling of human lungs across age groups,T cell,CL:0000084,female,unknown,255,0.5483870967741935
-89,Single-cell multiomic profiling of human lungs across age groups,mast cell,CL:0000097,female,unknown,20,0.043010752688172046
-90,Single-cell multiomic profiling of human lungs across age groups,endothelial cell,CL:0000115,female,unknown,420,0.903225806451613
-91,Single-cell multiomic profiling of human lungs across age groups,chondrocyte,CL:0000138,female,unknown,25,0.053763440860215055
-92,Single-cell multiomic profiling of human lungs across age groups,club cell,CL:0000158,female,unknown,96,0.2064516129032258
-93,Single-cell multiomic profiling of human lungs across age groups,myofibroblast cell,CL:0000186,female,unknown,206,0.443010752688172
-94,Single-cell multiomic profiling of human lungs across age groups,smooth muscle cell,CL:0000192,female,unknown,210,0.4516129032258065
-95,Single-cell multiomic profiling of human lungs across age groups,macrophage,CL:0000235,female,unknown,77,0.16559139784946236
-96,Single-cell multiomic profiling of human lungs across age groups,B cell,CL:0000236,female,unknown,368,0.7913978494623657
-97,Single-cell multiomic profiling of human lungs across age groups,vascular associated smooth muscle cell,CL:0000359,female,unknown,65,0.13978494623655913
-98,Single-cell multiomic profiling of human lungs across age groups,dendritic cell,CL:0000451,female,unknown,24,0.05161290322580645
-99,Single-cell multiomic profiling of human lungs across age groups,monocyte,CL:0000576,female,unknown,185,0.39784946236559143
-100,Single-cell multiomic profiling of human lungs across age groups,alveolar macrophage,CL:0000583,female,unknown,214,0.46021505376344085
-101,Single-cell multiomic profiling of human lungs across age groups,enucleate erythrocyte,CL:0000595,female,unknown,102,0.21935483870967742
-102,Single-cell multiomic profiling of human lungs across age groups,natural killer cell,CL:0000623,female,unknown,168,0.36129032258064514
-103,Single-cell multiomic profiling of human lungs across age groups,basal cell,CL:0000646,female,unknown,1,0.002150537634408602
-104,Single-cell multiomic profiling of human lungs across age groups,pericyte cell,CL:0000669,female,unknown,289,0.621505376344086
-105,Single-cell multiomic profiling of human lungs across age groups,type I pneumocyte,CL:0002062,female,unknown,461,0.9913978494623656
-106,Single-cell multiomic profiling of human lungs across age groups,type II pneumocyte,CL:0002063,female,unknown,516,1.1096774193548387
-107,Single-cell multiomic profiling of human lungs across age groups,vein endothelial cell,CL:0002543,female,unknown,16,0.034408602150537634
-108,Single-cell multiomic profiling of human lungs across age groups,lung neuroendocrine cell,CL:1000223,female,unknown,10,0.021505376344086023
-109,Single-cell multiomic profiling of human lungs across age groups,endothelial cell of artery,CL:1000413,female,unknown,7,0.015053763440860216
-110,Single-cell multiomic profiling of human lungs across age groups,native cell,CL:0000003,male,European,532,1.1440860215053763
-111,Single-cell multiomic profiling of human lungs across age groups,fibroblast,CL:0000057,male,European,1434,3.0838709677419356
-112,Single-cell multiomic profiling of human lungs across age groups,ciliated cell,CL:0000064,male,European,141,0.3032258064516129
-113,Single-cell multiomic profiling of human lungs across age groups,epithelial cell,CL:0000066,male,European,383,0.8236559139784947
-114,Single-cell multiomic profiling of human lungs across age groups,blood vessel endothelial cell,CL:0000071,male,European,17,0.03655913978494624
-115,Single-cell multiomic profiling of human lungs across age groups,T cell,CL:0000084,male,European,1488,3.2
-116,Single-cell multiomic profiling of human lungs across age groups,mast cell,CL:0000097,male,European,58,0.12473118279569893
-117,Single-cell multiomic profiling of human lungs across age groups,endothelial cell,CL:0000115,male,European,954,2.0516129032258066
-118,Single-cell multiomic profiling of human lungs across age groups,chondrocyte,CL:0000138,male,European,35,0.07526881720430108
-119,Single-cell multiomic profiling of human lungs across age groups,club cell,CL:0000158,male,European,459,0.9870967741935484
-120,Single-cell multiomic profiling of human lungs across age groups,goblet cell,CL:0000160,male,European,54,0.11612903225806451
-121,Single-cell multiomic profiling of human lungs across age groups,myofibroblast cell,CL:0000186,male,European,75,0.16129032258064516
-122,Single-cell multiomic profiling of human lungs across age groups,smooth muscle cell,CL:0000192,male,European,57,0.12258064516129032
-123,Single-cell multiomic profiling of human lungs across age groups,macrophage,CL:0000235,male,European,359,0.7720430107526882
-124,Single-cell multiomic profiling of human lungs across age groups,B cell,CL:0000236,male,European,304,0.6537634408602151
-125,Single-cell multiomic profiling of human lungs across age groups,vascular associated smooth muscle cell,CL:0000359,male,European,23,0.049462365591397855
-126,Single-cell multiomic profiling of human lungs across age groups,dendritic cell,CL:0000451,male,European,74,0.15913978494623654
-127,Single-cell multiomic profiling of human lungs across age groups,monocyte,CL:0000576,male,European,675,1.4516129032258065
-128,Single-cell multiomic profiling of human lungs across age groups,alveolar macrophage,CL:0000583,male,European,2719,5.84731182795699
-129,Single-cell multiomic profiling of human lungs across age groups,enucleate erythrocyte,CL:0000595,male,European,6,0.012903225806451613
-130,Single-cell multiomic profiling of human lungs across age groups,natural killer cell,CL:0000623,male,European,354,0.7612903225806451
-131,Single-cell multiomic profiling of human lungs across age groups,basal cell,CL:0000646,male,European,49,0.10537634408602149
-132,Single-cell multiomic profiling of human lungs across age groups,pericyte cell,CL:0000669,male,European,217,0.46666666666666673
-133,Single-cell multiomic profiling of human lungs across age groups,type I pneumocyte,CL:0002062,male,European,724,1.5569892473118279
-134,Single-cell multiomic profiling of human lungs across age groups,type II pneumocyte,CL:0002063,male,European,2597,5.58494623655914
-135,Single-cell multiomic profiling of human lungs across age groups,vein endothelial cell,CL:0002543,male,European,21,0.04516129032258064
-136,Single-cell multiomic profiling of human lungs across age groups,lung neuroendocrine cell,CL:1000223,male,European,19,0.04086021505376344
-137,Single-cell multiomic profiling of human lungs across age groups,endothelial cell of artery,CL:1000413,male,European,36,0.07741935483870968
-138,Single-cell multiomic profiling of human lungs across age groups,native cell,CL:0000003,male,unknown,183,0.39354838709677414
-139,Single-cell multiomic profiling of human lungs across age groups,fibroblast,CL:0000057,male,unknown,231,0.49677419354838714
-140,Single-cell multiomic profiling of human lungs across age groups,ciliated cell,CL:0000064,male,unknown,56,0.12043010752688173
-141,Single-cell multiomic profiling of human lungs across age groups,epithelial cell,CL:0000066,male,unknown,113,0.24301075268817204
-142,Single-cell multiomic profiling of human lungs across age groups,blood vessel endothelial cell,CL:0000071,male,unknown,3,0.0064516129032258064
-143,Single-cell multiomic profiling of human lungs across age groups,T cell,CL:0000084,male,unknown,120,0.25806451612903225
-144,Single-cell multiomic profiling of human lungs across age groups,mast cell,CL:0000097,male,unknown,11,0.023655913978494623
-145,Single-cell multiomic profiling of human lungs across age groups,endothelial cell,CL:0000115,male,unknown,151,0.3247311827956989
-146,Single-cell multiomic profiling of human lungs across age groups,chondrocyte,CL:0000138,male,unknown,12,0.025806451612903226
-147,Single-cell multiomic profiling of human lungs across age groups,club cell,CL:0000158,male,unknown,68,0.14623655913978495
-148,Single-cell multiomic profiling of human lungs across age groups,goblet cell,CL:0000160,male,unknown,27,0.058064516129032254
-149,Single-cell multiomic profiling of human lungs across age groups,myofibroblast cell,CL:0000186,male,unknown,11,0.023655913978494623
-150,Single-cell multiomic profiling of human lungs across age groups,smooth muscle cell,CL:0000192,male,unknown,8,0.017204301075268817
-151,Single-cell multiomic profiling of human lungs across age groups,macrophage,CL:0000235,male,unknown,66,0.14193548387096774
-152,Single-cell multiomic profiling of human lungs across age groups,B cell,CL:0000236,male,unknown,32,0.06881720430107527
-153,Single-cell multiomic profiling of human lungs across age groups,vascular associated smooth muscle cell,CL:0000359,male,unknown,9,0.01935483870967742
-154,Single-cell multiomic profiling of human lungs across age groups,dendritic cell,CL:0000451,male,unknown,6,0.012903225806451613
-155,Single-cell multiomic profiling of human lungs across age groups,monocyte,CL:0000576,male,unknown,328,0.7053763440860215
-156,Single-cell multiomic profiling of human lungs across age groups,alveolar macrophage,CL:0000583,male,unknown,1154,2.4817204301075266
-157,Single-cell multiomic profiling of human lungs across age groups,enucleate erythrocyte,CL:0000595,male,unknown,5,0.010752688172043012
-158,Single-cell multiomic profiling of human lungs across age groups,natural killer cell,CL:0000623,male,unknown,38,0.08172043010752689
-159,Single-cell multiomic profiling of human lungs across age groups,basal cell,CL:0000646,male,unknown,15,0.03225806451612903
-160,Single-cell multiomic profiling of human lungs across age groups,pericyte cell,CL:0000669,male,unknown,41,0.08817204301075268
-161,Single-cell multiomic profiling of human lungs across age groups,type I pneumocyte,CL:0002062,male,unknown,474,1.0193548387096776
-162,Single-cell multiomic profiling of human lungs across age groups,type II pneumocyte,CL:0002063,male,unknown,739,1.589247311827957
-163,Single-cell multiomic profiling of human lungs across age groups,vein endothelial cell,CL:0002543,male,unknown,16,0.034408602150537634
-164,Single-cell multiomic profiling of human lungs across age groups,endothelial cell of artery,CL:1000413,male,unknown,18,0.03870967741935484
-165,Single-cell multiomic profiling of human lungs across age groups,native cell,CL:0000003,male,European,288,0.6193548387096774
-166,Single-cell multiomic profiling of human lungs across age groups,fibroblast,CL:0000057,male,European,2034,4.374193548387097
-167,Single-cell multiomic profiling of human lungs across age groups,ciliated cell,CL:0000064,male,European,88,0.18924731182795698
-168,Single-cell multiomic profiling of human lungs across age groups,epithelial cell,CL:0000066,male,European,205,0.44086021505376344
-169,Single-cell multiomic profiling of human lungs across age groups,blood vessel endothelial cell,CL:0000071,male,European,6,0.012903225806451613
-170,Single-cell multiomic profiling of human lungs across age groups,T cell,CL:0000084,male,European,146,0.3139784946236559
-171,Single-cell multiomic profiling of human lungs across age groups,mast cell,CL:0000097,male,European,9,0.01935483870967742
-172,Single-cell multiomic profiling of human lungs across age groups,endothelial cell,CL:0000115,male,European,385,0.8279569892473119
-173,Single-cell multiomic profiling of human lungs across age groups,chondrocyte,CL:0000138,male,European,237,0.5096774193548388
-174,Single-cell multiomic profiling of human lungs across age groups,club cell,CL:0000158,male,European,327,0.7032258064516129
-175,Single-cell multiomic profiling of human lungs across age groups,goblet cell,CL:0000160,male,European,62,0.13333333333333333
-176,Single-cell multiomic profiling of human lungs across age groups,myofibroblast cell,CL:0000186,male,European,169,0.3634408602150538
-177,Single-cell multiomic profiling of human lungs across age groups,smooth muscle cell,CL:0000192,male,European,80,0.17204301075268819
-178,Single-cell multiomic profiling of human lungs across age groups,macrophage,CL:0000235,male,European,90,0.1935483870967742
-179,Single-cell multiomic profiling of human lungs across age groups,B cell,CL:0000236,male,European,60,0.12903225806451613
-180,Single-cell multiomic profiling of human lungs across age groups,vascular associated smooth muscle cell,CL:0000359,male,European,49,0.10537634408602149
-181,Single-cell multiomic profiling of human lungs across age groups,dendritic cell,CL:0000451,male,European,22,0.047311827956989246
-182,Single-cell multiomic profiling of human lungs across age groups,monocyte,CL:0000576,male,European,72,0.15483870967741936
-183,Single-cell multiomic profiling of human lungs across age groups,alveolar macrophage,CL:0000583,male,European,116,0.24946236559139787
-184,Single-cell multiomic profiling of human lungs across age groups,enucleate erythrocyte,CL:0000595,male,European,73,0.15698924731182795
-185,Single-cell multiomic profiling of human lungs across age groups,natural killer cell,CL:0000623,male,European,91,0.19569892473118278
-186,Single-cell multiomic profiling of human lungs across age groups,basal cell,CL:0000646,male,European,69,0.14838709677419354
-187,Single-cell multiomic profiling of human lungs across age groups,pericyte cell,CL:0000669,male,European,90,0.1935483870967742
-188,Single-cell multiomic profiling of human lungs across age groups,type I pneumocyte,CL:0002062,male,European,592,1.2731182795698923
-189,Single-cell multiomic profiling of human lungs across age groups,type II pneumocyte,CL:0002063,male,European,847,1.821505376344086
-190,Single-cell multiomic profiling of human lungs across age groups,vein endothelial cell,CL:0002543,male,European,23,0.049462365591397855
-191,Single-cell multiomic profiling of human lungs across age groups,lung neuroendocrine cell,CL:1000223,male,European,27,0.058064516129032254
-192,Single-cell multiomic profiling of human lungs across age groups,endothelial cell of artery,CL:1000413,male,European,14,0.030107526881720432
-193,Single-cell multiomic profiling of human lungs across age groups,native cell,CL:0000003,male,unknown,389,0.8365591397849462
-194,Single-cell multiomic profiling of human lungs across age groups,fibroblast,CL:0000057,male,unknown,871,1.8731182795698926
-195,Single-cell multiomic profiling of human lungs across age groups,ciliated cell,CL:0000064,male,unknown,45,0.0967741935483871
-196,Single-cell multiomic profiling of human lungs across age groups,epithelial cell,CL:0000066,male,unknown,189,0.4064516129032258
-197,Single-cell multiomic profiling of human lungs across age groups,T cell,CL:0000084,male,unknown,231,0.49677419354838714
-198,Single-cell multiomic profiling of human lungs across age groups,mast cell,CL:0000097,male,unknown,7,0.015053763440860216
-199,Single-cell multiomic profiling of human lungs across age groups,endothelial cell,CL:0000115,male,unknown,327,0.7032258064516129
-200,Single-cell multiomic profiling of human lungs across age groups,chondrocyte,CL:0000138,male,unknown,57,0.12258064516129032
-201,Single-cell multiomic profiling of human lungs across age groups,club cell,CL:0000158,male,unknown,40,0.08602150537634409
-202,Single-cell multiomic profiling of human lungs across age groups,myofibroblast cell,CL:0000186,male,unknown,65,0.13978494623655913
-203,Single-cell multiomic profiling of human lungs across age groups,smooth muscle cell,CL:0000192,male,unknown,64,0.13763440860215054
-204,Single-cell multiomic profiling of human lungs across age groups,macrophage,CL:0000235,male,unknown,291,0.6258064516129033
-205,Single-cell multiomic profiling of human lungs across age groups,B cell,CL:0000236,male,unknown,98,0.21075268817204298
-206,Single-cell multiomic profiling of human lungs across age groups,vascular associated smooth muscle cell,CL:0000359,male,unknown,20,0.043010752688172046
-207,Single-cell multiomic profiling of human lungs across age groups,dendritic cell,CL:0000451,male,unknown,25,0.053763440860215055
-208,Single-cell multiomic profiling of human lungs across age groups,monocyte,CL:0000576,male,unknown,348,0.7483870967741936
-209,Single-cell multiomic profiling of human lungs across age groups,alveolar macrophage,CL:0000583,male,unknown,570,1.2258064516129032
-210,Single-cell multiomic profiling of human lungs across age groups,enucleate erythrocyte,CL:0000595,male,unknown,5,0.010752688172043012
-211,Single-cell multiomic profiling of human lungs across age groups,natural killer cell,CL:0000623,male,unknown,90,0.1935483870967742
-212,Single-cell multiomic profiling of human lungs across age groups,basal cell,CL:0000646,male,unknown,1,0.002150537634408602
-213,Single-cell multiomic profiling of human lungs across age groups,pericyte cell,CL:0000669,male,unknown,84,0.18064516129032257
-214,Single-cell multiomic profiling of human lungs across age groups,type I pneumocyte,CL:0002062,male,unknown,441,0.9483870967741935
-215,Single-cell multiomic profiling of human lungs across age groups,type II pneumocyte,CL:0002063,male,unknown,533,1.146236559139785
-216,Single-cell multiomic profiling of human lungs across age groups,vein endothelial cell,CL:0002543,male,unknown,38,0.08172043010752689
-217,Single-cell multiomic profiling of human lungs across age groups,lung neuroendocrine cell,CL:1000223,male,unknown,3,0.0064516129032258064
-218,Single-cell multiomic profiling of human lungs across age groups,endothelial cell of artery,CL:1000413,male,unknown,20,0.043010752688172046
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,development_stage,count,percentage
+0,Single-cell multiomic profiling of human lungs across age groups,native cell,CL:0000003,female,European,3-year-old human stage,153,0.32903225806451614
+1,Single-cell multiomic profiling of human lungs across age groups,fibroblast,CL:0000057,female,European,3-year-old human stage,493,1.060215053763441
+2,Single-cell multiomic profiling of human lungs across age groups,ciliated cell,CL:0000064,female,European,3-year-old human stage,85,0.1827956989247312
+3,Single-cell multiomic profiling of human lungs across age groups,epithelial cell,CL:0000066,female,European,3-year-old human stage,84,0.18064516129032257
+4,Single-cell multiomic profiling of human lungs across age groups,blood vessel endothelial cell,CL:0000071,female,European,3-year-old human stage,3,0.0064516129032258064
+5,Single-cell multiomic profiling of human lungs across age groups,T cell,CL:0000084,female,European,3-year-old human stage,384,0.8258064516129032
+6,Single-cell multiomic profiling of human lungs across age groups,mast cell,CL:0000097,female,European,3-year-old human stage,9,0.01935483870967742
+7,Single-cell multiomic profiling of human lungs across age groups,endothelial cell,CL:0000115,female,European,3-year-old human stage,287,0.6172043010752688
+8,Single-cell multiomic profiling of human lungs across age groups,chondrocyte,CL:0000138,female,European,3-year-old human stage,3,0.0064516129032258064
+9,Single-cell multiomic profiling of human lungs across age groups,club cell,CL:0000158,female,European,3-year-old human stage,139,0.2989247311827957
+10,Single-cell multiomic profiling of human lungs across age groups,goblet cell,CL:0000160,female,European,3-year-old human stage,24,0.05161290322580645
+11,Single-cell multiomic profiling of human lungs across age groups,myofibroblast cell,CL:0000186,female,European,3-year-old human stage,25,0.053763440860215055
+12,Single-cell multiomic profiling of human lungs across age groups,smooth muscle cell,CL:0000192,female,European,3-year-old human stage,18,0.03870967741935484
+13,Single-cell multiomic profiling of human lungs across age groups,macrophage,CL:0000235,female,European,3-year-old human stage,126,0.2709677419354839
+14,Single-cell multiomic profiling of human lungs across age groups,B cell,CL:0000236,female,European,3-year-old human stage,117,0.25161290322580643
+15,Single-cell multiomic profiling of human lungs across age groups,vascular associated smooth muscle cell,CL:0000359,female,European,3-year-old human stage,17,0.03655913978494624
+16,Single-cell multiomic profiling of human lungs across age groups,dendritic cell,CL:0000451,female,European,3-year-old human stage,26,0.05591397849462365
+17,Single-cell multiomic profiling of human lungs across age groups,monocyte,CL:0000576,female,European,3-year-old human stage,534,1.1483870967741936
+18,Single-cell multiomic profiling of human lungs across age groups,alveolar macrophage,CL:0000583,female,European,3-year-old human stage,1360,2.924731182795699
+19,Single-cell multiomic profiling of human lungs across age groups,enucleate erythrocyte,CL:0000595,female,European,3-year-old human stage,3,0.0064516129032258064
+20,Single-cell multiomic profiling of human lungs across age groups,natural killer cell,CL:0000623,female,European,3-year-old human stage,185,0.39784946236559143
+21,Single-cell multiomic profiling of human lungs across age groups,basal cell,CL:0000646,female,European,3-year-old human stage,24,0.05161290322580645
+22,Single-cell multiomic profiling of human lungs across age groups,pericyte cell,CL:0000669,female,European,3-year-old human stage,52,0.1118279569892473
+23,Single-cell multiomic profiling of human lungs across age groups,type I pneumocyte,CL:0002062,female,European,3-year-old human stage,308,0.6623655913978495
+24,Single-cell multiomic profiling of human lungs across age groups,type II pneumocyte,CL:0002063,female,European,3-year-old human stage,664,1.4279569892473118
+25,Single-cell multiomic profiling of human lungs across age groups,vein endothelial cell,CL:0002543,female,European,3-year-old human stage,25,0.053763440860215055
+26,Single-cell multiomic profiling of human lungs across age groups,lung neuroendocrine cell,CL:1000223,female,European,3-year-old human stage,5,0.010752688172043012
+27,Single-cell multiomic profiling of human lungs across age groups,endothelial cell of artery,CL:1000413,female,European,3-year-old human stage,64,0.13763440860215054
+28,Single-cell multiomic profiling of human lungs across age groups,native cell,CL:0000003,female,African American,31-year-old human stage,239,0.513978494623656
+29,Single-cell multiomic profiling of human lungs across age groups,fibroblast,CL:0000057,female,African American,31-year-old human stage,235,0.5053763440860215
+30,Single-cell multiomic profiling of human lungs across age groups,ciliated cell,CL:0000064,female,African American,31-year-old human stage,152,0.32688172043010755
+31,Single-cell multiomic profiling of human lungs across age groups,epithelial cell,CL:0000066,female,African American,31-year-old human stage,62,0.13333333333333333
+32,Single-cell multiomic profiling of human lungs across age groups,blood vessel endothelial cell,CL:0000071,female,African American,31-year-old human stage,1,0.002150537634408602
+33,Single-cell multiomic profiling of human lungs across age groups,T cell,CL:0000084,female,African American,31-year-old human stage,265,0.5698924731182796
+34,Single-cell multiomic profiling of human lungs across age groups,mast cell,CL:0000097,female,African American,31-year-old human stage,10,0.021505376344086023
+35,Single-cell multiomic profiling of human lungs across age groups,endothelial cell,CL:0000115,female,African American,31-year-old human stage,132,0.2838709677419355
+36,Single-cell multiomic profiling of human lungs across age groups,chondrocyte,CL:0000138,female,African American,31-year-old human stage,21,0.04516129032258064
+37,Single-cell multiomic profiling of human lungs across age groups,club cell,CL:0000158,female,African American,31-year-old human stage,141,0.3032258064516129
+38,Single-cell multiomic profiling of human lungs across age groups,goblet cell,CL:0000160,female,African American,31-year-old human stage,60,0.12903225806451613
+39,Single-cell multiomic profiling of human lungs across age groups,myofibroblast cell,CL:0000186,female,African American,31-year-old human stage,4,0.008602150537634409
+40,Single-cell multiomic profiling of human lungs across age groups,smooth muscle cell,CL:0000192,female,African American,31-year-old human stage,9,0.01935483870967742
+41,Single-cell multiomic profiling of human lungs across age groups,macrophage,CL:0000235,female,African American,31-year-old human stage,100,0.21505376344086022
+42,Single-cell multiomic profiling of human lungs across age groups,B cell,CL:0000236,female,African American,31-year-old human stage,18,0.03870967741935484
+43,Single-cell multiomic profiling of human lungs across age groups,vascular associated smooth muscle cell,CL:0000359,female,African American,31-year-old human stage,11,0.023655913978494623
+44,Single-cell multiomic profiling of human lungs across age groups,dendritic cell,CL:0000451,female,African American,31-year-old human stage,13,0.027956989247311825
+45,Single-cell multiomic profiling of human lungs across age groups,monocyte,CL:0000576,female,African American,31-year-old human stage,410,0.8817204301075269
+46,Single-cell multiomic profiling of human lungs across age groups,alveolar macrophage,CL:0000583,female,African American,31-year-old human stage,1153,2.479569892473118
+47,Single-cell multiomic profiling of human lungs across age groups,enucleate erythrocyte,CL:0000595,female,African American,31-year-old human stage,3,0.0064516129032258064
+48,Single-cell multiomic profiling of human lungs across age groups,natural killer cell,CL:0000623,female,African American,31-year-old human stage,89,0.19139784946236557
+49,Single-cell multiomic profiling of human lungs across age groups,basal cell,CL:0000646,female,African American,31-year-old human stage,40,0.08602150537634409
+50,Single-cell multiomic profiling of human lungs across age groups,pericyte cell,CL:0000669,female,African American,31-year-old human stage,21,0.04516129032258064
+51,Single-cell multiomic profiling of human lungs across age groups,type I pneumocyte,CL:0002062,female,African American,31-year-old human stage,435,0.935483870967742
+52,Single-cell multiomic profiling of human lungs across age groups,type II pneumocyte,CL:0002063,female,African American,31-year-old human stage,1029,2.2129032258064516
+53,Single-cell multiomic profiling of human lungs across age groups,vein endothelial cell,CL:0002543,female,African American,31-year-old human stage,13,0.027956989247311825
+54,Single-cell multiomic profiling of human lungs across age groups,lung neuroendocrine cell,CL:1000223,female,African American,31-year-old human stage,4,0.008602150537634409
+55,Single-cell multiomic profiling of human lungs across age groups,endothelial cell of artery,CL:1000413,female,African American,31-year-old human stage,10,0.021505376344086023
+56,Single-cell multiomic profiling of human lungs across age groups,native cell,CL:0000003,female,European,31-year-old human stage,51,0.10967741935483871
+57,Single-cell multiomic profiling of human lungs across age groups,fibroblast,CL:0000057,female,European,31-year-old human stage,208,0.4473118279569892
+58,Single-cell multiomic profiling of human lungs across age groups,ciliated cell,CL:0000064,female,European,31-year-old human stage,32,0.06881720430107527
+59,Single-cell multiomic profiling of human lungs across age groups,epithelial cell,CL:0000066,female,European,31-year-old human stage,22,0.047311827956989246
+60,Single-cell multiomic profiling of human lungs across age groups,blood vessel endothelial cell,CL:0000071,female,European,31-year-old human stage,3,0.0064516129032258064
+61,Single-cell multiomic profiling of human lungs across age groups,T cell,CL:0000084,female,European,31-year-old human stage,211,0.4537634408602151
+62,Single-cell multiomic profiling of human lungs across age groups,mast cell,CL:0000097,female,European,31-year-old human stage,5,0.010752688172043012
+63,Single-cell multiomic profiling of human lungs across age groups,endothelial cell,CL:0000115,female,European,31-year-old human stage,111,0.23870967741935484
+64,Single-cell multiomic profiling of human lungs across age groups,chondrocyte,CL:0000138,female,European,31-year-old human stage,4,0.008602150537634409
+65,Single-cell multiomic profiling of human lungs across age groups,club cell,CL:0000158,female,European,31-year-old human stage,21,0.04516129032258064
+66,Single-cell multiomic profiling of human lungs across age groups,goblet cell,CL:0000160,female,European,31-year-old human stage,8,0.017204301075268817
+67,Single-cell multiomic profiling of human lungs across age groups,myofibroblast cell,CL:0000186,female,European,31-year-old human stage,3,0.0064516129032258064
+68,Single-cell multiomic profiling of human lungs across age groups,smooth muscle cell,CL:0000192,female,European,31-year-old human stage,3,0.0064516129032258064
+69,Single-cell multiomic profiling of human lungs across age groups,macrophage,CL:0000235,female,European,31-year-old human stage,39,0.08387096774193549
+70,Single-cell multiomic profiling of human lungs across age groups,B cell,CL:0000236,female,European,31-year-old human stage,37,0.07956989247311827
+71,Single-cell multiomic profiling of human lungs across age groups,vascular associated smooth muscle cell,CL:0000359,female,European,31-year-old human stage,5,0.010752688172043012
+72,Single-cell multiomic profiling of human lungs across age groups,dendritic cell,CL:0000451,female,European,31-year-old human stage,13,0.027956989247311825
+73,Single-cell multiomic profiling of human lungs across age groups,monocyte,CL:0000576,female,European,31-year-old human stage,93,0.2
+74,Single-cell multiomic profiling of human lungs across age groups,alveolar macrophage,CL:0000583,female,European,31-year-old human stage,334,0.7182795698924731
+75,Single-cell multiomic profiling of human lungs across age groups,enucleate erythrocyte,CL:0000595,female,European,31-year-old human stage,5,0.010752688172043012
+76,Single-cell multiomic profiling of human lungs across age groups,natural killer cell,CL:0000623,female,European,31-year-old human stage,56,0.12043010752688173
+77,Single-cell multiomic profiling of human lungs across age groups,basal cell,CL:0000646,female,European,31-year-old human stage,5,0.010752688172043012
+78,Single-cell multiomic profiling of human lungs across age groups,pericyte cell,CL:0000669,female,European,31-year-old human stage,9,0.01935483870967742
+79,Single-cell multiomic profiling of human lungs across age groups,type I pneumocyte,CL:0002062,female,European,31-year-old human stage,183,0.39354838709677414
+80,Single-cell multiomic profiling of human lungs across age groups,type II pneumocyte,CL:0002063,female,European,31-year-old human stage,301,0.6473118279569893
+81,Single-cell multiomic profiling of human lungs across age groups,vein endothelial cell,CL:0002543,female,European,31-year-old human stage,5,0.010752688172043012
+82,Single-cell multiomic profiling of human lungs across age groups,endothelial cell of artery,CL:1000413,female,European,31-year-old human stage,11,0.023655913978494623
+83,Single-cell multiomic profiling of human lungs across age groups,native cell,CL:0000003,female,unknown,31st week post-fertilization human stage,371,0.7978494623655914
+84,Single-cell multiomic profiling of human lungs across age groups,fibroblast,CL:0000057,female,unknown,31st week post-fertilization human stage,1567,3.3698924731182793
+85,Single-cell multiomic profiling of human lungs across age groups,ciliated cell,CL:0000064,female,unknown,31st week post-fertilization human stage,67,0.14408602150537633
+86,Single-cell multiomic profiling of human lungs across age groups,epithelial cell,CL:0000066,female,unknown,31st week post-fertilization human stage,161,0.3462365591397849
+87,Single-cell multiomic profiling of human lungs across age groups,blood vessel endothelial cell,CL:0000071,female,unknown,31st week post-fertilization human stage,2,0.004301075268817204
+88,Single-cell multiomic profiling of human lungs across age groups,T cell,CL:0000084,female,unknown,31st week post-fertilization human stage,255,0.5483870967741935
+89,Single-cell multiomic profiling of human lungs across age groups,mast cell,CL:0000097,female,unknown,31st week post-fertilization human stage,20,0.043010752688172046
+90,Single-cell multiomic profiling of human lungs across age groups,endothelial cell,CL:0000115,female,unknown,31st week post-fertilization human stage,420,0.903225806451613
+91,Single-cell multiomic profiling of human lungs across age groups,chondrocyte,CL:0000138,female,unknown,31st week post-fertilization human stage,25,0.053763440860215055
+92,Single-cell multiomic profiling of human lungs across age groups,club cell,CL:0000158,female,unknown,31st week post-fertilization human stage,96,0.2064516129032258
+93,Single-cell multiomic profiling of human lungs across age groups,myofibroblast cell,CL:0000186,female,unknown,31st week post-fertilization human stage,206,0.443010752688172
+94,Single-cell multiomic profiling of human lungs across age groups,smooth muscle cell,CL:0000192,female,unknown,31st week post-fertilization human stage,210,0.4516129032258065
+95,Single-cell multiomic profiling of human lungs across age groups,macrophage,CL:0000235,female,unknown,31st week post-fertilization human stage,77,0.16559139784946236
+96,Single-cell multiomic profiling of human lungs across age groups,B cell,CL:0000236,female,unknown,31st week post-fertilization human stage,368,0.7913978494623657
+97,Single-cell multiomic profiling of human lungs across age groups,vascular associated smooth muscle cell,CL:0000359,female,unknown,31st week post-fertilization human stage,65,0.13978494623655913
+98,Single-cell multiomic profiling of human lungs across age groups,dendritic cell,CL:0000451,female,unknown,31st week post-fertilization human stage,24,0.05161290322580645
+99,Single-cell multiomic profiling of human lungs across age groups,monocyte,CL:0000576,female,unknown,31st week post-fertilization human stage,185,0.39784946236559143
+100,Single-cell multiomic profiling of human lungs across age groups,alveolar macrophage,CL:0000583,female,unknown,31st week post-fertilization human stage,214,0.46021505376344085
+101,Single-cell multiomic profiling of human lungs across age groups,enucleate erythrocyte,CL:0000595,female,unknown,31st week post-fertilization human stage,102,0.21935483870967742
+102,Single-cell multiomic profiling of human lungs across age groups,natural killer cell,CL:0000623,female,unknown,31st week post-fertilization human stage,168,0.36129032258064514
+103,Single-cell multiomic profiling of human lungs across age groups,basal cell,CL:0000646,female,unknown,31st week post-fertilization human stage,1,0.002150537634408602
+104,Single-cell multiomic profiling of human lungs across age groups,pericyte cell,CL:0000669,female,unknown,31st week post-fertilization human stage,289,0.621505376344086
+105,Single-cell multiomic profiling of human lungs across age groups,type I pneumocyte,CL:0002062,female,unknown,31st week post-fertilization human stage,461,0.9913978494623656
+106,Single-cell multiomic profiling of human lungs across age groups,type II pneumocyte,CL:0002063,female,unknown,31st week post-fertilization human stage,516,1.1096774193548387
+107,Single-cell multiomic profiling of human lungs across age groups,vein endothelial cell,CL:0002543,female,unknown,31st week post-fertilization human stage,16,0.034408602150537634
+108,Single-cell multiomic profiling of human lungs across age groups,lung neuroendocrine cell,CL:1000223,female,unknown,31st week post-fertilization human stage,10,0.021505376344086023
+109,Single-cell multiomic profiling of human lungs across age groups,endothelial cell of artery,CL:1000413,female,unknown,31st week post-fertilization human stage,7,0.015053763440860216
+110,Single-cell multiomic profiling of human lungs across age groups,native cell,CL:0000003,male,European,3-year-old human stage,532,1.1440860215053763
+111,Single-cell multiomic profiling of human lungs across age groups,fibroblast,CL:0000057,male,European,3-year-old human stage,1434,3.0838709677419356
+112,Single-cell multiomic profiling of human lungs across age groups,ciliated cell,CL:0000064,male,European,3-year-old human stage,141,0.3032258064516129
+113,Single-cell multiomic profiling of human lungs across age groups,epithelial cell,CL:0000066,male,European,3-year-old human stage,383,0.8236559139784947
+114,Single-cell multiomic profiling of human lungs across age groups,blood vessel endothelial cell,CL:0000071,male,European,3-year-old human stage,17,0.03655913978494624
+115,Single-cell multiomic profiling of human lungs across age groups,T cell,CL:0000084,male,European,3-year-old human stage,1488,3.2
+116,Single-cell multiomic profiling of human lungs across age groups,mast cell,CL:0000097,male,European,3-year-old human stage,58,0.12473118279569893
+117,Single-cell multiomic profiling of human lungs across age groups,endothelial cell,CL:0000115,male,European,3-year-old human stage,954,2.0516129032258066
+118,Single-cell multiomic profiling of human lungs across age groups,chondrocyte,CL:0000138,male,European,3-year-old human stage,35,0.07526881720430108
+119,Single-cell multiomic profiling of human lungs across age groups,club cell,CL:0000158,male,European,3-year-old human stage,459,0.9870967741935484
+120,Single-cell multiomic profiling of human lungs across age groups,goblet cell,CL:0000160,male,European,3-year-old human stage,54,0.11612903225806451
+121,Single-cell multiomic profiling of human lungs across age groups,myofibroblast cell,CL:0000186,male,European,3-year-old human stage,75,0.16129032258064516
+122,Single-cell multiomic profiling of human lungs across age groups,smooth muscle cell,CL:0000192,male,European,3-year-old human stage,57,0.12258064516129032
+123,Single-cell multiomic profiling of human lungs across age groups,macrophage,CL:0000235,male,European,3-year-old human stage,359,0.7720430107526882
+124,Single-cell multiomic profiling of human lungs across age groups,B cell,CL:0000236,male,European,3-year-old human stage,304,0.6537634408602151
+125,Single-cell multiomic profiling of human lungs across age groups,vascular associated smooth muscle cell,CL:0000359,male,European,3-year-old human stage,23,0.049462365591397855
+126,Single-cell multiomic profiling of human lungs across age groups,dendritic cell,CL:0000451,male,European,3-year-old human stage,74,0.15913978494623654
+127,Single-cell multiomic profiling of human lungs across age groups,monocyte,CL:0000576,male,European,3-year-old human stage,675,1.4516129032258065
+128,Single-cell multiomic profiling of human lungs across age groups,alveolar macrophage,CL:0000583,male,European,3-year-old human stage,2719,5.84731182795699
+129,Single-cell multiomic profiling of human lungs across age groups,enucleate erythrocyte,CL:0000595,male,European,3-year-old human stage,6,0.012903225806451613
+130,Single-cell multiomic profiling of human lungs across age groups,natural killer cell,CL:0000623,male,European,3-year-old human stage,354,0.7612903225806451
+131,Single-cell multiomic profiling of human lungs across age groups,basal cell,CL:0000646,male,European,3-year-old human stage,49,0.10537634408602149
+132,Single-cell multiomic profiling of human lungs across age groups,pericyte cell,CL:0000669,male,European,3-year-old human stage,217,0.46666666666666673
+133,Single-cell multiomic profiling of human lungs across age groups,type I pneumocyte,CL:0002062,male,European,3-year-old human stage,724,1.5569892473118279
+134,Single-cell multiomic profiling of human lungs across age groups,type II pneumocyte,CL:0002063,male,European,3-year-old human stage,2597,5.58494623655914
+135,Single-cell multiomic profiling of human lungs across age groups,vein endothelial cell,CL:0002543,male,European,3-year-old human stage,21,0.04516129032258064
+136,Single-cell multiomic profiling of human lungs across age groups,lung neuroendocrine cell,CL:1000223,male,European,3-year-old human stage,19,0.04086021505376344
+137,Single-cell multiomic profiling of human lungs across age groups,endothelial cell of artery,CL:1000413,male,European,3-year-old human stage,36,0.07741935483870968
+138,Single-cell multiomic profiling of human lungs across age groups,native cell,CL:0000003,male,unknown,31-year-old human stage,183,0.39354838709677414
+139,Single-cell multiomic profiling of human lungs across age groups,fibroblast,CL:0000057,male,unknown,31-year-old human stage,231,0.49677419354838714
+140,Single-cell multiomic profiling of human lungs across age groups,ciliated cell,CL:0000064,male,unknown,31-year-old human stage,56,0.12043010752688173
+141,Single-cell multiomic profiling of human lungs across age groups,epithelial cell,CL:0000066,male,unknown,31-year-old human stage,113,0.24301075268817204
+142,Single-cell multiomic profiling of human lungs across age groups,blood vessel endothelial cell,CL:0000071,male,unknown,31-year-old human stage,3,0.0064516129032258064
+143,Single-cell multiomic profiling of human lungs across age groups,T cell,CL:0000084,male,unknown,31-year-old human stage,120,0.25806451612903225
+144,Single-cell multiomic profiling of human lungs across age groups,mast cell,CL:0000097,male,unknown,31-year-old human stage,11,0.023655913978494623
+145,Single-cell multiomic profiling of human lungs across age groups,endothelial cell,CL:0000115,male,unknown,31-year-old human stage,151,0.3247311827956989
+146,Single-cell multiomic profiling of human lungs across age groups,chondrocyte,CL:0000138,male,unknown,31-year-old human stage,12,0.025806451612903226
+147,Single-cell multiomic profiling of human lungs across age groups,club cell,CL:0000158,male,unknown,31-year-old human stage,68,0.14623655913978495
+148,Single-cell multiomic profiling of human lungs across age groups,goblet cell,CL:0000160,male,unknown,31-year-old human stage,27,0.058064516129032254
+149,Single-cell multiomic profiling of human lungs across age groups,myofibroblast cell,CL:0000186,male,unknown,31-year-old human stage,11,0.023655913978494623
+150,Single-cell multiomic profiling of human lungs across age groups,smooth muscle cell,CL:0000192,male,unknown,31-year-old human stage,8,0.017204301075268817
+151,Single-cell multiomic profiling of human lungs across age groups,macrophage,CL:0000235,male,unknown,31-year-old human stage,66,0.14193548387096774
+152,Single-cell multiomic profiling of human lungs across age groups,B cell,CL:0000236,male,unknown,31-year-old human stage,32,0.06881720430107527
+153,Single-cell multiomic profiling of human lungs across age groups,vascular associated smooth muscle cell,CL:0000359,male,unknown,31-year-old human stage,9,0.01935483870967742
+154,Single-cell multiomic profiling of human lungs across age groups,dendritic cell,CL:0000451,male,unknown,31-year-old human stage,6,0.012903225806451613
+155,Single-cell multiomic profiling of human lungs across age groups,monocyte,CL:0000576,male,unknown,31-year-old human stage,328,0.7053763440860215
+156,Single-cell multiomic profiling of human lungs across age groups,alveolar macrophage,CL:0000583,male,unknown,31-year-old human stage,1154,2.4817204301075266
+157,Single-cell multiomic profiling of human lungs across age groups,enucleate erythrocyte,CL:0000595,male,unknown,31-year-old human stage,5,0.010752688172043012
+158,Single-cell multiomic profiling of human lungs across age groups,natural killer cell,CL:0000623,male,unknown,31-year-old human stage,38,0.08172043010752689
+159,Single-cell multiomic profiling of human lungs across age groups,basal cell,CL:0000646,male,unknown,31-year-old human stage,15,0.03225806451612903
+160,Single-cell multiomic profiling of human lungs across age groups,pericyte cell,CL:0000669,male,unknown,31-year-old human stage,41,0.08817204301075268
+161,Single-cell multiomic profiling of human lungs across age groups,type I pneumocyte,CL:0002062,male,unknown,31-year-old human stage,474,1.0193548387096776
+162,Single-cell multiomic profiling of human lungs across age groups,type II pneumocyte,CL:0002063,male,unknown,31-year-old human stage,739,1.589247311827957
+163,Single-cell multiomic profiling of human lungs across age groups,vein endothelial cell,CL:0002543,male,unknown,31-year-old human stage,16,0.034408602150537634
+164,Single-cell multiomic profiling of human lungs across age groups,endothelial cell of artery,CL:1000413,male,unknown,31-year-old human stage,18,0.03870967741935484
+165,Single-cell multiomic profiling of human lungs across age groups,native cell,CL:0000003,male,European,31st week post-fertilization human stage,288,0.6193548387096774
+166,Single-cell multiomic profiling of human lungs across age groups,fibroblast,CL:0000057,male,European,31st week post-fertilization human stage,2034,4.374193548387097
+167,Single-cell multiomic profiling of human lungs across age groups,ciliated cell,CL:0000064,male,European,31st week post-fertilization human stage,88,0.18924731182795698
+168,Single-cell multiomic profiling of human lungs across age groups,epithelial cell,CL:0000066,male,European,31st week post-fertilization human stage,205,0.44086021505376344
+169,Single-cell multiomic profiling of human lungs across age groups,blood vessel endothelial cell,CL:0000071,male,European,31st week post-fertilization human stage,6,0.012903225806451613
+170,Single-cell multiomic profiling of human lungs across age groups,T cell,CL:0000084,male,European,31st week post-fertilization human stage,146,0.3139784946236559
+171,Single-cell multiomic profiling of human lungs across age groups,mast cell,CL:0000097,male,European,31st week post-fertilization human stage,9,0.01935483870967742
+172,Single-cell multiomic profiling of human lungs across age groups,endothelial cell,CL:0000115,male,European,31st week post-fertilization human stage,385,0.8279569892473119
+173,Single-cell multiomic profiling of human lungs across age groups,chondrocyte,CL:0000138,male,European,31st week post-fertilization human stage,237,0.5096774193548388
+174,Single-cell multiomic profiling of human lungs across age groups,club cell,CL:0000158,male,European,31st week post-fertilization human stage,327,0.7032258064516129
+175,Single-cell multiomic profiling of human lungs across age groups,goblet cell,CL:0000160,male,European,31st week post-fertilization human stage,62,0.13333333333333333
+176,Single-cell multiomic profiling of human lungs across age groups,myofibroblast cell,CL:0000186,male,European,31st week post-fertilization human stage,169,0.3634408602150538
+177,Single-cell multiomic profiling of human lungs across age groups,smooth muscle cell,CL:0000192,male,European,31st week post-fertilization human stage,80,0.17204301075268819
+178,Single-cell multiomic profiling of human lungs across age groups,macrophage,CL:0000235,male,European,31st week post-fertilization human stage,90,0.1935483870967742
+179,Single-cell multiomic profiling of human lungs across age groups,B cell,CL:0000236,male,European,31st week post-fertilization human stage,60,0.12903225806451613
+180,Single-cell multiomic profiling of human lungs across age groups,vascular associated smooth muscle cell,CL:0000359,male,European,31st week post-fertilization human stage,49,0.10537634408602149
+181,Single-cell multiomic profiling of human lungs across age groups,dendritic cell,CL:0000451,male,European,31st week post-fertilization human stage,22,0.047311827956989246
+182,Single-cell multiomic profiling of human lungs across age groups,monocyte,CL:0000576,male,European,31st week post-fertilization human stage,72,0.15483870967741936
+183,Single-cell multiomic profiling of human lungs across age groups,alveolar macrophage,CL:0000583,male,European,31st week post-fertilization human stage,116,0.24946236559139787
+184,Single-cell multiomic profiling of human lungs across age groups,enucleate erythrocyte,CL:0000595,male,European,31st week post-fertilization human stage,73,0.15698924731182795
+185,Single-cell multiomic profiling of human lungs across age groups,natural killer cell,CL:0000623,male,European,31st week post-fertilization human stage,91,0.19569892473118278
+186,Single-cell multiomic profiling of human lungs across age groups,basal cell,CL:0000646,male,European,31st week post-fertilization human stage,69,0.14838709677419354
+187,Single-cell multiomic profiling of human lungs across age groups,pericyte cell,CL:0000669,male,European,31st week post-fertilization human stage,90,0.1935483870967742
+188,Single-cell multiomic profiling of human lungs across age groups,type I pneumocyte,CL:0002062,male,European,31st week post-fertilization human stage,592,1.2731182795698923
+189,Single-cell multiomic profiling of human lungs across age groups,type II pneumocyte,CL:0002063,male,European,31st week post-fertilization human stage,847,1.821505376344086
+190,Single-cell multiomic profiling of human lungs across age groups,vein endothelial cell,CL:0002543,male,European,31st week post-fertilization human stage,23,0.049462365591397855
+191,Single-cell multiomic profiling of human lungs across age groups,lung neuroendocrine cell,CL:1000223,male,European,31st week post-fertilization human stage,27,0.058064516129032254
+192,Single-cell multiomic profiling of human lungs across age groups,endothelial cell of artery,CL:1000413,male,European,31st week post-fertilization human stage,14,0.030107526881720432
+193,Single-cell multiomic profiling of human lungs across age groups,native cell,CL:0000003,male,unknown,31st week post-fertilization human stage,389,0.8365591397849462
+194,Single-cell multiomic profiling of human lungs across age groups,fibroblast,CL:0000057,male,unknown,31st week post-fertilization human stage,871,1.8731182795698926
+195,Single-cell multiomic profiling of human lungs across age groups,ciliated cell,CL:0000064,male,unknown,31st week post-fertilization human stage,45,0.0967741935483871
+196,Single-cell multiomic profiling of human lungs across age groups,epithelial cell,CL:0000066,male,unknown,31st week post-fertilization human stage,189,0.4064516129032258
+197,Single-cell multiomic profiling of human lungs across age groups,T cell,CL:0000084,male,unknown,31st week post-fertilization human stage,231,0.49677419354838714
+198,Single-cell multiomic profiling of human lungs across age groups,mast cell,CL:0000097,male,unknown,31st week post-fertilization human stage,7,0.015053763440860216
+199,Single-cell multiomic profiling of human lungs across age groups,endothelial cell,CL:0000115,male,unknown,31st week post-fertilization human stage,327,0.7032258064516129
+200,Single-cell multiomic profiling of human lungs across age groups,chondrocyte,CL:0000138,male,unknown,31st week post-fertilization human stage,57,0.12258064516129032
+201,Single-cell multiomic profiling of human lungs across age groups,club cell,CL:0000158,male,unknown,31st week post-fertilization human stage,40,0.08602150537634409
+202,Single-cell multiomic profiling of human lungs across age groups,myofibroblast cell,CL:0000186,male,unknown,31st week post-fertilization human stage,65,0.13978494623655913
+203,Single-cell multiomic profiling of human lungs across age groups,smooth muscle cell,CL:0000192,male,unknown,31st week post-fertilization human stage,64,0.13763440860215054
+204,Single-cell multiomic profiling of human lungs across age groups,macrophage,CL:0000235,male,unknown,31st week post-fertilization human stage,291,0.6258064516129033
+205,Single-cell multiomic profiling of human lungs across age groups,B cell,CL:0000236,male,unknown,31st week post-fertilization human stage,98,0.21075268817204298
+206,Single-cell multiomic profiling of human lungs across age groups,vascular associated smooth muscle cell,CL:0000359,male,unknown,31st week post-fertilization human stage,20,0.043010752688172046
+207,Single-cell multiomic profiling of human lungs across age groups,dendritic cell,CL:0000451,male,unknown,31st week post-fertilization human stage,25,0.053763440860215055
+208,Single-cell multiomic profiling of human lungs across age groups,monocyte,CL:0000576,male,unknown,31st week post-fertilization human stage,348,0.7483870967741936
+209,Single-cell multiomic profiling of human lungs across age groups,alveolar macrophage,CL:0000583,male,unknown,31st week post-fertilization human stage,570,1.2258064516129032
+210,Single-cell multiomic profiling of human lungs across age groups,enucleate erythrocyte,CL:0000595,male,unknown,31st week post-fertilization human stage,5,0.010752688172043012
+211,Single-cell multiomic profiling of human lungs across age groups,natural killer cell,CL:0000623,male,unknown,31st week post-fertilization human stage,90,0.1935483870967742
+212,Single-cell multiomic profiling of human lungs across age groups,basal cell,CL:0000646,male,unknown,31st week post-fertilization human stage,1,0.002150537634408602
+213,Single-cell multiomic profiling of human lungs across age groups,pericyte cell,CL:0000669,male,unknown,31st week post-fertilization human stage,84,0.18064516129032257
+214,Single-cell multiomic profiling of human lungs across age groups,type I pneumocyte,CL:0002062,male,unknown,31st week post-fertilization human stage,441,0.9483870967741935
+215,Single-cell multiomic profiling of human lungs across age groups,type II pneumocyte,CL:0002063,male,unknown,31st week post-fertilization human stage,533,1.146236559139785
+216,Single-cell multiomic profiling of human lungs across age groups,vein endothelial cell,CL:0002543,male,unknown,31st week post-fertilization human stage,38,0.08172043010752689
+217,Single-cell multiomic profiling of human lungs across age groups,lung neuroendocrine cell,CL:1000223,male,unknown,31st week post-fertilization human stage,3,0.0064516129032258064
+218,Single-cell multiomic profiling of human lungs across age groups,endothelial cell of artery,CL:1000413,male,unknown,31st week post-fertilization human stage,20,0.043010752688172046

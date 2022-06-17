@@ -1,44 +1,44 @@
-,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
-0,Tabula Sapiens - All Cells,fibroblast,CL:0000057,male,Hispanic or Latin American,6263,21.364489169367218
-1,Tabula Sapiens - All Cells,T cell,CL:0000084,male,Hispanic or Latin American,1018,3.47262493603957
-2,Tabula Sapiens - All Cells,mast cell,CL:0000097,male,Hispanic or Latin American,4,0.013644891693672181
-3,Tabula Sapiens - All Cells,endothelial cell,CL:0000115,male,Hispanic or Latin American,1872,6.385809312638581
-4,Tabula Sapiens - All Cells,mesenchymal stem cell,CL:0000134,male,Hispanic or Latin American,11,0.0375234521575985
-5,Tabula Sapiens - All Cells,myofibroblast cell,CL:0000186,male,Hispanic or Latin American,486,1.6578543407811703
-6,Tabula Sapiens - All Cells,smooth muscle cell,CL:0000192,male,Hispanic or Latin American,5,0.017056114617090227
-7,Tabula Sapiens - All Cells,macrophage,CL:0000235,male,Hispanic or Latin American,2184,7.450110864745012
-8,Tabula Sapiens - All Cells,B cell,CL:0000236,male,Hispanic or Latin American,23,0.07845812723861505
-9,Tabula Sapiens - All Cells,leukocyte,CL:0000738,male,Hispanic or Latin American,157,0.5355619989766331
-10,Tabula Sapiens - All Cells,neutrophil,CL:0000775,male,Hispanic or Latin American,1,0.0034112229234180454
-11,Tabula Sapiens - All Cells,plasma cell,CL:0000786,male,Hispanic or Latin American,16,0.054579566774688726
-12,Tabula Sapiens - All Cells,mature NK T cell,CL:0000814,male,Hispanic or Latin American,553,1.886406276650179
-13,Tabula Sapiens - All Cells,fibroblast,CL:0000057,male,European,2196,7.491045539826027
-14,Tabula Sapiens - All Cells,T cell,CL:0000084,male,European,697,2.3776223776223775
-15,Tabula Sapiens - All Cells,endothelial cell,CL:0000115,male,European,1876,6.399454204332253
-16,Tabula Sapiens - All Cells,mesenchymal stem cell,CL:0000134,male,European,1300,4.434589800443459
-17,Tabula Sapiens - All Cells,myofibroblast cell,CL:0000186,male,European,496,1.6919665700153506
-18,Tabula Sapiens - All Cells,smooth muscle cell,CL:0000192,male,European,11,0.0375234521575985
-19,Tabula Sapiens - All Cells,macrophage,CL:0000235,male,European,623,2.1251918812894424
-20,Tabula Sapiens - All Cells,leukocyte,CL:0000738,male,European,3,0.010233668770254136
-21,Tabula Sapiens - All Cells,neutrophil,CL:0000775,male,European,439,1.497526863380522
-22,Tabula Sapiens - All Cells,plasma cell,CL:0000786,male,European,10,0.034112229234180454
-23,Tabula Sapiens - All Cells,mature NK T cell,CL:0000814,male,European,19,0.06481323554494287
-24,Tabula Sapiens - All Cells,fibroblast,CL:0000057,male,Hispanic or Latin American,3807,12.986525669452497
-25,Tabula Sapiens - All Cells,T cell,CL:0000084,male,Hispanic or Latin American,493,1.6817329012450963
-26,Tabula Sapiens - All Cells,mast cell,CL:0000097,male,Hispanic or Latin American,2,0.006822445846836091
-27,Tabula Sapiens - All Cells,endothelial cell,CL:0000115,male,Hispanic or Latin American,750,2.5584171925635344
-28,Tabula Sapiens - All Cells,mesenchymal stem cell,CL:0000134,male,Hispanic or Latin American,10,0.034112229234180454
-29,Tabula Sapiens - All Cells,myofibroblast cell,CL:0000186,male,Hispanic or Latin American,154,0.525328330206379
-30,Tabula Sapiens - All Cells,macrophage,CL:0000235,male,Hispanic or Latin American,972,3.3157086815623407
-31,Tabula Sapiens - All Cells,B cell,CL:0000236,male,Hispanic or Latin American,15,0.051168343851270684
-32,Tabula Sapiens - All Cells,leukocyte,CL:0000738,male,Hispanic or Latin American,103,0.3513559611120587
-33,Tabula Sapiens - All Cells,plasma cell,CL:0000786,male,Hispanic or Latin American,6,0.020467337540508272
-34,Tabula Sapiens - All Cells,mature NK T cell,CL:0000814,male,Hispanic or Latin American,70,0.23878560463926318
-35,Tabula Sapiens - All Cells,fibroblast,CL:0000057,male,European,85,0.28995394849053385
-36,Tabula Sapiens - All Cells,T cell,CL:0000084,male,European,512,1.7465461367900392
-37,Tabula Sapiens - All Cells,endothelial cell,CL:0000115,male,European,1214,4.141224629029507
-38,Tabula Sapiens - All Cells,myofibroblast cell,CL:0000186,male,European,158,0.5389732219000511
-39,Tabula Sapiens - All Cells,smooth muscle cell,CL:0000192,male,European,8,0.027289783387344363
-40,Tabula Sapiens - All Cells,macrophage,CL:0000235,male,European,321,1.0950025584171927
-41,Tabula Sapiens - All Cells,neutrophil,CL:0000775,male,European,370,1.2621524816646768
-42,Tabula Sapiens - All Cells,mature NK T cell,CL:0000814,male,European,2,0.006822445846836091
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,development_stage,count,percentage
+0,Tabula Sapiens - All Cells,fibroblast,CL:0000057,male,Hispanic or Latin American,33-year-old human stage,6263,21.364489169367218
+1,Tabula Sapiens - All Cells,T cell,CL:0000084,male,Hispanic or Latin American,33-year-old human stage,1018,3.47262493603957
+2,Tabula Sapiens - All Cells,mast cell,CL:0000097,male,Hispanic or Latin American,33-year-old human stage,4,0.013644891693672181
+3,Tabula Sapiens - All Cells,endothelial cell,CL:0000115,male,Hispanic or Latin American,33-year-old human stage,1872,6.385809312638581
+4,Tabula Sapiens - All Cells,mesenchymal stem cell,CL:0000134,male,Hispanic or Latin American,33-year-old human stage,11,0.0375234521575985
+5,Tabula Sapiens - All Cells,myofibroblast cell,CL:0000186,male,Hispanic or Latin American,33-year-old human stage,486,1.6578543407811703
+6,Tabula Sapiens - All Cells,smooth muscle cell,CL:0000192,male,Hispanic or Latin American,33-year-old human stage,5,0.017056114617090227
+7,Tabula Sapiens - All Cells,macrophage,CL:0000235,male,Hispanic or Latin American,33-year-old human stage,2184,7.450110864745012
+8,Tabula Sapiens - All Cells,B cell,CL:0000236,male,Hispanic or Latin American,33-year-old human stage,23,0.07845812723861505
+9,Tabula Sapiens - All Cells,leukocyte,CL:0000738,male,Hispanic or Latin American,33-year-old human stage,157,0.5355619989766331
+10,Tabula Sapiens - All Cells,neutrophil,CL:0000775,male,Hispanic or Latin American,33-year-old human stage,1,0.0034112229234180454
+11,Tabula Sapiens - All Cells,plasma cell,CL:0000786,male,Hispanic or Latin American,33-year-old human stage,16,0.054579566774688726
+12,Tabula Sapiens - All Cells,mature NK T cell,CL:0000814,male,Hispanic or Latin American,33-year-old human stage,553,1.886406276650179
+13,Tabula Sapiens - All Cells,fibroblast,CL:0000057,male,European,59-year-old human stage,2196,7.491045539826027
+14,Tabula Sapiens - All Cells,T cell,CL:0000084,male,European,59-year-old human stage,697,2.3776223776223775
+15,Tabula Sapiens - All Cells,endothelial cell,CL:0000115,male,European,59-year-old human stage,1876,6.399454204332253
+16,Tabula Sapiens - All Cells,mesenchymal stem cell,CL:0000134,male,European,59-year-old human stage,1300,4.434589800443459
+17,Tabula Sapiens - All Cells,myofibroblast cell,CL:0000186,male,European,59-year-old human stage,496,1.6919665700153506
+18,Tabula Sapiens - All Cells,smooth muscle cell,CL:0000192,male,European,59-year-old human stage,11,0.0375234521575985
+19,Tabula Sapiens - All Cells,macrophage,CL:0000235,male,European,59-year-old human stage,623,2.1251918812894424
+20,Tabula Sapiens - All Cells,leukocyte,CL:0000738,male,European,59-year-old human stage,3,0.010233668770254136
+21,Tabula Sapiens - All Cells,neutrophil,CL:0000775,male,European,59-year-old human stage,439,1.497526863380522
+22,Tabula Sapiens - All Cells,plasma cell,CL:0000786,male,European,59-year-old human stage,10,0.034112229234180454
+23,Tabula Sapiens - All Cells,mature NK T cell,CL:0000814,male,European,59-year-old human stage,19,0.06481323554494287
+24,Tabula Sapiens - All Cells,fibroblast,CL:0000057,male,Hispanic or Latin American,33-year-old human stage,3807,12.986525669452497
+25,Tabula Sapiens - All Cells,T cell,CL:0000084,male,Hispanic or Latin American,33-year-old human stage,493,1.6817329012450963
+26,Tabula Sapiens - All Cells,mast cell,CL:0000097,male,Hispanic or Latin American,33-year-old human stage,2,0.006822445846836091
+27,Tabula Sapiens - All Cells,endothelial cell,CL:0000115,male,Hispanic or Latin American,33-year-old human stage,750,2.5584171925635344
+28,Tabula Sapiens - All Cells,mesenchymal stem cell,CL:0000134,male,Hispanic or Latin American,33-year-old human stage,10,0.034112229234180454
+29,Tabula Sapiens - All Cells,myofibroblast cell,CL:0000186,male,Hispanic or Latin American,33-year-old human stage,154,0.525328330206379
+30,Tabula Sapiens - All Cells,macrophage,CL:0000235,male,Hispanic or Latin American,33-year-old human stage,972,3.3157086815623407
+31,Tabula Sapiens - All Cells,B cell,CL:0000236,male,Hispanic or Latin American,33-year-old human stage,15,0.051168343851270684
+32,Tabula Sapiens - All Cells,leukocyte,CL:0000738,male,Hispanic or Latin American,33-year-old human stage,103,0.3513559611120587
+33,Tabula Sapiens - All Cells,plasma cell,CL:0000786,male,Hispanic or Latin American,33-year-old human stage,6,0.020467337540508272
+34,Tabula Sapiens - All Cells,mature NK T cell,CL:0000814,male,Hispanic or Latin American,33-year-old human stage,70,0.23878560463926318
+35,Tabula Sapiens - All Cells,fibroblast,CL:0000057,male,European,59-year-old human stage,85,0.28995394849053385
+36,Tabula Sapiens - All Cells,T cell,CL:0000084,male,European,59-year-old human stage,512,1.7465461367900392
+37,Tabula Sapiens - All Cells,endothelial cell,CL:0000115,male,European,59-year-old human stage,1214,4.141224629029507
+38,Tabula Sapiens - All Cells,myofibroblast cell,CL:0000186,male,European,59-year-old human stage,158,0.5389732219000511
+39,Tabula Sapiens - All Cells,smooth muscle cell,CL:0000192,male,European,59-year-old human stage,8,0.027289783387344363
+40,Tabula Sapiens - All Cells,macrophage,CL:0000235,male,European,59-year-old human stage,321,1.0950025584171927
+41,Tabula Sapiens - All Cells,neutrophil,CL:0000775,male,European,59-year-old human stage,370,1.2621524816646768
+42,Tabula Sapiens - All Cells,mature NK T cell,CL:0000814,male,European,59-year-old human stage,2,0.006822445846836091

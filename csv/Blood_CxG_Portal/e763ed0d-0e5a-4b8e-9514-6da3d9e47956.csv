@@ -1,15 +1,15 @@
-,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
-0,Platelet sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,CL:0000233,female,European,7,0.7246376811594203
-1,Platelet sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,CL:0000233,female,European,2,0.2070393374741201
-2,Platelet sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,CL:0000233,female,unknown,24,2.484472049689441
-3,Platelet sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,CL:0000233,female,unknown,9,0.9316770186335404
-4,Platelet sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,CL:0000233,female,unknown,66,6.832298136645963
-5,Platelet sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,CL:0000233,female,European,297,30.745341614906835
-6,Platelet sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,CL:0000233,female,European,25,2.587991718426501
-7,Platelet sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,CL:0000233,female,European,90,9.316770186335404
-8,Platelet sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,CL:0000233,male,European,120,12.422360248447205
-9,Platelet sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,CL:0000233,male,European,13,1.3457556935817805
-10,Platelet sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,CL:0000233,male,unknown,16,1.6563146997929608
-11,Platelet sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,CL:0000233,male,European,101,10.455486542443063
-12,Platelet sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,CL:0000233,unknown,European,9,0.9316770186335404
-13,Platelet sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,CL:0000233,unknown,unknown,187,19.358178053830226
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,development_stage,count,percentage
+0,Platelet sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,CL:0000233,female,European,36-year-old human stage,7,0.7246376811594203
+1,Platelet sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,CL:0000233,female,European,49-year-old human stage,2,0.2070393374741201
+2,Platelet sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,CL:0000233,female,unknown,54-year-old human stage,24,2.484472049689441
+3,Platelet sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,CL:0000233,female,unknown,63-year-old human stage,9,0.9316770186335404
+4,Platelet sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,CL:0000233,female,unknown,67-year-old human stage,66,6.832298136645963
+5,Platelet sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,CL:0000233,female,European,68-year-old human stage,297,30.745341614906835
+6,Platelet sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,CL:0000233,female,European,70-year-old human stage,25,2.587991718426501
+7,Platelet sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,CL:0000233,female,European,84-year-old human stage,90,9.316770186335404
+8,Platelet sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,CL:0000233,male,European,38-year-old human stage,120,12.422360248447205
+9,Platelet sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,CL:0000233,male,European,49-year-old human stage,13,1.3457556935817805
+10,Platelet sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,CL:0000233,male,unknown,63-year-old human stage,16,1.6563146997929608
+11,Platelet sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,CL:0000233,male,European,80 year-old and over human stage,101,10.455486542443063
+12,Platelet sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,CL:0000233,unknown,European,human adult stage,9,0.9316770186335404
+13,Platelet sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,CL:0000233,unknown,unknown,unknown,187,19.358178053830226

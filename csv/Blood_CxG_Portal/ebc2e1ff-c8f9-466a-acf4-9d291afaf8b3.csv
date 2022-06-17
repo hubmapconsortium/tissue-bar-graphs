@@ -1,108 +1,108 @@
-,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
-0,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",hematopoietic stem cell,CL:0000037,female,unknown,15,0.01626809825931349
-1,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",blood cell,CL:0000081,female,unknown,431,0.46743668998427423
-2,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",B cell,CL:0000236,female,unknown,164,0.1778645409684941
-3,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",dendritic cell,CL:0000451,female,unknown,165,0.17894908085244834
-4,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",natural killer cell,CL:0000623,female,unknown,1891,2.050864920557453
-5,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","CD4-positive, alpha-beta T cell",CL:0000624,female,unknown,2129,2.308985412938561
-6,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","CD8-positive, alpha-beta T cell",CL:0000625,female,unknown,876,0.9500569383439076
-7,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",gamma-delta T cell,CL:0000798,female,unknown,84,0.09110135025215552
-8,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","double-positive, alpha-beta thymocyte",CL:0000809,female,unknown,45,0.04880429477794046
-9,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",classical monocyte,CL:0000860,female,unknown,1369,1.484735101133344
-10,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",non-classical monocyte,CL:0000875,female,unknown,304,0.32970012472208665
-11,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",mucosal invariant T cell,CL:0000940,female,unknown,465,0.504311046038718
-12,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",plasmablast,CL:0000980,female,unknown,18,0.019521717911176184
-13,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",double negative T regulatory cell,CL:0011024,female,unknown,15,0.01626809825931349
-14,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",hematopoietic stem cell,CL:0000037,female,unknown,8,0.008676319071633859
-15,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",megakaryocyte-erythroid progenitor cell,CL:0000050,female,unknown,6,0.006507239303725395
-16,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",blood cell,CL:0000081,female,unknown,571,0.6192722737378668
-17,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",B cell,CL:0000236,female,unknown,522,0.5661298194241093
-18,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",dendritic cell,CL:0000451,female,unknown,284,0.308009327043002
-19,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",natural killer cell,CL:0000623,female,unknown,1800,1.9521717911176184
-20,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","CD4-positive, alpha-beta T cell",CL:0000624,female,unknown,3533,3.8316794100103033
-21,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","CD8-positive, alpha-beta T cell",CL:0000625,female,unknown,1734,1.880592158776639
-22,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",gamma-delta T cell,CL:0000798,female,unknown,176,0.1908790195759449
-23,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","double-positive, alpha-beta thymocyte",CL:0000809,female,unknown,126,0.1366520253782333
-24,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",classical monocyte,CL:0000860,female,unknown,2045,2.217884062686405
-25,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",non-classical monocyte,CL:0000875,female,unknown,551,0.5975814760587821
-26,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",mucosal invariant T cell,CL:0000940,female,unknown,97,0.10520036874356055
-27,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",plasmablast,CL:0000980,female,unknown,18,0.019521717911176184
-28,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",double negative T regulatory cell,CL:0011024,female,unknown,38,0.04121251559026083
-29,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",hematopoietic stem cell,CL:0000037,female,unknown,5,0.005422699419771163
-30,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",megakaryocyte-erythroid progenitor cell,CL:0000050,female,unknown,3,0.0032536196518626976
-31,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",blood cell,CL:0000081,female,unknown,409,0.4435768125372811
-32,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",B cell,CL:0000236,female,unknown,223,0.24185239412179382
-33,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",dendritic cell,CL:0000451,female,unknown,201,0.21799251667480068
-34,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",natural killer cell,CL:0000623,female,unknown,790,0.8567865083238436
-35,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","CD4-positive, alpha-beta T cell",CL:0000624,female,unknown,3099,3.3609891003741663
-36,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","CD8-positive, alpha-beta T cell",CL:0000625,female,unknown,914,0.9912694539341684
-37,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",gamma-delta T cell,CL:0000798,female,unknown,72,0.07808687164470474
-38,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","double-positive, alpha-beta thymocyte",CL:0000809,female,unknown,130,0.14099018491405022
-39,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",classical monocyte,CL:0000860,female,unknown,1584,1.717911176183504
-40,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",non-classical monocyte,CL:0000875,female,unknown,389,0.42188601485819643
-41,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",mucosal invariant T cell,CL:0000940,female,unknown,72,0.07808687164470474
-42,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",plasmablast,CL:0000980,female,unknown,27,0.029282576866764276
-43,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",enucleated reticulocyte,CL:0002422,female,unknown,1,0.0010845398839542323
-44,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",double negative T regulatory cell,CL:0011024,female,unknown,12,0.01301447860745079
-45,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",hematopoietic stem cell,CL:0000037,female,unknown,8,0.008676319071633859
-46,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",blood cell,CL:0000081,female,unknown,482,0.52274822406594
-47,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",mast cell,CL:0000097,female,unknown,1,0.0010845398839542323
-48,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",B cell,CL:0000236,female,unknown,176,0.1908790195759449
-49,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",dendritic cell,CL:0000451,female,unknown,295,0.31993926576649856
-50,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",natural killer cell,CL:0000623,female,unknown,799,0.8665473672794317
-51,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","CD4-positive, alpha-beta T cell",CL:0000624,female,unknown,2428,2.6332628382408765
-52,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","CD8-positive, alpha-beta T cell",CL:0000625,female,unknown,1838,1.993384306707879
-53,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",gamma-delta T cell,CL:0000798,female,unknown,68,0.07374871210888781
-54,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","double-positive, alpha-beta thymocyte",CL:0000809,female,unknown,77,0.0835095710644759
-55,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",classical monocyte,CL:0000860,female,unknown,1849,2.0053142454313755
-56,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",non-classical monocyte,CL:0000875,female,unknown,366,0.39694159752724906
-57,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",mucosal invariant T cell,CL:0000940,female,unknown,90,0.09760858955588092
-58,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",plasmablast,CL:0000980,female,unknown,12,0.01301447860745079
-59,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",double negative T regulatory cell,CL:0011024,female,unknown,28,0.030367116750718508
-60,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",hematopoietic stem cell,CL:0000037,male,unknown,20,0.02169079767908465
-61,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",megakaryocyte-erythroid progenitor cell,CL:0000050,male,unknown,3,0.0032536196518626976
-62,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",blood cell,CL:0000081,male,unknown,529,0.573721598611789
-63,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",mast cell,CL:0000097,male,unknown,1,0.0010845398839542323
-64,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",B cell,CL:0000236,male,unknown,289,0.31343202646277313
-65,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",dendritic cell,CL:0000451,male,unknown,140,0.15183558375359255
-66,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",natural killer cell,CL:0000623,male,unknown,1994,2.1625725286047395
-67,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","CD4-positive, alpha-beta T cell",CL:0000624,male,unknown,5140,5.574535003524755
-68,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","CD8-positive, alpha-beta T cell",CL:0000625,male,unknown,877,0.9511414782278618
-69,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",gamma-delta T cell,CL:0000798,male,unknown,15,0.01626809825931349
-70,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","double-positive, alpha-beta thymocyte",CL:0000809,male,unknown,56,0.060734233501437015
-71,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",classical monocyte,CL:0000860,male,unknown,1576,1.70923485711187
-72,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",non-classical monocyte,CL:0000875,male,unknown,228,0.247275093541565
-73,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",mucosal invariant T cell,CL:0000940,male,unknown,52,0.05639607396562008
-74,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",plasmablast,CL:0000980,male,unknown,18,0.019521717911176184
-75,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",double negative T regulatory cell,CL:0011024,male,unknown,49,0.053142454313757394
-76,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",hematopoietic stem cell,CL:0000037,male,unknown,22,0.023859877446993114
-77,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",megakaryocyte-erythroid progenitor cell,CL:0000050,male,unknown,2,0.0021690797679084647
-78,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",blood cell,CL:0000081,male,unknown,774,0.8394338701805759
-79,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",B cell,CL:0000236,male,unknown,812,0.8806463857708366
-80,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",dendritic cell,CL:0000451,male,unknown,280,0.3036711675071851
-81,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",natural killer cell,CL:0000623,male,unknown,2269,2.4608209966921537
-82,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","CD4-positive, alpha-beta T cell",CL:0000624,male,unknown,6500,7.04950924570251
-83,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","CD8-positive, alpha-beta T cell",CL:0000625,male,unknown,3137,3.4022016159644273
-84,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",gamma-delta T cell,CL:0000798,male,unknown,145,0.15725828317336368
-85,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","double-positive, alpha-beta thymocyte",CL:0000809,male,unknown,131,0.14207472479800445
-86,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",classical monocyte,CL:0000860,male,unknown,2331,2.5280624694973155
-87,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",non-classical monocyte,CL:0000875,male,unknown,1025,1.1116533810530882
-88,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",mucosal invariant T cell,CL:0000940,male,unknown,258,0.27981129006019195
-89,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",plasmablast,CL:0000980,male,unknown,42,0.04555067512607776
-90,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",double negative T regulatory cell,CL:0011024,male,unknown,158,0.17135730166476873
-91,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",hematopoietic stem cell,CL:0000037,male,unknown,17,0.018437178027221952
-92,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",megakaryocyte-erythroid progenitor cell,CL:0000050,male,unknown,9,0.009760858955588092
-93,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",blood cell,CL:0000081,male,unknown,1805,1.9575944905373894
-94,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",B cell,CL:0000236,male,unknown,1117,1.2114310503768777
-95,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",dendritic cell,CL:0000451,male,unknown,665,0.7212190228295645
-96,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",natural killer cell,CL:0000623,male,unknown,2409,2.612656580445746
-97,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","CD4-positive, alpha-beta T cell",CL:0000624,male,unknown,8396,9.105796865679736
-98,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","CD8-positive, alpha-beta T cell",CL:0000625,male,unknown,6369,6.9074345209045065
-99,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",gamma-delta T cell,CL:0000798,male,unknown,563,0.6105959546662328
-100,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","double-positive, alpha-beta thymocyte",CL:0000809,male,unknown,260,0.28198036982810043
-101,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",classical monocyte,CL:0000860,male,unknown,4052,4.394555609782549
-102,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",non-classical monocyte,CL:0000875,male,unknown,1210,1.3122932595846213
-103,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",mucosal invariant T cell,CL:0000940,male,unknown,220,0.23859877446993114
-104,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",plasmablast,CL:0000980,male,unknown,62,0.0672414728051624
-105,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",enucleated reticulocyte,CL:0002422,male,unknown,2,0.0021690797679084647
-106,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",double negative T regulatory cell,CL:0011024,male,unknown,248,0.2689658912206496
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,development_stage,count,percentage
+0,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",hematopoietic stem cell,CL:0000037,female,unknown,4-year-old human stage,15,0.01626809825931349
+1,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",blood cell,CL:0000081,female,unknown,4-year-old human stage,431,0.46743668998427423
+2,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",B cell,CL:0000236,female,unknown,4-year-old human stage,164,0.1778645409684941
+3,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",dendritic cell,CL:0000451,female,unknown,4-year-old human stage,165,0.17894908085244834
+4,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",natural killer cell,CL:0000623,female,unknown,4-year-old human stage,1891,2.050864920557453
+5,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","CD4-positive, alpha-beta T cell",CL:0000624,female,unknown,4-year-old human stage,2129,2.308985412938561
+6,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","CD8-positive, alpha-beta T cell",CL:0000625,female,unknown,4-year-old human stage,876,0.9500569383439076
+7,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",gamma-delta T cell,CL:0000798,female,unknown,4-year-old human stage,84,0.09110135025215552
+8,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","double-positive, alpha-beta thymocyte",CL:0000809,female,unknown,4-year-old human stage,45,0.04880429477794046
+9,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",classical monocyte,CL:0000860,female,unknown,4-year-old human stage,1369,1.484735101133344
+10,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",non-classical monocyte,CL:0000875,female,unknown,4-year-old human stage,304,0.32970012472208665
+11,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",mucosal invariant T cell,CL:0000940,female,unknown,4-year-old human stage,465,0.504311046038718
+12,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",plasmablast,CL:0000980,female,unknown,4-year-old human stage,18,0.019521717911176184
+13,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",double negative T regulatory cell,CL:0011024,female,unknown,4-year-old human stage,15,0.01626809825931349
+14,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",hematopoietic stem cell,CL:0000037,female,unknown,5-year-old human stage,8,0.008676319071633859
+15,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",megakaryocyte-erythroid progenitor cell,CL:0000050,female,unknown,5-year-old human stage,6,0.006507239303725395
+16,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",blood cell,CL:0000081,female,unknown,5-year-old human stage,571,0.6192722737378668
+17,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",B cell,CL:0000236,female,unknown,5-year-old human stage,522,0.5661298194241093
+18,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",dendritic cell,CL:0000451,female,unknown,5-year-old human stage,284,0.308009327043002
+19,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",natural killer cell,CL:0000623,female,unknown,5-year-old human stage,1800,1.9521717911176184
+20,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","CD4-positive, alpha-beta T cell",CL:0000624,female,unknown,5-year-old human stage,3533,3.8316794100103033
+21,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","CD8-positive, alpha-beta T cell",CL:0000625,female,unknown,5-year-old human stage,1734,1.880592158776639
+22,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",gamma-delta T cell,CL:0000798,female,unknown,5-year-old human stage,176,0.1908790195759449
+23,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","double-positive, alpha-beta thymocyte",CL:0000809,female,unknown,5-year-old human stage,126,0.1366520253782333
+24,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",classical monocyte,CL:0000860,female,unknown,5-year-old human stage,2045,2.217884062686405
+25,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",non-classical monocyte,CL:0000875,female,unknown,5-year-old human stage,551,0.5975814760587821
+26,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",mucosal invariant T cell,CL:0000940,female,unknown,5-year-old human stage,97,0.10520036874356055
+27,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",plasmablast,CL:0000980,female,unknown,5-year-old human stage,18,0.019521717911176184
+28,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",double negative T regulatory cell,CL:0011024,female,unknown,5-year-old human stage,38,0.04121251559026083
+29,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",hematopoietic stem cell,CL:0000037,female,unknown,6-year-old human stage,5,0.005422699419771163
+30,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",megakaryocyte-erythroid progenitor cell,CL:0000050,female,unknown,6-year-old human stage,3,0.0032536196518626976
+31,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",blood cell,CL:0000081,female,unknown,6-year-old human stage,409,0.4435768125372811
+32,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",B cell,CL:0000236,female,unknown,6-year-old human stage,223,0.24185239412179382
+33,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",dendritic cell,CL:0000451,female,unknown,6-year-old human stage,201,0.21799251667480068
+34,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",natural killer cell,CL:0000623,female,unknown,6-year-old human stage,790,0.8567865083238436
+35,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","CD4-positive, alpha-beta T cell",CL:0000624,female,unknown,6-year-old human stage,3099,3.3609891003741663
+36,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","CD8-positive, alpha-beta T cell",CL:0000625,female,unknown,6-year-old human stage,914,0.9912694539341684
+37,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",gamma-delta T cell,CL:0000798,female,unknown,6-year-old human stage,72,0.07808687164470474
+38,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","double-positive, alpha-beta thymocyte",CL:0000809,female,unknown,6-year-old human stage,130,0.14099018491405022
+39,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",classical monocyte,CL:0000860,female,unknown,6-year-old human stage,1584,1.717911176183504
+40,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",non-classical monocyte,CL:0000875,female,unknown,6-year-old human stage,389,0.42188601485819643
+41,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",mucosal invariant T cell,CL:0000940,female,unknown,6-year-old human stage,72,0.07808687164470474
+42,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",plasmablast,CL:0000980,female,unknown,6-year-old human stage,27,0.029282576866764276
+43,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",enucleated reticulocyte,CL:0002422,female,unknown,6-year-old human stage,1,0.0010845398839542323
+44,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",double negative T regulatory cell,CL:0011024,female,unknown,6-year-old human stage,12,0.01301447860745079
+45,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",hematopoietic stem cell,CL:0000037,female,unknown,7-year-old human stage,8,0.008676319071633859
+46,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",blood cell,CL:0000081,female,unknown,7-year-old human stage,482,0.52274822406594
+47,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",mast cell,CL:0000097,female,unknown,7-year-old human stage,1,0.0010845398839542323
+48,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",B cell,CL:0000236,female,unknown,7-year-old human stage,176,0.1908790195759449
+49,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",dendritic cell,CL:0000451,female,unknown,7-year-old human stage,295,0.31993926576649856
+50,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",natural killer cell,CL:0000623,female,unknown,7-year-old human stage,799,0.8665473672794317
+51,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","CD4-positive, alpha-beta T cell",CL:0000624,female,unknown,7-year-old human stage,2428,2.6332628382408765
+52,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","CD8-positive, alpha-beta T cell",CL:0000625,female,unknown,7-year-old human stage,1838,1.993384306707879
+53,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",gamma-delta T cell,CL:0000798,female,unknown,7-year-old human stage,68,0.07374871210888781
+54,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","double-positive, alpha-beta thymocyte",CL:0000809,female,unknown,7-year-old human stage,77,0.0835095710644759
+55,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",classical monocyte,CL:0000860,female,unknown,7-year-old human stage,1849,2.0053142454313755
+56,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",non-classical monocyte,CL:0000875,female,unknown,7-year-old human stage,366,0.39694159752724906
+57,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",mucosal invariant T cell,CL:0000940,female,unknown,7-year-old human stage,90,0.09760858955588092
+58,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",plasmablast,CL:0000980,female,unknown,7-year-old human stage,12,0.01301447860745079
+59,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",double negative T regulatory cell,CL:0011024,female,unknown,7-year-old human stage,28,0.030367116750718508
+60,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",hematopoietic stem cell,CL:0000037,male,unknown,4-year-old human stage,20,0.02169079767908465
+61,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",megakaryocyte-erythroid progenitor cell,CL:0000050,male,unknown,4-year-old human stage,3,0.0032536196518626976
+62,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",blood cell,CL:0000081,male,unknown,4-year-old human stage,529,0.573721598611789
+63,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",mast cell,CL:0000097,male,unknown,4-year-old human stage,1,0.0010845398839542323
+64,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",B cell,CL:0000236,male,unknown,4-year-old human stage,289,0.31343202646277313
+65,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",dendritic cell,CL:0000451,male,unknown,4-year-old human stage,140,0.15183558375359255
+66,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",natural killer cell,CL:0000623,male,unknown,4-year-old human stage,1994,2.1625725286047395
+67,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","CD4-positive, alpha-beta T cell",CL:0000624,male,unknown,4-year-old human stage,5140,5.574535003524755
+68,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","CD8-positive, alpha-beta T cell",CL:0000625,male,unknown,4-year-old human stage,877,0.9511414782278618
+69,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",gamma-delta T cell,CL:0000798,male,unknown,4-year-old human stage,15,0.01626809825931349
+70,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","double-positive, alpha-beta thymocyte",CL:0000809,male,unknown,4-year-old human stage,56,0.060734233501437015
+71,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",classical monocyte,CL:0000860,male,unknown,4-year-old human stage,1576,1.70923485711187
+72,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",non-classical monocyte,CL:0000875,male,unknown,4-year-old human stage,228,0.247275093541565
+73,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",mucosal invariant T cell,CL:0000940,male,unknown,4-year-old human stage,52,0.05639607396562008
+74,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",plasmablast,CL:0000980,male,unknown,4-year-old human stage,18,0.019521717911176184
+75,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",double negative T regulatory cell,CL:0011024,male,unknown,4-year-old human stage,49,0.053142454313757394
+76,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",hematopoietic stem cell,CL:0000037,male,unknown,5-year-old human stage,22,0.023859877446993114
+77,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",megakaryocyte-erythroid progenitor cell,CL:0000050,male,unknown,5-year-old human stage,2,0.0021690797679084647
+78,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",blood cell,CL:0000081,male,unknown,5-year-old human stage,774,0.8394338701805759
+79,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",B cell,CL:0000236,male,unknown,5-year-old human stage,812,0.8806463857708366
+80,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",dendritic cell,CL:0000451,male,unknown,5-year-old human stage,280,0.3036711675071851
+81,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",natural killer cell,CL:0000623,male,unknown,5-year-old human stage,2269,2.4608209966921537
+82,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","CD4-positive, alpha-beta T cell",CL:0000624,male,unknown,5-year-old human stage,6500,7.04950924570251
+83,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","CD8-positive, alpha-beta T cell",CL:0000625,male,unknown,5-year-old human stage,3137,3.4022016159644273
+84,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",gamma-delta T cell,CL:0000798,male,unknown,5-year-old human stage,145,0.15725828317336368
+85,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","double-positive, alpha-beta thymocyte",CL:0000809,male,unknown,5-year-old human stage,131,0.14207472479800445
+86,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",classical monocyte,CL:0000860,male,unknown,5-year-old human stage,2331,2.5280624694973155
+87,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",non-classical monocyte,CL:0000875,male,unknown,5-year-old human stage,1025,1.1116533810530882
+88,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",mucosal invariant T cell,CL:0000940,male,unknown,5-year-old human stage,258,0.27981129006019195
+89,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",plasmablast,CL:0000980,male,unknown,5-year-old human stage,42,0.04555067512607776
+90,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",double negative T regulatory cell,CL:0011024,male,unknown,5-year-old human stage,158,0.17135730166476873
+91,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",hematopoietic stem cell,CL:0000037,male,unknown,7-year-old human stage,17,0.018437178027221952
+92,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",megakaryocyte-erythroid progenitor cell,CL:0000050,male,unknown,7-year-old human stage,9,0.009760858955588092
+93,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",blood cell,CL:0000081,male,unknown,7-year-old human stage,1805,1.9575944905373894
+94,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",B cell,CL:0000236,male,unknown,7-year-old human stage,1117,1.2114310503768777
+95,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",dendritic cell,CL:0000451,male,unknown,7-year-old human stage,665,0.7212190228295645
+96,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",natural killer cell,CL:0000623,male,unknown,7-year-old human stage,2409,2.612656580445746
+97,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","CD4-positive, alpha-beta T cell",CL:0000624,male,unknown,7-year-old human stage,8396,9.105796865679736
+98,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","CD8-positive, alpha-beta T cell",CL:0000625,male,unknown,7-year-old human stage,6369,6.9074345209045065
+99,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",gamma-delta T cell,CL:0000798,male,unknown,7-year-old human stage,563,0.6105959546662328
+100,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs","double-positive, alpha-beta thymocyte",CL:0000809,male,unknown,7-year-old human stage,260,0.28198036982810043
+101,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",classical monocyte,CL:0000860,male,unknown,7-year-old human stage,4052,4.394555609782549
+102,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",non-classical monocyte,CL:0000875,male,unknown,7-year-old human stage,1210,1.3122932595846213
+103,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",mucosal invariant T cell,CL:0000940,male,unknown,7-year-old human stage,220,0.23859877446993114
+104,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",plasmablast,CL:0000980,male,unknown,7-year-old human stage,62,0.0672414728051624
+105,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",enucleated reticulocyte,CL:0002422,male,unknown,7-year-old human stage,2,0.0021690797679084647
+106,"COMBAT project: single cell gene expression data from COVID-19, sepsis and flu patient PBMCs",double negative T regulatory cell,CL:0011024,male,unknown,7-year-old human stage,248,0.2689658912206496

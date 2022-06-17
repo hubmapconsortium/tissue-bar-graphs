@@ -1,9 +1,9 @@
-,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
-0,Urethral luminal epithelia are castration-insensitive cells of the proximal prostate - Human Fibromuscular Stromal Cells,fibroblast of connective tissue of prostate,CL:1000299,male,European,16,1.7075773745997866
-1,Urethral luminal epithelia are castration-insensitive cells of the proximal prostate - Human Fibromuscular Stromal Cells,smooth muscle cell of prostate,CL:1000487,male,European,62,6.616862326574173
-2,Urethral luminal epithelia are castration-insensitive cells of the proximal prostate - Human Fibromuscular Stromal Cells,fibroblast of connective tissue of prostate,CL:1000299,male,European,160,17.075773745997864
-3,Urethral luminal epithelia are castration-insensitive cells of the proximal prostate - Human Fibromuscular Stromal Cells,smooth muscle cell of prostate,CL:1000487,male,European,132,14.087513340448238
-4,Urethral luminal epithelia are castration-insensitive cells of the proximal prostate - Human Fibromuscular Stromal Cells,fibroblast of connective tissue of prostate,CL:1000299,male,European,73,7.790821771611527
-5,Urethral luminal epithelia are castration-insensitive cells of the proximal prostate - Human Fibromuscular Stromal Cells,smooth muscle cell of prostate,CL:1000487,male,European,59,6.296691568836713
-6,Urethral luminal epithelia are castration-insensitive cells of the proximal prostate - Human Fibromuscular Stromal Cells,fibroblast of connective tissue of prostate,CL:1000299,male,European,336,35.859124866595515
-7,Urethral luminal epithelia are castration-insensitive cells of the proximal prostate - Human Fibromuscular Stromal Cells,smooth muscle cell of prostate,CL:1000487,male,European,99,10.56563500533618
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,development_stage,count,percentage
+0,Urethral luminal epithelia are castration-insensitive cells of the proximal prostate - Human Fibromuscular Stromal Cells,fibroblast of connective tissue of prostate,CL:1000299,male,European,29-year-old human stage,16,1.7075773745997866
+1,Urethral luminal epithelia are castration-insensitive cells of the proximal prostate - Human Fibromuscular Stromal Cells,smooth muscle cell of prostate,CL:1000487,male,European,29-year-old human stage,62,6.616862326574173
+2,Urethral luminal epithelia are castration-insensitive cells of the proximal prostate - Human Fibromuscular Stromal Cells,fibroblast of connective tissue of prostate,CL:1000299,male,European,31-year-old human stage,160,17.075773745997864
+3,Urethral luminal epithelia are castration-insensitive cells of the proximal prostate - Human Fibromuscular Stromal Cells,smooth muscle cell of prostate,CL:1000487,male,European,31-year-old human stage,132,14.087513340448238
+4,Urethral luminal epithelia are castration-insensitive cells of the proximal prostate - Human Fibromuscular Stromal Cells,fibroblast of connective tissue of prostate,CL:1000299,male,European,29-year-old human stage,73,7.790821771611527
+5,Urethral luminal epithelia are castration-insensitive cells of the proximal prostate - Human Fibromuscular Stromal Cells,smooth muscle cell of prostate,CL:1000487,male,European,29-year-old human stage,59,6.296691568836713
+6,Urethral luminal epithelia are castration-insensitive cells of the proximal prostate - Human Fibromuscular Stromal Cells,fibroblast of connective tissue of prostate,CL:1000299,male,European,31-year-old human stage,336,35.859124866595515
+7,Urethral luminal epithelia are castration-insensitive cells of the proximal prostate - Human Fibromuscular Stromal Cells,smooth muscle cell of prostate,CL:1000487,male,European,31-year-old human stage,99,10.56563500533618

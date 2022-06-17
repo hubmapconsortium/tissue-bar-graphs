@@ -1,77 +1,77 @@
-,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
-0,Survey of human embryonic development,cell of skeletal muscle,CL:0000188,female,unknown,623,2.0180098471106507
-1,Survey of human embryonic development,smooth muscle cell,CL:0000192,female,unknown,45,0.14576315107540813
-2,Survey of human embryonic development,stromal cell,CL:0000499,female,unknown,445,1.441435605079036
-3,Survey of human embryonic development,skeletal muscle satellite cell,CL:0000594,female,unknown,372,1.204975382223374
-4,Survey of human embryonic development,myeloid cell,CL:0000763,female,unknown,4,0.012956724540036279
-5,Survey of human embryonic development,erythroblast,CL:0000765,female,unknown,2,0.0064783622700181395
-6,Survey of human embryonic development,innate lymphoid cell,CL:0001065,female,unknown,1,0.0032391811350090697
-7,Survey of human embryonic development,endothelial cell of lymphatic vessel,CL:0002138,female,unknown,15,0.04858771702513604
-8,Survey of human embryonic development,endothelial cell of vascular tree,CL:0002139,female,unknown,154,0.4988338947913967
-9,Survey of human embryonic development,Schwann cell,CL:0002573,female,unknown,20,0.0647836227001814
-10,Survey of human embryonic development,cell of skeletal muscle,CL:0000188,female,unknown,933,3.022155998963462
-11,Survey of human embryonic development,smooth muscle cell,CL:0000192,female,unknown,41,0.13280642653537184
-12,Survey of human embryonic development,stromal cell,CL:0000499,female,unknown,478,1.5483285825343354
-13,Survey of human embryonic development,megakaryocyte,CL:0000556,female,unknown,1,0.0032391811350090697
-14,Survey of human embryonic development,skeletal muscle satellite cell,CL:0000594,female,unknown,126,0.40813682301114274
-15,Survey of human embryonic development,myeloid cell,CL:0000763,female,unknown,17,0.05506607929515419
-16,Survey of human embryonic development,erythroblast,CL:0000765,female,unknown,1,0.0032391811350090697
-17,Survey of human embryonic development,innate lymphoid cell,CL:0001065,female,unknown,2,0.0064783622700181395
-18,Survey of human embryonic development,endothelial cell of lymphatic vessel,CL:0002138,female,unknown,9,0.029152630215081625
-19,Survey of human embryonic development,endothelial cell of vascular tree,CL:0002139,female,unknown,147,0.47615962684633323
-20,Survey of human embryonic development,Schwann cell,CL:0002573,female,unknown,13,0.04210935475511791
-21,Survey of human embryonic development,cell of skeletal muscle,CL:0000188,female,unknown,5342,17.303705623218452
-22,Survey of human embryonic development,smooth muscle cell,CL:0000192,female,unknown,217,0.7029023062969681
-23,Survey of human embryonic development,stromal cell,CL:0000499,female,unknown,3725,12.065949727908784
-24,Survey of human embryonic development,megakaryocyte,CL:0000556,female,unknown,1,0.0032391811350090697
-25,Survey of human embryonic development,skeletal muscle satellite cell,CL:0000594,female,unknown,2392,7.7481212749416954
-26,Survey of human embryonic development,myeloid cell,CL:0000763,female,unknown,70,0.22674267945063487
-27,Survey of human embryonic development,erythroblast,CL:0000765,female,unknown,9,0.029152630215081625
-28,Survey of human embryonic development,innate lymphoid cell,CL:0001065,female,unknown,26,0.08421870951023581
-29,Survey of human embryonic development,endothelial cell of lymphatic vessel,CL:0002138,female,unknown,57,0.18463332469551696
-30,Survey of human embryonic development,endothelial cell of vascular tree,CL:0002139,female,unknown,764,2.4747343871469294
-31,Survey of human embryonic development,Schwann cell,CL:0002573,female,unknown,67,0.21702513604560766
-32,Survey of human embryonic development,cell of skeletal muscle,CL:0000188,male,unknown,505,1.6357864731795801
-33,Survey of human embryonic development,smooth muscle cell,CL:0000192,male,unknown,53,0.1716766001554807
-34,Survey of human embryonic development,stromal cell,CL:0000499,male,unknown,773,2.503887017362011
-35,Survey of human embryonic development,megakaryocyte,CL:0000556,male,unknown,3,0.009717543405027208
-36,Survey of human embryonic development,skeletal muscle satellite cell,CL:0000594,male,unknown,723,2.3419279606115575
-37,Survey of human embryonic development,myeloid cell,CL:0000763,male,unknown,15,0.04858771702513604
-38,Survey of human embryonic development,erythroblast,CL:0000765,male,unknown,8,0.025913449080072558
-39,Survey of human embryonic development,innate lymphoid cell,CL:0001065,male,unknown,4,0.012956724540036279
-40,Survey of human embryonic development,endothelial cell of lymphatic vessel,CL:0002138,male,unknown,6,0.019435086810054417
-41,Survey of human embryonic development,endothelial cell of vascular tree,CL:0002139,male,unknown,185,0.5992485099766779
-42,Survey of human embryonic development,Schwann cell,CL:0002573,male,unknown,20,0.0647836227001814
-43,Survey of human embryonic development,cell of skeletal muscle,CL:0000188,male,unknown,904,2.9282197460481987
-44,Survey of human embryonic development,smooth muscle cell,CL:0000192,male,unknown,19,0.061544441565172324
-45,Survey of human embryonic development,stromal cell,CL:0000499,male,unknown,247,0.8000777403472402
-46,Survey of human embryonic development,megakaryocyte,CL:0000556,male,unknown,3,0.009717543405027208
-47,Survey of human embryonic development,skeletal muscle satellite cell,CL:0000594,male,unknown,160,0.5182689816014512
-48,Survey of human embryonic development,myeloid cell,CL:0000763,male,unknown,16,0.051826898160145116
-49,Survey of human embryonic development,erythroblast,CL:0000765,male,unknown,2,0.0064783622700181395
-50,Survey of human embryonic development,innate lymphoid cell,CL:0001065,male,unknown,3,0.009717543405027208
-51,Survey of human embryonic development,endothelial cell of lymphatic vessel,CL:0002138,male,unknown,2,0.0064783622700181395
-52,Survey of human embryonic development,endothelial cell of vascular tree,CL:0002139,male,unknown,124,0.40165846074112466
-53,Survey of human embryonic development,Schwann cell,CL:0002573,male,unknown,4,0.012956724540036279
-54,Survey of human embryonic development,cell of skeletal muscle,CL:0000188,male,unknown,3373,10.925757968385593
-55,Survey of human embryonic development,smooth muscle cell,CL:0000192,male,unknown,129,0.41785436641617
-56,Survey of human embryonic development,stromal cell,CL:0000499,male,unknown,1669,5.406193314330137
-57,Survey of human embryonic development,megakaryocyte,CL:0000556,male,unknown,1,0.0032391811350090697
-58,Survey of human embryonic development,skeletal muscle satellite cell,CL:0000594,male,unknown,1091,3.5339466182948946
-59,Survey of human embryonic development,myeloid cell,CL:0000763,male,unknown,125,0.40489764187613375
-60,Survey of human embryonic development,erythroblast,CL:0000765,male,unknown,12,0.03887017362010883
-61,Survey of human embryonic development,innate lymphoid cell,CL:0001065,male,unknown,43,0.13928478880539
-62,Survey of human embryonic development,endothelial cell of lymphatic vessel,CL:0002138,male,unknown,17,0.05506607929515419
-63,Survey of human embryonic development,endothelial cell of vascular tree,CL:0002139,male,unknown,474,1.535371857994299
-64,Survey of human embryonic development,Schwann cell,CL:0002573,male,unknown,43,0.13928478880539
-65,Survey of human embryonic development,cell of skeletal muscle,CL:0000188,male,unknown,1688,5.4677377558953095
-66,Survey of human embryonic development,smooth muscle cell,CL:0000192,male,unknown,71,0.22998186058564396
-67,Survey of human embryonic development,stromal cell,CL:0000499,male,unknown,1456,4.716247732573206
-68,Survey of human embryonic development,megakaryocyte,CL:0000556,male,unknown,3,0.009717543405027208
-69,Survey of human embryonic development,skeletal muscle satellite cell,CL:0000594,male,unknown,391,1.2665198237885462
-70,Survey of human embryonic development,myeloid cell,CL:0000763,male,unknown,37,0.11984970199533558
-71,Survey of human embryonic development,erythroblast,CL:0000765,male,unknown,4,0.012956724540036279
-72,Survey of human embryonic development,innate lymphoid cell,CL:0001065,male,unknown,9,0.029152630215081625
-73,Survey of human embryonic development,endothelial cell of lymphatic vessel,CL:0002138,male,unknown,9,0.029152630215081625
-74,Survey of human embryonic development,endothelial cell of vascular tree,CL:0002139,male,unknown,243,0.787121015807204
-75,Survey of human embryonic development,Schwann cell,CL:0002573,male,unknown,86,0.27856957761078
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,development_stage,count,percentage
+0,Survey of human embryonic development,cell of skeletal muscle,CL:0000188,female,unknown,12th week post-fertilization human stage,623,2.0180098471106507
+1,Survey of human embryonic development,smooth muscle cell,CL:0000192,female,unknown,12th week post-fertilization human stage,45,0.14576315107540813
+2,Survey of human embryonic development,stromal cell,CL:0000499,female,unknown,12th week post-fertilization human stage,445,1.441435605079036
+3,Survey of human embryonic development,skeletal muscle satellite cell,CL:0000594,female,unknown,12th week post-fertilization human stage,372,1.204975382223374
+4,Survey of human embryonic development,myeloid cell,CL:0000763,female,unknown,12th week post-fertilization human stage,4,0.012956724540036279
+5,Survey of human embryonic development,erythroblast,CL:0000765,female,unknown,12th week post-fertilization human stage,2,0.0064783622700181395
+6,Survey of human embryonic development,innate lymphoid cell,CL:0001065,female,unknown,12th week post-fertilization human stage,1,0.0032391811350090697
+7,Survey of human embryonic development,endothelial cell of lymphatic vessel,CL:0002138,female,unknown,12th week post-fertilization human stage,15,0.04858771702513604
+8,Survey of human embryonic development,endothelial cell of vascular tree,CL:0002139,female,unknown,12th week post-fertilization human stage,154,0.4988338947913967
+9,Survey of human embryonic development,Schwann cell,CL:0002573,female,unknown,12th week post-fertilization human stage,20,0.0647836227001814
+10,Survey of human embryonic development,cell of skeletal muscle,CL:0000188,female,unknown,13th week post-fertilization human stage,933,3.022155998963462
+11,Survey of human embryonic development,smooth muscle cell,CL:0000192,female,unknown,13th week post-fertilization human stage,41,0.13280642653537184
+12,Survey of human embryonic development,stromal cell,CL:0000499,female,unknown,13th week post-fertilization human stage,478,1.5483285825343354
+13,Survey of human embryonic development,megakaryocyte,CL:0000556,female,unknown,13th week post-fertilization human stage,1,0.0032391811350090697
+14,Survey of human embryonic development,skeletal muscle satellite cell,CL:0000594,female,unknown,13th week post-fertilization human stage,126,0.40813682301114274
+15,Survey of human embryonic development,myeloid cell,CL:0000763,female,unknown,13th week post-fertilization human stage,17,0.05506607929515419
+16,Survey of human embryonic development,erythroblast,CL:0000765,female,unknown,13th week post-fertilization human stage,1,0.0032391811350090697
+17,Survey of human embryonic development,innate lymphoid cell,CL:0001065,female,unknown,13th week post-fertilization human stage,2,0.0064783622700181395
+18,Survey of human embryonic development,endothelial cell of lymphatic vessel,CL:0002138,female,unknown,13th week post-fertilization human stage,9,0.029152630215081625
+19,Survey of human embryonic development,endothelial cell of vascular tree,CL:0002139,female,unknown,13th week post-fertilization human stage,147,0.47615962684633323
+20,Survey of human embryonic development,Schwann cell,CL:0002573,female,unknown,13th week post-fertilization human stage,13,0.04210935475511791
+21,Survey of human embryonic development,cell of skeletal muscle,CL:0000188,female,unknown,15th week post-fertilization human stage,5342,17.303705623218452
+22,Survey of human embryonic development,smooth muscle cell,CL:0000192,female,unknown,15th week post-fertilization human stage,217,0.7029023062969681
+23,Survey of human embryonic development,stromal cell,CL:0000499,female,unknown,15th week post-fertilization human stage,3725,12.065949727908784
+24,Survey of human embryonic development,megakaryocyte,CL:0000556,female,unknown,15th week post-fertilization human stage,1,0.0032391811350090697
+25,Survey of human embryonic development,skeletal muscle satellite cell,CL:0000594,female,unknown,15th week post-fertilization human stage,2392,7.7481212749416954
+26,Survey of human embryonic development,myeloid cell,CL:0000763,female,unknown,15th week post-fertilization human stage,70,0.22674267945063487
+27,Survey of human embryonic development,erythroblast,CL:0000765,female,unknown,15th week post-fertilization human stage,9,0.029152630215081625
+28,Survey of human embryonic development,innate lymphoid cell,CL:0001065,female,unknown,15th week post-fertilization human stage,26,0.08421870951023581
+29,Survey of human embryonic development,endothelial cell of lymphatic vessel,CL:0002138,female,unknown,15th week post-fertilization human stage,57,0.18463332469551696
+30,Survey of human embryonic development,endothelial cell of vascular tree,CL:0002139,female,unknown,15th week post-fertilization human stage,764,2.4747343871469294
+31,Survey of human embryonic development,Schwann cell,CL:0002573,female,unknown,15th week post-fertilization human stage,67,0.21702513604560766
+32,Survey of human embryonic development,cell of skeletal muscle,CL:0000188,male,unknown,12th week post-fertilization human stage,505,1.6357864731795801
+33,Survey of human embryonic development,smooth muscle cell,CL:0000192,male,unknown,12th week post-fertilization human stage,53,0.1716766001554807
+34,Survey of human embryonic development,stromal cell,CL:0000499,male,unknown,12th week post-fertilization human stage,773,2.503887017362011
+35,Survey of human embryonic development,megakaryocyte,CL:0000556,male,unknown,12th week post-fertilization human stage,3,0.009717543405027208
+36,Survey of human embryonic development,skeletal muscle satellite cell,CL:0000594,male,unknown,12th week post-fertilization human stage,723,2.3419279606115575
+37,Survey of human embryonic development,myeloid cell,CL:0000763,male,unknown,12th week post-fertilization human stage,15,0.04858771702513604
+38,Survey of human embryonic development,erythroblast,CL:0000765,male,unknown,12th week post-fertilization human stage,8,0.025913449080072558
+39,Survey of human embryonic development,innate lymphoid cell,CL:0001065,male,unknown,12th week post-fertilization human stage,4,0.012956724540036279
+40,Survey of human embryonic development,endothelial cell of lymphatic vessel,CL:0002138,male,unknown,12th week post-fertilization human stage,6,0.019435086810054417
+41,Survey of human embryonic development,endothelial cell of vascular tree,CL:0002139,male,unknown,12th week post-fertilization human stage,185,0.5992485099766779
+42,Survey of human embryonic development,Schwann cell,CL:0002573,male,unknown,12th week post-fertilization human stage,20,0.0647836227001814
+43,Survey of human embryonic development,cell of skeletal muscle,CL:0000188,male,unknown,15th week post-fertilization human stage,904,2.9282197460481987
+44,Survey of human embryonic development,smooth muscle cell,CL:0000192,male,unknown,15th week post-fertilization human stage,19,0.061544441565172324
+45,Survey of human embryonic development,stromal cell,CL:0000499,male,unknown,15th week post-fertilization human stage,247,0.8000777403472402
+46,Survey of human embryonic development,megakaryocyte,CL:0000556,male,unknown,15th week post-fertilization human stage,3,0.009717543405027208
+47,Survey of human embryonic development,skeletal muscle satellite cell,CL:0000594,male,unknown,15th week post-fertilization human stage,160,0.5182689816014512
+48,Survey of human embryonic development,myeloid cell,CL:0000763,male,unknown,15th week post-fertilization human stage,16,0.051826898160145116
+49,Survey of human embryonic development,erythroblast,CL:0000765,male,unknown,15th week post-fertilization human stage,2,0.0064783622700181395
+50,Survey of human embryonic development,innate lymphoid cell,CL:0001065,male,unknown,15th week post-fertilization human stage,3,0.009717543405027208
+51,Survey of human embryonic development,endothelial cell of lymphatic vessel,CL:0002138,male,unknown,15th week post-fertilization human stage,2,0.0064783622700181395
+52,Survey of human embryonic development,endothelial cell of vascular tree,CL:0002139,male,unknown,15th week post-fertilization human stage,124,0.40165846074112466
+53,Survey of human embryonic development,Schwann cell,CL:0002573,male,unknown,15th week post-fertilization human stage,4,0.012956724540036279
+54,Survey of human embryonic development,cell of skeletal muscle,CL:0000188,male,unknown,16th week post-fertilization human stage,3373,10.925757968385593
+55,Survey of human embryonic development,smooth muscle cell,CL:0000192,male,unknown,16th week post-fertilization human stage,129,0.41785436641617
+56,Survey of human embryonic development,stromal cell,CL:0000499,male,unknown,16th week post-fertilization human stage,1669,5.406193314330137
+57,Survey of human embryonic development,megakaryocyte,CL:0000556,male,unknown,16th week post-fertilization human stage,1,0.0032391811350090697
+58,Survey of human embryonic development,skeletal muscle satellite cell,CL:0000594,male,unknown,16th week post-fertilization human stage,1091,3.5339466182948946
+59,Survey of human embryonic development,myeloid cell,CL:0000763,male,unknown,16th week post-fertilization human stage,125,0.40489764187613375
+60,Survey of human embryonic development,erythroblast,CL:0000765,male,unknown,16th week post-fertilization human stage,12,0.03887017362010883
+61,Survey of human embryonic development,innate lymphoid cell,CL:0001065,male,unknown,16th week post-fertilization human stage,43,0.13928478880539
+62,Survey of human embryonic development,endothelial cell of lymphatic vessel,CL:0002138,male,unknown,16th week post-fertilization human stage,17,0.05506607929515419
+63,Survey of human embryonic development,endothelial cell of vascular tree,CL:0002139,male,unknown,16th week post-fertilization human stage,474,1.535371857994299
+64,Survey of human embryonic development,Schwann cell,CL:0002573,male,unknown,16th week post-fertilization human stage,43,0.13928478880539
+65,Survey of human embryonic development,cell of skeletal muscle,CL:0000188,male,unknown,17th week post-fertilization human stage,1688,5.4677377558953095
+66,Survey of human embryonic development,smooth muscle cell,CL:0000192,male,unknown,17th week post-fertilization human stage,71,0.22998186058564396
+67,Survey of human embryonic development,stromal cell,CL:0000499,male,unknown,17th week post-fertilization human stage,1456,4.716247732573206
+68,Survey of human embryonic development,megakaryocyte,CL:0000556,male,unknown,17th week post-fertilization human stage,3,0.009717543405027208
+69,Survey of human embryonic development,skeletal muscle satellite cell,CL:0000594,male,unknown,17th week post-fertilization human stage,391,1.2665198237885462
+70,Survey of human embryonic development,myeloid cell,CL:0000763,male,unknown,17th week post-fertilization human stage,37,0.11984970199533558
+71,Survey of human embryonic development,erythroblast,CL:0000765,male,unknown,17th week post-fertilization human stage,4,0.012956724540036279
+72,Survey of human embryonic development,innate lymphoid cell,CL:0001065,male,unknown,17th week post-fertilization human stage,9,0.029152630215081625
+73,Survey of human embryonic development,endothelial cell of lymphatic vessel,CL:0002138,male,unknown,17th week post-fertilization human stage,9,0.029152630215081625
+74,Survey of human embryonic development,endothelial cell of vascular tree,CL:0002139,male,unknown,17th week post-fertilization human stage,243,0.787121015807204
+75,Survey of human embryonic development,Schwann cell,CL:0002573,male,unknown,17th week post-fertilization human stage,86,0.27856957761078

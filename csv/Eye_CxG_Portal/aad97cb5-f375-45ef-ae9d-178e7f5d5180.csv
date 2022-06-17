@@ -1,24 +1,24 @@
-,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
-0,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,female,European,268,1.1534819660841868
-1,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,male,European,2395,10.308169062580701
-2,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,male,European,1085,4.669880347766204
-3,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,female,European,268,1.1534819660841868
-4,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,male,European,1085,4.669880347766204
-5,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,male,European,2395,10.308169062580701
-6,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,female,European,5,0.021520185934406473
-7,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,male,European,312,1.3428596023069639
-8,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,male,European,751,3.232331927347852
-9,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,male,European,19,0.0817767065507446
-10,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,female,European,5,0.021520185934406473
-11,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,male,European,19,0.0817767065507446
-12,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,male,European,312,1.3428596023069639
-13,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,male,European,751,3.232331927347852
-14,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,female,European,4310,18.550400275458383
-15,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,male,European,14,0.06025652061633813
-16,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,male,European,2254,9.701299819230439
-17,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,male,European,204,0.8780235861237841
-18,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,female,European,2319,9.981062236377722
-19,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,female,European,1991,8.569338039080659
-20,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,male,European,204,0.8780235861237841
-21,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,male,European,2254,9.701299819230439
-22,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,male,European,14,0.06025652061633813
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,development_stage,count,percentage
+0,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,female,European,78-year-old human stage,268,1.1534819660841868
+1,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,male,European,73-year-old human stage,2395,10.308169062580701
+2,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,male,European,84-year-old human stage,1085,4.669880347766204
+3,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,female,European,78-year-old human stage,268,1.1534819660841868
+4,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,male,European,84-year-old human stage,1085,4.669880347766204
+5,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,male,European,73-year-old human stage,2395,10.308169062580701
+6,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,female,European,78-year-old human stage,5,0.021520185934406473
+7,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,male,European,73-year-old human stage,312,1.3428596023069639
+8,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,male,European,83-year-old human stage,751,3.232331927347852
+9,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,male,European,84-year-old human stage,19,0.0817767065507446
+10,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,female,European,78-year-old human stage,5,0.021520185934406473
+11,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,male,European,84-year-old human stage,19,0.0817767065507446
+12,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,male,European,73-year-old human stage,312,1.3428596023069639
+13,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,male,European,83-year-old human stage,751,3.232331927347852
+14,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,female,European,78-year-old human stage,4310,18.550400275458383
+15,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,male,European,65-year-old human stage,14,0.06025652061633813
+16,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,male,European,73-year-old human stage,2254,9.701299819230439
+17,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,male,European,84-year-old human stage,204,0.8780235861237841
+18,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,female,European,78-year-old human stage,2319,9.981062236377722
+19,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,female,European,78-year-old human stage,1991,8.569338039080659
+20,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,male,European,84-year-old human stage,204,0.8780235861237841
+21,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,male,European,73-year-old human stage,2254,9.701299819230439
+22,Retinal ganglion cells in human retina,retinal ganglion cell,CL:0000740,male,European,65-year-old human stage,14,0.06025652061633813

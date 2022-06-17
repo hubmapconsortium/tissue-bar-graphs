@@ -1,8 +1,8 @@
-,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
-0,Single-soma transcriptomics of tangle-bearing neurons in Alzheimer’s disease - Excitatory,excitatory neuron,CL:0008030,female,unknown,13070,28.369871934013457
-1,Single-soma transcriptomics of tangle-bearing neurons in Alzheimer’s disease - Excitatory,excitatory neuron,CL:0008030,female,African American,6285,13.642283481658346
-2,Single-soma transcriptomics of tangle-bearing neurons in Alzheimer’s disease - Excitatory,excitatory neuron,CL:0008030,male,unknown,4710,10.223572823963533
-3,Single-soma transcriptomics of tangle-bearing neurons in Alzheimer’s disease - Excitatory,excitatory neuron,CL:0008030,male,European,5572,12.094638593444758
-4,Single-soma transcriptomics of tangle-bearing neurons in Alzheimer’s disease - Excitatory,excitatory neuron,CL:0008030,male,Hispanic or Latin American,5185,11.254612546125461
-5,Single-soma transcriptomics of tangle-bearing neurons in Alzheimer’s disease - Excitatory,excitatory neuron,CL:0008030,male,European,5632,12.224875189928369
-6,Single-soma transcriptomics of tangle-bearing neurons in Alzheimer’s disease - Excitatory,excitatory neuron,CL:0008030,male,unknown,5616,12.190145430866073
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,development_stage,count,percentage
+0,Single-soma transcriptomics of tangle-bearing neurons in Alzheimer’s disease - Excitatory,excitatory neuron,CL:0008030,female,unknown,67-year-old human stage,13070,28.369871934013457
+1,Single-soma transcriptomics of tangle-bearing neurons in Alzheimer’s disease - Excitatory,excitatory neuron,CL:0008030,female,African American,68-year-old human stage,6285,13.642283481658346
+2,Single-soma transcriptomics of tangle-bearing neurons in Alzheimer’s disease - Excitatory,excitatory neuron,CL:0008030,male,unknown,61-year-old human stage,4710,10.223572823963533
+3,Single-soma transcriptomics of tangle-bearing neurons in Alzheimer’s disease - Excitatory,excitatory neuron,CL:0008030,male,European,66-year-old human stage,5572,12.094638593444758
+4,Single-soma transcriptomics of tangle-bearing neurons in Alzheimer’s disease - Excitatory,excitatory neuron,CL:0008030,male,Hispanic or Latin American,71-year-old human stage,5185,11.254612546125461
+5,Single-soma transcriptomics of tangle-bearing neurons in Alzheimer’s disease - Excitatory,excitatory neuron,CL:0008030,male,European,72-year-old human stage,5632,12.224875189928369
+6,Single-soma transcriptomics of tangle-bearing neurons in Alzheimer’s disease - Excitatory,excitatory neuron,CL:0008030,male,unknown,87-year-old human stage,5616,12.190145430866073

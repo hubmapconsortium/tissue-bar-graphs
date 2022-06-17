@@ -1,9 +1,9 @@
-,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
-0,scRNA-seq data analysis of endothelium-enriched mesenteric arterial tissues from human donors,native cell,CL:0000003,male,Hispanic or Latin American,1135,16.26074498567335
-1,scRNA-seq data analysis of endothelium-enriched mesenteric arterial tissues from human donors,endothelial cell of artery,CL:1000413,male,Hispanic or Latin American,420,6.017191977077363
-2,scRNA-seq data analysis of endothelium-enriched mesenteric arterial tissues from human donors,native cell,CL:0000003,male,European,1141,16.346704871060172
-3,scRNA-seq data analysis of endothelium-enriched mesenteric arterial tissues from human donors,endothelial cell of artery,CL:1000413,male,European,794,11.375358166189113
-4,scRNA-seq data analysis of endothelium-enriched mesenteric arterial tissues from human donors,native cell,CL:0000003,male,European,1141,16.346704871060172
-5,scRNA-seq data analysis of endothelium-enriched mesenteric arterial tissues from human donors,endothelial cell of artery,CL:1000413,male,European,794,11.375358166189113
-6,scRNA-seq data analysis of endothelium-enriched mesenteric arterial tissues from human donors,native cell,CL:0000003,male,Hispanic or Latin American,1135,16.26074498567335
-7,scRNA-seq data analysis of endothelium-enriched mesenteric arterial tissues from human donors,endothelial cell of artery,CL:1000413,male,Hispanic or Latin American,420,6.017191977077363
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,development_stage,count,percentage
+0,scRNA-seq data analysis of endothelium-enriched mesenteric arterial tissues from human donors,native cell,CL:0000003,male,Hispanic or Latin American,28-year-old human stage,1135,16.26074498567335
+1,scRNA-seq data analysis of endothelium-enriched mesenteric arterial tissues from human donors,endothelial cell of artery,CL:1000413,male,Hispanic or Latin American,28-year-old human stage,420,6.017191977077363
+2,scRNA-seq data analysis of endothelium-enriched mesenteric arterial tissues from human donors,native cell,CL:0000003,male,European,59-year-old human stage,1141,16.346704871060172
+3,scRNA-seq data analysis of endothelium-enriched mesenteric arterial tissues from human donors,endothelial cell of artery,CL:1000413,male,European,59-year-old human stage,794,11.375358166189113
+4,scRNA-seq data analysis of endothelium-enriched mesenteric arterial tissues from human donors,native cell,CL:0000003,male,European,59-year-old human stage,1141,16.346704871060172
+5,scRNA-seq data analysis of endothelium-enriched mesenteric arterial tissues from human donors,endothelial cell of artery,CL:1000413,male,European,59-year-old human stage,794,11.375358166189113
+6,scRNA-seq data analysis of endothelium-enriched mesenteric arterial tissues from human donors,native cell,CL:0000003,male,Hispanic or Latin American,28-year-old human stage,1135,16.26074498567335
+7,scRNA-seq data analysis of endothelium-enriched mesenteric arterial tissues from human donors,endothelial cell of artery,CL:1000413,male,Hispanic or Latin American,28-year-old human stage,420,6.017191977077363

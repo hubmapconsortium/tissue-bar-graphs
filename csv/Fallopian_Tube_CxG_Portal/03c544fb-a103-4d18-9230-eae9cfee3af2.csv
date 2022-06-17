@@ -1,121 +1,121 @@
-,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
-0,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,fibroblast,CL:0000057,female,European,241,0.4199923320902025
-1,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,blood vessel endothelial cell,CL:0000071,female,European,929,1.6189745913352618
-2,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,myofibroblast cell,CL:0000186,female,European,200,0.34854135443170337
-3,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,smooth muscle cell,CL:0000192,female,European,1017,1.7723327872852115
-4,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,pericyte cell,CL:0000669,female,European,669,1.1658708305740477
-5,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,endothelial cell of lymphatic vessel,CL:0002138,female,European,49,0.08539263183576731
-6,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,fibroblast,CL:0000057,female,European,492,0.8574117319019902
-7,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,blood vessel endothelial cell,CL:0000071,female,European,50,0.08713533860792584
-8,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,myofibroblast cell,CL:0000186,female,European,420,0.7319368443065769
-9,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,smooth muscle cell,CL:0000192,female,European,56,0.09759157924087693
-10,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,pericyte cell,CL:0000669,female,European,13,0.022655188038060717
-11,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,endothelial cell of lymphatic vessel,CL:0002138,female,European,244,0.42522045240667805
-12,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,fibroblast,CL:0000057,female,European,426,0.7423930849395282
-13,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,blood vessel endothelial cell,CL:0000071,female,European,441,0.7685336865219058
-14,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,myofibroblast cell,CL:0000186,female,European,1673,2.915548429821198
-15,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,smooth muscle cell,CL:0000192,female,European,521,0.9079502282945872
-16,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,pericyte cell,CL:0000669,female,European,350,0.6099473702554808
-17,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,endothelial cell of lymphatic vessel,CL:0002138,female,European,56,0.09759157924087693
-18,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,fibroblast,CL:0000057,female,European,492,0.8574117319019902
-19,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,blood vessel endothelial cell,CL:0000071,female,European,50,0.08713533860792584
-20,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,myofibroblast cell,CL:0000186,female,European,420,0.7319368443065769
-21,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,smooth muscle cell,CL:0000192,female,European,56,0.09759157924087693
-22,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,pericyte cell,CL:0000669,female,European,13,0.022655188038060717
-23,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,endothelial cell of lymphatic vessel,CL:0002138,female,European,244,0.42522045240667805
-24,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,fibroblast,CL:0000057,female,European,241,0.4199923320902025
-25,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,blood vessel endothelial cell,CL:0000071,female,European,929,1.6189745913352618
-26,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,myofibroblast cell,CL:0000186,female,European,200,0.34854135443170337
-27,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,smooth muscle cell,CL:0000192,female,European,1017,1.7723327872852115
-28,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,pericyte cell,CL:0000669,female,European,669,1.1658708305740477
-29,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,endothelial cell of lymphatic vessel,CL:0002138,female,European,49,0.08539263183576731
-30,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,fibroblast,CL:0000057,female,European,426,0.7423930849395282
-31,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,blood vessel endothelial cell,CL:0000071,female,European,441,0.7685336865219058
-32,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,myofibroblast cell,CL:0000186,female,European,1673,2.915548429821198
-33,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,smooth muscle cell,CL:0000192,female,European,521,0.9079502282945872
-34,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,pericyte cell,CL:0000669,female,European,350,0.6099473702554808
-35,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,endothelial cell of lymphatic vessel,CL:0002138,female,European,56,0.09759157924087693
-36,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,fibroblast,CL:0000057,female,European,230,0.40082255759645885
-37,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,blood vessel endothelial cell,CL:0000071,female,European,200,0.34854135443170337
-38,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,myofibroblast cell,CL:0000186,female,European,1730,3.0148827158342337
-39,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,smooth muscle cell,CL:0000192,female,European,32,0.055766616709072535
-40,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,pericyte cell,CL:0000669,female,European,43,0.07493639120281621
-41,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,endothelial cell of lymphatic vessel,CL:0002138,female,European,57,0.09933428601303544
-42,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,fibroblast,CL:0000057,female,European,230,0.40082255759645885
-43,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,blood vessel endothelial cell,CL:0000071,female,European,200,0.34854135443170337
-44,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,myofibroblast cell,CL:0000186,female,European,1730,3.0148827158342337
-45,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,smooth muscle cell,CL:0000192,female,European,32,0.055766616709072535
-46,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,pericyte cell,CL:0000669,female,European,43,0.07493639120281621
-47,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,endothelial cell of lymphatic vessel,CL:0002138,female,European,57,0.09933428601303544
-48,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,fibroblast,CL:0000057,female,European,440,0.7667909797497473
-49,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,blood vessel endothelial cell,CL:0000071,female,European,230,0.40082255759645885
-50,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,myofibroblast cell,CL:0000186,female,European,1907,3.3233418145062914
-51,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,smooth muscle cell,CL:0000192,female,European,35,0.06099473702554808
-52,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,pericyte cell,CL:0000669,female,European,25,0.04356766930396292
-53,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,endothelial cell of lymphatic vessel,CL:0002138,female,European,213,0.3711965424697641
-54,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,fibroblast,CL:0000057,female,European,1495,2.6053466243769825
-55,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,blood vessel endothelial cell,CL:0000071,female,European,21,0.03659684221532885
-56,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,myofibroblast cell,CL:0000186,female,European,1744,3.039280610644453
-57,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,smooth muscle cell,CL:0000192,female,European,15,0.02614060158237775
-58,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,pericyte cell,CL:0000669,female,European,2,0.0034854135443170334
-59,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,endothelial cell of lymphatic vessel,CL:0002138,female,European,1107,1.9291763967794777
-60,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,fibroblast,CL:0000057,female,European,166,0.28928932417831377
-61,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,blood vessel endothelial cell,CL:0000071,female,European,45,0.07842180474713324
-62,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,myofibroblast cell,CL:0000186,female,European,449,0.7824753406991739
-63,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,smooth muscle cell,CL:0000192,female,European,12,0.0209124812659022
-64,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,pericyte cell,CL:0000669,female,European,17,0.029626015126694782
-65,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,endothelial cell of lymphatic vessel,CL:0002138,female,European,99,0.17252797044369314
-66,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,fibroblast,CL:0000057,female,European,1495,2.6053466243769825
-67,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,blood vessel endothelial cell,CL:0000071,female,European,21,0.03659684221532885
-68,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,myofibroblast cell,CL:0000186,female,European,1744,3.039280610644453
-69,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,smooth muscle cell,CL:0000192,female,European,15,0.02614060158237775
-70,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,pericyte cell,CL:0000669,female,European,2,0.0034854135443170334
-71,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,endothelial cell of lymphatic vessel,CL:0002138,female,European,1107,1.9291763967794777
-72,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,fibroblast,CL:0000057,female,European,440,0.7667909797497473
-73,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,blood vessel endothelial cell,CL:0000071,female,European,230,0.40082255759645885
-74,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,myofibroblast cell,CL:0000186,female,European,1907,3.3233418145062914
-75,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,smooth muscle cell,CL:0000192,female,European,35,0.06099473702554808
-76,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,pericyte cell,CL:0000669,female,European,25,0.04356766930396292
-77,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,endothelial cell of lymphatic vessel,CL:0002138,female,European,213,0.3711965424697641
-78,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,fibroblast,CL:0000057,female,European,166,0.28928932417831377
-79,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,blood vessel endothelial cell,CL:0000071,female,European,45,0.07842180474713324
-80,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,myofibroblast cell,CL:0000186,female,European,449,0.7824753406991739
-81,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,smooth muscle cell,CL:0000192,female,European,12,0.0209124812659022
-82,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,pericyte cell,CL:0000669,female,European,17,0.029626015126694782
-83,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,endothelial cell of lymphatic vessel,CL:0002138,female,European,99,0.17252797044369314
-84,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,fibroblast,CL:0000057,female,European,480,0.836499250636088
-85,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,blood vessel endothelial cell,CL:0000071,female,European,1612,2.8092433167195288
-86,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,myofibroblast cell,CL:0000186,female,European,375,0.6535150395594438
-87,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,smooth muscle cell,CL:0000192,female,European,1574,2.7430204593775054
-88,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,pericyte cell,CL:0000669,female,European,777,1.3540831619671674
-89,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,endothelial cell of lymphatic vessel,CL:0002138,female,European,54,0.0941061656965599
-90,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,fibroblast,CL:0000057,female,European,1343,2.3404551950088877
-91,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,blood vessel endothelial cell,CL:0000071,female,European,193,0.3363424070265937
-92,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,myofibroblast cell,CL:0000186,female,European,1784,3.1089888815307933
-93,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,smooth muscle cell,CL:0000192,female,European,203,0.3537694747481789
-94,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,pericyte cell,CL:0000669,female,European,35,0.06099473702554808
-95,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,endothelial cell of lymphatic vessel,CL:0002138,female,European,469,0.8173294761423443
-96,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,fibroblast,CL:0000057,female,European,244,0.42522045240667805
-97,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,blood vessel endothelial cell,CL:0000071,female,European,264,0.4600745878498484
-98,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,myofibroblast cell,CL:0000186,female,European,698,1.2164093269666447
-99,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,smooth muscle cell,CL:0000192,female,European,209,0.36422571538112997
-100,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,pericyte cell,CL:0000669,female,European,155,0.2701195496845701
-101,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,endothelial cell of lymphatic vessel,CL:0002138,female,European,61,0.10630511310166951
-102,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,fibroblast,CL:0000057,female,European,1343,2.3404551950088877
-103,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,blood vessel endothelial cell,CL:0000071,female,European,193,0.3363424070265937
-104,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,myofibroblast cell,CL:0000186,female,European,1784,3.1089888815307933
-105,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,smooth muscle cell,CL:0000192,female,European,203,0.3537694747481789
-106,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,pericyte cell,CL:0000669,female,European,35,0.06099473702554808
-107,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,endothelial cell of lymphatic vessel,CL:0002138,female,European,469,0.8173294761423443
-108,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,fibroblast,CL:0000057,female,European,480,0.836499250636088
-109,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,blood vessel endothelial cell,CL:0000071,female,European,1612,2.8092433167195288
-110,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,myofibroblast cell,CL:0000186,female,European,375,0.6535150395594438
-111,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,smooth muscle cell,CL:0000192,female,European,1574,2.7430204593775054
-112,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,pericyte cell,CL:0000669,female,European,777,1.3540831619671674
-113,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,endothelial cell of lymphatic vessel,CL:0002138,female,European,54,0.0941061656965599
-114,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,fibroblast,CL:0000057,female,European,244,0.42522045240667805
-115,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,blood vessel endothelial cell,CL:0000071,female,European,264,0.4600745878498484
-116,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,myofibroblast cell,CL:0000186,female,European,698,1.2164093269666447
-117,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,smooth muscle cell,CL:0000192,female,European,209,0.36422571538112997
-118,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,pericyte cell,CL:0000669,female,European,155,0.2701195496845701
-119,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,endothelial cell of lymphatic vessel,CL:0002138,female,European,61,0.10630511310166951
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,development_stage,count,percentage
+0,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,fibroblast,CL:0000057,female,European,30-year-old human stage,241,0.4199923320902025
+1,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,blood vessel endothelial cell,CL:0000071,female,European,30-year-old human stage,929,1.6189745913352618
+2,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,myofibroblast cell,CL:0000186,female,European,30-year-old human stage,200,0.34854135443170337
+3,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,smooth muscle cell,CL:0000192,female,European,30-year-old human stage,1017,1.7723327872852115
+4,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,pericyte cell,CL:0000669,female,European,30-year-old human stage,669,1.1658708305740477
+5,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,endothelial cell of lymphatic vessel,CL:0002138,female,European,30-year-old human stage,49,0.08539263183576731
+6,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,fibroblast,CL:0000057,female,European,46-year-old human stage,492,0.8574117319019902
+7,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,blood vessel endothelial cell,CL:0000071,female,European,46-year-old human stage,50,0.08713533860792584
+8,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,myofibroblast cell,CL:0000186,female,European,46-year-old human stage,420,0.7319368443065769
+9,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,smooth muscle cell,CL:0000192,female,European,46-year-old human stage,56,0.09759157924087693
+10,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,pericyte cell,CL:0000669,female,European,46-year-old human stage,13,0.022655188038060717
+11,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,endothelial cell of lymphatic vessel,CL:0002138,female,European,46-year-old human stage,244,0.42522045240667805
+12,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,fibroblast,CL:0000057,female,European,52-year-old human stage,426,0.7423930849395282
+13,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,blood vessel endothelial cell,CL:0000071,female,European,52-year-old human stage,441,0.7685336865219058
+14,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,myofibroblast cell,CL:0000186,female,European,52-year-old human stage,1673,2.915548429821198
+15,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,smooth muscle cell,CL:0000192,female,European,52-year-old human stage,521,0.9079502282945872
+16,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,pericyte cell,CL:0000669,female,European,52-year-old human stage,350,0.6099473702554808
+17,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,endothelial cell of lymphatic vessel,CL:0002138,female,European,52-year-old human stage,56,0.09759157924087693
+18,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,fibroblast,CL:0000057,female,European,46-year-old human stage,492,0.8574117319019902
+19,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,blood vessel endothelial cell,CL:0000071,female,European,46-year-old human stage,50,0.08713533860792584
+20,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,myofibroblast cell,CL:0000186,female,European,46-year-old human stage,420,0.7319368443065769
+21,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,smooth muscle cell,CL:0000192,female,European,46-year-old human stage,56,0.09759157924087693
+22,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,pericyte cell,CL:0000669,female,European,46-year-old human stage,13,0.022655188038060717
+23,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,endothelial cell of lymphatic vessel,CL:0002138,female,European,46-year-old human stage,244,0.42522045240667805
+24,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,fibroblast,CL:0000057,female,European,30-year-old human stage,241,0.4199923320902025
+25,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,blood vessel endothelial cell,CL:0000071,female,European,30-year-old human stage,929,1.6189745913352618
+26,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,myofibroblast cell,CL:0000186,female,European,30-year-old human stage,200,0.34854135443170337
+27,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,smooth muscle cell,CL:0000192,female,European,30-year-old human stage,1017,1.7723327872852115
+28,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,pericyte cell,CL:0000669,female,European,30-year-old human stage,669,1.1658708305740477
+29,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,endothelial cell of lymphatic vessel,CL:0002138,female,European,30-year-old human stage,49,0.08539263183576731
+30,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,fibroblast,CL:0000057,female,European,52-year-old human stage,426,0.7423930849395282
+31,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,blood vessel endothelial cell,CL:0000071,female,European,52-year-old human stage,441,0.7685336865219058
+32,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,myofibroblast cell,CL:0000186,female,European,52-year-old human stage,1673,2.915548429821198
+33,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,smooth muscle cell,CL:0000192,female,European,52-year-old human stage,521,0.9079502282945872
+34,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,pericyte cell,CL:0000669,female,European,52-year-old human stage,350,0.6099473702554808
+35,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,endothelial cell of lymphatic vessel,CL:0002138,female,European,52-year-old human stage,56,0.09759157924087693
+36,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,fibroblast,CL:0000057,female,European,31-year-old human stage,230,0.40082255759645885
+37,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,blood vessel endothelial cell,CL:0000071,female,European,31-year-old human stage,200,0.34854135443170337
+38,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,myofibroblast cell,CL:0000186,female,European,31-year-old human stage,1730,3.0148827158342337
+39,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,smooth muscle cell,CL:0000192,female,European,31-year-old human stage,32,0.055766616709072535
+40,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,pericyte cell,CL:0000669,female,European,31-year-old human stage,43,0.07493639120281621
+41,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,endothelial cell of lymphatic vessel,CL:0002138,female,European,31-year-old human stage,57,0.09933428601303544
+42,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,fibroblast,CL:0000057,female,European,31-year-old human stage,230,0.40082255759645885
+43,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,blood vessel endothelial cell,CL:0000071,female,European,31-year-old human stage,200,0.34854135443170337
+44,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,myofibroblast cell,CL:0000186,female,European,31-year-old human stage,1730,3.0148827158342337
+45,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,smooth muscle cell,CL:0000192,female,European,31-year-old human stage,32,0.055766616709072535
+46,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,pericyte cell,CL:0000669,female,European,31-year-old human stage,43,0.07493639120281621
+47,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,endothelial cell of lymphatic vessel,CL:0002138,female,European,31-year-old human stage,57,0.09933428601303544
+48,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,fibroblast,CL:0000057,female,European,30-year-old human stage,440,0.7667909797497473
+49,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,blood vessel endothelial cell,CL:0000071,female,European,30-year-old human stage,230,0.40082255759645885
+50,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,myofibroblast cell,CL:0000186,female,European,30-year-old human stage,1907,3.3233418145062914
+51,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,smooth muscle cell,CL:0000192,female,European,30-year-old human stage,35,0.06099473702554808
+52,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,pericyte cell,CL:0000669,female,European,30-year-old human stage,25,0.04356766930396292
+53,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,endothelial cell of lymphatic vessel,CL:0002138,female,European,30-year-old human stage,213,0.3711965424697641
+54,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,fibroblast,CL:0000057,female,European,46-year-old human stage,1495,2.6053466243769825
+55,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,blood vessel endothelial cell,CL:0000071,female,European,46-year-old human stage,21,0.03659684221532885
+56,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,myofibroblast cell,CL:0000186,female,European,46-year-old human stage,1744,3.039280610644453
+57,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,smooth muscle cell,CL:0000192,female,European,46-year-old human stage,15,0.02614060158237775
+58,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,pericyte cell,CL:0000669,female,European,46-year-old human stage,2,0.0034854135443170334
+59,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,endothelial cell of lymphatic vessel,CL:0002138,female,European,46-year-old human stage,1107,1.9291763967794777
+60,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,fibroblast,CL:0000057,female,European,52-year-old human stage,166,0.28928932417831377
+61,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,blood vessel endothelial cell,CL:0000071,female,European,52-year-old human stage,45,0.07842180474713324
+62,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,myofibroblast cell,CL:0000186,female,European,52-year-old human stage,449,0.7824753406991739
+63,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,smooth muscle cell,CL:0000192,female,European,52-year-old human stage,12,0.0209124812659022
+64,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,pericyte cell,CL:0000669,female,European,52-year-old human stage,17,0.029626015126694782
+65,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,endothelial cell of lymphatic vessel,CL:0002138,female,European,52-year-old human stage,99,0.17252797044369314
+66,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,fibroblast,CL:0000057,female,European,46-year-old human stage,1495,2.6053466243769825
+67,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,blood vessel endothelial cell,CL:0000071,female,European,46-year-old human stage,21,0.03659684221532885
+68,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,myofibroblast cell,CL:0000186,female,European,46-year-old human stage,1744,3.039280610644453
+69,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,smooth muscle cell,CL:0000192,female,European,46-year-old human stage,15,0.02614060158237775
+70,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,pericyte cell,CL:0000669,female,European,46-year-old human stage,2,0.0034854135443170334
+71,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,endothelial cell of lymphatic vessel,CL:0002138,female,European,46-year-old human stage,1107,1.9291763967794777
+72,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,fibroblast,CL:0000057,female,European,30-year-old human stage,440,0.7667909797497473
+73,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,blood vessel endothelial cell,CL:0000071,female,European,30-year-old human stage,230,0.40082255759645885
+74,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,myofibroblast cell,CL:0000186,female,European,30-year-old human stage,1907,3.3233418145062914
+75,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,smooth muscle cell,CL:0000192,female,European,30-year-old human stage,35,0.06099473702554808
+76,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,pericyte cell,CL:0000669,female,European,30-year-old human stage,25,0.04356766930396292
+77,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,endothelial cell of lymphatic vessel,CL:0002138,female,European,30-year-old human stage,213,0.3711965424697641
+78,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,fibroblast,CL:0000057,female,European,52-year-old human stage,166,0.28928932417831377
+79,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,blood vessel endothelial cell,CL:0000071,female,European,52-year-old human stage,45,0.07842180474713324
+80,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,myofibroblast cell,CL:0000186,female,European,52-year-old human stage,449,0.7824753406991739
+81,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,smooth muscle cell,CL:0000192,female,European,52-year-old human stage,12,0.0209124812659022
+82,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,pericyte cell,CL:0000669,female,European,52-year-old human stage,17,0.029626015126694782
+83,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,endothelial cell of lymphatic vessel,CL:0002138,female,European,52-year-old human stage,99,0.17252797044369314
+84,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,fibroblast,CL:0000057,female,European,30-year-old human stage,480,0.836499250636088
+85,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,blood vessel endothelial cell,CL:0000071,female,European,30-year-old human stage,1612,2.8092433167195288
+86,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,myofibroblast cell,CL:0000186,female,European,30-year-old human stage,375,0.6535150395594438
+87,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,smooth muscle cell,CL:0000192,female,European,30-year-old human stage,1574,2.7430204593775054
+88,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,pericyte cell,CL:0000669,female,European,30-year-old human stage,777,1.3540831619671674
+89,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,endothelial cell of lymphatic vessel,CL:0002138,female,European,30-year-old human stage,54,0.0941061656965599
+90,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,fibroblast,CL:0000057,female,European,46-year-old human stage,1343,2.3404551950088877
+91,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,blood vessel endothelial cell,CL:0000071,female,European,46-year-old human stage,193,0.3363424070265937
+92,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,myofibroblast cell,CL:0000186,female,European,46-year-old human stage,1784,3.1089888815307933
+93,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,smooth muscle cell,CL:0000192,female,European,46-year-old human stage,203,0.3537694747481789
+94,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,pericyte cell,CL:0000669,female,European,46-year-old human stage,35,0.06099473702554808
+95,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,endothelial cell of lymphatic vessel,CL:0002138,female,European,46-year-old human stage,469,0.8173294761423443
+96,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,fibroblast,CL:0000057,female,European,52-year-old human stage,244,0.42522045240667805
+97,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,blood vessel endothelial cell,CL:0000071,female,European,52-year-old human stage,264,0.4600745878498484
+98,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,myofibroblast cell,CL:0000186,female,European,52-year-old human stage,698,1.2164093269666447
+99,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,smooth muscle cell,CL:0000192,female,European,52-year-old human stage,209,0.36422571538112997
+100,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,pericyte cell,CL:0000669,female,European,52-year-old human stage,155,0.2701195496845701
+101,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,endothelial cell of lymphatic vessel,CL:0002138,female,European,52-year-old human stage,61,0.10630511310166951
+102,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,fibroblast,CL:0000057,female,European,46-year-old human stage,1343,2.3404551950088877
+103,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,blood vessel endothelial cell,CL:0000071,female,European,46-year-old human stage,193,0.3363424070265937
+104,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,myofibroblast cell,CL:0000186,female,European,46-year-old human stage,1784,3.1089888815307933
+105,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,smooth muscle cell,CL:0000192,female,European,46-year-old human stage,203,0.3537694747481789
+106,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,pericyte cell,CL:0000669,female,European,46-year-old human stage,35,0.06099473702554808
+107,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,endothelial cell of lymphatic vessel,CL:0002138,female,European,46-year-old human stage,469,0.8173294761423443
+108,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,fibroblast,CL:0000057,female,European,30-year-old human stage,480,0.836499250636088
+109,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,blood vessel endothelial cell,CL:0000071,female,European,30-year-old human stage,1612,2.8092433167195288
+110,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,myofibroblast cell,CL:0000186,female,European,30-year-old human stage,375,0.6535150395594438
+111,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,smooth muscle cell,CL:0000192,female,European,30-year-old human stage,1574,2.7430204593775054
+112,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,pericyte cell,CL:0000669,female,European,30-year-old human stage,777,1.3540831619671674
+113,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,endothelial cell of lymphatic vessel,CL:0002138,female,European,30-year-old human stage,54,0.0941061656965599
+114,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,fibroblast,CL:0000057,female,European,52-year-old human stage,244,0.42522045240667805
+115,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,blood vessel endothelial cell,CL:0000071,female,European,52-year-old human stage,264,0.4600745878498484
+116,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,myofibroblast cell,CL:0000186,female,European,52-year-old human stage,698,1.2164093269666447
+117,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,smooth muscle cell,CL:0000192,female,European,52-year-old human stage,209,0.36422571538112997
+118,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,pericyte cell,CL:0000669,female,European,52-year-old human stage,155,0.2701195496845701
+119,scRNA-seq analysis of stromal cells of healthy human fallopian tubes,endothelial cell of lymphatic vessel,CL:0002138,female,European,52-year-old human stage,61,0.10630511310166951

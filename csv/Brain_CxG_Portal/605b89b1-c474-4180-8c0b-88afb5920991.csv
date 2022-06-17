@@ -1,6 +1,6 @@
-,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
-0,L5 IT - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),L2/3-6 intratelencephalic projecting glutamatergic cortical neuron,CL:4023040,female,European,39314,48.26468602295746
-1,L5 IT - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),L2/3-6 intratelencephalic projecting glutamatergic cortical neuron,CL:4023040,female,"Greater Middle Eastern  (Middle Eastern, North African or Persian)",1556,1.9102571972254618
-2,L5 IT - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),L2/3-6 intratelencephalic projecting glutamatergic cortical neuron,CL:4023040,female,admixed ancestry,1972,2.420968632987539
-3,L5 IT - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),L2/3-6 intratelencephalic projecting glutamatergic cortical neuron,CL:4023040,male,Asian,1653,2.029341354121908
-4,L5 IT - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),L2/3-6 intratelencephalic projecting glutamatergic cortical neuron,CL:4023040,male,European,36960,45.37474679270763
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,development_stage,count,percentage
+0,L5 IT - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),L2/3-6 intratelencephalic projecting glutamatergic cortical neuron,CL:4023040,female,European,human adult stage,39314,48.26468602295746
+1,L5 IT - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),L2/3-6 intratelencephalic projecting glutamatergic cortical neuron,CL:4023040,female,"Greater Middle Eastern  (Middle Eastern, North African or Persian)",human adult stage,1556,1.9102571972254618
+2,L5 IT - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),L2/3-6 intratelencephalic projecting glutamatergic cortical neuron,CL:4023040,female,admixed ancestry,human adult stage,1972,2.420968632987539
+3,L5 IT - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),L2/3-6 intratelencephalic projecting glutamatergic cortical neuron,CL:4023040,male,Asian,human adult stage,1653,2.029341354121908
+4,L5 IT - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),L2/3-6 intratelencephalic projecting glutamatergic cortical neuron,CL:4023040,male,European,human adult stage,36960,45.37474679270763

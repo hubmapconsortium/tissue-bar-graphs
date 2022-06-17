@@ -1,5 +1,5 @@
-,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
-0,Astro - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),astrocyte of the cerebral cortex,CL:0002605,female,European,17532,49.497459062676455
-1,Astro - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),astrocyte of the cerebral cortex,CL:0002605,female,admixed ancestry,995,2.8091473743647657
-2,Astro - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),astrocyte of the cerebral cortex,CL:0002605,male,Asian,1127,3.1818181818181817
-3,Astro - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),astrocyte of the cerebral cortex,CL:0002605,male,European,15766,44.5115753811406
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,development_stage,count,percentage
+0,Astro - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),astrocyte of the cerebral cortex,CL:0002605,female,European,human adult stage,17532,49.497459062676455
+1,Astro - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),astrocyte of the cerebral cortex,CL:0002605,female,admixed ancestry,human adult stage,995,2.8091473743647657
+2,Astro - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),astrocyte of the cerebral cortex,CL:0002605,male,Asian,human adult stage,1127,3.1818181818181817
+3,Astro - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),astrocyte of the cerebral cortex,CL:0002605,male,European,human adult stage,15766,44.5115753811406

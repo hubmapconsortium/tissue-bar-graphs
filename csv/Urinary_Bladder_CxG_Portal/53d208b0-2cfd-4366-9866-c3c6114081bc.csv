@@ -1,43 +1,43 @@
-,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
-0,Tabula Sapiens - All Cells,fibroblast,CL:0000057,female,European,3262,13.269332465524956
-1,Tabula Sapiens - All Cells,T cell,CL:0000084,female,European,1221,4.9668470080950256
-2,Tabula Sapiens - All Cells,mast cell,CL:0000097,female,European,649,2.6400357970955537
-3,Tabula Sapiens - All Cells,myofibroblast cell,CL:0000186,female,European,1005,4.088191026319001
-4,Tabula Sapiens - All Cells,smooth muscle cell,CL:0000192,female,European,81,0.329495993166009
-5,Tabula Sapiens - All Cells,macrophage,CL:0000235,female,European,2093,8.514013749338973
-6,Tabula Sapiens - All Cells,B cell,CL:0000236,female,European,11,0.044746369442297526
-7,Tabula Sapiens - All Cells,pericyte cell,CL:0000669,female,European,511,2.078672253183094
-8,Tabula Sapiens - All Cells,plasmacytoid dendritic cell,CL:0000784,female,European,18,0.07322133181466867
-9,Tabula Sapiens - All Cells,plasma cell,CL:0000786,female,European,673,2.737664239515112
-10,Tabula Sapiens - All Cells,mature NK T cell,CL:0000814,female,European,14,0.0569499247447423
-11,Tabula Sapiens - All Cells,endothelial cell of lymphatic vessel,CL:0002138,female,European,67,0.2725460684212667
-12,Tabula Sapiens - All Cells,capillary endothelial cell,CL:0002144,female,European,56,0.2277996989789692
-13,Tabula Sapiens - All Cells,vein endothelial cell,CL:0002543,female,European,158,0.6427205792620917
-14,Tabula Sapiens - All Cells,bladder urothelial cell,CL:1001428,female,European,1917,7.798071838262214
-15,Tabula Sapiens - All Cells,fibroblast,CL:0000057,female,African American or Afro-Caribbean,1665,6.772973192856853
-16,Tabula Sapiens - All Cells,T cell,CL:0000084,female,African American or Afro-Caribbean,1405,5.715331733311638
-17,Tabula Sapiens - All Cells,mast cell,CL:0000097,female,African American or Afro-Caribbean,342,1.3912053044787047
-18,Tabula Sapiens - All Cells,myofibroblast cell,CL:0000186,female,African American or Afro-Caribbean,984,4.002766139201888
-19,Tabula Sapiens - All Cells,smooth muscle cell,CL:0000192,female,African American or Afro-Caribbean,146,0.5939063580523126
-20,Tabula Sapiens - All Cells,macrophage,CL:0000235,female,African American or Afro-Caribbean,2783,11.320831468901273
-21,Tabula Sapiens - All Cells,B cell,CL:0000236,female,African American or Afro-Caribbean,240,0.9762844241955824
-22,Tabula Sapiens - All Cells,pericyte cell,CL:0000669,female,African American or Afro-Caribbean,197,0.8013667981938739
-23,Tabula Sapiens - All Cells,plasma cell,CL:0000786,female,African American or Afro-Caribbean,468,1.9037546271813854
-24,Tabula Sapiens - All Cells,mature NK T cell,CL:0000814,female,African American or Afro-Caribbean,471,1.9159581824838303
-25,Tabula Sapiens - All Cells,endothelial cell of lymphatic vessel,CL:0002138,female,African American or Afro-Caribbean,6,0.024407110604889558
-26,Tabula Sapiens - All Cells,capillary endothelial cell,CL:0002144,female,African American or Afro-Caribbean,10,0.04067851767481593
-27,Tabula Sapiens - All Cells,vein endothelial cell,CL:0002543,female,African American or Afro-Caribbean,108,0.43932799088801205
-28,Tabula Sapiens - All Cells,bladder urothelial cell,CL:1001428,female,African American or Afro-Caribbean,956,3.888866289712403
-29,Tabula Sapiens - All Cells,fibroblast,CL:0000057,male,European,630,2.562746613513404
-30,Tabula Sapiens - All Cells,T cell,CL:0000084,male,European,290,1.179677012569662
-31,Tabula Sapiens - All Cells,mast cell,CL:0000097,male,European,38,0.15457836716430054
-32,Tabula Sapiens - All Cells,myofibroblast cell,CL:0000186,male,European,89,0.3620388073058618
-33,Tabula Sapiens - All Cells,smooth muscle cell,CL:0000192,male,European,63,0.25627466135134036
-34,Tabula Sapiens - All Cells,macrophage,CL:0000235,male,European,462,1.8793475165764961
-35,Tabula Sapiens - All Cells,B cell,CL:0000236,male,European,2,0.008135703534963186
-36,Tabula Sapiens - All Cells,pericyte cell,CL:0000669,male,European,167,0.679331245169426
-37,Tabula Sapiens - All Cells,mature NK T cell,CL:0000814,male,European,23,0.09356059065207664
-38,Tabula Sapiens - All Cells,endothelial cell of lymphatic vessel,CL:0002138,male,European,1,0.004067851767481593
-39,Tabula Sapiens - All Cells,capillary endothelial cell,CL:0002144,male,European,11,0.044746369442297526
-40,Tabula Sapiens - All Cells,vein endothelial cell,CL:0002543,male,European,12,0.048814221209779116
-41,Tabula Sapiens - All Cells,bladder urothelial cell,CL:1001428,male,European,1278,5.198714558841476
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,development_stage,count,percentage
+0,Tabula Sapiens - All Cells,fibroblast,CL:0000057,female,European,59-year-old human stage,3262,13.269332465524956
+1,Tabula Sapiens - All Cells,T cell,CL:0000084,female,European,59-year-old human stage,1221,4.9668470080950256
+2,Tabula Sapiens - All Cells,mast cell,CL:0000097,female,European,59-year-old human stage,649,2.6400357970955537
+3,Tabula Sapiens - All Cells,myofibroblast cell,CL:0000186,female,European,59-year-old human stage,1005,4.088191026319001
+4,Tabula Sapiens - All Cells,smooth muscle cell,CL:0000192,female,European,59-year-old human stage,81,0.329495993166009
+5,Tabula Sapiens - All Cells,macrophage,CL:0000235,female,European,59-year-old human stage,2093,8.514013749338973
+6,Tabula Sapiens - All Cells,B cell,CL:0000236,female,European,59-year-old human stage,11,0.044746369442297526
+7,Tabula Sapiens - All Cells,pericyte cell,CL:0000669,female,European,59-year-old human stage,511,2.078672253183094
+8,Tabula Sapiens - All Cells,plasmacytoid dendritic cell,CL:0000784,female,European,59-year-old human stage,18,0.07322133181466867
+9,Tabula Sapiens - All Cells,plasma cell,CL:0000786,female,European,59-year-old human stage,673,2.737664239515112
+10,Tabula Sapiens - All Cells,mature NK T cell,CL:0000814,female,European,59-year-old human stage,14,0.0569499247447423
+11,Tabula Sapiens - All Cells,endothelial cell of lymphatic vessel,CL:0002138,female,European,59-year-old human stage,67,0.2725460684212667
+12,Tabula Sapiens - All Cells,capillary endothelial cell,CL:0002144,female,European,59-year-old human stage,56,0.2277996989789692
+13,Tabula Sapiens - All Cells,vein endothelial cell,CL:0002543,female,European,59-year-old human stage,158,0.6427205792620917
+14,Tabula Sapiens - All Cells,bladder urothelial cell,CL:1001428,female,European,59-year-old human stage,1917,7.798071838262214
+15,Tabula Sapiens - All Cells,fibroblast,CL:0000057,female,African American or Afro-Caribbean,61-year-old human stage,1665,6.772973192856853
+16,Tabula Sapiens - All Cells,T cell,CL:0000084,female,African American or Afro-Caribbean,61-year-old human stage,1405,5.715331733311638
+17,Tabula Sapiens - All Cells,mast cell,CL:0000097,female,African American or Afro-Caribbean,61-year-old human stage,342,1.3912053044787047
+18,Tabula Sapiens - All Cells,myofibroblast cell,CL:0000186,female,African American or Afro-Caribbean,61-year-old human stage,984,4.002766139201888
+19,Tabula Sapiens - All Cells,smooth muscle cell,CL:0000192,female,African American or Afro-Caribbean,61-year-old human stage,146,0.5939063580523126
+20,Tabula Sapiens - All Cells,macrophage,CL:0000235,female,African American or Afro-Caribbean,61-year-old human stage,2783,11.320831468901273
+21,Tabula Sapiens - All Cells,B cell,CL:0000236,female,African American or Afro-Caribbean,61-year-old human stage,240,0.9762844241955824
+22,Tabula Sapiens - All Cells,pericyte cell,CL:0000669,female,African American or Afro-Caribbean,61-year-old human stage,197,0.8013667981938739
+23,Tabula Sapiens - All Cells,plasma cell,CL:0000786,female,African American or Afro-Caribbean,61-year-old human stage,468,1.9037546271813854
+24,Tabula Sapiens - All Cells,mature NK T cell,CL:0000814,female,African American or Afro-Caribbean,61-year-old human stage,471,1.9159581824838303
+25,Tabula Sapiens - All Cells,endothelial cell of lymphatic vessel,CL:0002138,female,African American or Afro-Caribbean,61-year-old human stage,6,0.024407110604889558
+26,Tabula Sapiens - All Cells,capillary endothelial cell,CL:0002144,female,African American or Afro-Caribbean,61-year-old human stage,10,0.04067851767481593
+27,Tabula Sapiens - All Cells,vein endothelial cell,CL:0002543,female,African American or Afro-Caribbean,61-year-old human stage,108,0.43932799088801205
+28,Tabula Sapiens - All Cells,bladder urothelial cell,CL:1001428,female,African American or Afro-Caribbean,61-year-old human stage,956,3.888866289712403
+29,Tabula Sapiens - All Cells,fibroblast,CL:0000057,male,European,59-year-old human stage,630,2.562746613513404
+30,Tabula Sapiens - All Cells,T cell,CL:0000084,male,European,59-year-old human stage,290,1.179677012569662
+31,Tabula Sapiens - All Cells,mast cell,CL:0000097,male,European,59-year-old human stage,38,0.15457836716430054
+32,Tabula Sapiens - All Cells,myofibroblast cell,CL:0000186,male,European,59-year-old human stage,89,0.3620388073058618
+33,Tabula Sapiens - All Cells,smooth muscle cell,CL:0000192,male,European,59-year-old human stage,63,0.25627466135134036
+34,Tabula Sapiens - All Cells,macrophage,CL:0000235,male,European,59-year-old human stage,462,1.8793475165764961
+35,Tabula Sapiens - All Cells,B cell,CL:0000236,male,European,59-year-old human stage,2,0.008135703534963186
+36,Tabula Sapiens - All Cells,pericyte cell,CL:0000669,male,European,59-year-old human stage,167,0.679331245169426
+37,Tabula Sapiens - All Cells,mature NK T cell,CL:0000814,male,European,59-year-old human stage,23,0.09356059065207664
+38,Tabula Sapiens - All Cells,endothelial cell of lymphatic vessel,CL:0002138,male,European,59-year-old human stage,1,0.004067851767481593
+39,Tabula Sapiens - All Cells,capillary endothelial cell,CL:0002144,male,European,59-year-old human stage,11,0.044746369442297526
+40,Tabula Sapiens - All Cells,vein endothelial cell,CL:0002543,male,European,59-year-old human stage,12,0.048814221209779116
+41,Tabula Sapiens - All Cells,bladder urothelial cell,CL:1001428,male,European,59-year-old human stage,1278,5.198714558841476

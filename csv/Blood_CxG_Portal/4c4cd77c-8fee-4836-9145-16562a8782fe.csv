@@ -1,88 +1,88 @@
-,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
-0,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,hematopoietic stem cell,CL:0000037,female,unknown,2,0.012271444348999877
-1,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,erythrocyte,CL:0000232,female,unknown,2,0.012271444348999877
-2,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,platelet,CL:0000233,female,unknown,27,0.16566449871149833
-3,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,lymphocyte,CL:0000542,female,unknown,20,0.12271444348999877
-4,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,natural killer cell,CL:0000623,female,unknown,919,5.638728678365443
-5,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,memory B cell,CL:0000787,female,unknown,77,0.47245060743649525
-6,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,naive B cell,CL:0000788,female,unknown,255,1.5646091544974845
-7,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,gamma-delta T cell,CL:0000798,female,unknown,224,1.3744017670879862
-8,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,regulatory T cell,CL:0000815,female,unknown,17,0.10430727696649897
-9,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,transitional stage B cell,CL:0000818,female,unknown,58,0.3558718861209964
-10,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,classical monocyte,CL:0000860,female,unknown,1064,6.528408393667935
-11,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,non-classical monocyte,CL:0000875,female,unknown,404,2.478831758497975
-12,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,female,unknown,227,1.3928089336114862
-13,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,female,unknown,10,0.061357221744999385
-14,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"central memory CD4-positive, alpha-beta T cell",CL:0000904,female,unknown,592,3.6323475273039634
-15,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,female,unknown,223,1.3682660449134865
-16,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"CD4-positive, alpha-beta cytotoxic T cell",CL:0000934,female,unknown,92,0.5644864400539944
-17,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,female,unknown,38,0.2331574426309977
-18,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,mucosal invariant T cell,CL:0000940,female,unknown,13,0.0797643882684992
-19,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,plasmablast,CL:0000980,female,unknown,5,0.030678610872499693
-20,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,conventional dendritic cell,CL:0000990,female,unknown,105,0.6442508283224935
-21,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"plasmacytoid dendritic cell, human",CL:0001058,female,unknown,19,0.11657872131549885
-22,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,erythrocyte,CL:0000232,female,unknown,4,0.024542888697999754
-23,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,platelet,CL:0000233,female,unknown,9,0.05522149957049945
-24,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,lymphocyte,CL:0000542,female,unknown,10,0.061357221744999385
-25,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,natural killer cell,CL:0000623,female,unknown,593,3.6384832494784636
-26,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,memory B cell,CL:0000787,female,unknown,126,0.7731009939869923
-27,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,naive B cell,CL:0000788,female,unknown,596,3.6568904160019637
-28,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,gamma-delta T cell,CL:0000798,female,unknown,281,1.7241379310344827
-29,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,regulatory T cell,CL:0000815,female,unknown,12,0.07362866609399926
-30,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,transitional stage B cell,CL:0000818,female,unknown,84,0.5154006626579949
-31,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,classical monocyte,CL:0000860,female,unknown,359,2.202724260645478
-32,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,non-classical monocyte,CL:0000875,female,unknown,132,0.8099153270339918
-33,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,female,unknown,84,0.5154006626579949
-34,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,female,unknown,10,0.061357221744999385
-35,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"central memory CD4-positive, alpha-beta T cell",CL:0000904,female,unknown,264,1.6198306540679837
-36,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,female,unknown,1214,7.448766719842926
-37,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"CD4-positive, alpha-beta cytotoxic T cell",CL:0000934,female,unknown,211,1.2946373788194872
-38,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,female,unknown,56,0.34360044177199656
-39,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,mucosal invariant T cell,CL:0000940,female,unknown,6,0.03681433304699963
-40,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,plasmablast,CL:0000980,female,unknown,7,0.04295005522149957
-41,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,conventional dendritic cell,CL:0000990,female,unknown,35,0.21475027610749786
-42,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"plasmacytoid dendritic cell, human",CL:0001058,female,unknown,5,0.030678610872499693
-43,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,hematopoietic stem cell,CL:0000037,female,unknown,2,0.012271444348999877
-44,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,erythrocyte,CL:0000232,female,unknown,2,0.012271444348999877
-45,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,platelet,CL:0000233,female,unknown,97,0.5951650509264941
-46,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,lymphocyte,CL:0000542,female,unknown,37,0.2270217204564977
-47,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,natural killer cell,CL:0000623,female,unknown,515,3.1598969198674687
-48,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,memory B cell,CL:0000787,female,unknown,76,0.4663148852619954
-49,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,naive B cell,CL:0000788,female,unknown,278,1.7057307645109832
-50,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,gamma-delta T cell,CL:0000798,female,unknown,219,1.3437231562154865
-51,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,regulatory T cell,CL:0000815,female,unknown,28,0.17180022088599828
-52,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,transitional stage B cell,CL:0000818,female,unknown,46,0.2822432200269972
-53,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,classical monocyte,CL:0000860,female,unknown,997,6.117315007976439
-54,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,non-classical monocyte,CL:0000875,female,unknown,351,2.153638483249478
-55,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,female,unknown,276,1.693459320161983
-56,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,female,unknown,26,0.1595287765369984
-57,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"central memory CD4-positive, alpha-beta T cell",CL:0000904,female,unknown,283,1.7364093753834826
-58,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,female,unknown,269,1.6505092649404833
-59,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"CD4-positive, alpha-beta cytotoxic T cell",CL:0000934,female,unknown,72,0.4417719965639956
-60,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,female,unknown,92,0.5644864400539944
-61,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,mucosal invariant T cell,CL:0000940,female,unknown,74,0.4540434409129954
-62,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,plasmablast,CL:0000980,female,unknown,11,0.06749294391949932
-63,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,conventional dendritic cell,CL:0000990,female,unknown,116,0.7117437722419928
-64,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"plasmacytoid dendritic cell, human",CL:0001058,female,unknown,27,0.16566449871149833
-65,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,hematopoietic stem cell,CL:0000037,male,unknown,1,0.0061357221744999385
-66,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,erythrocyte,CL:0000232,male,unknown,5,0.030678610872499693
-67,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,platelet,CL:0000233,male,unknown,16,0.09817155479199902
-68,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,lymphocyte,CL:0000542,male,unknown,30,0.18407166523499816
-69,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,natural killer cell,CL:0000623,male,unknown,1365,8.375260768192415
-70,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,memory B cell,CL:0000787,male,unknown,42,0.25770033132899745
-71,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,naive B cell,CL:0000788,male,unknown,31,0.1902073874094981
-72,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,gamma-delta T cell,CL:0000798,male,unknown,42,0.25770033132899745
-73,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,regulatory T cell,CL:0000815,male,unknown,28,0.17180022088599828
-74,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,transitional stage B cell,CL:0000818,male,unknown,277,1.699595042336483
-75,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,classical monocyte,CL:0000860,male,unknown,1255,7.700331328997423
-76,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,non-classical monocyte,CL:0000875,male,unknown,237,1.4541661553564855
-77,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,male,unknown,108,0.6626579948459933
-78,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,male,unknown,20,0.12271444348999877
-79,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"central memory CD4-positive, alpha-beta T cell",CL:0000904,male,unknown,239,1.4664375997054855
-80,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,male,unknown,115,0.7056080500674929
-81,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"CD4-positive, alpha-beta cytotoxic T cell",CL:0000934,male,unknown,5,0.030678610872499693
-82,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,male,unknown,14,0.08590011044299914
-83,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,mucosal invariant T cell,CL:0000940,male,unknown,2,0.012271444348999877
-84,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,plasmablast,CL:0000980,male,unknown,10,0.061357221744999385
-85,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,conventional dendritic cell,CL:0000990,male,unknown,53,0.3251932752484967
-86,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"plasmacytoid dendritic cell, human",CL:0001058,male,unknown,18,0.1104429991409989
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,development_stage,count,percentage
+0,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,hematopoietic stem cell,CL:0000037,female,unknown,54-year-old human stage,2,0.012271444348999877
+1,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,erythrocyte,CL:0000232,female,unknown,54-year-old human stage,2,0.012271444348999877
+2,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,platelet,CL:0000233,female,unknown,54-year-old human stage,27,0.16566449871149833
+3,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,lymphocyte,CL:0000542,female,unknown,54-year-old human stage,20,0.12271444348999877
+4,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,natural killer cell,CL:0000623,female,unknown,54-year-old human stage,919,5.638728678365443
+5,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,memory B cell,CL:0000787,female,unknown,54-year-old human stage,77,0.47245060743649525
+6,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,naive B cell,CL:0000788,female,unknown,54-year-old human stage,255,1.5646091544974845
+7,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,gamma-delta T cell,CL:0000798,female,unknown,54-year-old human stage,224,1.3744017670879862
+8,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,regulatory T cell,CL:0000815,female,unknown,54-year-old human stage,17,0.10430727696649897
+9,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,transitional stage B cell,CL:0000818,female,unknown,54-year-old human stage,58,0.3558718861209964
+10,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,classical monocyte,CL:0000860,female,unknown,54-year-old human stage,1064,6.528408393667935
+11,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,non-classical monocyte,CL:0000875,female,unknown,54-year-old human stage,404,2.478831758497975
+12,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,female,unknown,54-year-old human stage,227,1.3928089336114862
+13,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,female,unknown,54-year-old human stage,10,0.061357221744999385
+14,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"central memory CD4-positive, alpha-beta T cell",CL:0000904,female,unknown,54-year-old human stage,592,3.6323475273039634
+15,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,female,unknown,54-year-old human stage,223,1.3682660449134865
+16,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"CD4-positive, alpha-beta cytotoxic T cell",CL:0000934,female,unknown,54-year-old human stage,92,0.5644864400539944
+17,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,female,unknown,54-year-old human stage,38,0.2331574426309977
+18,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,mucosal invariant T cell,CL:0000940,female,unknown,54-year-old human stage,13,0.0797643882684992
+19,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,plasmablast,CL:0000980,female,unknown,54-year-old human stage,5,0.030678610872499693
+20,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,conventional dendritic cell,CL:0000990,female,unknown,54-year-old human stage,105,0.6442508283224935
+21,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"plasmacytoid dendritic cell, human",CL:0001058,female,unknown,54-year-old human stage,19,0.11657872131549885
+22,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,erythrocyte,CL:0000232,female,unknown,63-year-old human stage,4,0.024542888697999754
+23,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,platelet,CL:0000233,female,unknown,63-year-old human stage,9,0.05522149957049945
+24,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,lymphocyte,CL:0000542,female,unknown,63-year-old human stage,10,0.061357221744999385
+25,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,natural killer cell,CL:0000623,female,unknown,63-year-old human stage,593,3.6384832494784636
+26,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,memory B cell,CL:0000787,female,unknown,63-year-old human stage,126,0.7731009939869923
+27,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,naive B cell,CL:0000788,female,unknown,63-year-old human stage,596,3.6568904160019637
+28,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,gamma-delta T cell,CL:0000798,female,unknown,63-year-old human stage,281,1.7241379310344827
+29,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,regulatory T cell,CL:0000815,female,unknown,63-year-old human stage,12,0.07362866609399926
+30,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,transitional stage B cell,CL:0000818,female,unknown,63-year-old human stage,84,0.5154006626579949
+31,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,classical monocyte,CL:0000860,female,unknown,63-year-old human stage,359,2.202724260645478
+32,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,non-classical monocyte,CL:0000875,female,unknown,63-year-old human stage,132,0.8099153270339918
+33,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,female,unknown,63-year-old human stage,84,0.5154006626579949
+34,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,female,unknown,63-year-old human stage,10,0.061357221744999385
+35,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"central memory CD4-positive, alpha-beta T cell",CL:0000904,female,unknown,63-year-old human stage,264,1.6198306540679837
+36,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,female,unknown,63-year-old human stage,1214,7.448766719842926
+37,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"CD4-positive, alpha-beta cytotoxic T cell",CL:0000934,female,unknown,63-year-old human stage,211,1.2946373788194872
+38,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,female,unknown,63-year-old human stage,56,0.34360044177199656
+39,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,mucosal invariant T cell,CL:0000940,female,unknown,63-year-old human stage,6,0.03681433304699963
+40,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,plasmablast,CL:0000980,female,unknown,63-year-old human stage,7,0.04295005522149957
+41,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,conventional dendritic cell,CL:0000990,female,unknown,63-year-old human stage,35,0.21475027610749786
+42,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"plasmacytoid dendritic cell, human",CL:0001058,female,unknown,63-year-old human stage,5,0.030678610872499693
+43,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,hematopoietic stem cell,CL:0000037,female,unknown,67-year-old human stage,2,0.012271444348999877
+44,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,erythrocyte,CL:0000232,female,unknown,67-year-old human stage,2,0.012271444348999877
+45,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,platelet,CL:0000233,female,unknown,67-year-old human stage,97,0.5951650509264941
+46,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,lymphocyte,CL:0000542,female,unknown,67-year-old human stage,37,0.2270217204564977
+47,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,natural killer cell,CL:0000623,female,unknown,67-year-old human stage,515,3.1598969198674687
+48,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,memory B cell,CL:0000787,female,unknown,67-year-old human stage,76,0.4663148852619954
+49,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,naive B cell,CL:0000788,female,unknown,67-year-old human stage,278,1.7057307645109832
+50,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,gamma-delta T cell,CL:0000798,female,unknown,67-year-old human stage,219,1.3437231562154865
+51,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,regulatory T cell,CL:0000815,female,unknown,67-year-old human stage,28,0.17180022088599828
+52,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,transitional stage B cell,CL:0000818,female,unknown,67-year-old human stage,46,0.2822432200269972
+53,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,classical monocyte,CL:0000860,female,unknown,67-year-old human stage,997,6.117315007976439
+54,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,non-classical monocyte,CL:0000875,female,unknown,67-year-old human stage,351,2.153638483249478
+55,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,female,unknown,67-year-old human stage,276,1.693459320161983
+56,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,female,unknown,67-year-old human stage,26,0.1595287765369984
+57,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"central memory CD4-positive, alpha-beta T cell",CL:0000904,female,unknown,67-year-old human stage,283,1.7364093753834826
+58,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,female,unknown,67-year-old human stage,269,1.6505092649404833
+59,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"CD4-positive, alpha-beta cytotoxic T cell",CL:0000934,female,unknown,67-year-old human stage,72,0.4417719965639956
+60,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,female,unknown,67-year-old human stage,92,0.5644864400539944
+61,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,mucosal invariant T cell,CL:0000940,female,unknown,67-year-old human stage,74,0.4540434409129954
+62,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,plasmablast,CL:0000980,female,unknown,67-year-old human stage,11,0.06749294391949932
+63,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,conventional dendritic cell,CL:0000990,female,unknown,67-year-old human stage,116,0.7117437722419928
+64,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"plasmacytoid dendritic cell, human",CL:0001058,female,unknown,67-year-old human stage,27,0.16566449871149833
+65,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,hematopoietic stem cell,CL:0000037,male,unknown,63-year-old human stage,1,0.0061357221744999385
+66,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,erythrocyte,CL:0000232,male,unknown,63-year-old human stage,5,0.030678610872499693
+67,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,platelet,CL:0000233,male,unknown,63-year-old human stage,16,0.09817155479199902
+68,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,lymphocyte,CL:0000542,male,unknown,63-year-old human stage,30,0.18407166523499816
+69,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,natural killer cell,CL:0000623,male,unknown,63-year-old human stage,1365,8.375260768192415
+70,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,memory B cell,CL:0000787,male,unknown,63-year-old human stage,42,0.25770033132899745
+71,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,naive B cell,CL:0000788,male,unknown,63-year-old human stage,31,0.1902073874094981
+72,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,gamma-delta T cell,CL:0000798,male,unknown,63-year-old human stage,42,0.25770033132899745
+73,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,regulatory T cell,CL:0000815,male,unknown,63-year-old human stage,28,0.17180022088599828
+74,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,transitional stage B cell,CL:0000818,male,unknown,63-year-old human stage,277,1.699595042336483
+75,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,classical monocyte,CL:0000860,male,unknown,63-year-old human stage,1255,7.700331328997423
+76,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,non-classical monocyte,CL:0000875,male,unknown,63-year-old human stage,237,1.4541661553564855
+77,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,male,unknown,63-year-old human stage,108,0.6626579948459933
+78,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,male,unknown,63-year-old human stage,20,0.12271444348999877
+79,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"central memory CD4-positive, alpha-beta T cell",CL:0000904,male,unknown,63-year-old human stage,239,1.4664375997054855
+80,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,male,unknown,63-year-old human stage,115,0.7056080500674929
+81,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"CD4-positive, alpha-beta cytotoxic T cell",CL:0000934,male,unknown,63-year-old human stage,5,0.030678610872499693
+82,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,male,unknown,63-year-old human stage,14,0.08590011044299914
+83,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,mucosal invariant T cell,CL:0000940,male,unknown,63-year-old human stage,2,0.012271444348999877
+84,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,plasmablast,CL:0000980,male,unknown,63-year-old human stage,10,0.061357221744999385
+85,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,conventional dendritic cell,CL:0000990,male,unknown,63-year-old human stage,53,0.3251932752484967
+86,Individual Single-Cell RNA-seq PBMC Data from Lee et al.,"plasmacytoid dendritic cell, human",CL:0001058,male,unknown,63-year-old human stage,18,0.1104429991409989

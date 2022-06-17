@@ -1,6 +1,6 @@
-,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
-0,L6b - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),L6b glutamatergic cortical neuron,CL:4023038,female,European,4600,45.66663357490321
-1,L6b - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),L6b glutamatergic cortical neuron,CL:4023038,female,"Greater Middle Eastern  (Middle Eastern, North African or Persian)",173,1.7174625235778815
-2,L6b - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),L6b glutamatergic cortical neuron,CL:4023038,female,admixed ancestry,350,3.4746351633078527
-3,L6b - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),L6b glutamatergic cortical neuron,CL:4023038,male,Asian,255,2.5315199046957213
-4,L6b - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),L6b glutamatergic cortical neuron,CL:4023038,male,European,4695,46.60974883351533
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,development_stage,count,percentage
+0,L6b - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),L6b glutamatergic cortical neuron,CL:4023038,female,European,human adult stage,4600,45.66663357490321
+1,L6b - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),L6b glutamatergic cortical neuron,CL:4023038,female,"Greater Middle Eastern  (Middle Eastern, North African or Persian)",human adult stage,173,1.7174625235778815
+2,L6b - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),L6b glutamatergic cortical neuron,CL:4023038,female,admixed ancestry,human adult stage,350,3.4746351633078527
+3,L6b - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),L6b glutamatergic cortical neuron,CL:4023038,male,Asian,human adult stage,255,2.5315199046957213
+4,L6b - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),L6b glutamatergic cortical neuron,CL:4023038,male,European,human adult stage,4695,46.60974883351533

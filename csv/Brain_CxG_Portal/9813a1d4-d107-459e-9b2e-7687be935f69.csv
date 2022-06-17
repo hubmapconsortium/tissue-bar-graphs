@@ -1,8 +1,8 @@
-,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
-0,Single-soma transcriptomics of tangle-bearing neurons in Alzheimer’s disease - Inhibitory,inhibitory interneuron,CL:0000498,female,unknown,1769,15.430914166085136
-1,Single-soma transcriptomics of tangle-bearing neurons in Alzheimer’s disease - Inhibitory,inhibitory interneuron,CL:0000498,female,African American,960,8.37404047452896
-2,Single-soma transcriptomics of tangle-bearing neurons in Alzheimer’s disease - Inhibitory,inhibitory interneuron,CL:0000498,male,unknown,2429,21.188066992323794
-3,Single-soma transcriptomics of tangle-bearing neurons in Alzheimer’s disease - Inhibitory,inhibitory interneuron,CL:0000498,male,European,1899,16.5648988136776
-4,Single-soma transcriptomics of tangle-bearing neurons in Alzheimer’s disease - Inhibitory,inhibitory interneuron,CL:0000498,male,Hispanic or Latin American,1254,10.938590369853454
-5,Single-soma transcriptomics of tangle-bearing neurons in Alzheimer’s disease - Inhibitory,inhibitory interneuron,CL:0000498,male,European,2097,18.2920446615492
-6,Single-soma transcriptomics of tangle-bearing neurons in Alzheimer’s disease - Inhibitory,inhibitory interneuron,CL:0000498,male,unknown,1056,9.211444521981857
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,development_stage,count,percentage
+0,Single-soma transcriptomics of tangle-bearing neurons in Alzheimer’s disease - Inhibitory,inhibitory interneuron,CL:0000498,female,unknown,67-year-old human stage,1769,15.430914166085136
+1,Single-soma transcriptomics of tangle-bearing neurons in Alzheimer’s disease - Inhibitory,inhibitory interneuron,CL:0000498,female,African American,68-year-old human stage,960,8.37404047452896
+2,Single-soma transcriptomics of tangle-bearing neurons in Alzheimer’s disease - Inhibitory,inhibitory interneuron,CL:0000498,male,unknown,61-year-old human stage,2429,21.188066992323794
+3,Single-soma transcriptomics of tangle-bearing neurons in Alzheimer’s disease - Inhibitory,inhibitory interneuron,CL:0000498,male,European,66-year-old human stage,1899,16.5648988136776
+4,Single-soma transcriptomics of tangle-bearing neurons in Alzheimer’s disease - Inhibitory,inhibitory interneuron,CL:0000498,male,Hispanic or Latin American,71-year-old human stage,1254,10.938590369853454
+5,Single-soma transcriptomics of tangle-bearing neurons in Alzheimer’s disease - Inhibitory,inhibitory interneuron,CL:0000498,male,European,72-year-old human stage,2097,18.2920446615492
+6,Single-soma transcriptomics of tangle-bearing neurons in Alzheimer’s disease - Inhibitory,inhibitory interneuron,CL:0000498,male,unknown,87-year-old human stage,1056,9.211444521981857

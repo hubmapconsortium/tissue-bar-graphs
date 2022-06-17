@@ -1,6 +1,6 @@
-,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
-0,Micro-PVM - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),microglial cell,CL:0000129,female,European,10626,52.80262373285629
-1,Micro-PVM - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),microglial cell,CL:0000129,female,"Greater Middle Eastern  (Middle Eastern, North African or Persian)",1,0.004969191015702644
-2,Micro-PVM - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),microglial cell,CL:0000129,female,admixed ancestry,593,2.9467302723116675
-3,Micro-PVM - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),microglial cell,CL:0000129,male,Asian,461,2.290797058238919
-4,Micro-PVM - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),microglial cell,CL:0000129,male,European,8443,41.95487974557742
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,development_stage,count,percentage
+0,Micro-PVM - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),microglial cell,CL:0000129,female,European,human adult stage,10626,52.80262373285629
+1,Micro-PVM - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),microglial cell,CL:0000129,female,"Greater Middle Eastern  (Middle Eastern, North African or Persian)",human adult stage,1,0.004969191015702644
+2,Micro-PVM - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),microglial cell,CL:0000129,female,admixed ancestry,human adult stage,593,2.9467302723116675
+3,Micro-PVM - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),microglial cell,CL:0000129,male,Asian,human adult stage,461,2.290797058238919
+4,Micro-PVM - MTG: Seattle Alzheimer's Disease Atlas (SEA-AD),microglial cell,CL:0000129,male,European,human adult stage,8443,41.95487974557742

@@ -1,99 +1,99 @@
-,dataset_name,cell_type,cell_type_ontology_id,sex,race,count,percentage
-0,Survey of human embryonic development,ciliated epithelial cell,CL:0000067,female,unknown,37,0.016992899723520926
-1,Survey of human embryonic development,squamous epithelial cell,CL:0000076,female,unknown,18,0.008266816081712884
-2,Survey of human embryonic development,mesothelial cell,CL:0000077,female,unknown,122,0.05603064233160955
-3,Survey of human embryonic development,neuroendocrine cell,CL:0000165,female,unknown,76,0.03490433456723217
-4,Survey of human embryonic development,stromal cell,CL:0000499,female,unknown,5235,2.404265677098164
-5,Survey of human embryonic development,megakaryocyte,CL:0000556,female,unknown,17,0.007807548521617724
-6,Survey of human embryonic development,myeloid cell,CL:0000763,female,unknown,140,0.06429745841332243
-7,Survey of human embryonic development,innate lymphoid cell,CL:0001065,female,unknown,106,0.04868236137008698
-8,Survey of human embryonic development,endothelial cell of lymphatic vessel,CL:0002138,female,unknown,591,0.2714271280162397
-9,Survey of human embryonic development,endothelial cell of vascular tree,CL:0002139,female,unknown,888,0.4078295933645023
-10,Survey of human embryonic development,epithelial cell of lower respiratory tract,CL:0002632,female,unknown,2866,1.3162608272327292
-11,Survey of human embryonic development,visceromotor neuron,CL:0005025,female,unknown,9,0.004133408040856442
-12,Survey of human embryonic development,ciliated epithelial cell,CL:0000067,female,unknown,838,0.3848662153597443
-13,Survey of human embryonic development,squamous epithelial cell,CL:0000076,female,unknown,25,0.011481689002379005
-14,Survey of human embryonic development,mesothelial cell,CL:0000077,female,unknown,78,0.0358228696874225
-15,Survey of human embryonic development,neuroendocrine cell,CL:0000165,female,unknown,425,0.1951887130404431
-16,Survey of human embryonic development,stromal cell,CL:0000499,female,unknown,16764,7.699161377435266
-17,Survey of human embryonic development,megakaryocyte,CL:0000556,female,unknown,46,0.02112630776437737
-18,Survey of human embryonic development,myeloid cell,CL:0000763,female,unknown,359,0.16487705407416253
-19,Survey of human embryonic development,innate lymphoid cell,CL:0001065,female,unknown,327,0.1501804921511174
-20,Survey of human embryonic development,endothelial cell of lymphatic vessel,CL:0002138,female,unknown,743,0.34123579715070407
-21,Survey of human embryonic development,endothelial cell of vascular tree,CL:0002139,female,unknown,2380,1.0930567930264814
-22,Survey of human embryonic development,epithelial cell of lower respiratory tract,CL:0002632,female,unknown,28255,12.976604910488753
-23,Survey of human embryonic development,visceromotor neuron,CL:0005025,female,unknown,31,0.014237294362949966
-24,Survey of human embryonic development,native cell,CL:0000003,female,unknown,1,0.0004592675600951602
-25,Survey of human embryonic development,ciliated epithelial cell,CL:0000067,female,unknown,246,0.11297981978340942
-26,Survey of human embryonic development,squamous epithelial cell,CL:0000076,female,unknown,48,0.022044842884567692
-27,Survey of human embryonic development,mesothelial cell,CL:0000077,female,unknown,163,0.07486061229551112
-28,Survey of human embryonic development,neuroendocrine cell,CL:0000165,female,unknown,132,0.06062331793256115
-29,Survey of human embryonic development,stromal cell,CL:0000499,female,unknown,8836,4.0580881610008355
-30,Survey of human embryonic development,megakaryocyte,CL:0000556,female,unknown,56,0.025718983365328976
-31,Survey of human embryonic development,myeloid cell,CL:0000763,female,unknown,325,0.1492619570309271
-32,Survey of human embryonic development,innate lymphoid cell,CL:0001065,female,unknown,380,0.17452167283616088
-33,Survey of human embryonic development,endothelial cell of lymphatic vessel,CL:0002138,female,unknown,568,0.260863974134051
-34,Survey of human embryonic development,endothelial cell of vascular tree,CL:0002139,female,unknown,855,0.392673763881362
-35,Survey of human embryonic development,epithelial cell of lower respiratory tract,CL:0002632,female,unknown,8198,3.7650754576601235
-36,Survey of human embryonic development,visceromotor neuron,CL:0005025,female,unknown,53,0.02434118068504349
-37,Survey of human embryonic development,ciliated epithelial cell,CL:0000067,female,unknown,135,0.062001120612846634
-38,Survey of human embryonic development,squamous epithelial cell,CL:0000076,female,unknown,6,0.0027556053605709615
-39,Survey of human embryonic development,mesothelial cell,CL:0000077,female,unknown,34,0.015615097043235448
-40,Survey of human embryonic development,neuroendocrine cell,CL:0000165,female,unknown,22,0.010103886322093525
-41,Survey of human embryonic development,stromal cell,CL:0000499,female,unknown,1066,0.4895792190614408
-42,Survey of human embryonic development,megakaryocyte,CL:0000556,female,unknown,5,0.0022963378004758014
-43,Survey of human embryonic development,myeloid cell,CL:0000763,female,unknown,36,0.01653363216342577
-44,Survey of human embryonic development,innate lymphoid cell,CL:0001065,female,unknown,41,0.01882996996390157
-45,Survey of human embryonic development,endothelial cell of lymphatic vessel,CL:0002138,female,unknown,67,0.03077092652637573
-46,Survey of human embryonic development,endothelial cell of vascular tree,CL:0002139,female,unknown,350,0.16074364603330607
-47,Survey of human embryonic development,epithelial cell of lower respiratory tract,CL:0002632,female,unknown,3477,1.596873306450872
-48,Survey of human embryonic development,visceromotor neuron,CL:0005025,female,unknown,14,0.006429745841332244
-49,Survey of human embryonic development,ciliated epithelial cell,CL:0000067,male,unknown,74,0.03398579944704185
-50,Survey of human embryonic development,squamous epithelial cell,CL:0000076,male,unknown,1,0.0004592675600951602
-51,Survey of human embryonic development,mesothelial cell,CL:0000077,male,unknown,114,0.05235650185084827
-52,Survey of human embryonic development,neuroendocrine cell,CL:0000165,male,unknown,314,0.1442100138698803
-53,Survey of human embryonic development,stromal cell,CL:0000499,male,unknown,18317,8.412403898263051
-54,Survey of human embryonic development,megakaryocyte,CL:0000556,male,unknown,41,0.01882996996390157
-55,Survey of human embryonic development,myeloid cell,CL:0000763,male,unknown,201,0.09231277957912722
-56,Survey of human embryonic development,innate lymphoid cell,CL:0001065,male,unknown,116,0.053275036971038595
-57,Survey of human embryonic development,endothelial cell of lymphatic vessel,CL:0002138,male,unknown,667,0.3063314625834719
-58,Survey of human embryonic development,endothelial cell of vascular tree,CL:0002139,male,unknown,2682,1.2317555961752198
-59,Survey of human embryonic development,epithelial cell of lower respiratory tract,CL:0002632,male,unknown,10997,5.050565358366478
-60,Survey of human embryonic development,visceromotor neuron,CL:0005025,male,unknown,29,0.013318759242759649
-61,Survey of human embryonic development,native cell,CL:0000003,male,unknown,15,0.006889013401427403
-62,Survey of human embryonic development,ciliated epithelial cell,CL:0000067,male,unknown,79,0.03628213724751766
-63,Survey of human embryonic development,squamous epithelial cell,CL:0000076,male,unknown,19,0.008726083641808043
-64,Survey of human embryonic development,mesothelial cell,CL:0000077,male,unknown,48,0.022044842884567692
-65,Survey of human embryonic development,neuroendocrine cell,CL:0000165,male,unknown,53,0.02434118068504349
-66,Survey of human embryonic development,stromal cell,CL:0000499,male,unknown,2325,1.0677970772212475
-67,Survey of human embryonic development,megakaryocyte,CL:0000556,male,unknown,24,0.011022421442283846
-68,Survey of human embryonic development,myeloid cell,CL:0000763,male,unknown,74,0.03398579944704185
-69,Survey of human embryonic development,innate lymphoid cell,CL:0001065,male,unknown,45,0.02066704020428221
-70,Survey of human embryonic development,endothelial cell of lymphatic vessel,CL:0002138,male,unknown,216,0.0992017929805546
-71,Survey of human embryonic development,endothelial cell of vascular tree,CL:0002139,male,unknown,774,0.355473091513654
-72,Survey of human embryonic development,epithelial cell of lower respiratory tract,CL:0002632,male,unknown,3888,1.785632273649983
-73,Survey of human embryonic development,visceromotor neuron,CL:0005025,male,unknown,16,0.007348280961522563
-74,Survey of human embryonic development,ciliated epithelial cell,CL:0000067,male,unknown,90,0.04133408040856442
-75,Survey of human embryonic development,squamous epithelial cell,CL:0000076,male,unknown,62,0.028474588725899933
-76,Survey of human embryonic development,mesothelial cell,CL:0000077,male,unknown,129,0.059245515252275664
-77,Survey of human embryonic development,neuroendocrine cell,CL:0000165,male,unknown,157,0.07210500693494015
-78,Survey of human embryonic development,stromal cell,CL:0000499,male,unknown,11820,5.428542560324794
-79,Survey of human embryonic development,megakaryocyte,CL:0000556,male,unknown,24,0.011022421442283846
-80,Survey of human embryonic development,myeloid cell,CL:0000763,male,unknown,328,0.15063975971121257
-81,Survey of human embryonic development,innate lymphoid cell,CL:0001065,male,unknown,277,0.1272171141463594
-82,Survey of human embryonic development,endothelial cell of lymphatic vessel,CL:0002138,male,unknown,858,0.39405156656164747
-83,Survey of human embryonic development,endothelial cell of vascular tree,CL:0002139,male,unknown,1294,0.5942922227631373
-84,Survey of human embryonic development,epithelial cell of lower respiratory tract,CL:0002632,male,unknown,5574,2.559957379970423
-85,Survey of human embryonic development,visceromotor neuron,CL:0005025,male,unknown,8,0.0036741404807612817
-86,Survey of human embryonic development,ciliated epithelial cell,CL:0000067,male,unknown,1089,0.5001423729436295
-87,Survey of human embryonic development,squamous epithelial cell,CL:0000076,male,unknown,103,0.047304558689801504
-88,Survey of human embryonic development,mesothelial cell,CL:0000077,male,unknown,386,0.17727727819673186
-89,Survey of human embryonic development,neuroendocrine cell,CL:0000165,male,unknown,345,0.1584473082328303
-90,Survey of human embryonic development,stromal cell,CL:0000499,male,unknown,22674,10.413432657597662
-91,Survey of human embryonic development,megakaryocyte,CL:0000556,male,unknown,92,0.04225261552875474
-92,Survey of human embryonic development,myeloid cell,CL:0000763,male,unknown,953,0.43768198477068776
-93,Survey of human embryonic development,innate lymphoid cell,CL:0001065,male,unknown,982,0.45100074401344736
-94,Survey of human embryonic development,endothelial cell of lymphatic vessel,CL:0002138,male,unknown,1713,0.7867253304430095
-95,Survey of human embryonic development,endothelial cell of vascular tree,CL:0002139,male,unknown,4065,1.8669226317868264
-96,Survey of human embryonic development,epithelial cell of lower respiratory tract,CL:0002632,male,unknown,37994,17.44941167825552
-97,Survey of human embryonic development,visceromotor neuron,CL:0005025,male,unknown,102,0.04684529112970634
+,dataset_name,cell_type,cell_type_ontology_id,sex,race,development_stage,count,percentage
+0,Survey of human embryonic development,ciliated epithelial cell,CL:0000067,female,unknown,13th week post-fertilization human stage,37,0.016992899723520926
+1,Survey of human embryonic development,squamous epithelial cell,CL:0000076,female,unknown,13th week post-fertilization human stage,18,0.008266816081712884
+2,Survey of human embryonic development,mesothelial cell,CL:0000077,female,unknown,13th week post-fertilization human stage,122,0.05603064233160955
+3,Survey of human embryonic development,neuroendocrine cell,CL:0000165,female,unknown,13th week post-fertilization human stage,76,0.03490433456723217
+4,Survey of human embryonic development,stromal cell,CL:0000499,female,unknown,13th week post-fertilization human stage,5235,2.404265677098164
+5,Survey of human embryonic development,megakaryocyte,CL:0000556,female,unknown,13th week post-fertilization human stage,17,0.007807548521617724
+6,Survey of human embryonic development,myeloid cell,CL:0000763,female,unknown,13th week post-fertilization human stage,140,0.06429745841332243
+7,Survey of human embryonic development,innate lymphoid cell,CL:0001065,female,unknown,13th week post-fertilization human stage,106,0.04868236137008698
+8,Survey of human embryonic development,endothelial cell of lymphatic vessel,CL:0002138,female,unknown,13th week post-fertilization human stage,591,0.2714271280162397
+9,Survey of human embryonic development,endothelial cell of vascular tree,CL:0002139,female,unknown,13th week post-fertilization human stage,888,0.4078295933645023
+10,Survey of human embryonic development,epithelial cell of lower respiratory tract,CL:0002632,female,unknown,13th week post-fertilization human stage,2866,1.3162608272327292
+11,Survey of human embryonic development,visceromotor neuron,CL:0005025,female,unknown,13th week post-fertilization human stage,9,0.004133408040856442
+12,Survey of human embryonic development,ciliated epithelial cell,CL:0000067,female,unknown,15th week post-fertilization human stage,838,0.3848662153597443
+13,Survey of human embryonic development,squamous epithelial cell,CL:0000076,female,unknown,15th week post-fertilization human stage,25,0.011481689002379005
+14,Survey of human embryonic development,mesothelial cell,CL:0000077,female,unknown,15th week post-fertilization human stage,78,0.0358228696874225
+15,Survey of human embryonic development,neuroendocrine cell,CL:0000165,female,unknown,15th week post-fertilization human stage,425,0.1951887130404431
+16,Survey of human embryonic development,stromal cell,CL:0000499,female,unknown,15th week post-fertilization human stage,16764,7.699161377435266
+17,Survey of human embryonic development,megakaryocyte,CL:0000556,female,unknown,15th week post-fertilization human stage,46,0.02112630776437737
+18,Survey of human embryonic development,myeloid cell,CL:0000763,female,unknown,15th week post-fertilization human stage,359,0.16487705407416253
+19,Survey of human embryonic development,innate lymphoid cell,CL:0001065,female,unknown,15th week post-fertilization human stage,327,0.1501804921511174
+20,Survey of human embryonic development,endothelial cell of lymphatic vessel,CL:0002138,female,unknown,15th week post-fertilization human stage,743,0.34123579715070407
+21,Survey of human embryonic development,endothelial cell of vascular tree,CL:0002139,female,unknown,15th week post-fertilization human stage,2380,1.0930567930264814
+22,Survey of human embryonic development,epithelial cell of lower respiratory tract,CL:0002632,female,unknown,15th week post-fertilization human stage,28255,12.976604910488753
+23,Survey of human embryonic development,visceromotor neuron,CL:0005025,female,unknown,15th week post-fertilization human stage,31,0.014237294362949966
+24,Survey of human embryonic development,native cell,CL:0000003,female,unknown,16th week post-fertilization human stage,1,0.0004592675600951602
+25,Survey of human embryonic development,ciliated epithelial cell,CL:0000067,female,unknown,16th week post-fertilization human stage,246,0.11297981978340942
+26,Survey of human embryonic development,squamous epithelial cell,CL:0000076,female,unknown,16th week post-fertilization human stage,48,0.022044842884567692
+27,Survey of human embryonic development,mesothelial cell,CL:0000077,female,unknown,16th week post-fertilization human stage,163,0.07486061229551112
+28,Survey of human embryonic development,neuroendocrine cell,CL:0000165,female,unknown,16th week post-fertilization human stage,132,0.06062331793256115
+29,Survey of human embryonic development,stromal cell,CL:0000499,female,unknown,16th week post-fertilization human stage,8836,4.0580881610008355
+30,Survey of human embryonic development,megakaryocyte,CL:0000556,female,unknown,16th week post-fertilization human stage,56,0.025718983365328976
+31,Survey of human embryonic development,myeloid cell,CL:0000763,female,unknown,16th week post-fertilization human stage,325,0.1492619570309271
+32,Survey of human embryonic development,innate lymphoid cell,CL:0001065,female,unknown,16th week post-fertilization human stage,380,0.17452167283616088
+33,Survey of human embryonic development,endothelial cell of lymphatic vessel,CL:0002138,female,unknown,16th week post-fertilization human stage,568,0.260863974134051
+34,Survey of human embryonic development,endothelial cell of vascular tree,CL:0002139,female,unknown,16th week post-fertilization human stage,855,0.392673763881362
+35,Survey of human embryonic development,epithelial cell of lower respiratory tract,CL:0002632,female,unknown,16th week post-fertilization human stage,8198,3.7650754576601235
+36,Survey of human embryonic development,visceromotor neuron,CL:0005025,female,unknown,16th week post-fertilization human stage,53,0.02434118068504349
+37,Survey of human embryonic development,ciliated epithelial cell,CL:0000067,female,unknown,17th week post-fertilization human stage,135,0.062001120612846634
+38,Survey of human embryonic development,squamous epithelial cell,CL:0000076,female,unknown,17th week post-fertilization human stage,6,0.0027556053605709615
+39,Survey of human embryonic development,mesothelial cell,CL:0000077,female,unknown,17th week post-fertilization human stage,34,0.015615097043235448
+40,Survey of human embryonic development,neuroendocrine cell,CL:0000165,female,unknown,17th week post-fertilization human stage,22,0.010103886322093525
+41,Survey of human embryonic development,stromal cell,CL:0000499,female,unknown,17th week post-fertilization human stage,1066,0.4895792190614408
+42,Survey of human embryonic development,megakaryocyte,CL:0000556,female,unknown,17th week post-fertilization human stage,5,0.0022963378004758014
+43,Survey of human embryonic development,myeloid cell,CL:0000763,female,unknown,17th week post-fertilization human stage,36,0.01653363216342577
+44,Survey of human embryonic development,innate lymphoid cell,CL:0001065,female,unknown,17th week post-fertilization human stage,41,0.01882996996390157
+45,Survey of human embryonic development,endothelial cell of lymphatic vessel,CL:0002138,female,unknown,17th week post-fertilization human stage,67,0.03077092652637573
+46,Survey of human embryonic development,endothelial cell of vascular tree,CL:0002139,female,unknown,17th week post-fertilization human stage,350,0.16074364603330607
+47,Survey of human embryonic development,epithelial cell of lower respiratory tract,CL:0002632,female,unknown,17th week post-fertilization human stage,3477,1.596873306450872
+48,Survey of human embryonic development,visceromotor neuron,CL:0005025,female,unknown,17th week post-fertilization human stage,14,0.006429745841332244
+49,Survey of human embryonic development,ciliated epithelial cell,CL:0000067,male,unknown,12th week post-fertilization human stage,74,0.03398579944704185
+50,Survey of human embryonic development,squamous epithelial cell,CL:0000076,male,unknown,12th week post-fertilization human stage,1,0.0004592675600951602
+51,Survey of human embryonic development,mesothelial cell,CL:0000077,male,unknown,12th week post-fertilization human stage,114,0.05235650185084827
+52,Survey of human embryonic development,neuroendocrine cell,CL:0000165,male,unknown,12th week post-fertilization human stage,314,0.1442100138698803
+53,Survey of human embryonic development,stromal cell,CL:0000499,male,unknown,12th week post-fertilization human stage,18317,8.412403898263051
+54,Survey of human embryonic development,megakaryocyte,CL:0000556,male,unknown,12th week post-fertilization human stage,41,0.01882996996390157
+55,Survey of human embryonic development,myeloid cell,CL:0000763,male,unknown,12th week post-fertilization human stage,201,0.09231277957912722
+56,Survey of human embryonic development,innate lymphoid cell,CL:0001065,male,unknown,12th week post-fertilization human stage,116,0.053275036971038595
+57,Survey of human embryonic development,endothelial cell of lymphatic vessel,CL:0002138,male,unknown,12th week post-fertilization human stage,667,0.3063314625834719
+58,Survey of human embryonic development,endothelial cell of vascular tree,CL:0002139,male,unknown,12th week post-fertilization human stage,2682,1.2317555961752198
+59,Survey of human embryonic development,epithelial cell of lower respiratory tract,CL:0002632,male,unknown,12th week post-fertilization human stage,10997,5.050565358366478
+60,Survey of human embryonic development,visceromotor neuron,CL:0005025,male,unknown,12th week post-fertilization human stage,29,0.013318759242759649
+61,Survey of human embryonic development,native cell,CL:0000003,male,unknown,15th week post-fertilization human stage,15,0.006889013401427403
+62,Survey of human embryonic development,ciliated epithelial cell,CL:0000067,male,unknown,15th week post-fertilization human stage,79,0.03628213724751766
+63,Survey of human embryonic development,squamous epithelial cell,CL:0000076,male,unknown,15th week post-fertilization human stage,19,0.008726083641808043
+64,Survey of human embryonic development,mesothelial cell,CL:0000077,male,unknown,15th week post-fertilization human stage,48,0.022044842884567692
+65,Survey of human embryonic development,neuroendocrine cell,CL:0000165,male,unknown,15th week post-fertilization human stage,53,0.02434118068504349
+66,Survey of human embryonic development,stromal cell,CL:0000499,male,unknown,15th week post-fertilization human stage,2325,1.0677970772212475
+67,Survey of human embryonic development,megakaryocyte,CL:0000556,male,unknown,15th week post-fertilization human stage,24,0.011022421442283846
+68,Survey of human embryonic development,myeloid cell,CL:0000763,male,unknown,15th week post-fertilization human stage,74,0.03398579944704185
+69,Survey of human embryonic development,innate lymphoid cell,CL:0001065,male,unknown,15th week post-fertilization human stage,45,0.02066704020428221
+70,Survey of human embryonic development,endothelial cell of lymphatic vessel,CL:0002138,male,unknown,15th week post-fertilization human stage,216,0.0992017929805546
+71,Survey of human embryonic development,endothelial cell of vascular tree,CL:0002139,male,unknown,15th week post-fertilization human stage,774,0.355473091513654
+72,Survey of human embryonic development,epithelial cell of lower respiratory tract,CL:0002632,male,unknown,15th week post-fertilization human stage,3888,1.785632273649983
+73,Survey of human embryonic development,visceromotor neuron,CL:0005025,male,unknown,15th week post-fertilization human stage,16,0.007348280961522563
+74,Survey of human embryonic development,ciliated epithelial cell,CL:0000067,male,unknown,16th week post-fertilization human stage,90,0.04133408040856442
+75,Survey of human embryonic development,squamous epithelial cell,CL:0000076,male,unknown,16th week post-fertilization human stage,62,0.028474588725899933
+76,Survey of human embryonic development,mesothelial cell,CL:0000077,male,unknown,16th week post-fertilization human stage,129,0.059245515252275664
+77,Survey of human embryonic development,neuroendocrine cell,CL:0000165,male,unknown,16th week post-fertilization human stage,157,0.07210500693494015
+78,Survey of human embryonic development,stromal cell,CL:0000499,male,unknown,16th week post-fertilization human stage,11820,5.428542560324794
+79,Survey of human embryonic development,megakaryocyte,CL:0000556,male,unknown,16th week post-fertilization human stage,24,0.011022421442283846
+80,Survey of human embryonic development,myeloid cell,CL:0000763,male,unknown,16th week post-fertilization human stage,328,0.15063975971121257
+81,Survey of human embryonic development,innate lymphoid cell,CL:0001065,male,unknown,16th week post-fertilization human stage,277,0.1272171141463594
+82,Survey of human embryonic development,endothelial cell of lymphatic vessel,CL:0002138,male,unknown,16th week post-fertilization human stage,858,0.39405156656164747
+83,Survey of human embryonic development,endothelial cell of vascular tree,CL:0002139,male,unknown,16th week post-fertilization human stage,1294,0.5942922227631373
+84,Survey of human embryonic development,epithelial cell of lower respiratory tract,CL:0002632,male,unknown,16th week post-fertilization human stage,5574,2.559957379970423
+85,Survey of human embryonic development,visceromotor neuron,CL:0005025,male,unknown,16th week post-fertilization human stage,8,0.0036741404807612817
+86,Survey of human embryonic development,ciliated epithelial cell,CL:0000067,male,unknown,17th week post-fertilization human stage,1089,0.5001423729436295
+87,Survey of human embryonic development,squamous epithelial cell,CL:0000076,male,unknown,17th week post-fertilization human stage,103,0.047304558689801504
+88,Survey of human embryonic development,mesothelial cell,CL:0000077,male,unknown,17th week post-fertilization human stage,386,0.17727727819673186
+89,Survey of human embryonic development,neuroendocrine cell,CL:0000165,male,unknown,17th week post-fertilization human stage,345,0.1584473082328303
+90,Survey of human embryonic development,stromal cell,CL:0000499,male,unknown,17th week post-fertilization human stage,22674,10.413432657597662
+91,Survey of human embryonic development,megakaryocyte,CL:0000556,male,unknown,17th week post-fertilization human stage,92,0.04225261552875474
+92,Survey of human embryonic development,myeloid cell,CL:0000763,male,unknown,17th week post-fertilization human stage,953,0.43768198477068776
+93,Survey of human embryonic development,innate lymphoid cell,CL:0001065,male,unknown,17th week post-fertilization human stage,982,0.45100074401344736
+94,Survey of human embryonic development,endothelial cell of lymphatic vessel,CL:0002138,male,unknown,17th week post-fertilization human stage,1713,0.7867253304430095
+95,Survey of human embryonic development,endothelial cell of vascular tree,CL:0002139,male,unknown,17th week post-fertilization human stage,4065,1.8669226317868264
+96,Survey of human embryonic development,epithelial cell of lower respiratory tract,CL:0002632,male,unknown,17th week post-fertilization human stage,37994,17.44941167825552
+97,Survey of human embryonic development,visceromotor neuron,CL:0005025,male,unknown,17th week post-fertilization human stage,102,0.04684529112970634
