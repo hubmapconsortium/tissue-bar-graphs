@@ -48,9 +48,30 @@ export function getStackedBarsSpec(userOptions: StackedBarsSpecOptions): Visuali
     height: options.graphHeight,
     mark: {
       type: 'bar',
-      tooltip: true
     },
     encoding: {
+      tooltip:[
+                {
+                  "field": options.xAxisField,
+                  "type": "nominal",
+                  "title": getAttributeTitle(options.xAxisField)
+                },
+                {
+                  "field": options.yAxisField,
+                  "aggregate": 'sum',
+                  "title": getAttributeTitle(options.yAxisField)
+                },
+                {
+                  "field": options.legendField, 
+                  "type": "nominal",
+                  "title": getAttributeTitle(options.legendField)
+                },
+                {
+                  "field": "cell_type_ontology_id", 
+                  "type": "nominal",
+                  "title": "Cell Type Ontology ID"
+                }
+              ],
       facet: options.groupBy === GraphAttribute.None ? undefined : {
         field: options.groupBy,
         title: getAttributeTitle(options.groupBy),

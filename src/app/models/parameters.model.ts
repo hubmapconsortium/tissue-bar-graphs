@@ -18,7 +18,8 @@ enum GraphAttribute {
   Laterality = 'laterality',
   YPosition = 'y_pos',
   DonorId = 'donor_id',
-  DatasetName = 'dataset_name'
+  DatasetName = 'dataset_name',
+  CellOntologyID = 'cell_type_ontology_id'
 }
 
 enum OrderType {
