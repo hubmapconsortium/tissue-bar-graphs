@@ -126,6 +126,14 @@ export function getStackedBarsSpec(userOptions: StackedBarsSpecOptions): Visuali
     },
     transform: [
       {
+        "joinaggregate": [{
+          "op": "sum",
+          "field": options.yAxisField,
+          "as": "Total"
+        }],
+        "groupby": [options.xAxisField]
+      },
+      {
         calculate: `datum.index < ${options.fixedBars} ? 
           ${options.orderType === OrderType.Ascending ? 0 : 'MAX_VALUE'} :
           '${options.sortBy}' === 'Total Cell Count' ? datum.${options.yAxisField} :
@@ -133,6 +141,10 @@ export function getStackedBarsSpec(userOptions: StackedBarsSpecOptions): Visuali
           datum.${GraphAttribute.CellType} === '${options.sortBy}' ? 
           datum.${options.yAxisField} : 0`,
         as: GraphAttribute.Order
+      },
+      {
+        calculate: `'${options.yAxisField}' == 'percentage' ? datum.${options.yAxisField}/datum.Total * 100 : datum.${options.yAxisField}`,
+        as: options.yAxisField
       }
     ],
     resolve: {
