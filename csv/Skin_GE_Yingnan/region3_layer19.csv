@@ -1,5 +1,5 @@
-,cell_type,count,percentage
-0,CD68,1,16.666666666666664
-1,T-Killer,0,0.0
-2,T-Reg,0,0.0
-3,T-Helper,5,83.33333333333334
+,cell_type,count,percentage,region
+0,CD68,1,16.666666666666664,region3
+1,T-Killer,0,0.0,region3
+2,T-Reg,0,0.0,region3
+3,T-Helper,5,83.33333333333334,region3
