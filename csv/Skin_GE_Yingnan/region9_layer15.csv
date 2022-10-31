@@ -1,5 +1,5 @@
-,cell_type,count,percentage,region
-0,CD68,1,1.4084507042253522,9
-1,T-Killer,0,0.0,9
-2,T-Reg,0,0.0,9
-3,T-Helper,70,98.59154929577466,9
+,cell_type,count,percentage,region,layer
+0,CD68,1,1.4084507042253522,9,15
+1,T-Killer,0,0.0,9,15
+2,T-Reg,0,0.0,9,15
+3,T-Helper,70,98.59154929577466,9,15
