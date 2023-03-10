@@ -1,0 +1,6 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,The single-cell lung cancer atlas (LuCA) -- core atlas,mast cell,CL:0000097,Mayr_Schiller_2020_muc4659,unknown,unknown,unknown,1,1.639344262295082
+1,The single-cell lung cancer atlas (LuCA) -- core atlas,alveolar macrophage,CL:0000583,Mayr_Schiller_2020_muc4659,unknown,unknown,unknown,52,85.24590163934425
+2,The single-cell lung cancer atlas (LuCA) -- core atlas,"CD4-positive, alpha-beta T cell",CL:0000624,Mayr_Schiller_2020_muc4659,unknown,unknown,unknown,1,1.639344262295082
+3,The single-cell lung cancer atlas (LuCA) -- core atlas,classical monocyte,CL:0000860,Mayr_Schiller_2020_muc4659,unknown,unknown,unknown,6,9.836065573770492
+4,The single-cell lung cancer atlas (LuCA) -- core atlas,CD1c-positive myeloid dendritic cell,CL:0002399,Mayr_Schiller_2020_muc4659,unknown,unknown,unknown,1,1.639344262295082

@@ -1,0 +1,61 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,All cells,hematopoietic stem cell,CL:0000037,HDBR14854,female,unknown,20th week post-fertilization human stage,3,0.1122754491017964
+1,All cells,common myeloid progenitor,CL:0000049,HDBR14854,female,unknown,20th week post-fertilization human stage,1,0.037425149700598806
+2,All cells,squamous epithelial cell,CL:0000076,HDBR14854,female,unknown,20th week post-fertilization human stage,4,0.14970059880239522
+3,All cells,mesothelial cell,CL:0000077,HDBR14854,female,unknown,20th week post-fertilization human stage,3,0.1122754491017964
+4,All cells,epithelial cell of lung,CL:0000082,HDBR14854,female,unknown,20th week post-fertilization human stage,10,0.37425149700598803
+5,All cells,T cell,CL:0000084,HDBR14854,female,unknown,20th week post-fertilization human stage,4,0.14970059880239522
+6,All cells,mast cell,CL:0000097,HDBR14854,female,unknown,20th week post-fertilization human stage,1,0.037425149700598806
+7,All cells,endothelial cell,CL:0000115,HDBR14854,female,unknown,20th week post-fertilization human stage,5,0.18712574850299402
+8,All cells,club cell,CL:0000158,HDBR14854,female,unknown,20th week post-fertilization human stage,26,0.9730538922155689
+9,All cells,erythrocyte,CL:0000232,HDBR14854,female,unknown,20th week post-fertilization human stage,16,0.5988023952095809
+10,All cells,platelet,CL:0000233,HDBR14854,female,unknown,20th week post-fertilization human stage,1,0.037425149700598806
+11,All cells,macrophage,CL:0000235,HDBR14854,female,unknown,20th week post-fertilization human stage,204,7.634730538922156
+12,All cells,vascular associated smooth muscle cell,CL:0000359,HDBR14854,female,unknown,20th week post-fertilization human stage,8,0.29940119760479045
+13,All cells,dendritic cell,CL:0000451,HDBR14854,female,unknown,20th week post-fertilization human stage,105,3.929640718562874
+14,All cells,megakaryocyte,CL:0000556,HDBR14854,female,unknown,20th week post-fertilization human stage,4,0.14970059880239522
+15,All cells,granulocyte monocyte progenitor cell,CL:0000557,HDBR14854,female,unknown,20th week post-fertilization human stage,3,0.1122754491017964
+16,All cells,reticulocyte,CL:0000558,HDBR14854,female,unknown,20th week post-fertilization human stage,2,0.07485029940119761
+17,All cells,promonocyte,CL:0000559,HDBR14854,female,unknown,20th week post-fertilization human stage,3,0.1122754491017964
+18,All cells,natural killer cell,CL:0000623,HDBR14854,female,unknown,20th week post-fertilization human stage,181,6.773952095808383
+19,All cells,"CD4-positive, alpha-beta T cell",CL:0000624,HDBR14854,female,unknown,20th week post-fertilization human stage,137,5.127245508982036
+20,All cells,"CD8-positive, alpha-beta T cell",CL:0000625,HDBR14854,female,unknown,20th week post-fertilization human stage,81,3.031437125748503
+21,All cells,pericyte,CL:0000669,HDBR14854,female,unknown,20th week post-fertilization human stage,51,1.908682634730539
+22,All cells,erythroblast,CL:0000765,HDBR14854,female,unknown,20th week post-fertilization human stage,1,0.037425149700598806
+23,All cells,neutrophil,CL:0000775,HDBR14854,female,unknown,20th week post-fertilization human stage,36,1.347305389221557
+24,All cells,plasmacytoid dendritic cell,CL:0000784,HDBR14854,female,unknown,20th week post-fertilization human stage,6,0.2245508982035928
+25,All cells,mature NK T cell,CL:0000814,HDBR14854,female,unknown,20th week post-fertilization human stage,32,1.1976047904191618
+26,All cells,regulatory T cell,CL:0000815,HDBR14854,female,unknown,20th week post-fertilization human stage,58,2.1706586826347305
+27,All cells,immature B cell,CL:0000816,HDBR14854,female,unknown,20th week post-fertilization human stage,31,1.1601796407185627
+28,All cells,precursor B cell,CL:0000817,HDBR14854,female,unknown,20th week post-fertilization human stage,64,2.3952095808383236
+29,All cells,B-1a B cell,CL:0000820,HDBR14854,female,unknown,20th week post-fertilization human stage,48,1.7964071856287425
+30,All cells,B-1b B cell,CL:0000821,HDBR14854,female,unknown,20th week post-fertilization human stage,51,1.908682634730539
+31,All cells,pro-B cell,CL:0000826,HDBR14854,female,unknown,20th week post-fertilization human stage,2,0.07485029940119761
+32,All cells,classical monocyte,CL:0000860,HDBR14854,female,unknown,20th week post-fertilization human stage,78,2.9191616766467066
+33,All cells,non-classical monocyte,CL:0000875,HDBR14854,female,unknown,20th week post-fertilization human stage,25,0.93562874251497
+34,All cells,thymocyte,CL:0000893,HDBR14854,female,unknown,20th week post-fertilization human stage,6,0.2245508982035928
+35,All cells,T-helper 17 cell,CL:0000899,HDBR14854,female,unknown,20th week post-fertilization human stage,32,1.1976047904191618
+36,All cells,early lymphoid progenitor,CL:0000936,HDBR14854,female,unknown,20th week post-fertilization human stage,6,0.2245508982035928
+37,All cells,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,HDBR14854,female,unknown,20th week post-fertilization human stage,83,3.1062874251497004
+38,All cells,"CD16-positive, CD56-dim natural killer cell, human",CL:0000939,HDBR14854,female,unknown,20th week post-fertilization human stage,41,1.5344311377245508
+39,All cells,small pre-B-II cell,CL:0000954,HDBR14854,female,unknown,20th week post-fertilization human stage,46,1.721556886227545
+40,All cells,pre-B-I cell,CL:0000956,HDBR14854,female,unknown,20th week post-fertilization human stage,69,2.5823353293413174
+41,All cells,large pre-B-II cell,CL:0000957,HDBR14854,female,unknown,20th week post-fertilization human stage,24,0.8982035928143712
+42,All cells,"dendritic cell, human",CL:0001056,HDBR14854,female,unknown,20th week post-fertilization human stage,3,0.1122754491017964
+43,All cells,group 2 innate lymphoid cell,CL:0001069,HDBR14854,female,unknown,20th week post-fertilization human stage,8,0.29940119760479045
+44,All cells,group 3 innate lymphoid cell,CL:0001071,HDBR14854,female,unknown,20th week post-fertilization human stage,14,0.5239520958083832
+45,All cells,"CD34-positive, CD56-positive, CD117-positive common innate lymphoid precursor, human",CL:0001074,HDBR14854,female,unknown,20th week post-fertilization human stage,3,0.1122754491017964
+46,All cells,late pro-B cell,CL:0002048,HDBR14854,female,unknown,20th week post-fertilization human stage,17,0.6362275449101796
+47,All cells,type I pneumocyte,CL:0002062,HDBR14854,female,unknown,20th week post-fertilization human stage,3,0.1122754491017964
+48,All cells,type II pneumocyte,CL:0002063,HDBR14854,female,unknown,20th week post-fertilization human stage,4,0.14970059880239522
+49,All cells,bone marrow cell,CL:0002092,HDBR14854,female,unknown,20th week post-fertilization human stage,3,0.1122754491017964
+50,All cells,endothelial cell of lymphatic vessel,CL:0002138,HDBR14854,female,unknown,20th week post-fertilization human stage,87,3.2559880239520957
+51,All cells,capillary endothelial cell,CL:0002144,HDBR14854,female,unknown,20th week post-fertilization human stage,94,3.5179640718562872
+52,All cells,pulmonary interstitial fibroblast,CL:0002241,HDBR14854,female,unknown,20th week post-fertilization human stage,170,6.362275449101797
+53,All cells,respiratory epithelial cell,CL:0002368,HDBR14854,female,unknown,20th week post-fertilization human stage,5,0.18712574850299402
+54,All cells,vein endothelial cell,CL:0002543,HDBR14854,female,unknown,20th week post-fertilization human stage,20,0.7485029940119761
+55,All cells,fibroblast of lung,CL:0002553,HDBR14854,female,unknown,20th week post-fertilization human stage,154,5.763473053892216
+56,All cells,lung neuroendocrine cell,CL:1000223,HDBR14854,female,unknown,20th week post-fertilization human stage,1,0.037425149700598806
+57,All cells,lung ciliated cell,CL:1000271,HDBR14854,female,unknown,20th week post-fertilization human stage,473,17.702095808383234
+58,All cells,lung secretory cell,CL:1000272,HDBR14854,female,unknown,20th week post-fertilization human stage,3,0.1122754491017964
+59,All cells,endothelial cell of artery,CL:1000413,HDBR14854,female,unknown,20th week post-fertilization human stage,18,0.6736526946107785

@@ -1,0 +1,12 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,multiplexed scRNA-seq of 1.2 million PBMCs from adult lupus samples,B cell,CL:0000236,HC-533,female,European,64-year-old human stage,347,12.214009151707145
+1,multiplexed scRNA-seq of 1.2 million PBMCs from adult lupus samples,lymphocyte,CL:0000542,HC-533,female,European,64-year-old human stage,5,0.17599436818021824
+2,multiplexed scRNA-seq of 1.2 million PBMCs from adult lupus samples,natural killer cell,CL:0000623,HC-533,female,European,64-year-old human stage,633,22.280887011615626
+3,multiplexed scRNA-seq of 1.2 million PBMCs from adult lupus samples,"CD4-positive, alpha-beta T cell",CL:0000624,HC-533,female,European,64-year-old human stage,294,10.348468848996832
+4,multiplexed scRNA-seq of 1.2 million PBMCs from adult lupus samples,"CD8-positive, alpha-beta T cell",CL:0000625,HC-533,female,European,64-year-old human stage,583,20.520943329813445
+5,multiplexed scRNA-seq of 1.2 million PBMCs from adult lupus samples,plasmacytoid dendritic cell,CL:0000784,HC-533,female,European,64-year-old human stage,16,0.5631819781766984
+6,multiplexed scRNA-seq of 1.2 million PBMCs from adult lupus samples,classical monocyte,CL:0000860,HC-533,female,European,64-year-old human stage,756,26.610348468848997
+7,multiplexed scRNA-seq of 1.2 million PBMCs from adult lupus samples,non-classical monocyte,CL:0000875,HC-533,female,European,64-year-old human stage,134,4.716649067229849
+8,multiplexed scRNA-seq of 1.2 million PBMCs from adult lupus samples,plasmablast,CL:0000980,HC-533,female,European,64-year-old human stage,3,0.10559662090813093
+9,multiplexed scRNA-seq of 1.2 million PBMCs from adult lupus samples,conventional dendritic cell,CL:0000990,HC-533,female,European,64-year-old human stage,68,2.3935234072509677
+10,multiplexed scRNA-seq of 1.2 million PBMCs from adult lupus samples,progenitor cell,CL:0011026,HC-533,female,European,64-year-old human stage,2,0.0703977472720873

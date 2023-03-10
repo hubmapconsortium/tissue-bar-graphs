@@ -1,0 +1,20 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,natural killer cell,CL:0000623,1015_1016,male,European,67-year-old human stage,56,4.567699836867863
+1,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,memory B cell,CL:0000787,1015_1016,male,European,67-year-old human stage,14,1.1419249592169658
+2,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,naive B cell,CL:0000788,1015_1016,male,European,67-year-old human stage,77,6.280587275693311
+3,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,gamma-delta T cell,CL:0000798,1015_1016,male,European,67-year-old human stage,48,3.915171288743882
+4,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,regulatory T cell,CL:0000815,1015_1016,male,European,67-year-old human stage,62,5.057096247960848
+5,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,transitional stage B cell,CL:0000818,1015_1016,male,European,67-year-old human stage,19,1.5497553017944536
+6,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,1015_1016,male,European,67-year-old human stage,413,33.686786296900486
+7,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,1015_1016,male,European,67-year-old human stage,10,0.8156606851549755
+8,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"central memory CD4-positive, alpha-beta T cell",CL:0000904,1015_1016,male,European,67-year-old human stage,254,20.717781402936378
+9,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"effector memory CD4-positive, alpha-beta T cell",CL:0000905,1015_1016,male,European,67-year-old human stage,25,2.039151712887439
+10,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"central memory CD8-positive, alpha-beta T cell",CL:0000907,1015_1016,male,European,67-year-old human stage,4,0.3262642740619902
+11,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,1015_1016,male,European,67-year-old human stage,152,12.39804241435563
+12,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"CD4-positive, alpha-beta cytotoxic T cell",CL:0000934,1015_1016,male,European,67-year-old human stage,24,1.957585644371941
+13,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,1015_1016,male,European,67-year-old human stage,3,0.24469820554649263
+14,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,mucosal invariant T cell,CL:0000940,1015_1016,male,European,67-year-old human stage,6,0.48939641109298526
+15,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,conventional dendritic cell,CL:0000990,1015_1016,male,European,67-year-old human stage,1,0.08156606851549755
+16,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,CD14-positive monocyte,CL:0001054,1015_1016,male,European,67-year-old human stage,34,2.7732463295269167
+17,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"CD14-low, CD16-positive monocyte",CL:0002396,1015_1016,male,European,67-year-old human stage,22,1.794453507340946
+18,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,hematopoietic precursor cell,CL:0008001,1015_1016,male,European,67-year-old human stage,2,0.1631321370309951

@@ -1,0 +1,31 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,The single-cell lung cancer atlas (LuCA) -- core atlas,epithelial cell of lung,CL:0000082,Mayr_Schiller_2020_muc5212,unknown,unknown,unknown,14,2.1875
+1,The single-cell lung cancer atlas (LuCA) -- core atlas,mast cell,CL:0000097,Mayr_Schiller_2020_muc5212,unknown,unknown,unknown,45,7.03125
+2,The single-cell lung cancer atlas (LuCA) -- core atlas,smooth muscle cell,CL:0000192,Mayr_Schiller_2020_muc5212,unknown,unknown,unknown,2,0.3125
+3,The single-cell lung cancer atlas (LuCA) -- core atlas,macrophage,CL:0000235,Mayr_Schiller_2020_muc5212,unknown,unknown,unknown,4,0.625
+4,The single-cell lung cancer atlas (LuCA) -- core atlas,B cell,CL:0000236,Mayr_Schiller_2020_muc5212,unknown,unknown,unknown,7,1.09375
+5,The single-cell lung cancer atlas (LuCA) -- core atlas,dendritic cell,CL:0000451,Mayr_Schiller_2020_muc5212,unknown,unknown,unknown,1,0.15625
+6,The single-cell lung cancer atlas (LuCA) -- core atlas,stromal cell,CL:0000499,Mayr_Schiller_2020_muc5212,unknown,unknown,unknown,1,0.15625
+7,The single-cell lung cancer atlas (LuCA) -- core atlas,alveolar macrophage,CL:0000583,Mayr_Schiller_2020_muc5212,unknown,unknown,unknown,53,8.28125
+8,The single-cell lung cancer atlas (LuCA) -- core atlas,natural killer cell,CL:0000623,Mayr_Schiller_2020_muc5212,unknown,unknown,unknown,9,1.40625
+9,The single-cell lung cancer atlas (LuCA) -- core atlas,"CD4-positive, alpha-beta T cell",CL:0000624,Mayr_Schiller_2020_muc5212,unknown,unknown,unknown,30,4.6875
+10,The single-cell lung cancer atlas (LuCA) -- core atlas,"CD8-positive, alpha-beta T cell",CL:0000625,Mayr_Schiller_2020_muc5212,unknown,unknown,unknown,47,7.34375
+11,The single-cell lung cancer atlas (LuCA) -- core atlas,pericyte,CL:0000669,Mayr_Schiller_2020_muc5212,unknown,unknown,unknown,3,0.46875
+12,The single-cell lung cancer atlas (LuCA) -- core atlas,neutrophil,CL:0000775,Mayr_Schiller_2020_muc5212,unknown,unknown,unknown,7,1.09375
+13,The single-cell lung cancer atlas (LuCA) -- core atlas,plasmacytoid dendritic cell,CL:0000784,Mayr_Schiller_2020_muc5212,unknown,unknown,unknown,5,0.78125
+14,The single-cell lung cancer atlas (LuCA) -- core atlas,plasma cell,CL:0000786,Mayr_Schiller_2020_muc5212,unknown,unknown,unknown,9,1.40625
+15,The single-cell lung cancer atlas (LuCA) -- core atlas,regulatory T cell,CL:0000815,Mayr_Schiller_2020_muc5212,unknown,unknown,unknown,5,0.78125
+16,The single-cell lung cancer atlas (LuCA) -- core atlas,classical monocyte,CL:0000860,Mayr_Schiller_2020_muc5212,unknown,unknown,unknown,79,12.34375
+17,The single-cell lung cancer atlas (LuCA) -- core atlas,non-classical monocyte,CL:0000875,Mayr_Schiller_2020_muc5212,unknown,unknown,unknown,5,0.78125
+18,The single-cell lung cancer atlas (LuCA) -- core atlas,conventional dendritic cell,CL:0000990,Mayr_Schiller_2020_muc5212,unknown,unknown,unknown,2,0.3125
+19,The single-cell lung cancer atlas (LuCA) -- core atlas,malignant cell,CL:0001064,Mayr_Schiller_2020_muc5212,unknown,unknown,unknown,2,0.3125
+20,The single-cell lung cancer atlas (LuCA) -- core atlas,type I pneumocyte,CL:0002062,Mayr_Schiller_2020_muc5212,unknown,unknown,unknown,18,2.8125
+21,The single-cell lung cancer atlas (LuCA) -- core atlas,type II pneumocyte,CL:0002063,Mayr_Schiller_2020_muc5212,unknown,unknown,unknown,182,28.4375
+22,The single-cell lung cancer atlas (LuCA) -- core atlas,endothelial cell of lymphatic vessel,CL:0002138,Mayr_Schiller_2020_muc5212,unknown,unknown,unknown,7,1.09375
+23,The single-cell lung cancer atlas (LuCA) -- core atlas,capillary endothelial cell,CL:0002144,Mayr_Schiller_2020_muc5212,unknown,unknown,unknown,1,0.15625
+24,The single-cell lung cancer atlas (LuCA) -- core atlas,CD1c-positive myeloid dendritic cell,CL:0002399,Mayr_Schiller_2020_muc5212,unknown,unknown,unknown,15,2.34375
+25,The single-cell lung cancer atlas (LuCA) -- core atlas,vein endothelial cell,CL:0002543,Mayr_Schiller_2020_muc5212,unknown,unknown,unknown,63,9.84375
+26,The single-cell lung cancer atlas (LuCA) -- core atlas,fibroblast of lung,CL:0002553,Mayr_Schiller_2020_muc5212,unknown,unknown,unknown,15,2.34375
+27,The single-cell lung cancer atlas (LuCA) -- core atlas,multi-ciliated epithelial cell,CL:0005012,Mayr_Schiller_2020_muc5212,unknown,unknown,unknown,7,1.09375
+28,The single-cell lung cancer atlas (LuCA) -- core atlas,pulmonary artery endothelial cell,CL:1001568,Mayr_Schiller_2020_muc5212,unknown,unknown,unknown,1,0.15625
+29,The single-cell lung cancer atlas (LuCA) -- core atlas,bronchus fibroblast of lung,CL:2000093,Mayr_Schiller_2020_muc5212,unknown,unknown,unknown,1,0.15625

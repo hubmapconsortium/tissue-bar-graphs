@@ -1,0 +1,31 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,HSC/immune cells (all hematopoietic-derived cells),native cell,CL:0000003,F32,female,unknown,Carnegie stage 20,43,3.7489102005231034
+1,HSC/immune cells (all hematopoietic-derived cells),hematopoietic stem cell,CL:0000037,F32,female,unknown,Carnegie stage 20,1,0.08718395815170009
+2,HSC/immune cells (all hematopoietic-derived cells),megakaryocyte-erythroid progenitor cell,CL:0000050,F32,female,unknown,Carnegie stage 20,5,0.4359197907585004
+3,HSC/immune cells (all hematopoietic-derived cells),fibroblast,CL:0000057,F32,female,unknown,Carnegie stage 20,94,8.195292066259809
+4,HSC/immune cells (all hematopoietic-derived cells),T cell,CL:0000084,F32,female,unknown,Carnegie stage 20,5,0.4359197907585004
+5,HSC/immune cells (all hematopoietic-derived cells),granulocyte,CL:0000094,F32,female,unknown,Carnegie stage 20,13,1.1333914559721012
+6,HSC/immune cells (all hematopoietic-derived cells),mast cell,CL:0000097,F32,female,unknown,Carnegie stage 20,3,0.26155187445510025
+7,HSC/immune cells (all hematopoietic-derived cells),erythrocyte,CL:0000232,F32,female,unknown,Carnegie stage 20,1,0.08718395815170009
+8,HSC/immune cells (all hematopoietic-derived cells),macrophage,CL:0000235,F32,female,unknown,Carnegie stage 20,484,42.19703574542284
+9,HSC/immune cells (all hematopoietic-derived cells),vascular associated smooth muscle cell,CL:0000359,F32,female,unknown,Carnegie stage 20,7,0.6102877070619006
+10,HSC/immune cells (all hematopoietic-derived cells),dendritic cell,CL:0000451,F32,female,unknown,Carnegie stage 20,62,5.405405405405405
+11,HSC/immune cells (all hematopoietic-derived cells),Langerhans cell,CL:0000453,F32,female,unknown,Carnegie stage 20,2,0.17436791630340018
+12,HSC/immune cells (all hematopoietic-derived cells),megakaryocyte,CL:0000556,F32,female,unknown,Carnegie stage 20,2,0.17436791630340018
+13,HSC/immune cells (all hematopoietic-derived cells),granulocyte monocyte progenitor cell,CL:0000557,F32,female,unknown,Carnegie stage 20,5,0.4359197907585004
+14,HSC/immune cells (all hematopoietic-derived cells),promonocyte,CL:0000559,F32,female,unknown,Carnegie stage 20,24,2.092414995640802
+15,HSC/immune cells (all hematopoietic-derived cells),monocyte,CL:0000576,F32,female,unknown,Carnegie stage 20,174,15.170008718395817
+16,HSC/immune cells (all hematopoietic-derived cells),natural killer cell,CL:0000623,F32,female,unknown,Carnegie stage 20,36,3.1386224934612033
+17,HSC/immune cells (all hematopoietic-derived cells),plasmacytoid dendritic cell,CL:0000784,F32,female,unknown,Carnegie stage 20,8,0.6974716652136007
+18,HSC/immune cells (all hematopoietic-derived cells),"double-positive, alpha-beta thymocyte",CL:0000809,F32,female,unknown,Carnegie stage 20,25,2.1795989537925022
+19,HSC/immune cells (all hematopoietic-derived cells),B-2 B cell,CL:0000822,F32,female,unknown,Carnegie stage 20,1,0.08718395815170009
+20,HSC/immune cells (all hematopoietic-derived cells),promyelocyte,CL:0000836,F32,female,unknown,Carnegie stage 20,1,0.08718395815170009
+21,HSC/immune cells (all hematopoietic-derived cells),early lymphoid progenitor,CL:0000936,F32,female,unknown,Carnegie stage 20,30,2.6155187445510024
+22,HSC/immune cells (all hematopoietic-derived cells),large pre-B-II cell,CL:0000957,F32,female,unknown,Carnegie stage 20,1,0.08718395815170009
+23,HSC/immune cells (all hematopoietic-derived cells),common dendritic progenitor,CL:0001029,F32,female,unknown,Carnegie stage 20,1,0.08718395815170009
+24,HSC/immune cells (all hematopoietic-derived cells),innate lymphoid cell,CL:0001065,F32,female,unknown,Carnegie stage 20,5,0.4359197907585004
+25,HSC/immune cells (all hematopoietic-derived cells),group 2 innate lymphoid cell,CL:0001069,F32,female,unknown,Carnegie stage 20,6,0.5231037489102005
+26,HSC/immune cells (all hematopoietic-derived cells),group 3 innate lymphoid cell,CL:0001071,F32,female,unknown,Carnegie stage 20,82,7.149084568439407
+27,HSC/immune cells (all hematopoietic-derived cells),pre-conventional dendritic cell,CL:0002010,F32,female,unknown,Carnegie stage 20,1,0.08718395815170009
+28,HSC/immune cells (all hematopoietic-derived cells),fraction A pre-pro B cell,CL:0002045,F32,female,unknown,Carnegie stage 20,7,0.6102877070619006
+29,HSC/immune cells (all hematopoietic-derived cells),double negative thymocyte,CL:0002489,F32,female,unknown,Carnegie stage 20,18,1.5693112467306016

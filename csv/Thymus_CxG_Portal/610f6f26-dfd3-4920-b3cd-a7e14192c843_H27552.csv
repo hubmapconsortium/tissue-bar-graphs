@@ -1,0 +1,5 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Survey of human embryonic development,professional antigen presenting cell,CL:0000145,H27552,male,unknown,16th week post-fertilization human stage,5,7.936507936507936
+1,Survey of human embryonic development,thymocyte,CL:0000893,H27552,male,unknown,16th week post-fertilization human stage,55,87.3015873015873
+2,Survey of human embryonic development,endothelial cell of vascular tree,CL:0002139,H27552,male,unknown,16th week post-fertilization human stage,1,1.5873015873015872
+3,Survey of human embryonic development,epithelial cell of thymus,CL:0002293,H27552,male,unknown,16th week post-fertilization human stage,2,3.1746031746031744

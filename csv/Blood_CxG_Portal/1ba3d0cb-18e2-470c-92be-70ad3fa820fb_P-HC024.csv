@@ -1,0 +1,13 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,B cell,CL:0000236,P-HC024,male,unknown,27-year-old human stage,568,10.864575363427697
+1,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,dendritic cell,CL:0000451,P-HC024,male,unknown,27-year-old human stage,89,1.702371843917368
+2,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,megakaryocyte,CL:0000556,P-HC024,male,unknown,27-year-old human stage,57,1.090283091048202
+3,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,monocyte,CL:0000576,P-HC024,male,unknown,27-year-old human stage,112,2.1423106350420813
+4,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,natural killer cell,CL:0000623,P-HC024,male,unknown,27-year-old human stage,391,7.478959449120122
+5,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD8-positive, alpha-beta T cell",CL:0000625,P-HC024,male,unknown,27-year-old human stage,1478,28.270849273144606
+6,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,neutrophil,CL:0000775,P-HC024,male,unknown,27-year-old human stage,3,0.05738332058148432
+7,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,plasma cell,CL:0000786,P-HC024,male,unknown,27-year-old human stage,28,0.5355776587605203
+8,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature alpha-beta T cell,CL:0000791,P-HC024,male,unknown,27-year-old human stage,1344,25.707727620504972
+9,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,mature gamma-delta T cell,CL:0000800,P-HC024,male,unknown,27-year-old human stage,243,4.648048967100229
+10,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD14-positive, CD16-negative classical monocyte",CL:0002057,P-HC024,male,unknown,27-year-old human stage,888,16.985462892119358
+11,Large-scale single-cell analysis reveals critical immune characteristics of COVID-19 patients,"CD14-positive, CD16-positive monocyte",CL:0002397,P-HC024,male,unknown,27-year-old human stage,27,0.5164498852333588

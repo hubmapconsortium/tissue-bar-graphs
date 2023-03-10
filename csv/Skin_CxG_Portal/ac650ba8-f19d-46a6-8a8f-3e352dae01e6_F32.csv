@@ -1,0 +1,12 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Stromal cells (all non-immune cells),native cell,CL:0000003,F32,female,unknown,Carnegie stage 20,28,0.30342436064152584
+1,Stromal cells (all non-immune cells),fibroblast,CL:0000057,F32,female,unknown,Carnegie stage 20,8379,90.7997399219766
+2,Stromal cells (all non-immune cells),epithelial cell,CL:0000066,F32,female,unknown,Carnegie stage 20,1,0.010836584308625921
+3,Stromal cells (all non-immune cells),endothelial cell,CL:0000115,F32,female,unknown,Carnegie stage 20,65,0.7043779800606849
+4,Stromal cells (all non-immune cells),glial cell,CL:0000125,F32,female,unknown,Carnegie stage 20,123,1.3328998699609884
+5,Stromal cells (all non-immune cells),melanocyte,CL:0000148,F32,female,unknown,Carnegie stage 20,42,0.45513654096228867
+6,Stromal cells (all non-immune cells),myofibroblast cell,CL:0000186,F32,female,unknown,Carnegie stage 20,56,0.6068487212830517
+7,Stromal cells (all non-immune cells),cell of skeletal muscle,CL:0000188,F32,female,unknown,Carnegie stage 20,2,0.021673168617251843
+8,Stromal cells (all non-immune cells),eurydendroid cell,CL:0000253,F32,female,unknown,Carnegie stage 20,245,2.6549631556133506
+9,Stromal cells (all non-immune cells),keratinocyte,CL:0000312,F32,female,unknown,Carnegie stage 20,94,1.0186389250108365
+10,Stromal cells (all non-immune cells),vascular associated smooth muscle cell,CL:0000359,F32,female,unknown,Carnegie stage 20,193,2.091460771564803

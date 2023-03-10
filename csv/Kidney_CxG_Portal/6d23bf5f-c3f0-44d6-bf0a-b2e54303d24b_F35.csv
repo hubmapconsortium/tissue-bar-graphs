@@ -1,0 +1,24 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,fetal,native cell,CL:0000003,F35,female,unknown,organogenesis stage,46,0.7603305785123967
+1,fetal,mast cell,CL:0000097,F35,female,unknown,organogenesis stage,30,0.49586776859504134
+2,fetal,endothelial cell,CL:0000115,F35,female,unknown,organogenesis stage,133,2.1983471074380168
+3,fetal,mesenchymal stem cell,CL:0000134,F35,female,unknown,organogenesis stage,284,4.694214876033058
+4,fetal,macrophage,CL:0000235,F35,female,unknown,organogenesis stage,927,15.322314049586778
+5,fetal,B cell,CL:0000236,F35,female,unknown,organogenesis stage,19,0.3140495867768595
+6,fetal,megakaryocyte,CL:0000556,F35,female,unknown,organogenesis stage,9,0.1487603305785124
+7,fetal,monocyte,CL:0000576,F35,female,unknown,organogenesis stage,113,1.8677685950413223
+8,fetal,natural killer cell,CL:0000623,F35,female,unknown,organogenesis stage,36,0.5950413223140496
+9,fetal,"CD4-positive, alpha-beta T cell",CL:0000624,F35,female,unknown,organogenesis stage,5,0.08264462809917356
+10,fetal,"CD8-positive, alpha-beta T cell",CL:0000625,F35,female,unknown,organogenesis stage,12,0.19834710743801653
+11,fetal,erythroid lineage cell,CL:0000764,F35,female,unknown,organogenesis stage,5,0.08264462809917356
+12,fetal,neutrophil,CL:0000775,F35,female,unknown,organogenesis stage,11,0.18181818181818182
+13,fetal,plasmacytoid dendritic cell,CL:0000784,F35,female,unknown,organogenesis stage,5,0.08264462809917356
+14,fetal,conventional dendritic cell,CL:0000990,F35,female,unknown,organogenesis stage,238,3.933884297520661
+15,fetal,innate lymphoid cell,CL:0001065,F35,female,unknown,organogenesis stage,61,1.0082644628099173
+16,fetal,epithelial cell of proximal tubule,CL:0002306,F35,female,unknown,organogenesis stage,166,2.743801652892562
+17,fetal,epithelial cell of nephron,CL:1000449,F35,female,unknown,organogenesis stage,2522,41.68595041322314
+18,fetal,epithelial cell of glomerular capsule,CL:1000450,F35,female,unknown,organogenesis stage,25,0.4132231404958678
+19,fetal,nephron tubule epithelial cell,CL:1000494,F35,female,unknown,organogenesis stage,37,0.6115702479338843
+20,fetal,kidney interstitial cell,CL:1000500,F35,female,unknown,organogenesis stage,1185,19.58677685950413
+21,fetal,kidney connecting tubule epithelial cell,CL:1000768,F35,female,unknown,organogenesis stage,160,2.644628099173554
+22,fetal,kidney collecting duct cell,CL:1001225,F35,female,unknown,organogenesis stage,21,0.34710743801652894

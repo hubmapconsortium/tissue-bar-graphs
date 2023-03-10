@@ -1,0 +1,11 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,PBMCs,platelet,CL:0000233,219,unknown,unknown,65-79 year-old human stage,6,0.3070624360286591
+1,PBMCs,B cell,CL:0000236,219,unknown,unknown,65-79 year-old human stage,224,11.463664278403275
+2,PBMCs,dendritic cell,CL:0000451,219,unknown,unknown,65-79 year-old human stage,44,2.2517911975435005
+3,PBMCs,monocyte,CL:0000576,219,unknown,unknown,65-79 year-old human stage,1408,72.05731832139202
+4,PBMCs,natural killer cell,CL:0000623,219,unknown,unknown,65-79 year-old human stage,45,2.3029682702149437
+5,PBMCs,"CD4-positive, alpha-beta T cell",CL:0000624,219,unknown,unknown,65-79 year-old human stage,103,5.271238485158649
+6,PBMCs,"CD8-positive, alpha-beta T cell",CL:0000625,219,unknown,unknown,65-79 year-old human stage,73,3.735926305015353
+7,PBMCs,plasmacytoid dendritic cell,CL:0000784,219,unknown,unknown,65-79 year-old human stage,16,0.8188331627430911
+8,PBMCs,alpha-beta T cell,CL:0000789,219,unknown,unknown,65-79 year-old human stage,34,1.7400204708290685
+9,PBMCs,plasmablast,CL:0000980,219,unknown,unknown,65-79 year-old human stage,1,0.0511770726714432

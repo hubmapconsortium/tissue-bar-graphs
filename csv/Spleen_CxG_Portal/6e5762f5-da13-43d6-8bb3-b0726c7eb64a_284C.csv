@@ -1,0 +1,25 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Spleen,native cell,CL:0000003,284C,male,unknown,sixth decade human stage,1,0.013623978201634877
+1,Spleen,hematopoietic stem cell,CL:0000037,284C,male,unknown,sixth decade human stage,9,0.1226158038147139
+2,Spleen,T cell,CL:0000084,284C,male,unknown,sixth decade human stage,27,0.3678474114441417
+3,Spleen,platelet,CL:0000233,284C,male,unknown,sixth decade human stage,3,0.04087193460490463
+4,Spleen,macrophage,CL:0000235,284C,male,unknown,sixth decade human stage,34,0.46321525885558584
+5,Spleen,B cell,CL:0000236,284C,male,unknown,sixth decade human stage,1023,13.93732970027248
+6,Spleen,dendritic cell,CL:0000451,284C,male,unknown,sixth decade human stage,82,1.11716621253406
+7,Spleen,lymphocyte,CL:0000542,284C,male,unknown,sixth decade human stage,21,0.28610354223433243
+8,Spleen,monocyte,CL:0000576,284C,male,unknown,sixth decade human stage,534,7.275204359673025
+9,Spleen,natural killer cell,CL:0000623,284C,male,unknown,sixth decade human stage,930,12.670299727520437
+10,Spleen,"CD4-positive, alpha-beta T cell",CL:0000624,284C,male,unknown,sixth decade human stage,1096,14.931880108991827
+11,Spleen,"CD8-positive, alpha-beta T cell",CL:0000625,284C,male,unknown,sixth decade human stage,497,6.771117166212534
+12,Spleen,plasmacytoid dendritic cell,CL:0000784,284C,male,unknown,sixth decade human stage,25,0.3405994550408719
+13,Spleen,"CD4-positive, CD25-positive, alpha-beta regulatory T cell",CL:0000792,284C,male,unknown,sixth decade human stage,103,1.4032697547683926
+14,Spleen,"CD8-alpha alpha positive, gamma-delta intraepithelial T cell",CL:0000802,284C,male,unknown,sixth decade human stage,266,3.6239782016348774
+15,Spleen,follicular B cell,CL:0000843,284C,male,unknown,sixth decade human stage,1643,22.384196185286104
+16,Spleen,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,284C,male,unknown,sixth decade human stage,234,3.188010899182561
+17,Spleen,"activated CD8-positive, alpha-beta T cell",CL:0000906,284C,male,unknown,sixth decade human stage,442,6.021798365122616
+18,Spleen,plasmablast,CL:0000980,284C,male,unknown,sixth decade human stage,47,0.6403269754768393
+19,Spleen,IgG plasma cell,CL:0000985,284C,male,unknown,sixth decade human stage,34,0.46321525885558584
+20,Spleen,IgM plasma cell,CL:0000986,284C,male,unknown,sixth decade human stage,35,0.4768392370572207
+21,Spleen,conventional dendritic cell,CL:0000990,284C,male,unknown,sixth decade human stage,12,0.16348773841961853
+22,Spleen,innate lymphoid cell,CL:0001065,284C,male,unknown,sixth decade human stage,33,0.44959128065395093
+23,Spleen,T follicular helper cell,CL:0002038,284C,male,unknown,sixth decade human stage,209,2.8474114441416893

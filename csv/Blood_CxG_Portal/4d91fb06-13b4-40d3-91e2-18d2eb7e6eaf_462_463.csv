@@ -1,0 +1,20 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,natural killer cell,CL:0000623,462_463,female,European,83-year-old human stage,198,13.721413721413722
+1,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,memory B cell,CL:0000787,462_463,female,European,83-year-old human stage,40,2.772002772002772
+2,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,naive B cell,CL:0000788,462_463,female,European,83-year-old human stage,135,9.355509355509357
+3,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,gamma-delta T cell,CL:0000798,462_463,female,European,83-year-old human stage,15,1.0395010395010396
+4,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,regulatory T cell,CL:0000815,462_463,female,European,83-year-old human stage,25,1.7325017325017324
+5,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,transitional stage B cell,CL:0000818,462_463,female,European,83-year-old human stage,66,4.5738045738045745
+6,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,462_463,female,European,83-year-old human stage,244,16.90921690921691
+7,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,462_463,female,European,83-year-old human stage,5,0.3465003465003465
+8,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"central memory CD4-positive, alpha-beta T cell",CL:0000904,462_463,female,European,83-year-old human stage,283,19.61191961191961
+9,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"effector memory CD4-positive, alpha-beta T cell",CL:0000905,462_463,female,European,83-year-old human stage,37,2.564102564102564
+10,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"central memory CD8-positive, alpha-beta T cell",CL:0000907,462_463,female,European,83-year-old human stage,12,0.8316008316008316
+11,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,462_463,female,European,83-year-old human stage,347,24.047124047124047
+12,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"CD4-positive, alpha-beta cytotoxic T cell",CL:0000934,462_463,female,European,83-year-old human stage,11,0.7623007623007623
+13,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,462_463,female,European,83-year-old human stage,5,0.3465003465003465
+14,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,plasmablast,CL:0000980,462_463,female,European,83-year-old human stage,1,0.0693000693000693
+15,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,conventional dendritic cell,CL:0000990,462_463,female,European,83-year-old human stage,1,0.0693000693000693
+16,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,CD14-positive monocyte,CL:0001054,462_463,female,European,83-year-old human stage,9,0.6237006237006237
+17,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,innate lymphoid cell,CL:0001065,462_463,female,European,83-year-old human stage,1,0.0693000693000693
+18,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"CD14-low, CD16-positive monocyte",CL:0002396,462_463,female,European,83-year-old human stage,8,0.5544005544005544

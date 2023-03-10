@@ -1,0 +1,11 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,mature,mononuclear phagocyte,CL:0000113,PapRCC,male,unknown,70-year-old human stage,3,4.838709677419355
+1,mature,B cell,CL:0000236,PapRCC,male,unknown,70-year-old human stage,1,1.6129032258064515
+2,mature,lymphocyte,CL:0000542,PapRCC,male,unknown,70-year-old human stage,1,1.6129032258064515
+3,mature,natural killer cell,CL:0000623,PapRCC,male,unknown,70-year-old human stage,8,12.903225806451612
+4,mature,"CD4-positive, alpha-beta T cell",CL:0000624,PapRCC,male,unknown,70-year-old human stage,4,6.451612903225806
+5,mature,"CD8-positive, alpha-beta T cell",CL:0000625,PapRCC,male,unknown,70-year-old human stage,2,3.225806451612903
+6,mature,glomerular endothelial cell,CL:0002188,PapRCC,male,unknown,70-year-old human stage,2,3.225806451612903
+7,mature,epithelial cell of proximal tubule,CL:0002306,PapRCC,male,unknown,70-year-old human stage,38,61.29032258064516
+8,mature,renal alpha-intercalated cell,CL:0005011,PapRCC,male,unknown,70-year-old human stage,2,3.225806451612903
+9,mature,vasa recta ascending limb cell,CL:1001131,PapRCC,male,unknown,70-year-old human stage,1,1.6129032258064515

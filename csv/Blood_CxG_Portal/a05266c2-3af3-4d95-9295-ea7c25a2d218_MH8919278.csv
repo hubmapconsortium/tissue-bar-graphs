@@ -1,0 +1,30 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Single-cell multi-omics analysis of the immune response in COVID-19,erythrocyte,CL:0000232,MH8919278,male,unknown,third decade human stage,6,0.3309431880860452
+1,Single-cell multi-omics analysis of the immune response in COVID-19,platelet,CL:0000233,MH8919278,male,unknown,third decade human stage,26,1.4340871483728626
+2,Single-cell multi-omics analysis of the immune response in COVID-19,B cell,CL:0000236,MH8919278,male,unknown,third decade human stage,16,0.882515168229454
+3,Single-cell multi-omics analysis of the immune response in COVID-19,natural killer cell,CL:0000623,MH8919278,male,unknown,third decade human stage,5,0.27578599007170435
+4,Single-cell multi-omics analysis of the immune response in COVID-19,"CD4-positive, alpha-beta T cell",CL:0000624,MH8919278,male,unknown,third decade human stage,1,0.05515719801434087
+5,Single-cell multi-omics analysis of the immune response in COVID-19,"CD8-positive, alpha-beta T cell",CL:0000625,MH8919278,male,unknown,third decade human stage,1,0.05515719801434087
+6,Single-cell multi-omics analysis of the immune response in COVID-19,naive B cell,CL:0000788,MH8919278,male,unknown,third decade human stage,507,27.96469939327082
+7,Single-cell multi-omics analysis of the immune response in COVID-19,gamma-delta T cell,CL:0000798,MH8919278,male,unknown,third decade human stage,31,1.709873138444567
+8,Single-cell multi-omics analysis of the immune response in COVID-19,mature NK T cell,CL:0000814,MH8919278,male,unknown,third decade human stage,23,1.26861555432984
+9,Single-cell multi-omics analysis of the immune response in COVID-19,immature B cell,CL:0000816,MH8919278,male,unknown,third decade human stage,70,3.861003861003861
+10,Single-cell multi-omics analysis of the immune response in COVID-19,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,MH8919278,male,unknown,third decade human stage,116,6.398234969663541
+11,Single-cell multi-omics analysis of the immune response in COVID-19,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,MH8919278,male,unknown,third decade human stage,167,9.211252068394927
+12,Single-cell multi-omics analysis of the immune response in COVID-19,"central memory CD4-positive, alpha-beta T cell",CL:0000904,MH8919278,male,unknown,third decade human stage,21,1.1583011583011582
+13,Single-cell multi-omics analysis of the immune response in COVID-19,"effector memory CD4-positive, alpha-beta T cell",CL:0000905,MH8919278,male,unknown,third decade human stage,2,0.11031439602868175
+14,Single-cell multi-omics analysis of the immune response in COVID-19,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,MH8919278,male,unknown,third decade human stage,147,8.108108108108109
+15,Single-cell multi-omics analysis of the immune response in COVID-19,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,MH8919278,male,unknown,third decade human stage,29,1.5995587424158852
+16,Single-cell multi-omics analysis of the immune response in COVID-19,"CD16-positive, CD56-dim natural killer cell, human",CL:0000939,MH8919278,male,unknown,third decade human stage,195,10.75565361279647
+17,Single-cell multi-omics analysis of the immune response in COVID-19,mucosal invariant T cell,CL:0000940,MH8919278,male,unknown,third decade human stage,22,1.2134583563154993
+18,Single-cell multi-omics analysis of the immune response in COVID-19,unswitched memory B cell,CL:0000970,MH8919278,male,unknown,third decade human stage,29,1.5995587424158852
+19,Single-cell multi-omics analysis of the immune response in COVID-19,class switched memory B cell,CL:0000972,MH8919278,male,unknown,third decade human stage,74,4.081632653061225
+20,Single-cell multi-omics analysis of the immune response in COVID-19,plasmablast,CL:0000980,MH8919278,male,unknown,third decade human stage,11,0.6067291781577496
+21,Single-cell multi-omics analysis of the immune response in COVID-19,IgG plasma cell,CL:0000985,MH8919278,male,unknown,third decade human stage,15,0.827357970215113
+22,Single-cell multi-omics analysis of the immune response in COVID-19,IgM plasma cell,CL:0000986,MH8919278,male,unknown,third decade human stage,4,0.2206287920573635
+23,Single-cell multi-omics analysis of the immune response in COVID-19,IgA plasma cell,CL:0000987,MH8919278,male,unknown,third decade human stage,14,0.7722007722007722
+24,Single-cell multi-omics analysis of the immune response in COVID-19,"CD34-positive, CD38-negative hematopoietic stem cell",CL:0001024,MH8919278,male,unknown,third decade human stage,2,0.11031439602868175
+25,Single-cell multi-omics analysis of the immune response in COVID-19,T-helper 22 cell,CL:0001042,MH8919278,male,unknown,third decade human stage,34,1.8753447324875896
+26,Single-cell multi-omics analysis of the immune response in COVID-19,"effector CD8-positive, alpha-beta T cell",CL:0001050,MH8919278,male,unknown,third decade human stage,240,13.237727523441809
+27,Single-cell multi-omics analysis of the immune response in COVID-19,"erythroid progenitor cell, mammalian",CL:0001066,MH8919278,male,unknown,third decade human stage,1,0.05515719801434087
+28,Single-cell multi-omics analysis of the immune response in COVID-19,T follicular helper cell,CL:0002038,MH8919278,male,unknown,third decade human stage,4,0.2206287920573635

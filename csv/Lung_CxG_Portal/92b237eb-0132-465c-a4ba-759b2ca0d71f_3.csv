@@ -1,0 +1,43 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,"Krasnow Lab Human Lung Cell Atlas, 10X",fibroblast,CL:0000057,3,female,unknown,51-year-old human stage,1300,5.268276868212028
+1,"Krasnow Lab Human Lung Cell Atlas, 10X",ciliated cell,CL:0000064,3,female,unknown,51-year-old human stage,88,0.3566218187712757
+2,"Krasnow Lab Human Lung Cell Atlas, 10X",epithelial cell,CL:0000066,3,female,unknown,51-year-old human stage,669,2.7111363267952666
+3,"Krasnow Lab Human Lung Cell Atlas, 10X",endothelial cell,CL:0000115,3,female,unknown,51-year-old human stage,1275,5.166963851515643
+4,"Krasnow Lab Human Lung Cell Atlas, 10X",club cell,CL:0000158,3,female,unknown,51-year-old human stage,641,2.597665748095315
+5,"Krasnow Lab Human Lung Cell Atlas, 10X",myofibroblast cell,CL:0000186,3,female,unknown,51-year-old human stage,162,0.6565083481925759
+6,"Krasnow Lab Human Lung Cell Atlas, 10X",macrophage,CL:0000235,3,female,unknown,51-year-old human stage,88,0.3566218187712757
+7,"Krasnow Lab Human Lung Cell Atlas, 10X",B cell,CL:0000236,3,female,unknown,51-year-old human stage,193,0.7821364888960933
+8,"Krasnow Lab Human Lung Cell Atlas, 10X",mucus secreting cell,CL:0000319,3,female,unknown,51-year-old human stage,133,0.5389852488247691
+9,"Krasnow Lab Human Lung Cell Atlas, 10X",vascular associated smooth muscle cell,CL:0000359,3,female,unknown,51-year-old human stage,383,1.5521154157886206
+10,"Krasnow Lab Human Lung Cell Atlas, 10X",dendritic cell,CL:0000451,3,female,unknown,51-year-old human stage,218,0.8834495055924785
+11,"Krasnow Lab Human Lung Cell Atlas, 10X",lymphocyte,CL:0000542,3,female,unknown,51-year-old human stage,42,0.17020586804992707
+12,"Krasnow Lab Human Lung Cell Atlas, 10X",megakaryocyte,CL:0000556,3,female,unknown,51-year-old human stage,10,0.04052520667855406
+13,"Krasnow Lab Human Lung Cell Atlas, 10X",alveolar macrophage,CL:0000583,3,female,unknown,51-year-old human stage,5305,21.498622142972927
+14,"Krasnow Lab Human Lung Cell Atlas, 10X",natural killer cell,CL:0000623,3,female,unknown,51-year-old human stage,1211,4.907602528772896
+15,"Krasnow Lab Human Lung Cell Atlas, 10X",basal cell,CL:0000646,3,female,unknown,51-year-old human stage,241,0.9766574809531529
+16,"Krasnow Lab Human Lung Cell Atlas, 10X",pericyte,CL:0000669,3,female,unknown,51-year-old human stage,399,1.6169557464743072
+17,"Krasnow Lab Human Lung Cell Atlas, 10X",myeloid leukocyte,CL:0000766,3,female,unknown,51-year-old human stage,1019,4.129518560544659
+18,"Krasnow Lab Human Lung Cell Atlas, 10X",plasma cell,CL:0000786,3,female,unknown,51-year-old human stage,161,0.6524558275247204
+19,"Krasnow Lab Human Lung Cell Atlas, 10X",mature NK T cell,CL:0000814,3,female,unknown,51-year-old human stage,243,0.9847625222888636
+20,"Krasnow Lab Human Lung Cell Atlas, 10X",classical monocyte,CL:0000860,3,female,unknown,51-year-old human stage,542,2.19646620197763
+21,"Krasnow Lab Human Lung Cell Atlas, 10X",non-classical monocyte,CL:0000875,3,female,unknown,51-year-old human stage,268,1.0860755389852488
+22,"Krasnow Lab Human Lung Cell Atlas, 10X","naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,3,female,unknown,51-year-old human stage,199,0.8064516129032258
+23,"Krasnow Lab Human Lung Cell Atlas, 10X","naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,3,female,unknown,51-year-old human stage,534,2.1640460366347867
+24,"Krasnow Lab Human Lung Cell Atlas, 10X","effector memory CD4-positive, alpha-beta T cell",CL:0000905,3,female,unknown,51-year-old human stage,1901,7.7038417895931275
+25,"Krasnow Lab Human Lung Cell Atlas, 10X","effector memory CD8-positive, alpha-beta T cell",CL:0000913,3,female,unknown,51-year-old human stage,213,0.8631869022532015
+26,"Krasnow Lab Human Lung Cell Atlas, 10X","myeloid dendritic cell, human",CL:0001057,3,female,unknown,51-year-old human stage,50,0.2026260333927703
+27,"Krasnow Lab Human Lung Cell Atlas, 10X","plasmacytoid dendritic cell, human",CL:0001058,3,female,unknown,51-year-old human stage,47,0.19046847138920409
+28,"Krasnow Lab Human Lung Cell Atlas, 10X",type I pneumocyte,CL:0002062,3,female,unknown,51-year-old human stage,656,2.6584535581131465
+29,"Krasnow Lab Human Lung Cell Atlas, 10X",type II pneumocyte,CL:0002063,3,female,unknown,51-year-old human stage,2785,11.286270059977307
+30,"Krasnow Lab Human Lung Cell Atlas, 10X",endothelial cell of lymphatic vessel,CL:0002138,3,female,unknown,51-year-old human stage,180,0.729453720213973
+31,"Krasnow Lab Human Lung Cell Atlas, 10X",capillary endothelial cell,CL:0002144,3,female,unknown,51-year-old human stage,1434,5.811314637704652
+32,"Krasnow Lab Human Lung Cell Atlas, 10X",CD1c-positive myeloid dendritic cell,CL:0002399,3,female,unknown,51-year-old human stage,160,0.648403306856865
+33,"Krasnow Lab Human Lung Cell Atlas, 10X",vein endothelial cell,CL:0002543,3,female,unknown,51-year-old human stage,199,0.8064516129032258
+34,"Krasnow Lab Human Lung Cell Atlas, 10X",bronchial smooth muscle cell,CL:0002598,3,female,unknown,51-year-old human stage,327,1.3251742583887178
+35,"Krasnow Lab Human Lung Cell Atlas, 10X",respiratory basal cell,CL:0002633,3,female,unknown,51-year-old human stage,388,1.5723780191278975
+36,"Krasnow Lab Human Lung Cell Atlas, 10X",pulmonary ionocyte,CL:0017000,3,female,unknown,51-year-old human stage,22,0.08915545469281892
+37,"Krasnow Lab Human Lung Cell Atlas, 10X",tracheobronchial serous cell,CL:0019001,3,female,unknown,51-year-old human stage,24,0.09726049602852974
+38,"Krasnow Lab Human Lung Cell Atlas, 10X",lung goblet cell,CL:1000143,3,female,unknown,51-year-old human stage,159,0.6443507861890096
+39,"Krasnow Lab Human Lung Cell Atlas, 10X",lung neuroendocrine cell,CL:1000223,3,female,unknown,51-year-old human stage,11,0.04457772734640946
+40,"Krasnow Lab Human Lung Cell Atlas, 10X",lung ciliated cell,CL:1000271,3,female,unknown,51-year-old human stage,488,1.9776300859134381
+41,"Krasnow Lab Human Lung Cell Atlas, 10X",endothelial cell of artery,CL:1000413,3,female,unknown,51-year-old human stage,308,1.248176365699465

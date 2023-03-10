@@ -1,0 +1,29 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Global,mast cell,CL:0000097,A31,male,unknown,sixth decade human stage,1,0.048638132295719845
+1,Global,macrophage,CL:0000235,A31,male,unknown,sixth decade human stage,156,7.587548638132295
+2,Global,CD4-positive helper T cell,CL:0000492,A31,male,unknown,sixth decade human stage,5,0.24319066147859922
+3,Global,lymphocyte,CL:0000542,A31,male,unknown,sixth decade human stage,36,1.7509727626459144
+4,Global,animal cell,CL:0000548,A31,male,unknown,sixth decade human stage,82,3.988326848249027
+5,Global,alveolar macrophage,CL:0000583,A31,male,unknown,sixth decade human stage,3,0.14591439688715954
+6,Global,erythroid lineage cell,CL:0000764,A31,male,unknown,sixth decade human stage,1,0.048638132295719845
+7,Global,plasmacytoid dendritic cell,CL:0000784,A31,male,unknown,sixth decade human stage,2,0.09727626459143969
+8,Global,plasma cell,CL:0000786,A31,male,unknown,sixth decade human stage,85,4.134241245136186
+9,Global,memory B cell,CL:0000787,A31,male,unknown,sixth decade human stage,8,0.38910505836575876
+10,Global,naive B cell,CL:0000788,A31,male,unknown,sixth decade human stage,1,0.048638132295719845
+11,Global,alpha-beta T cell,CL:0000789,A31,male,unknown,sixth decade human stage,30,1.4591439688715953
+12,Global,gamma-delta T cell,CL:0000798,A31,male,unknown,sixth decade human stage,47,2.2859922178988326
+13,Global,regulatory T cell,CL:0000815,A31,male,unknown,sixth decade human stage,9,0.4377431906614786
+14,Global,classical monocyte,CL:0000860,A31,male,unknown,sixth decade human stage,380,18.482490272373543
+15,Global,non-classical monocyte,CL:0000875,A31,male,unknown,sixth decade human stage,56,2.7237354085603114
+16,Global,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,A31,male,unknown,sixth decade human stage,5,0.24319066147859922
+17,Global,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,A31,male,unknown,sixth decade human stage,9,0.4377431906614786
+18,Global,"effector memory CD4-positive, alpha-beta T cell",CL:0000905,A31,male,unknown,sixth decade human stage,14,0.6809338521400778
+19,Global,"CD8-positive, alpha-beta memory T cell",CL:0000909,A31,male,unknown,sixth decade human stage,7,0.3404669260700389
+20,Global,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,A31,male,unknown,sixth decade human stage,81,3.939688715953307
+21,Global,"CD16-positive, CD56-dim natural killer cell, human",CL:0000939,A31,male,unknown,sixth decade human stage,60,2.9182879377431905
+22,Global,mucosal invariant T cell,CL:0000940,A31,male,unknown,sixth decade human stage,937,45.57392996108949
+23,Global,plasmablast,CL:0000980,A31,male,unknown,sixth decade human stage,4,0.19455252918287938
+24,Global,conventional dendritic cell,CL:0000990,A31,male,unknown,sixth decade human stage,12,0.5836575875486382
+25,Global,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",CL:0001062,A31,male,unknown,sixth decade human stage,8,0.38910505836575876
+26,Global,group 3 innate lymphoid cell,CL:0001071,A31,male,unknown,sixth decade human stage,2,0.09727626459143969
+27,Global,"CD8-positive, alpha-beta memory T cell, CD45RO-positive",CL:0001203,A31,male,unknown,sixth decade human stage,15,0.7295719844357976

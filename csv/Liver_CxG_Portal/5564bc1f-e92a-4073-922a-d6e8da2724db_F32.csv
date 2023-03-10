@@ -1,0 +1,21 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Myeloid cells,native cell,CL:0000003,F32,female,unknown,Carnegie stage 20,70,1.072468208978091
+1,Myeloid cells,hematopoietic stem cell,CL:0000037,F32,female,unknown,Carnegie stage 20,202,3.0948368316224912
+2,Myeloid cells,common myeloid progenitor,CL:0000049,F32,female,unknown,Carnegie stage 20,7,0.1072468208978091
+3,Myeloid cells,megakaryocyte-erythroid progenitor cell,CL:0000050,F32,female,unknown,Carnegie stage 20,143,2.1908993411981004
+4,Myeloid cells,fibroblast,CL:0000057,F32,female,unknown,Carnegie stage 20,2,0.030641948827945457
+5,Myeloid cells,Kupffer cell,CL:0000091,F32,female,unknown,Carnegie stage 20,530,8.120116439405546
+6,Myeloid cells,granulocyte,CL:0000094,F32,female,unknown,Carnegie stage 20,110,1.685307185537
+7,Myeloid cells,mast cell,CL:0000097,F32,female,unknown,Carnegie stage 20,103,1.5780603646391909
+8,Myeloid cells,macrophage,CL:0000235,F32,female,unknown,Carnegie stage 20,4142,63.45947602267504
+9,Myeloid cells,dendritic cell,CL:0000451,F32,female,unknown,Carnegie stage 20,395,6.051784893519228
+10,Myeloid cells,megakaryocyte,CL:0000556,F32,female,unknown,Carnegie stage 20,3,0.04596292324191818
+11,Myeloid cells,granulocyte monocyte progenitor cell,CL:0000557,F32,female,unknown,Carnegie stage 20,15,0.22981461620959093
+12,Myeloid cells,promonocyte,CL:0000559,F32,female,unknown,Carnegie stage 20,118,1.807874980848782
+13,Myeloid cells,monocyte,CL:0000576,F32,female,unknown,Carnegie stage 20,498,7.629845258158419
+14,Myeloid cells,plasmacytoid dendritic cell,CL:0000784,F32,female,unknown,Carnegie stage 20,73,1.1184311322200091
+15,Myeloid cells,promyelocyte,CL:0000836,F32,female,unknown,Carnegie stage 20,5,0.07660487206986365
+16,Myeloid cells,hematopoietic multipotent progenitor cell,CL:0000837,F32,female,unknown,Carnegie stage 20,66,1.0111843113222
+17,Myeloid cells,early lymphoid progenitor,CL:0000936,F32,female,unknown,Carnegie stage 20,41,0.6281599509728819
+18,Myeloid cells,common dendritic progenitor,CL:0001029,F32,female,unknown,Carnegie stage 20,2,0.030641948827945457
+19,Myeloid cells,pre-conventional dendritic cell,CL:0002010,F32,female,unknown,Carnegie stage 20,2,0.030641948827945457

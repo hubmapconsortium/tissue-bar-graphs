@@ -1,0 +1,19 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Global,macrophage,CL:0000235,A29,female,unknown,seventh decade human stage,11,3.1791907514450863
+1,Global,CD4-positive helper T cell,CL:0000492,A29,female,unknown,seventh decade human stage,70,20.23121387283237
+2,Global,lymphocyte,CL:0000542,A29,female,unknown,seventh decade human stage,4,1.1560693641618496
+3,Global,animal cell,CL:0000548,A29,female,unknown,seventh decade human stage,1,0.2890173410404624
+4,Global,plasma cell,CL:0000786,A29,female,unknown,seventh decade human stage,7,2.023121387283237
+5,Global,memory B cell,CL:0000787,A29,female,unknown,seventh decade human stage,5,1.4450867052023122
+6,Global,naive B cell,CL:0000788,A29,female,unknown,seventh decade human stage,1,0.2890173410404624
+7,Global,alpha-beta T cell,CL:0000789,A29,female,unknown,seventh decade human stage,13,3.7572254335260116
+8,Global,gamma-delta T cell,CL:0000798,A29,female,unknown,seventh decade human stage,86,24.85549132947977
+9,Global,regulatory T cell,CL:0000815,A29,female,unknown,seventh decade human stage,2,0.5780346820809248
+10,Global,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,A29,female,unknown,seventh decade human stage,1,0.2890173410404624
+11,Global,"effector memory CD4-positive, alpha-beta T cell",CL:0000905,A29,female,unknown,seventh decade human stage,1,0.2890173410404624
+12,Global,"CD8-positive, alpha-beta memory T cell",CL:0000909,A29,female,unknown,seventh decade human stage,124,35.83815028901734
+13,Global,conventional dendritic cell,CL:0000990,A29,female,unknown,seventh decade human stage,8,2.312138728323699
+14,Global,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",CL:0001062,A29,female,unknown,seventh decade human stage,5,1.4450867052023122
+15,Global,group 3 innate lymphoid cell,CL:0001071,A29,female,unknown,seventh decade human stage,1,0.2890173410404624
+16,Global,"CD8-positive, alpha-beta memory T cell, CD45RO-positive",CL:0001203,A29,female,unknown,seventh decade human stage,3,0.8670520231213872
+17,Global,T follicular helper cell,CL:0002038,A29,female,unknown,seventh decade human stage,3,0.8670520231213872

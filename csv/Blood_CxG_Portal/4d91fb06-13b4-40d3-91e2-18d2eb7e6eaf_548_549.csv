@@ -1,0 +1,20 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,natural killer cell,CL:0000623,548_549,female,European,40-year-old human stage,121,8.557284299858557
+1,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,plasmacytoid dendritic cell,CL:0000784,548_549,female,European,40-year-old human stage,3,0.21216407355021216
+2,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,memory B cell,CL:0000787,548_549,female,European,40-year-old human stage,24,1.6973125884016973
+3,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,naive B cell,CL:0000788,548_549,female,European,40-year-old human stage,20,1.4144271570014144
+4,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,gamma-delta T cell,CL:0000798,548_549,female,European,40-year-old human stage,20,1.4144271570014144
+5,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,regulatory T cell,CL:0000815,548_549,female,European,40-year-old human stage,29,2.050919377652051
+6,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,transitional stage B cell,CL:0000818,548_549,female,European,40-year-old human stage,30,2.1216407355021216
+7,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,548_549,female,European,40-year-old human stage,418,29.56152758132956
+8,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,548_549,female,European,40-year-old human stage,290,20.509193776520508
+9,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"central memory CD4-positive, alpha-beta T cell",CL:0000904,548_549,female,European,40-year-old human stage,280,19.801980198019802
+10,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"effector memory CD4-positive, alpha-beta T cell",CL:0000905,548_549,female,European,40-year-old human stage,24,1.6973125884016973
+11,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"central memory CD8-positive, alpha-beta T cell",CL:0000907,548_549,female,European,40-year-old human stage,21,1.4851485148514851
+12,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,548_549,female,European,40-year-old human stage,60,4.243281471004243
+13,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,548_549,female,European,40-year-old human stage,9,0.6364922206506365
+14,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,mucosal invariant T cell,CL:0000940,548_549,female,European,40-year-old human stage,10,0.7072135785007072
+15,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,plasmablast,CL:0000980,548_549,female,European,40-year-old human stage,1,0.07072135785007072
+16,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,conventional dendritic cell,CL:0000990,548_549,female,European,40-year-old human stage,5,0.3536067892503536
+17,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,CD14-positive monocyte,CL:0001054,548_549,female,European,40-year-old human stage,16,1.1315417256011315
+18,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"CD14-low, CD16-positive monocyte",CL:0002396,548_549,female,European,40-year-old human stage,33,2.333804809052334

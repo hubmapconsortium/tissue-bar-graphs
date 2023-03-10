@@ -1,0 +1,16 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Single-cell multi-omics analysis of the immune response in COVID-19,platelet,CL:0000233,MH8919231,male,unknown,fourth decade human stage,95,13.768115942028986
+1,Single-cell multi-omics analysis of the immune response in COVID-19,B cell,CL:0000236,MH8919231,male,unknown,fourth decade human stage,31,4.492753623188406
+2,Single-cell multi-omics analysis of the immune response in COVID-19,natural killer cell,CL:0000623,MH8919231,male,unknown,fourth decade human stage,2,0.2898550724637681
+3,Single-cell multi-omics analysis of the immune response in COVID-19,naive B cell,CL:0000788,MH8919231,male,unknown,fourth decade human stage,220,31.88405797101449
+4,Single-cell multi-omics analysis of the immune response in COVID-19,immature B cell,CL:0000816,MH8919231,male,unknown,fourth decade human stage,29,4.202898550724638
+5,Single-cell multi-omics analysis of the immune response in COVID-19,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,MH8919231,male,unknown,fourth decade human stage,28,4.057971014492753
+6,Single-cell multi-omics analysis of the immune response in COVID-19,"CD16-positive, CD56-dim natural killer cell, human",CL:0000939,MH8919231,male,unknown,fourth decade human stage,195,28.26086956521739
+7,Single-cell multi-omics analysis of the immune response in COVID-19,unswitched memory B cell,CL:0000970,MH8919231,male,unknown,fourth decade human stage,32,4.63768115942029
+8,Single-cell multi-omics analysis of the immune response in COVID-19,class switched memory B cell,CL:0000972,MH8919231,male,unknown,fourth decade human stage,42,6.086956521739131
+9,Single-cell multi-omics analysis of the immune response in COVID-19,plasmablast,CL:0000980,MH8919231,male,unknown,fourth decade human stage,2,0.2898550724637681
+10,Single-cell multi-omics analysis of the immune response in COVID-19,IgG plasma cell,CL:0000985,MH8919231,male,unknown,fourth decade human stage,6,0.8695652173913043
+11,Single-cell multi-omics analysis of the immune response in COVID-19,IgM plasma cell,CL:0000986,MH8919231,male,unknown,fourth decade human stage,3,0.43478260869565216
+12,Single-cell multi-omics analysis of the immune response in COVID-19,IgA plasma cell,CL:0000987,MH8919231,male,unknown,fourth decade human stage,3,0.43478260869565216
+13,Single-cell multi-omics analysis of the immune response in COVID-19,"CD34-positive, CD38-negative hematopoietic stem cell",CL:0001024,MH8919231,male,unknown,fourth decade human stage,1,0.14492753623188406
+14,Single-cell multi-omics analysis of the immune response in COVID-19,"erythroid progenitor cell, mammalian",CL:0001066,MH8919231,male,unknown,fourth decade human stage,1,0.14492753623188406

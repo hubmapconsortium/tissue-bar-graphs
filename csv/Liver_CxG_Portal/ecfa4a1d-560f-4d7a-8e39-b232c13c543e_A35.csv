@@ -1,0 +1,20 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Global,mast cell,CL:0000097,A35,male,unknown,seventh decade human stage,1,0.4098360655737705
+1,Global,macrophage,CL:0000235,A35,male,unknown,seventh decade human stage,1,0.4098360655737705
+2,Global,CD4-positive helper T cell,CL:0000492,A35,male,unknown,seventh decade human stage,12,4.918032786885246
+3,Global,lymphocyte,CL:0000542,A35,male,unknown,seventh decade human stage,6,2.459016393442623
+4,Global,alveolar macrophage,CL:0000583,A35,male,unknown,seventh decade human stage,1,0.4098360655737705
+5,Global,memory B cell,CL:0000787,A35,male,unknown,seventh decade human stage,7,2.8688524590163933
+6,Global,alpha-beta T cell,CL:0000789,A35,male,unknown,seventh decade human stage,3,1.2295081967213115
+7,Global,gamma-delta T cell,CL:0000798,A35,male,unknown,seventh decade human stage,18,7.377049180327869
+8,Global,regulatory T cell,CL:0000815,A35,male,unknown,seventh decade human stage,1,0.4098360655737705
+9,Global,classical monocyte,CL:0000860,A35,male,unknown,seventh decade human stage,32,13.114754098360656
+10,Global,non-classical monocyte,CL:0000875,A35,male,unknown,seventh decade human stage,9,3.6885245901639343
+11,Global,"effector memory CD4-positive, alpha-beta T cell",CL:0000905,A35,male,unknown,seventh decade human stage,6,2.459016393442623
+12,Global,"CD8-positive, alpha-beta memory T cell",CL:0000909,A35,male,unknown,seventh decade human stage,14,5.737704918032787
+13,Global,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,A35,male,unknown,seventh decade human stage,35,14.344262295081966
+14,Global,"CD16-positive, CD56-dim natural killer cell, human",CL:0000939,A35,male,unknown,seventh decade human stage,28,11.475409836065573
+15,Global,mucosal invariant T cell,CL:0000940,A35,male,unknown,seventh decade human stage,5,2.0491803278688523
+16,Global,plasmablast,CL:0000980,A35,male,unknown,seventh decade human stage,1,0.4098360655737705
+17,Global,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",CL:0001062,A35,male,unknown,seventh decade human stage,44,18.0327868852459
+18,Global,"CD8-positive, alpha-beta memory T cell, CD45RO-positive",CL:0001203,A35,male,unknown,seventh decade human stage,20,8.19672131147541

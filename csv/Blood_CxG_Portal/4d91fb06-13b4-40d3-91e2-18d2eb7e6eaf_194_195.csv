@@ -1,0 +1,20 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,erythrocyte,CL:0000232,194_195,female,European,46-year-old human stage,1,0.07535795026375283
+1,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,natural killer cell,CL:0000623,194_195,female,European,46-year-old human stage,49,3.6925395629238884
+2,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,memory B cell,CL:0000787,194_195,female,European,46-year-old human stage,21,1.5825169555388092
+3,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,naive B cell,CL:0000788,194_195,female,European,46-year-old human stage,44,3.3157498116051247
+4,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,gamma-delta T cell,CL:0000798,194_195,female,European,46-year-old human stage,24,1.8085908063300677
+5,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,regulatory T cell,CL:0000815,194_195,female,European,46-year-old human stage,18,1.3564431047475507
+6,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,transitional stage B cell,CL:0000818,194_195,female,European,46-year-old human stage,18,1.3564431047475507
+7,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,194_195,female,European,46-year-old human stage,530,39.939713639789
+8,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,194_195,female,European,46-year-old human stage,119,8.967596081386587
+9,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"central memory CD4-positive, alpha-beta T cell",CL:0000904,194_195,female,European,46-year-old human stage,412,31.047475508666167
+10,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"effector memory CD4-positive, alpha-beta T cell",CL:0000905,194_195,female,European,46-year-old human stage,22,1.6578749058025624
+11,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"central memory CD8-positive, alpha-beta T cell",CL:0000907,194_195,female,European,46-year-old human stage,4,0.30143180105501133
+12,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,194_195,female,European,46-year-old human stage,41,3.089675960813866
+13,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"CD4-positive, alpha-beta cytotoxic T cell",CL:0000934,194_195,female,European,46-year-old human stage,4,0.30143180105501133
+14,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,194_195,female,European,46-year-old human stage,5,0.37678975131876413
+15,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,plasmablast,CL:0000980,194_195,female,European,46-year-old human stage,4,0.30143180105501133
+16,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,CD14-positive monocyte,CL:0001054,194_195,female,European,46-year-old human stage,2,0.15071590052750566
+17,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"CD14-low, CD16-positive monocyte",CL:0002396,194_195,female,European,46-year-old human stage,6,0.45214770158251694
+18,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,hematopoietic precursor cell,CL:0008001,194_195,female,European,46-year-old human stage,3,0.22607385079125847

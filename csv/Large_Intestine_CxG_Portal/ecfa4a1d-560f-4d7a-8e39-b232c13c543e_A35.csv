@@ -1,0 +1,21 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Global,mast cell,CL:0000097,A35,male,unknown,seventh decade human stage,1,1.1904761904761905
+1,Global,macrophage,CL:0000235,A35,male,unknown,seventh decade human stage,1,1.1904761904761905
+2,Global,CD4-positive helper T cell,CL:0000492,A35,male,unknown,seventh decade human stage,11,13.095238095238097
+3,Global,lymphocyte,CL:0000542,A35,male,unknown,seventh decade human stage,1,1.1904761904761905
+4,Global,animal cell,CL:0000548,A35,male,unknown,seventh decade human stage,2,2.380952380952381
+5,Global,alveolar macrophage,CL:0000583,A35,male,unknown,seventh decade human stage,1,1.1904761904761905
+6,Global,plasma cell,CL:0000786,A35,male,unknown,seventh decade human stage,9,10.714285714285714
+7,Global,memory B cell,CL:0000787,A35,male,unknown,seventh decade human stage,7,8.333333333333332
+8,Global,alpha-beta T cell,CL:0000789,A35,male,unknown,seventh decade human stage,6,7.142857142857142
+9,Global,gamma-delta T cell,CL:0000798,A35,male,unknown,seventh decade human stage,9,10.714285714285714
+10,Global,regulatory T cell,CL:0000815,A35,male,unknown,seventh decade human stage,4,4.761904761904762
+11,Global,germinal center B cell,CL:0000844,A35,male,unknown,seventh decade human stage,4,4.761904761904762
+12,Global,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,A35,male,unknown,seventh decade human stage,4,4.761904761904762
+13,Global,"effector memory CD4-positive, alpha-beta T cell",CL:0000905,A35,male,unknown,seventh decade human stage,2,2.380952380952381
+14,Global,"CD8-positive, alpha-beta memory T cell",CL:0000909,A35,male,unknown,seventh decade human stage,10,11.904761904761903
+15,Global,conventional dendritic cell,CL:0000990,A35,male,unknown,seventh decade human stage,3,3.571428571428571
+16,Global,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",CL:0001062,A35,male,unknown,seventh decade human stage,5,5.952380952380952
+17,Global,group 3 innate lymphoid cell,CL:0001071,A35,male,unknown,seventh decade human stage,1,1.1904761904761905
+18,Global,"CD8-positive, alpha-beta memory T cell, CD45RO-positive",CL:0001203,A35,male,unknown,seventh decade human stage,2,2.380952380952381
+19,Global,T follicular helper cell,CL:0002038,A35,male,unknown,seventh decade human stage,1,1.1904761904761905

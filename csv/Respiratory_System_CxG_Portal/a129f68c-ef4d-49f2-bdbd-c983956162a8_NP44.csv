@@ -1,0 +1,19 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Airway,ciliated cell,CL:0000064,NP44,female,European,6-12 year-old child stage,3,1.4705882352941175
+1,Airway,duct epithelial cell,CL:0000068,NP44,female,European,6-12 year-old child stage,1,0.49019607843137253
+2,Airway,squamous epithelial cell,CL:0000076,NP44,female,European,6-12 year-old child stage,3,1.4705882352941175
+3,Airway,mast cell,CL:0000097,NP44,female,European,6-12 year-old child stage,1,0.49019607843137253
+4,Airway,secretory cell,CL:0000151,NP44,female,European,6-12 year-old child stage,2,0.9803921568627451
+5,Airway,macrophage,CL:0000235,NP44,female,European,6-12 year-old child stage,3,1.4705882352941175
+6,Airway,dendritic cell,CL:0000451,NP44,female,European,6-12 year-old child stage,3,1.4705882352941175
+7,Airway,"CD4-positive, alpha-beta T cell",CL:0000624,NP44,female,European,6-12 year-old child stage,7,3.431372549019608
+8,Airway,plasma cell,CL:0000786,NP44,female,European,6-12 year-old child stage,2,0.9803921568627451
+9,Airway,memory B cell,CL:0000787,NP44,female,European,6-12 year-old child stage,34,16.666666666666664
+10,Airway,naive B cell,CL:0000788,NP44,female,European,6-12 year-old child stage,6,2.941176470588235
+11,Airway,gamma-delta T cell,CL:0000798,NP44,female,European,6-12 year-old child stage,1,0.49019607843137253
+12,Airway,mature NK T cell,CL:0000814,NP44,female,European,6-12 year-old child stage,1,0.49019607843137253
+13,Airway,naive T cell,CL:0000898,NP44,female,European,6-12 year-old child stage,21,10.294117647058822
+14,Airway,"CD8-positive, alpha-beta memory T cell",CL:0000909,NP44,female,European,6-12 year-old child stage,87,42.64705882352941
+15,Airway,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,NP44,female,European,6-12 year-old child stage,18,8.823529411764707
+16,Airway,innate lymphoid cell,CL:0001065,NP44,female,European,6-12 year-old child stage,2,0.9803921568627451
+17,Airway,tracheal goblet cell,CL:1000329,NP44,female,European,6-12 year-old child stage,9,4.411764705882353

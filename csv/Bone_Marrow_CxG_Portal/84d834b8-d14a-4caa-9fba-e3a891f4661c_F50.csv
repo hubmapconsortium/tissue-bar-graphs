@@ -1,0 +1,29 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Lymphoid cells,native cell,CL:0000003,F50,female,unknown,15th week post-fertilization human stage,27,1.4278159703860391
+1,Lymphoid cells,hematopoietic stem cell,CL:0000037,F50,female,unknown,15th week post-fertilization human stage,32,1.6922263352723426
+2,Lymphoid cells,common myeloid progenitor,CL:0000049,F50,female,unknown,15th week post-fertilization human stage,12,0.6345848757271285
+3,Lymphoid cells,megakaryocyte-erythroid progenitor cell,CL:0000050,F50,female,unknown,15th week post-fertilization human stage,4,0.21152829190904282
+4,Lymphoid cells,T cell,CL:0000084,F50,female,unknown,15th week post-fertilization human stage,27,1.4278159703860391
+5,Lymphoid cells,granulocyte monocyte progenitor cell,CL:0000557,F50,female,unknown,15th week post-fertilization human stage,2,0.10576414595452141
+6,Lymphoid cells,promonocyte,CL:0000559,F50,female,unknown,15th week post-fertilization human stage,2,0.10576414595452141
+7,Lymphoid cells,natural killer cell,CL:0000623,F50,female,unknown,15th week post-fertilization human stage,98,5.182443151771549
+8,Lymphoid cells,mature B cell,CL:0000785,F50,female,unknown,15th week post-fertilization human stage,1,0.052882072977260705
+9,Lymphoid cells,"double-positive, alpha-beta thymocyte",CL:0000809,F50,female,unknown,15th week post-fertilization human stage,2,0.10576414595452141
+10,Lymphoid cells,regulatory T cell,CL:0000815,F50,female,unknown,15th week post-fertilization human stage,5,0.26441036488630354
+11,Lymphoid cells,immature B cell,CL:0000816,F50,female,unknown,15th week post-fertilization human stage,7,0.370174510840825
+12,Lymphoid cells,B-1 B cell,CL:0000819,F50,female,unknown,15th week post-fertilization human stage,5,0.26441036488630354
+13,Lymphoid cells,B-2 B cell,CL:0000822,F50,female,unknown,15th week post-fertilization human stage,24,1.269169751454257
+14,Lymphoid cells,pro-B cell,CL:0000826,F50,female,unknown,15th week post-fertilization human stage,350,18.508725542041248
+15,Lymphoid cells,promyelocyte,CL:0000836,F50,female,unknown,15th week post-fertilization human stage,1,0.052882072977260705
+16,Lymphoid cells,hematopoietic multipotent progenitor cell,CL:0000837,F50,female,unknown,15th week post-fertilization human stage,23,1.2162876784769965
+17,Lymphoid cells,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,F50,female,unknown,15th week post-fertilization human stage,29,1.5335801163405607
+18,Lymphoid cells,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,F50,female,unknown,15th week post-fertilization human stage,32,1.6922263352723426
+19,Lymphoid cells,"CD8-alpha-alpha-positive, alpha-beta intraepithelial T cell",CL:0000915,F50,female,unknown,15th week post-fertilization human stage,3,0.15864621893178213
+20,Lymphoid cells,early lymphoid progenitor,CL:0000936,F50,female,unknown,15th week post-fertilization human stage,11,0.5817028027498677
+21,Lymphoid cells,small pre-B-II cell,CL:0000954,F50,female,unknown,15th week post-fertilization human stage,409,21.628767847699628
+22,Lymphoid cells,large pre-B-II cell,CL:0000957,F50,female,unknown,15th week post-fertilization human stage,360,19.037546271813856
+23,Lymphoid cells,innate lymphoid cell,CL:0001065,F50,female,unknown,15th week post-fertilization human stage,1,0.052882072977260705
+24,Lymphoid cells,group 3 innate lymphoid cell,CL:0001071,F50,female,unknown,15th week post-fertilization human stage,16,0.8461131676361713
+25,Lymphoid cells,fraction A pre-pro B cell,CL:0002045,F50,female,unknown,15th week post-fertilization human stage,131,6.927551560021153
+26,Lymphoid cells,late pro-B cell,CL:0002048,F50,female,unknown,15th week post-fertilization human stage,270,14.278159703860391
+27,Lymphoid cells,double negative thymocyte,CL:0002489,F50,female,unknown,15th week post-fertilization human stage,7,0.370174510840825

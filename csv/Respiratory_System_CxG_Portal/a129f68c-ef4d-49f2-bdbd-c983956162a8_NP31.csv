@@ -1,0 +1,30 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Airway,native cell,CL:0000003,NP31,male,African,6-12 year-old child stage,2,0.07544322897019992
+1,Airway,ciliated cell,CL:0000064,NP31,male,African,6-12 year-old child stage,760,28.668427008675973
+2,Airway,duct epithelial cell,CL:0000068,NP31,male,African,6-12 year-old child stage,11,0.4149377593360996
+3,Airway,T cell,CL:0000084,NP31,male,African,6-12 year-old child stage,2,0.07544322897019992
+4,Airway,secretory cell,CL:0000151,NP31,male,African,6-12 year-old child stage,125,4.715201810637495
+5,Airway,club cell,CL:0000158,NP31,male,African,6-12 year-old child stage,452,17.050169747265183
+6,Airway,B cell,CL:0000236,NP31,male,African,6-12 year-old child stage,17,0.6412674462466994
+7,Airway,dendritic cell,CL:0000451,NP31,male,African,6-12 year-old child stage,54,2.036967182195398
+8,Airway,monocyte,CL:0000576,NP31,male,African,6-12 year-old child stage,6,0.2263296869105998
+9,Airway,"CD4-positive, alpha-beta T cell",CL:0000624,NP31,male,African,6-12 year-old child stage,1,0.03772161448509996
+10,Airway,memory B cell,CL:0000787,NP31,male,African,6-12 year-old child stage,244,9.20407393436439
+11,Airway,naive B cell,CL:0000788,NP31,male,African,6-12 year-old child stage,121,4.564315352697095
+12,Airway,gamma-delta T cell,CL:0000798,NP31,male,African,6-12 year-old child stage,8,0.3017729158807997
+13,Airway,mature NK T cell,CL:0000814,NP31,male,African,6-12 year-old child stage,1,0.03772161448509996
+14,Airway,regulatory T cell,CL:0000815,NP31,male,African,6-12 year-old child stage,1,0.03772161448509996
+15,Airway,alternatively activated macrophage,CL:0000890,NP31,male,African,6-12 year-old child stage,9,0.33949453036589966
+16,Airway,"CD4-positive, alpha-beta memory T cell",CL:0000897,NP31,male,African,6-12 year-old child stage,27,1.018483591097699
+17,Airway,naive T cell,CL:0000898,NP31,male,African,6-12 year-old child stage,11,0.4149377593360996
+18,Airway,"CD8-positive, alpha-beta memory T cell",CL:0000909,NP31,male,African,6-12 year-old child stage,183,6.9030554507732935
+19,Airway,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,NP31,male,African,6-12 year-old child stage,9,0.33949453036589966
+20,Airway,"CD16-positive, CD56-dim natural killer cell, human",CL:0000939,NP31,male,African,6-12 year-old child stage,1,0.03772161448509996
+21,Airway,mucosal invariant T cell,CL:0000940,NP31,male,African,6-12 year-old child stage,1,0.03772161448509996
+22,Airway,innate lymphoid cell,CL:0001065,NP31,male,African,6-12 year-old child stage,9,0.33949453036589966
+23,Airway,T follicular helper cell,CL:0002038,NP31,male,African,6-12 year-old child stage,7,0.2640513013956997
+24,Airway,brush cell of trachea,CL:0002207,NP31,male,African,6-12 year-old child stage,2,0.07544322897019992
+25,Airway,multi-ciliated epithelial cell,CL:0005012,NP31,male,African,6-12 year-old child stage,1,0.03772161448509996
+26,Airway,pulmonary ionocyte,CL:0017000,NP31,male,African,6-12 year-old child stage,1,0.03772161448509996
+27,Airway,tracheal goblet cell,CL:1000329,NP31,male,African,6-12 year-old child stage,449,16.937004903809882
+28,Airway,basal cell of epithelium of trachea,CL:1000348,NP31,male,African,6-12 year-old child stage,136,5.130139569973595

@@ -1,0 +1,17 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Single cell RNA sequencing of follicular lymphoma,T cell,CL:0000084,Control-053,unknown,unknown,unknown,508,9.32452276064611
+1,Single cell RNA sequencing of follicular lymphoma,B cell,CL:0000236,Control-053,unknown,unknown,unknown,2142,39.31718061674009
+2,Single cell RNA sequencing of follicular lymphoma,follicular dendritic cell,CL:0000442,Control-053,unknown,unknown,unknown,1,0.018355359765051395
+3,Single cell RNA sequencing of follicular lymphoma,"CD4-positive, alpha-beta T cell",CL:0000624,Control-053,unknown,unknown,unknown,155,2.845080763582966
+4,Single cell RNA sequencing of follicular lymphoma,"CD8-positive, alpha-beta T cell",CL:0000625,Control-053,unknown,unknown,unknown,141,2.5881057268722465
+5,Single cell RNA sequencing of follicular lymphoma,myeloid cell,CL:0000763,Control-053,unknown,unknown,unknown,152,2.7900146842878124
+6,Single cell RNA sequencing of follicular lymphoma,plasmacytoid dendritic cell,CL:0000784,Control-053,unknown,unknown,unknown,89,1.633627019089574
+7,Single cell RNA sequencing of follicular lymphoma,plasma cell,CL:0000786,Control-053,unknown,unknown,unknown,29,0.5323054331864905
+8,Single cell RNA sequencing of follicular lymphoma,mature NK T cell,CL:0000814,Control-053,unknown,unknown,unknown,196,3.5976505139500734
+9,Single cell RNA sequencing of follicular lymphoma,regulatory T cell,CL:0000815,Control-053,unknown,unknown,unknown,480,8.81057268722467
+10,Single cell RNA sequencing of follicular lymphoma,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,Control-053,unknown,unknown,unknown,244,4.47870778267254
+11,Single cell RNA sequencing of follicular lymphoma,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,Control-053,unknown,unknown,unknown,168,3.0837004405286343
+12,Single cell RNA sequencing of follicular lymphoma,"CD4-positive, alpha-beta cytotoxic T cell",CL:0000934,Control-053,unknown,unknown,unknown,320,5.873715124816446
+13,Single cell RNA sequencing of follicular lymphoma,"effector CD8-positive, alpha-beta T cell",CL:0001050,Control-053,unknown,unknown,unknown,205,3.762848751835536
+14,Single cell RNA sequencing of follicular lymphoma,T follicular helper cell,CL:0002038,Control-053,unknown,unknown,unknown,283,5.194566813509545
+15,Single cell RNA sequencing of follicular lymphoma,exhausted T cell,CL:0011025,Control-053,unknown,unknown,unknown,335,6.1490455212922175

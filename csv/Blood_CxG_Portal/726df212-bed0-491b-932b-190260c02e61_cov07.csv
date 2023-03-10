@@ -1,0 +1,23 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,hematopoietic stem cell,CL:0000037,cov07,female,European,84-year-old human stage,73,1.5449735449735449
+1,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,erythrocyte,CL:0000232,cov07,female,European,84-year-old human stage,1,0.021164021164021166
+2,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,CL:0000233,cov07,female,European,84-year-old human stage,109,2.306878306878307
+3,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,lymphocyte,CL:0000542,cov07,female,European,84-year-old human stage,21,0.4444444444444444
+4,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,natural killer cell,CL:0000623,cov07,female,European,84-year-old human stage,251,5.312169312169312
+5,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,memory B cell,CL:0000787,cov07,female,European,84-year-old human stage,10,0.21164021164021166
+6,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,naive B cell,CL:0000788,cov07,female,European,84-year-old human stage,203,4.296296296296296
+7,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,regulatory T cell,CL:0000815,cov07,female,European,84-year-old human stage,146,3.0899470899470898
+8,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,transitional stage B cell,CL:0000818,cov07,female,European,84-year-old human stage,113,2.391534391534391
+9,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,CL:0000860,cov07,female,European,84-year-old human stage,728,15.407407407407408
+10,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,non-classical monocyte,CL:0000875,cov07,female,European,84-year-old human stage,437,9.248677248677248
+11,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,cov07,female,European,84-year-old human stage,617,13.058201058201057
+12,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,cov07,female,European,84-year-old human stage,4,0.08465608465608467
+13,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"central memory CD4-positive, alpha-beta T cell",CL:0000904,cov07,female,European,84-year-old human stage,808,17.100529100529098
+14,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,cov07,female,European,84-year-old human stage,712,15.068783068783068
+15,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD4-positive, alpha-beta cytotoxic T cell",CL:0000934,cov07,female,European,84-year-old human stage,152,3.2169312169312168
+16,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,cov07,female,European,84-year-old human stage,8,0.16931216931216933
+17,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,plasmablast,CL:0000980,cov07,female,European,84-year-old human stage,10,0.21164021164021166
+18,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,conventional dendritic cell,CL:0000990,cov07,female,European,84-year-old human stage,148,3.132275132275132
+19,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"activated CD4-positive, alpha-beta T cell, human",CL:0001043,cov07,female,European,84-year-old human stage,1,0.021164021164021166
+20,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"activated CD8-positive, alpha-beta T cell, human",CL:0001049,cov07,female,European,84-year-old human stage,1,0.021164021164021166
+21,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"plasmacytoid dendritic cell, human",CL:0001058,cov07,female,European,84-year-old human stage,172,3.64021164021164

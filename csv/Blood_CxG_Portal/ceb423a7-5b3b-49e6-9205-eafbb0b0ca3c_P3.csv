@@ -1,0 +1,31 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,nygc multimodal pbmc,native cell,CL:0000003,P3,unknown,unknown,unknown,77,0.5252387448840382
+1,nygc multimodal pbmc,hematopoietic stem cell,CL:0000037,P3,unknown,unknown,unknown,20,0.1364256480218281
+2,nygc multimodal pbmc,erythrocyte,CL:0000232,P3,unknown,unknown,unknown,11,0.07503410641200546
+3,nygc multimodal pbmc,platelet,CL:0000233,P3,unknown,unknown,unknown,58,0.39563437926330147
+4,nygc multimodal pbmc,B cell,CL:0000236,P3,unknown,unknown,unknown,209,1.4256480218281038
+5,nygc multimodal pbmc,natural killer cell,CL:0000623,P3,unknown,unknown,unknown,2323,15.845839017735333
+6,nygc multimodal pbmc,"CD4-positive, alpha-beta T cell",CL:0000624,P3,unknown,unknown,unknown,13,0.08867667121418826
+7,nygc multimodal pbmc,"CD8-positive, alpha-beta T cell",CL:0000625,P3,unknown,unknown,unknown,2,0.013642564802182811
+8,nygc multimodal pbmc,plasmacytoid dendritic cell,CL:0000784,P3,unknown,unknown,unknown,79,0.538881309686221
+9,nygc multimodal pbmc,memory B cell,CL:0000787,P3,unknown,unknown,unknown,132,0.9004092769440655
+10,nygc multimodal pbmc,naive B cell,CL:0000788,P3,unknown,unknown,unknown,571,3.8949522510231924
+11,nygc multimodal pbmc,gamma-delta T cell,CL:0000798,P3,unknown,unknown,unknown,50,0.34106412005457026
+12,nygc multimodal pbmc,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,P3,unknown,unknown,unknown,1646,11.227830832196453
+13,nygc multimodal pbmc,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,P3,unknown,unknown,unknown,710,4.843110504774898
+14,nygc multimodal pbmc,"central memory CD4-positive, alpha-beta T cell",CL:0000904,P3,unknown,unknown,unknown,2114,14.42019099590723
+15,nygc multimodal pbmc,"effector memory CD4-positive, alpha-beta T cell",CL:0000905,P3,unknown,unknown,unknown,701,4.7817189631650745
+16,nygc multimodal pbmc,"central memory CD8-positive, alpha-beta T cell",CL:0000907,P3,unknown,unknown,unknown,213,1.4529331514324693
+17,nygc multimodal pbmc,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,P3,unknown,unknown,unknown,698,4.761255115961801
+18,nygc multimodal pbmc,"CD4-positive, alpha-beta cytotoxic T cell",CL:0000934,P3,unknown,unknown,unknown,5,0.034106412005457026
+19,nygc multimodal pbmc,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,P3,unknown,unknown,unknown,100,0.6821282401091405
+20,nygc multimodal pbmc,mucosal invariant T cell,CL:0000940,P3,unknown,unknown,unknown,373,2.544338335607094
+21,nygc multimodal pbmc,plasmablast,CL:0000980,P3,unknown,unknown,unknown,13,0.08867667121418826
+22,nygc multimodal pbmc,conventional dendritic cell,CL:0000990,P3,unknown,unknown,unknown,168,1.145975443383356
+23,nygc multimodal pbmc,CD14-positive monocyte,CL:0001054,P3,unknown,unknown,unknown,3321,22.653478854024556
+24,nygc multimodal pbmc,"myeloid dendritic cell, human",CL:0001057,P3,unknown,unknown,unknown,3,0.020463847203274214
+25,nygc multimodal pbmc,innate lymphoid cell,CL:0001065,P3,unknown,unknown,unknown,14,0.09549795361527967
+26,nygc multimodal pbmc,"CD14-low, CD16-positive monocyte",CL:0002396,P3,unknown,unknown,unknown,767,5.231923601637107
+27,nygc multimodal pbmc,double negative thymocyte,CL:0002489,P3,unknown,unknown,unknown,27,0.18417462482946792
+28,nygc multimodal pbmc,naive regulatory T cell,CL:0002677,P3,unknown,unknown,unknown,77,0.5252387448840382
+29,nygc multimodal pbmc,memory regulatory T cell,CL:0002678,P3,unknown,unknown,unknown,165,1.125511596180082

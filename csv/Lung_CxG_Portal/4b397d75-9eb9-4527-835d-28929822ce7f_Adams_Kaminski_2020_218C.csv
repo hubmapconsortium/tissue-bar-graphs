@@ -1,0 +1,30 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,The single-cell lung cancer atlas (LuCA) -- core atlas,epithelial cell of lung,CL:0000082,Adams_Kaminski_2020_218C,male,unknown,29-year-old human stage,43,1.156224791610648
+1,The single-cell lung cancer atlas (LuCA) -- core atlas,mast cell,CL:0000097,Adams_Kaminski_2020_218C,male,unknown,29-year-old human stage,8,0.21511158913686476
+2,The single-cell lung cancer atlas (LuCA) -- core atlas,club cell,CL:0000158,Adams_Kaminski_2020_218C,male,unknown,29-year-old human stage,5,0.13444474321054048
+3,The single-cell lung cancer atlas (LuCA) -- core atlas,macrophage,CL:0000235,Adams_Kaminski_2020_218C,male,unknown,29-year-old human stage,695,18.687819306265123
+4,The single-cell lung cancer atlas (LuCA) -- core atlas,B cell,CL:0000236,Adams_Kaminski_2020_218C,male,unknown,29-year-old human stage,58,1.5595590212422694
+5,The single-cell lung cancer atlas (LuCA) -- core atlas,dendritic cell,CL:0000451,Adams_Kaminski_2020_218C,male,unknown,29-year-old human stage,17,0.45711212691583764
+6,The single-cell lung cancer atlas (LuCA) -- core atlas,stromal cell,CL:0000499,Adams_Kaminski_2020_218C,male,unknown,29-year-old human stage,3,0.08066684592632428
+7,The single-cell lung cancer atlas (LuCA) -- core atlas,alveolar macrophage,CL:0000583,Adams_Kaminski_2020_218C,male,unknown,29-year-old human stage,308,8.281796181769293
+8,The single-cell lung cancer atlas (LuCA) -- core atlas,natural killer cell,CL:0000623,Adams_Kaminski_2020_218C,male,unknown,29-year-old human stage,197,5.2971228824952945
+9,The single-cell lung cancer atlas (LuCA) -- core atlas,"CD4-positive, alpha-beta T cell",CL:0000624,Adams_Kaminski_2020_218C,male,unknown,29-year-old human stage,154,4.140898090884646
+10,The single-cell lung cancer atlas (LuCA) -- core atlas,"CD8-positive, alpha-beta T cell",CL:0000625,Adams_Kaminski_2020_218C,male,unknown,29-year-old human stage,96,2.581339069642377
+11,The single-cell lung cancer atlas (LuCA) -- core atlas,myeloid cell,CL:0000763,Adams_Kaminski_2020_218C,male,unknown,29-year-old human stage,9,0.24200053777897285
+12,The single-cell lung cancer atlas (LuCA) -- core atlas,neutrophil,CL:0000775,Adams_Kaminski_2020_218C,male,unknown,29-year-old human stage,10,0.26888948642108096
+13,The single-cell lung cancer atlas (LuCA) -- core atlas,plasmacytoid dendritic cell,CL:0000784,Adams_Kaminski_2020_218C,male,unknown,29-year-old human stage,1,0.026888948642108095
+14,The single-cell lung cancer atlas (LuCA) -- core atlas,plasma cell,CL:0000786,Adams_Kaminski_2020_218C,male,unknown,29-year-old human stage,5,0.13444474321054048
+15,The single-cell lung cancer atlas (LuCA) -- core atlas,regulatory T cell,CL:0000815,Adams_Kaminski_2020_218C,male,unknown,29-year-old human stage,24,0.6453347674105943
+16,The single-cell lung cancer atlas (LuCA) -- core atlas,classical monocyte,CL:0000860,Adams_Kaminski_2020_218C,male,unknown,29-year-old human stage,1820,48.93788652863673
+17,The single-cell lung cancer atlas (LuCA) -- core atlas,non-classical monocyte,CL:0000875,Adams_Kaminski_2020_218C,male,unknown,29-year-old human stage,13,0.34955633234740524
+18,The single-cell lung cancer atlas (LuCA) -- core atlas,conventional dendritic cell,CL:0000990,Adams_Kaminski_2020_218C,male,unknown,29-year-old human stage,1,0.026888948642108095
+19,The single-cell lung cancer atlas (LuCA) -- core atlas,malignant cell,CL:0001064,Adams_Kaminski_2020_218C,male,unknown,29-year-old human stage,43,1.156224791610648
+20,The single-cell lung cancer atlas (LuCA) -- core atlas,type I pneumocyte,CL:0002062,Adams_Kaminski_2020_218C,male,unknown,29-year-old human stage,3,0.08066684592632428
+21,The single-cell lung cancer atlas (LuCA) -- core atlas,type II pneumocyte,CL:0002063,Adams_Kaminski_2020_218C,male,unknown,29-year-old human stage,13,0.34955633234740524
+22,The single-cell lung cancer atlas (LuCA) -- core atlas,endothelial cell of lymphatic vessel,CL:0002138,Adams_Kaminski_2020_218C,male,unknown,29-year-old human stage,19,0.5108900242000538
+23,The single-cell lung cancer atlas (LuCA) -- core atlas,CD1c-positive myeloid dendritic cell,CL:0002399,Adams_Kaminski_2020_218C,male,unknown,29-year-old human stage,40,1.0755579456843238
+24,The single-cell lung cancer atlas (LuCA) -- core atlas,vein endothelial cell,CL:0002543,Adams_Kaminski_2020_218C,male,unknown,29-year-old human stage,9,0.24200053777897285
+25,The single-cell lung cancer atlas (LuCA) -- core atlas,fibroblast of lung,CL:0002553,Adams_Kaminski_2020_218C,male,unknown,29-year-old human stage,25,0.6722237160527024
+26,The single-cell lung cancer atlas (LuCA) -- core atlas,multi-ciliated epithelial cell,CL:0005012,Adams_Kaminski_2020_218C,male,unknown,29-year-old human stage,96,2.581339069642377
+27,The single-cell lung cancer atlas (LuCA) -- core atlas,pulmonary artery endothelial cell,CL:1001568,Adams_Kaminski_2020_218C,male,unknown,29-year-old human stage,1,0.026888948642108095
+28,The single-cell lung cancer atlas (LuCA) -- core atlas,bronchus fibroblast of lung,CL:2000093,Adams_Kaminski_2020_218C,male,unknown,29-year-old human stage,3,0.08066684592632428

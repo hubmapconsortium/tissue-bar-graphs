@@ -1,0 +1,29 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,The single-cell lung cancer atlas (LuCA) -- core atlas,epithelial cell of lung,CL:0000082,Habermann_Kropski_2020_VUHD68,male,unknown,unknown,28,0.4780604404985488
+1,The single-cell lung cancer atlas (LuCA) -- core atlas,mast cell,CL:0000097,Habermann_Kropski_2020_VUHD68,male,unknown,unknown,15,0.2561038074099368
+2,The single-cell lung cancer atlas (LuCA) -- core atlas,club cell,CL:0000158,Habermann_Kropski_2020_VUHD68,male,unknown,unknown,32,0.5463547891411986
+3,The single-cell lung cancer atlas (LuCA) -- core atlas,smooth muscle cell,CL:0000192,Habermann_Kropski_2020_VUHD68,male,unknown,unknown,49,0.8366057708724604
+4,The single-cell lung cancer atlas (LuCA) -- core atlas,macrophage,CL:0000235,Habermann_Kropski_2020_VUHD68,male,unknown,unknown,1055,18.01263445449889
+5,The single-cell lung cancer atlas (LuCA) -- core atlas,B cell,CL:0000236,Habermann_Kropski_2020_VUHD68,male,unknown,unknown,25,0.4268396790165614
+6,The single-cell lung cancer atlas (LuCA) -- core atlas,dendritic cell,CL:0000451,Habermann_Kropski_2020_VUHD68,male,unknown,unknown,1,0.017073587160662457
+7,The single-cell lung cancer atlas (LuCA) -- core atlas,alveolar macrophage,CL:0000583,Habermann_Kropski_2020_VUHD68,male,unknown,unknown,1865,31.84224005463548
+8,The single-cell lung cancer atlas (LuCA) -- core atlas,natural killer cell,CL:0000623,Habermann_Kropski_2020_VUHD68,male,unknown,unknown,95,1.6219907802629334
+9,The single-cell lung cancer atlas (LuCA) -- core atlas,"CD4-positive, alpha-beta T cell",CL:0000624,Habermann_Kropski_2020_VUHD68,male,unknown,unknown,64,1.0927095782823972
+10,The single-cell lung cancer atlas (LuCA) -- core atlas,"CD8-positive, alpha-beta T cell",CL:0000625,Habermann_Kropski_2020_VUHD68,male,unknown,unknown,59,1.0073416424790849
+11,The single-cell lung cancer atlas (LuCA) -- core atlas,pericyte,CL:0000669,Habermann_Kropski_2020_VUHD68,male,unknown,unknown,55,0.939047293836435
+12,The single-cell lung cancer atlas (LuCA) -- core atlas,myeloid cell,CL:0000763,Habermann_Kropski_2020_VUHD68,male,unknown,unknown,38,0.6487963121051733
+13,The single-cell lung cancer atlas (LuCA) -- core atlas,plasma cell,CL:0000786,Habermann_Kropski_2020_VUHD68,male,unknown,unknown,2,0.034147174321324913
+14,The single-cell lung cancer atlas (LuCA) -- core atlas,regulatory T cell,CL:0000815,Habermann_Kropski_2020_VUHD68,male,unknown,unknown,1,0.017073587160662457
+15,The single-cell lung cancer atlas (LuCA) -- core atlas,classical monocyte,CL:0000860,Habermann_Kropski_2020_VUHD68,male,unknown,unknown,284,4.848898753628137
+16,The single-cell lung cancer atlas (LuCA) -- core atlas,non-classical monocyte,CL:0000875,Habermann_Kropski_2020_VUHD68,male,unknown,unknown,2,0.034147174321324913
+17,The single-cell lung cancer atlas (LuCA) -- core atlas,malignant cell,CL:0001064,Habermann_Kropski_2020_VUHD68,male,unknown,unknown,5,0.08536793580331228
+18,The single-cell lung cancer atlas (LuCA) -- core atlas,type I pneumocyte,CL:0002062,Habermann_Kropski_2020_VUHD68,male,unknown,unknown,12,0.20488304592794948
+19,The single-cell lung cancer atlas (LuCA) -- core atlas,type II pneumocyte,CL:0002063,Habermann_Kropski_2020_VUHD68,male,unknown,unknown,43,0.7341642479084856
+20,The single-cell lung cancer atlas (LuCA) -- core atlas,endothelial cell of lymphatic vessel,CL:0002138,Habermann_Kropski_2020_VUHD68,male,unknown,unknown,10,0.17073587160662457
+21,The single-cell lung cancer atlas (LuCA) -- core atlas,capillary endothelial cell,CL:0002144,Habermann_Kropski_2020_VUHD68,male,unknown,unknown,1674,28.58118490694895
+22,The single-cell lung cancer atlas (LuCA) -- core atlas,CD1c-positive myeloid dendritic cell,CL:0002399,Habermann_Kropski_2020_VUHD68,male,unknown,unknown,69,1.1780775140857094
+23,The single-cell lung cancer atlas (LuCA) -- core atlas,vein endothelial cell,CL:0002543,Habermann_Kropski_2020_VUHD68,male,unknown,unknown,110,1.87809458767287
+24,The single-cell lung cancer atlas (LuCA) -- core atlas,fibroblast of lung,CL:0002553,Habermann_Kropski_2020_VUHD68,male,unknown,unknown,49,0.8366057708724604
+25,The single-cell lung cancer atlas (LuCA) -- core atlas,multi-ciliated epithelial cell,CL:0005012,Habermann_Kropski_2020_VUHD68,male,unknown,unknown,33,0.563428376301861
+26,The single-cell lung cancer atlas (LuCA) -- core atlas,pulmonary artery endothelial cell,CL:1001568,Habermann_Kropski_2020_VUHD68,male,unknown,unknown,180,3.073245688919242
+27,The single-cell lung cancer atlas (LuCA) -- core atlas,bronchus fibroblast of lung,CL:2000093,Habermann_Kropski_2020_VUHD68,male,unknown,unknown,2,0.034147174321324913

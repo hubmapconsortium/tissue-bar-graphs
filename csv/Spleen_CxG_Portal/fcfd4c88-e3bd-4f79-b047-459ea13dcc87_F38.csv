@@ -1,0 +1,37 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,HSC/immune cells (all hematopoietic-derived cells),native cell,CL:0000003,F38,male,unknown,12th week post-fertilization human stage,255,6.5670873036312125
+1,HSC/immune cells (all hematopoietic-derived cells),hematopoietic stem cell,CL:0000037,F38,male,unknown,12th week post-fertilization human stage,9,0.23177955189286636
+2,HSC/immune cells (all hematopoietic-derived cells),common myeloid progenitor,CL:0000049,F38,male,unknown,12th week post-fertilization human stage,4,0.10301313417460728
+3,HSC/immune cells (all hematopoietic-derived cells),megakaryocyte-erythroid progenitor cell,CL:0000050,F38,male,unknown,12th week post-fertilization human stage,42,1.0816379088333763
+4,HSC/immune cells (all hematopoietic-derived cells),fibroblast,CL:0000057,F38,male,unknown,12th week post-fertilization human stage,3,0.07725985063095545
+5,HSC/immune cells (all hematopoietic-derived cells),T cell,CL:0000084,F38,male,unknown,12th week post-fertilization human stage,81,2.086015967035797
+6,HSC/immune cells (all hematopoietic-derived cells),granulocyte,CL:0000094,F38,male,unknown,12th week post-fertilization human stage,19,0.48931238732938453
+7,HSC/immune cells (all hematopoietic-derived cells),mast cell,CL:0000097,F38,male,unknown,12th week post-fertilization human stage,52,1.3391707442698944
+8,HSC/immune cells (all hematopoietic-derived cells),erythrocyte,CL:0000232,F38,male,unknown,12th week post-fertilization human stage,252,6.489827453000258
+9,HSC/immune cells (all hematopoietic-derived cells),macrophage,CL:0000235,F38,male,unknown,12th week post-fertilization human stage,1260,32.44913726500129
+10,HSC/immune cells (all hematopoietic-derived cells),vascular associated smooth muscle cell,CL:0000359,F38,male,unknown,12th week post-fertilization human stage,10,0.25753283543651817
+11,HSC/immune cells (all hematopoietic-derived cells),dendritic cell,CL:0000451,F38,male,unknown,12th week post-fertilization human stage,101,2.601081637908833
+12,HSC/immune cells (all hematopoietic-derived cells),megakaryocyte,CL:0000556,F38,male,unknown,12th week post-fertilization human stage,548,14.112799381921196
+13,HSC/immune cells (all hematopoietic-derived cells),granulocyte monocyte progenitor cell,CL:0000557,F38,male,unknown,12th week post-fertilization human stage,3,0.07725985063095545
+14,HSC/immune cells (all hematopoietic-derived cells),promonocyte,CL:0000559,F38,male,unknown,12th week post-fertilization human stage,3,0.07725985063095545
+15,HSC/immune cells (all hematopoietic-derived cells),monocyte,CL:0000576,F38,male,unknown,12th week post-fertilization human stage,89,2.2920422353850114
+16,HSC/immune cells (all hematopoietic-derived cells),natural killer cell,CL:0000623,F38,male,unknown,12th week post-fertilization human stage,385,9.91501416430595
+17,HSC/immune cells (all hematopoietic-derived cells),plasmacytoid dendritic cell,CL:0000784,F38,male,unknown,12th week post-fertilization human stage,30,0.7725985063095545
+18,HSC/immune cells (all hematopoietic-derived cells),mature B cell,CL:0000785,F38,male,unknown,12th week post-fertilization human stage,42,1.0816379088333763
+19,HSC/immune cells (all hematopoietic-derived cells),regulatory T cell,CL:0000815,F38,male,unknown,12th week post-fertilization human stage,30,0.7725985063095545
+20,HSC/immune cells (all hematopoietic-derived cells),immature B cell,CL:0000816,F38,male,unknown,12th week post-fertilization human stage,92,2.369302086015967
+21,HSC/immune cells (all hematopoietic-derived cells),B-1 B cell,CL:0000819,F38,male,unknown,12th week post-fertilization human stage,59,1.5194437290754572
+22,HSC/immune cells (all hematopoietic-derived cells),B-2 B cell,CL:0000822,F38,male,unknown,12th week post-fertilization human stage,290,7.468452227659027
+23,HSC/immune cells (all hematopoietic-derived cells),pro-B cell,CL:0000826,F38,male,unknown,12th week post-fertilization human stage,6,0.1545197012619109
+24,HSC/immune cells (all hematopoietic-derived cells),promyelocyte,CL:0000836,F38,male,unknown,12th week post-fertilization human stage,9,0.23177955189286636
+25,HSC/immune cells (all hematopoietic-derived cells),hematopoietic multipotent progenitor cell,CL:0000837,F38,male,unknown,12th week post-fertilization human stage,1,0.02575328354365182
+26,HSC/immune cells (all hematopoietic-derived cells),"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,F38,male,unknown,12th week post-fertilization human stage,38,0.9786247746587691
+27,HSC/immune cells (all hematopoietic-derived cells),"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,F38,male,unknown,12th week post-fertilization human stage,16,0.4120525366984291
+28,HSC/immune cells (all hematopoietic-derived cells),"CD8-alpha-alpha-positive, alpha-beta intraepithelial T cell",CL:0000915,F38,male,unknown,12th week post-fertilization human stage,4,0.10301313417460728
+29,HSC/immune cells (all hematopoietic-derived cells),early lymphoid progenitor,CL:0000936,F38,male,unknown,12th week post-fertilization human stage,3,0.07725985063095545
+30,HSC/immune cells (all hematopoietic-derived cells),small pre-B-II cell,CL:0000954,F38,male,unknown,12th week post-fertilization human stage,6,0.1545197012619109
+31,HSC/immune cells (all hematopoietic-derived cells),large pre-B-II cell,CL:0000957,F38,male,unknown,12th week post-fertilization human stage,2,0.05150656708730364
+32,HSC/immune cells (all hematopoietic-derived cells),innate lymphoid cell,CL:0001065,F38,male,unknown,12th week post-fertilization human stage,5,0.12876641771825909
+33,HSC/immune cells (all hematopoietic-derived cells),group 3 innate lymphoid cell,CL:0001071,F38,male,unknown,12th week post-fertilization human stage,122,3.1419005923255217
+34,HSC/immune cells (all hematopoietic-derived cells),fraction A pre-pro B cell,CL:0002045,F38,male,unknown,12th week post-fertilization human stage,9,0.23177955189286636
+35,HSC/immune cells (all hematopoietic-derived cells),late pro-B cell,CL:0002048,F38,male,unknown,12th week post-fertilization human stage,3,0.07725985063095545

@@ -1,0 +1,21 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,platelet,CL:0000233,36_36,male,European,66-year-old human stage,1,0.10277492291880781
+1,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,natural killer cell,CL:0000623,36_36,male,European,66-year-old human stage,177,18.19116135662898
+2,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,plasmacytoid dendritic cell,CL:0000784,36_36,male,European,66-year-old human stage,2,0.20554984583761562
+3,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,memory B cell,CL:0000787,36_36,male,European,66-year-old human stage,5,0.513874614594039
+4,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,naive B cell,CL:0000788,36_36,male,European,66-year-old human stage,85,8.735868448098664
+5,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,gamma-delta T cell,CL:0000798,36_36,male,European,66-year-old human stage,7,0.7194244604316548
+6,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,regulatory T cell,CL:0000815,36_36,male,European,66-year-old human stage,20,2.055498458376156
+7,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,transitional stage B cell,CL:0000818,36_36,male,European,66-year-old human stage,14,1.4388489208633095
+8,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,36_36,male,European,66-year-old human stage,107,10.996916752312435
+9,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,36_36,male,European,66-year-old human stage,9,0.9249743062692704
+10,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"central memory CD4-positive, alpha-beta T cell",CL:0000904,36_36,male,European,66-year-old human stage,369,37.92394655704008
+11,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"effector memory CD4-positive, alpha-beta T cell",CL:0000905,36_36,male,European,66-year-old human stage,29,2.9804727646454263
+12,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"central memory CD8-positive, alpha-beta T cell",CL:0000907,36_36,male,European,66-year-old human stage,15,1.5416238437821173
+13,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,36_36,male,European,66-year-old human stage,55,5.65262076053443
+14,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,mucosal invariant T cell,CL:0000940,36_36,male,European,66-year-old human stage,4,0.41109969167523125
+15,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,plasmablast,CL:0000980,36_36,male,European,66-year-old human stage,1,0.10277492291880781
+16,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,conventional dendritic cell,CL:0000990,36_36,male,European,66-year-old human stage,8,0.8221993833504625
+17,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,CD14-positive monocyte,CL:0001054,36_36,male,European,66-year-old human stage,43,4.419321685508735
+18,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"CD14-low, CD16-positive monocyte",CL:0002396,36_36,male,European,66-year-old human stage,21,2.158273381294964
+19,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,double negative thymocyte,CL:0002489,36_36,male,European,66-year-old human stage,1,0.10277492291880781

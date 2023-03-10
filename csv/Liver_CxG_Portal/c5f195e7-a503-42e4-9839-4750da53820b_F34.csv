@@ -1,0 +1,20 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,NK/T cells,native cell,CL:0000003,F34,female,unknown,Carnegie stage 23,13,0.4626334519572953
+1,NK/T cells,hematopoietic stem cell,CL:0000037,F34,female,unknown,Carnegie stage 23,154,5.480427046263346
+2,NK/T cells,common myeloid progenitor,CL:0000049,F34,female,unknown,Carnegie stage 23,9,0.3202846975088968
+3,NK/T cells,megakaryocyte-erythroid progenitor cell,CL:0000050,F34,female,unknown,Carnegie stage 23,144,5.124555160142349
+4,NK/T cells,T cell,CL:0000084,F34,female,unknown,Carnegie stage 23,71,2.526690391459075
+5,NK/T cells,megakaryocyte,CL:0000556,F34,female,unknown,Carnegie stage 23,12,0.42704626334519574
+6,NK/T cells,granulocyte monocyte progenitor cell,CL:0000557,F34,female,unknown,Carnegie stage 23,4,0.1423487544483986
+7,NK/T cells,natural killer cell,CL:0000623,F34,female,unknown,Carnegie stage 23,1733,61.67259786476868
+8,NK/T cells,"double-positive, alpha-beta thymocyte",CL:0000809,F34,female,unknown,Carnegie stage 23,24,0.8540925266903915
+9,NK/T cells,regulatory T cell,CL:0000815,F34,female,unknown,Carnegie stage 23,1,0.03558718861209965
+10,NK/T cells,hematopoietic multipotent progenitor cell,CL:0000837,F34,female,unknown,Carnegie stage 23,92,3.2740213523131674
+11,NK/T cells,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,F34,female,unknown,Carnegie stage 23,18,0.6405693950177936
+12,NK/T cells,"CD8-alpha-alpha-positive, alpha-beta intraepithelial T cell",CL:0000915,F34,female,unknown,Carnegie stage 23,20,0.7117437722419928
+13,NK/T cells,early lymphoid progenitor,CL:0000936,F34,female,unknown,Carnegie stage 23,21,0.7473309608540926
+14,NK/T cells,innate lymphoid cell,CL:0001065,F34,female,unknown,Carnegie stage 23,90,3.202846975088968
+15,NK/T cells,group 2 innate lymphoid cell,CL:0001069,F34,female,unknown,Carnegie stage 23,11,0.3914590747330961
+16,NK/T cells,group 3 innate lymphoid cell,CL:0001071,F34,female,unknown,Carnegie stage 23,385,13.701067615658364
+17,NK/T cells,fraction A pre-pro B cell,CL:0002045,F34,female,unknown,Carnegie stage 23,4,0.1423487544483986
+18,NK/T cells,double negative thymocyte,CL:0002489,F34,female,unknown,Carnegie stage 23,4,0.1423487544483986

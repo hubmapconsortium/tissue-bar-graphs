@@ -1,0 +1,15 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Pregnant Uterus (All),fibroblast,CL:0000057,D8_fetus,male,unknown,Carnegie stage 18,990,21.262886597938145
+1,Pregnant Uterus (All),T cell,CL:0000084,D8_fetus,male,unknown,Carnegie stage 18,2,0.0429553264604811
+2,Pregnant Uterus (All),granulocyte,CL:0000094,D8_fetus,male,unknown,Carnegie stage 18,2,0.0429553264604811
+3,Pregnant Uterus (All),endothelial cell,CL:0000115,D8_fetus,male,unknown,Carnegie stage 18,14,0.30068728522336774
+4,Pregnant Uterus (All),macrophage,CL:0000235,D8_fetus,male,unknown,Carnegie stage 18,244,5.240549828178694
+5,Pregnant Uterus (All),syncytiotrophoblast cell,CL:0000525,D8_fetus,male,unknown,Carnegie stage 18,578,12.414089347079038
+6,Pregnant Uterus (All),monocyte,CL:0000576,D8_fetus,male,unknown,Carnegie stage 18,5,0.10738831615120276
+7,Pregnant Uterus (All),plasma cell,CL:0000786,D8_fetus,male,unknown,Carnegie stage 18,1,0.02147766323024055
+8,Pregnant Uterus (All),"CD16-positive, CD56-dim natural killer cell, human",CL:0000939,D8_fetus,male,unknown,Carnegie stage 18,2,0.0429553264604811
+9,Pregnant Uterus (All),conventional dendritic cell,CL:0000990,D8_fetus,male,unknown,Carnegie stage 18,4,0.0859106529209622
+10,Pregnant Uterus (All),"decidual natural killer cell, human",CL:0002343,D8_fetus,male,unknown,Carnegie stage 18,1,0.02147766323024055
+11,Pregnant Uterus (All),extravillous trophoblast,CL:0008036,D8_fetus,male,unknown,Carnegie stage 18,58,1.245704467353952
+12,Pregnant Uterus (All),placental villous trophoblast,CL:2000060,D8_fetus,male,unknown,Carnegie stage 18,2585,55.519759450171826
+13,Pregnant Uterus (All),Hofbauer cell,CL:3000001,D8_fetus,male,unknown,Carnegie stage 18,170,3.651202749140894

@@ -1,0 +1,20 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Colon,mast cell,CL:0000097,290b,female,unknown,seventh decade human stage,5,0.081913499344692
+1,Colon,B cell,CL:0000236,290b,female,unknown,seventh decade human stage,5,0.081913499344692
+2,Colon,dendritic cell,CL:0000451,290b,female,unknown,seventh decade human stage,3,0.049148099606815196
+3,Colon,T-helper 1 cell,CL:0000545,290b,female,unknown,seventh decade human stage,6,0.09829619921363039
+4,Colon,natural killer cell,CL:0000623,290b,female,unknown,seventh decade human stage,55,0.901048492791612
+5,Colon,"CD4-positive, alpha-beta T cell",CL:0000624,290b,female,unknown,seventh decade human stage,40,0.655307994757536
+6,Colon,"CD8-positive, alpha-beta T cell",CL:0000625,290b,female,unknown,seventh decade human stage,663,10.86173001310616
+7,Colon,plasmacytoid dendritic cell,CL:0000784,290b,female,unknown,seventh decade human stage,7,0.11467889908256881
+8,Colon,memory B cell,CL:0000787,290b,female,unknown,seventh decade human stage,1018,16.677588466579294
+9,Colon,gamma-delta T cell,CL:0000798,290b,female,unknown,seventh decade human stage,15,0.24574049803407602
+10,Colon,memory T cell,CL:0000813,290b,female,unknown,seventh decade human stage,989,16.20249017038008
+11,Colon,regulatory T cell,CL:0000815,290b,female,unknown,seventh decade human stage,542,8.879423328964615
+12,Colon,follicular B cell,CL:0000843,290b,female,unknown,seventh decade human stage,1413,23.14875491480996
+13,Colon,T-helper 17 cell,CL:0000899,290b,female,unknown,seventh decade human stage,5,0.081913499344692
+14,Colon,IgA plasma cell,CL:0000987,290b,female,unknown,seventh decade human stage,18,0.2948885976408912
+15,Colon,conventional dendritic cell,CL:0000990,290b,female,unknown,seventh decade human stage,8,0.1310615989515072
+16,Colon,innate lymphoid cell,CL:0001065,290b,female,unknown,seventh decade human stage,41,0.6716906946264745
+17,Colon,T follicular helper cell,CL:0002038,290b,female,unknown,seventh decade human stage,1267,20.756880733944953
+18,Colon,colon macrophage,CL:0009038,290b,female,unknown,seventh decade human stage,4,0.0655307994757536

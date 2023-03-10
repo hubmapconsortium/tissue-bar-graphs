@@ -1,0 +1,26 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,All cells,mesothelial cell,CL:0000077,BRC2188,female,unknown,Carnegie stage 16,136,3.2357839638353556
+1,All cells,epithelial cell of lung,CL:0000082,BRC2188,female,unknown,Carnegie stage 16,180,4.282655246252676
+2,All cells,chondrocyte,CL:0000138,BRC2188,female,unknown,Carnegie stage 16,10,0.23792529145848204
+3,All cells,smooth muscle cell,CL:0000192,BRC2188,female,unknown,Carnegie stage 16,282,6.709493219129194
+4,All cells,platelet,CL:0000233,BRC2188,female,unknown,Carnegie stage 16,1,0.023792529145848205
+5,All cells,macrophage,CL:0000235,BRC2188,female,unknown,Carnegie stage 16,30,0.7137758743754461
+6,All cells,vascular associated smooth muscle cell,CL:0000359,BRC2188,female,unknown,Carnegie stage 16,1,0.023792529145848205
+7,All cells,dendritic cell,CL:0000451,BRC2188,female,unknown,Carnegie stage 16,1,0.023792529145848205
+8,All cells,neuron,CL:0000540,BRC2188,female,unknown,Carnegie stage 16,204,4.853675945753034
+9,All cells,megakaryocyte,CL:0000556,BRC2188,female,unknown,Carnegie stage 16,1,0.023792529145848205
+10,All cells,promonocyte,CL:0000559,BRC2188,female,unknown,Carnegie stage 16,3,0.07137758743754462
+11,All cells,pericyte,CL:0000669,BRC2188,female,unknown,Carnegie stage 16,1,0.023792529145848205
+12,All cells,neutrophil,CL:0000775,BRC2188,female,unknown,Carnegie stage 16,2,0.04758505829169641
+13,All cells,classical monocyte,CL:0000860,BRC2188,female,unknown,Carnegie stage 16,6,0.14275517487508924
+14,All cells,endothelial cell of lymphatic vessel,CL:0002138,BRC2188,female,unknown,Carnegie stage 16,12,0.28551034975017847
+15,All cells,capillary endothelial cell,CL:0002144,BRC2188,female,unknown,Carnegie stage 16,127,3.021651201522722
+16,All cells,primitive red blood cell,CL:0002355,BRC2188,female,unknown,Carnegie stage 16,141,3.354746609564597
+17,All cells,respiratory epithelial cell,CL:0002368,BRC2188,female,unknown,Carnegie stage 16,225,5.353319057815846
+18,All cells,Schwann cell precursor,CL:0002375,BRC2188,female,unknown,Carnegie stage 16,181,4.306447775398524
+19,All cells,immature Schwann cell,CL:0002377,BRC2188,female,unknown,Carnegie stage 16,3,0.07137758743754462
+20,All cells,fibroblast of lung,CL:0002553,BRC2188,female,unknown,Carnegie stage 16,2324,55.293837734951225
+21,All cells,mesenchymal cell,CL:0008019,BRC2188,female,unknown,Carnegie stage 16,318,7.566024268379729
+22,All cells,neural progenitor cell,CL:0011020,BRC2188,female,unknown,Carnegie stage 16,1,0.023792529145848205
+23,All cells,lung neuroendocrine cell,CL:1000223,BRC2188,female,unknown,Carnegie stage 16,7,0.16654770402093744
+24,All cells,endothelial cell of artery,CL:1000413,BRC2188,female,unknown,Carnegie stage 16,6,0.14275517487508924

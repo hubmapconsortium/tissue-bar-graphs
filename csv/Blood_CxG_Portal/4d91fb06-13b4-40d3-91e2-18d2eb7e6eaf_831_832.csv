@@ -1,0 +1,20 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,natural killer cell,CL:0000623,831_832,female,European,68-year-old human stage,201,16.054313099041533
+1,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"CD4-positive, alpha-beta T cell",CL:0000624,831_832,female,European,68-year-old human stage,1,0.07987220447284345
+2,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,memory B cell,CL:0000787,831_832,female,European,68-year-old human stage,61,4.872204472843451
+3,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,naive B cell,CL:0000788,831_832,female,European,68-year-old human stage,18,1.4376996805111821
+4,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,gamma-delta T cell,CL:0000798,831_832,female,European,68-year-old human stage,5,0.3993610223642172
+5,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,regulatory T cell,CL:0000815,831_832,female,European,68-year-old human stage,25,1.996805111821086
+6,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,transitional stage B cell,CL:0000818,831_832,female,European,68-year-old human stage,13,1.038338658146965
+7,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,831_832,female,European,68-year-old human stage,304,24.281150159744406
+8,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,831_832,female,European,68-year-old human stage,15,1.1980830670926517
+9,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"central memory CD4-positive, alpha-beta T cell",CL:0000904,831_832,female,European,68-year-old human stage,276,22.044728434504794
+10,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"effector memory CD4-positive, alpha-beta T cell",CL:0000905,831_832,female,European,68-year-old human stage,8,0.6389776357827476
+11,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"central memory CD8-positive, alpha-beta T cell",CL:0000907,831_832,female,European,68-year-old human stage,39,3.1150159744408943
+12,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,831_832,female,European,68-year-old human stage,250,19.968051118210862
+13,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"CD4-positive, alpha-beta cytotoxic T cell",CL:0000934,831_832,female,European,68-year-old human stage,24,1.9169329073482428
+14,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,mucosal invariant T cell,CL:0000940,831_832,female,European,68-year-old human stage,2,0.1597444089456869
+15,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,conventional dendritic cell,CL:0000990,831_832,female,European,68-year-old human stage,3,0.23961661341853036
+16,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,CD14-positive monocyte,CL:0001054,831_832,female,European,68-year-old human stage,3,0.23961661341853036
+17,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"CD14-low, CD16-positive monocyte",CL:0002396,831_832,female,European,68-year-old human stage,3,0.23961661341853036
+18,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,hematopoietic precursor cell,CL:0008001,831_832,female,European,68-year-old human stage,1,0.07987220447284345

@@ -1,0 +1,12 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,multiplexed scRNA-seq of 1.2 million PBMCs from adult lupus samples,B cell,CL:0000236,ICC_control,female,European,26-year-old human stage,250,16.812373907195695
+1,multiplexed scRNA-seq of 1.2 million PBMCs from adult lupus samples,lymphocyte,CL:0000542,ICC_control,female,European,26-year-old human stage,5,0.3362474781439139
+2,multiplexed scRNA-seq of 1.2 million PBMCs from adult lupus samples,natural killer cell,CL:0000623,ICC_control,female,European,26-year-old human stage,286,19.233355749831876
+3,multiplexed scRNA-seq of 1.2 million PBMCs from adult lupus samples,"CD4-positive, alpha-beta T cell",CL:0000624,ICC_control,female,European,26-year-old human stage,424,28.5137861466039
+4,multiplexed scRNA-seq of 1.2 million PBMCs from adult lupus samples,"CD8-positive, alpha-beta T cell",CL:0000625,ICC_control,female,European,26-year-old human stage,212,14.25689307330195
+5,multiplexed scRNA-seq of 1.2 million PBMCs from adult lupus samples,plasmacytoid dendritic cell,CL:0000784,ICC_control,female,European,26-year-old human stage,6,0.4034969737726967
+6,multiplexed scRNA-seq of 1.2 million PBMCs from adult lupus samples,classical monocyte,CL:0000860,ICC_control,female,European,26-year-old human stage,244,16.408876933423
+7,multiplexed scRNA-seq of 1.2 million PBMCs from adult lupus samples,non-classical monocyte,CL:0000875,ICC_control,female,European,26-year-old human stage,35,2.3537323470073974
+8,multiplexed scRNA-seq of 1.2 million PBMCs from adult lupus samples,plasmablast,CL:0000980,ICC_control,female,European,26-year-old human stage,1,0.06724949562878278
+9,multiplexed scRNA-seq of 1.2 million PBMCs from adult lupus samples,conventional dendritic cell,CL:0000990,ICC_control,female,European,26-year-old human stage,22,1.4794889038332213
+10,multiplexed scRNA-seq of 1.2 million PBMCs from adult lupus samples,progenitor cell,CL:0011026,ICC_control,female,European,26-year-old human stage,2,0.13449899125756556

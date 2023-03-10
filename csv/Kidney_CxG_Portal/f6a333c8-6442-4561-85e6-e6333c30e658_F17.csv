@@ -1,0 +1,23 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Fetal kidney dataset: full,fibroblast,CL:0000057,F17,female,unknown,10th week post-fertilization human stage,228,6.949100883876867
+1,Fetal kidney dataset: full,mast cell,CL:0000097,F17,female,unknown,10th week post-fertilization human stage,2,0.06095702529716549
+2,Fetal kidney dataset: full,endothelial cell,CL:0000115,F17,female,unknown,10th week post-fertilization human stage,238,7.253886010362693
+3,Fetal kidney dataset: full,mesenchymal stem cell,CL:0000134,F17,female,unknown,10th week post-fertilization human stage,747,22.767448948491314
+4,Fetal kidney dataset: full,myofibroblast cell,CL:0000186,F17,female,unknown,10th week post-fertilization human stage,164,4.998476074367571
+5,Fetal kidney dataset: full,macrophage,CL:0000235,F17,female,unknown,10th week post-fertilization human stage,109,3.3221578786955197
+6,Fetal kidney dataset: full,lymphocyte,CL:0000542,F17,female,unknown,10th week post-fertilization human stage,27,0.8229198415117341
+7,Fetal kidney dataset: full,megakaryocyte,CL:0000556,F17,female,unknown,10th week post-fertilization human stage,3,0.09143553794574825
+8,Fetal kidney dataset: full,monocyte,CL:0000576,F17,female,unknown,10th week post-fertilization human stage,14,0.42669917708015853
+9,Fetal kidney dataset: full,natural killer cell,CL:0000623,F17,female,unknown,10th week post-fertilization human stage,89,2.712587625723865
+10,Fetal kidney dataset: full,"CD4-positive, alpha-beta T cell",CL:0000624,F17,female,unknown,10th week post-fertilization human stage,1,0.030478512648582746
+11,Fetal kidney dataset: full,"CD8-positive, alpha-beta T cell",CL:0000625,F17,female,unknown,10th week post-fertilization human stage,1,0.030478512648582746
+12,Fetal kidney dataset: full,podocyte,CL:0000653,F17,female,unknown,10th week post-fertilization human stage,84,2.560195062480951
+13,Fetal kidney dataset: full,erythroid lineage cell,CL:0000764,F17,female,unknown,10th week post-fertilization human stage,5,0.15239256324291375
+14,Fetal kidney dataset: full,neutrophil,CL:0000775,F17,female,unknown,10th week post-fertilization human stage,15,0.45717768972874123
+15,Fetal kidney dataset: full,plasmacytoid dendritic cell,CL:0000784,F17,female,unknown,10th week post-fertilization human stage,2,0.06095702529716549
+16,Fetal kidney dataset: full,conventional dendritic cell,CL:0000990,F17,female,unknown,10th week post-fertilization human stage,15,0.45717768972874123
+17,Fetal kidney dataset: full,epithelial cell of proximal tubule,CL:0002306,F17,female,unknown,10th week post-fertilization human stage,33,1.005790917403231
+18,Fetal kidney dataset: full,kidney epithelial cell,CL:0002518,F17,female,unknown,10th week post-fertilization human stage,429,13.075281926241999
+19,Fetal kidney dataset: full,mesenchymal cell,CL:0008019,F17,female,unknown,10th week post-fertilization human stage,799,24.352331606217618
+20,Fetal kidney dataset: full,kidney cell,CL:1000497,F17,female,unknown,10th week post-fertilization human stage,267,8.137762877171593
+21,Fetal kidney dataset: full,kidney loop of Henle epithelial cell,CL:1000909,F17,female,unknown,10th week post-fertilization human stage,9,0.27430661383724475

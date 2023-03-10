@@ -1,0 +1,17 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Airway,native cell,CL:0000003,NP14,female,unknown,infant stage,2,0.1813236627379873
+1,Airway,ciliated cell,CL:0000064,NP14,female,unknown,infant stage,532,48.23209428830462
+2,Airway,squamous epithelial cell,CL:0000076,NP14,female,unknown,infant stage,55,4.986400725294652
+3,Airway,secretory cell,CL:0000151,NP14,female,unknown,infant stage,10,0.9066183136899365
+4,Airway,club cell,CL:0000158,NP14,female,unknown,infant stage,235,21.30553037171351
+5,Airway,macrophage,CL:0000235,NP14,female,unknown,infant stage,60,5.439709882139619
+6,Airway,dendritic cell,CL:0000451,NP14,female,unknown,infant stage,5,0.45330915684496825
+7,Airway,Langerhans cell,CL:0000453,NP14,female,unknown,infant stage,7,0.6346328195829556
+8,Airway,monocyte,CL:0000576,NP14,female,unknown,infant stage,83,7.524932003626474
+9,Airway,naive T cell,CL:0000898,NP14,female,unknown,infant stage,11,0.9972801450589301
+10,Airway,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,NP14,female,unknown,infant stage,2,0.1813236627379873
+11,Airway,conventional dendritic cell,CL:0000990,NP14,female,unknown,infant stage,8,0.7252946509519492
+12,Airway,"plasmacytoid dendritic cell, human",CL:0001058,NP14,female,unknown,infant stage,1,0.09066183136899365
+13,Airway,multi-ciliated epithelial cell,CL:0005012,NP14,female,unknown,infant stage,16,1.4505893019038985
+14,Airway,tracheal goblet cell,CL:1000329,NP14,female,unknown,infant stage,7,0.6346328195829556
+15,Airway,basal cell of epithelium of trachea,CL:1000348,NP14,female,unknown,infant stage,69,6.255666364460562

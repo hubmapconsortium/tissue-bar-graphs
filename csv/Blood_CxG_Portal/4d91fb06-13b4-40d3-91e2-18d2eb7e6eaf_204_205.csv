@@ -1,0 +1,20 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,natural killer cell,CL:0000623,204_205,male,European,60-year-old human stage,84,5.415860735009671
+1,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,memory B cell,CL:0000787,204_205,male,European,60-year-old human stage,13,0.8381689232753062
+2,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,naive B cell,CL:0000788,204_205,male,European,60-year-old human stage,35,2.256608639587363
+3,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,gamma-delta T cell,CL:0000798,204_205,male,European,60-year-old human stage,7,0.4513217279174726
+4,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,regulatory T cell,CL:0000815,204_205,male,European,60-year-old human stage,16,1.0315925209542232
+5,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,transitional stage B cell,CL:0000818,204_205,male,European,60-year-old human stage,16,1.0315925209542232
+6,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,204_205,male,European,60-year-old human stage,472,30.43197936814958
+7,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,204_205,male,European,60-year-old human stage,48,3.0947775628626695
+8,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"central memory CD4-positive, alpha-beta T cell",CL:0000904,204_205,male,European,60-year-old human stage,742,47.840103159252095
+9,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"effector memory CD4-positive, alpha-beta T cell",CL:0000905,204_205,male,European,60-year-old human stage,22,1.4184397163120568
+10,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"central memory CD8-positive, alpha-beta T cell",CL:0000907,204_205,male,European,60-year-old human stage,11,0.7092198581560284
+11,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,204_205,male,European,60-year-old human stage,65,4.190844616376531
+12,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"CD4-positive, alpha-beta cytotoxic T cell",CL:0000934,204_205,male,European,60-year-old human stage,5,0.3223726627981947
+13,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,204_205,male,European,60-year-old human stage,3,0.19342359767891684
+14,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,mucosal invariant T cell,CL:0000940,204_205,male,European,60-year-old human stage,1,0.06447453255963895
+15,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,conventional dendritic cell,CL:0000990,204_205,male,European,60-year-old human stage,2,0.1289490651192779
+16,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,CD14-positive monocyte,CL:0001054,204_205,male,European,60-year-old human stage,3,0.19342359767891684
+17,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"CD14-low, CD16-positive monocyte",CL:0002396,204_205,male,European,60-year-old human stage,2,0.1289490651192779
+18,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,hematopoietic precursor cell,CL:0008001,204_205,male,European,60-year-old human stage,4,0.2578981302385558

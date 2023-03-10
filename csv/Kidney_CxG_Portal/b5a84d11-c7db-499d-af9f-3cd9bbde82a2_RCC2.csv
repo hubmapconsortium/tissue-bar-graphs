@@ -1,0 +1,23 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,mature,mononuclear phagocyte,CL:0000113,RCC2,female,unknown,63-year-old human stage,127,3.8849801162434994
+1,mature,myofibroblast cell,CL:0000186,RCC2,female,unknown,63-year-old human stage,1,0.03059039461609055
+2,mature,B cell,CL:0000236,RCC2,female,unknown,63-year-old human stage,9,0.2753135515448149
+3,mature,lymphocyte,CL:0000542,RCC2,female,unknown,63-year-old human stage,286,8.748852860201897
+4,mature,natural killer cell,CL:0000623,RCC2,female,unknown,63-year-old human stage,205,6.271030896298563
+5,mature,"CD4-positive, alpha-beta T cell",CL:0000624,RCC2,female,unknown,63-year-old human stage,97,2.967268277760783
+6,mature,"CD8-positive, alpha-beta T cell",CL:0000625,RCC2,female,unknown,63-year-old human stage,80,2.447231569287244
+7,mature,neutrophil,CL:0000775,RCC2,female,unknown,63-year-old human stage,11,0.336494340776996
+8,mature,plasmacytoid dendritic cell,CL:0000784,RCC2,female,unknown,63-year-old human stage,1,0.03059039461609055
+9,mature,glomerular endothelial cell,CL:0002188,RCC2,female,unknown,63-year-old human stage,33,1.009483022330988
+10,mature,renal beta-intercalated cell,CL:0002201,RCC2,female,unknown,63-year-old human stage,1,0.03059039461609055
+11,mature,epithelial cell of proximal tubule,CL:0002306,RCC2,female,unknown,63-year-old human stage,2114,64.66809421841542
+12,mature,renal principal cell,CL:0005009,RCC2,female,unknown,63-year-old human stage,16,0.4894463138574488
+13,mature,renal intercalated cell,CL:0005010,RCC2,female,unknown,63-year-old human stage,5,0.15295197308045275
+14,mature,renal alpha-intercalated cell,CL:0005011,RCC2,female,unknown,63-year-old human stage,12,0.36708473539308656
+15,mature,progenitor cell,CL:0011026,RCC2,female,unknown,63-year-old human stage,27,0.8259406546344448
+16,mature,epithelial cell of glomerular capsule,CL:1000450,RCC2,female,unknown,63-year-old human stage,12,0.36708473539308656
+17,mature,kidney connecting tubule epithelial cell,CL:1000768,RCC2,female,unknown,63-year-old human stage,2,0.0611807892321811
+18,mature,peritubular capillary endothelial cell,CL:1001033,RCC2,female,unknown,63-year-old human stage,8,0.2447231569287244
+19,mature,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,RCC2,female,unknown,63-year-old human stage,178,5.445090241664118
+20,mature,vasa recta ascending limb cell,CL:1001131,RCC2,female,unknown,63-year-old human stage,31,0.9483022330988069
+21,mature,vasa recta descending limb cell,CL:1001285,RCC2,female,unknown,63-year-old human stage,13,0.39767513000917715

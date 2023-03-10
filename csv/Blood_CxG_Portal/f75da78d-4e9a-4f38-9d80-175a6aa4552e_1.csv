@@ -1,0 +1,11 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,"Krasnow Lab Human Lung Cell Atlas, Smart-seq2",B cell,CL:0000236,1,male,unknown,75-year-old human stage,113,15.02659574468085
+1,"Krasnow Lab Human Lung Cell Atlas, Smart-seq2",natural killer cell,CL:0000623,1,male,unknown,75-year-old human stage,137,18.21808510638298
+2,"Krasnow Lab Human Lung Cell Atlas, Smart-seq2",neutrophil,CL:0000775,1,male,unknown,75-year-old human stage,11,1.4627659574468086
+3,"Krasnow Lab Human Lung Cell Atlas, Smart-seq2",classical monocyte,CL:0000860,1,male,unknown,75-year-old human stage,89,11.835106382978724
+4,"Krasnow Lab Human Lung Cell Atlas, Smart-seq2",non-classical monocyte,CL:0000875,1,male,unknown,75-year-old human stage,16,2.127659574468085
+5,"Krasnow Lab Human Lung Cell Atlas, Smart-seq2","naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,1,male,unknown,75-year-old human stage,112,14.893617021276595
+6,"Krasnow Lab Human Lung Cell Atlas, Smart-seq2","naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,1,male,unknown,75-year-old human stage,98,13.031914893617023
+7,"Krasnow Lab Human Lung Cell Atlas, Smart-seq2","effector memory CD4-positive, alpha-beta T cell",CL:0000905,1,male,unknown,75-year-old human stage,113,15.02659574468085
+8,"Krasnow Lab Human Lung Cell Atlas, Smart-seq2","effector memory CD8-positive, alpha-beta T cell",CL:0000913,1,male,unknown,75-year-old human stage,59,7.845744680851063
+9,"Krasnow Lab Human Lung Cell Atlas, Smart-seq2","plasmacytoid dendritic cell, human",CL:0001058,1,male,unknown,75-year-old human stage,4,0.5319148936170213

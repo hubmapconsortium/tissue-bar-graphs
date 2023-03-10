@@ -1,0 +1,18 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,"Krasnow Lab Human Lung Cell Atlas, 10X",club cell,CL:0000158,3,female,unknown,51-year-old human stage,5,0.2041649652919559
+1,"Krasnow Lab Human Lung Cell Atlas, 10X",B cell,CL:0000236,3,female,unknown,51-year-old human stage,340,13.883217639853001
+2,"Krasnow Lab Human Lung Cell Atlas, 10X",dendritic cell,CL:0000451,3,female,unknown,51-year-old human stage,2,0.08166598611678236
+3,"Krasnow Lab Human Lung Cell Atlas, 10X",lymphocyte,CL:0000542,3,female,unknown,51-year-old human stage,4,0.16333197223356472
+4,"Krasnow Lab Human Lung Cell Atlas, 10X",megakaryocyte,CL:0000556,3,female,unknown,51-year-old human stage,12,0.4899959167006942
+5,"Krasnow Lab Human Lung Cell Atlas, 10X",natural killer cell,CL:0000623,3,female,unknown,51-year-old human stage,327,13.352388730093917
+6,"Krasnow Lab Human Lung Cell Atlas, 10X",myeloid leukocyte,CL:0000766,3,female,unknown,51-year-old human stage,1,0.04083299305839118
+7,"Krasnow Lab Human Lung Cell Atlas, 10X",plasma cell,CL:0000786,3,female,unknown,51-year-old human stage,4,0.16333197223356472
+8,"Krasnow Lab Human Lung Cell Atlas, 10X",classical monocyte,CL:0000860,3,female,unknown,51-year-old human stage,636,25.969783585136792
+9,"Krasnow Lab Human Lung Cell Atlas, 10X",non-classical monocyte,CL:0000875,3,female,unknown,51-year-old human stage,73,2.9808084932625563
+10,"Krasnow Lab Human Lung Cell Atlas, 10X","naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,3,female,unknown,51-year-old human stage,317,12.944058799510005
+11,"Krasnow Lab Human Lung Cell Atlas, 10X","naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,3,female,unknown,51-year-old human stage,351,14.332380563495303
+12,"Krasnow Lab Human Lung Cell Atlas, 10X","effector memory CD4-positive, alpha-beta T cell",CL:0000905,3,female,unknown,51-year-old human stage,248,10.126582278481013
+13,"Krasnow Lab Human Lung Cell Atlas, 10X","effector memory CD8-positive, alpha-beta T cell",CL:0000913,3,female,unknown,51-year-old human stage,101,4.124132298897509
+14,"Krasnow Lab Human Lung Cell Atlas, 10X","myeloid dendritic cell, human",CL:0001057,3,female,unknown,51-year-old human stage,1,0.04083299305839118
+15,"Krasnow Lab Human Lung Cell Atlas, 10X","plasmacytoid dendritic cell, human",CL:0001058,3,female,unknown,51-year-old human stage,14,0.5716619028174765
+16,"Krasnow Lab Human Lung Cell Atlas, 10X",CD1c-positive myeloid dendritic cell,CL:0002399,3,female,unknown,51-year-old human stage,13,0.5308289097590854

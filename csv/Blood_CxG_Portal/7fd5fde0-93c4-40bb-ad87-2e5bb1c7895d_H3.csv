@@ -1,0 +1,26 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,hematopoietic stem cell,CL:0000037,H3,female,European,36-year-old human stage,13,0.5861136158701533
+1,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,erythrocyte,CL:0000232,H3,female,European,36-year-old human stage,14,0.6311992786293958
+2,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,platelet,CL:0000233,H3,female,European,36-year-old human stage,10,0.4508566275924256
+3,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,lymphocyte,CL:0000542,H3,female,European,36-year-old human stage,15,0.6762849413886384
+4,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,natural killer cell,CL:0000623,H3,female,European,36-year-old human stage,246,11.09107303877367
+5,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,neutrophil,CL:0000775,H3,female,European,36-year-old human stage,9,0.40577096483318303
+6,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,memory B cell,CL:0000787,H3,female,European,36-year-old human stage,95,4.283137962128043
+7,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,naive B cell,CL:0000788,H3,female,European,36-year-old human stage,119,5.365193868349865
+8,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,gamma-delta T cell,CL:0000798,H3,female,European,36-year-old human stage,149,6.7177637511271415
+9,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,regulatory T cell,CL:0000815,H3,female,European,36-year-old human stage,40,1.8034265103697025
+10,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,transitional stage B cell,CL:0000818,H3,female,European,36-year-old human stage,65,2.9305680793507665
+11,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,classical monocyte,CL:0000860,H3,female,European,36-year-old human stage,185,8.340847610459875
+12,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,non-classical monocyte,CL:0000875,H3,female,European,36-year-old human stage,27,1.2173128944995493
+13,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,H3,female,European,36-year-old human stage,320,14.42741208295762
+14,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,H3,female,European,36-year-old human stage,92,4.147880973850315
+15,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,"central memory CD4-positive, alpha-beta T cell",CL:0000904,H3,female,European,36-year-old human stage,226,10.18935978358882
+16,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,H3,female,European,36-year-old human stage,477,21.505861136158703
+17,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,H3,female,European,36-year-old human stage,21,0.9467989179440938
+18,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,mucosal invariant T cell,CL:0000940,H3,female,European,36-year-old human stage,36,1.6230838593327321
+19,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,IgG plasmablast,CL:0000982,H3,female,European,36-year-old human stage,2,0.09017132551848511
+20,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,IgA plasmablast,CL:0000984,H3,female,European,36-year-old human stage,7,0.3155996393146979
+21,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,conventional dendritic cell,CL:0000990,H3,female,European,36-year-old human stage,23,1.0369702434625787
+22,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,"activated CD4-positive, alpha-beta T cell, human",CL:0001043,H3,female,European,36-year-old human stage,5,0.2254283137962128
+23,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,"plasmacytoid dendritic cell, human",CL:0001058,H3,female,European,36-year-old human stage,12,0.5410279531109108
+24,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,double negative thymocyte,CL:0002489,H3,female,European,36-year-old human stage,10,0.4508566275924256

@@ -1,0 +1,26 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Single cell RNA-seq data from normal adult kidney tissue,epithelial cell,CL:0000066,20-649_N,male,European,71-year-old human stage,3,0.10070493454179255
+1,Single cell RNA-seq data from normal adult kidney tissue,T cell,CL:0000084,20-649_N,male,European,71-year-old human stage,541,18.16045652903659
+2,Single cell RNA-seq data from normal adult kidney tissue,endothelial cell,CL:0000115,20-649_N,male,European,71-year-old human stage,331,11.11111111111111
+3,Single cell RNA-seq data from normal adult kidney tissue,myofibroblast cell,CL:0000186,20-649_N,male,European,71-year-old human stage,1,0.033568311513930846
+4,Single cell RNA-seq data from normal adult kidney tissue,B cell,CL:0000236,20-649_N,male,European,71-year-old human stage,122,4.095334004699564
+5,Single cell RNA-seq data from normal adult kidney tissue,monocyte,CL:0000576,20-649_N,male,European,71-year-old human stage,29,0.9734810339039948
+6,Single cell RNA-seq data from normal adult kidney tissue,natural killer cell,CL:0000623,20-649_N,male,European,71-year-old human stage,69,2.3162134944612287
+7,Single cell RNA-seq data from normal adult kidney tissue,podocyte,CL:0000653,20-649_N,male,European,71-year-old human stage,38,1.2755958375293723
+8,Single cell RNA-seq data from normal adult kidney tissue,leukocyte,CL:0000738,20-649_N,male,European,71-year-old human stage,28,0.9399127223900637
+9,Single cell RNA-seq data from normal adult kidney tissue,plasmacytoid dendritic cell,CL:0000784,20-649_N,male,European,71-year-old human stage,1,0.033568311513930846
+10,Single cell RNA-seq data from normal adult kidney tissue,plasma cell,CL:0000786,20-649_N,male,European,71-year-old human stage,1,0.033568311513930846
+11,Single cell RNA-seq data from normal adult kidney tissue,mature NK T cell,CL:0000814,20-649_N,male,European,71-year-old human stage,105,3.5246727089627394
+12,Single cell RNA-seq data from normal adult kidney tissue,non-classical monocyte,CL:0000875,20-649_N,male,European,71-year-old human stage,3,0.10070493454179255
+13,Single cell RNA-seq data from normal adult kidney tissue,alternatively activated macrophage,CL:0000890,20-649_N,male,European,71-year-old human stage,76,2.5511916750587447
+14,Single cell RNA-seq data from normal adult kidney tissue,cytotoxic T cell,CL:0000910,20-649_N,male,European,71-year-old human stage,132,4.431017119838873
+15,Single cell RNA-seq data from normal adult kidney tissue,conventional dendritic cell,CL:0000990,20-649_N,male,European,71-year-old human stage,217,7.284323598522994
+16,Single cell RNA-seq data from normal adult kidney tissue,epithelial cell of proximal tubule,CL:0002306,20-649_N,male,European,71-year-old human stage,606,20.342396777442097
+17,Single cell RNA-seq data from normal adult kidney tissue,parietal epithelial cell,CL:1000452,20-649_N,male,European,71-year-old human stage,44,1.4770057066129574
+18,Single cell RNA-seq data from normal adult kidney tissue,kidney connecting tubule epithelial cell,CL:1000768,20-649_N,male,European,71-year-old human stage,9,0.3021148036253776
+19,Single cell RNA-seq data from normal adult kidney tissue,kidney distal convoluted tubule epithelial cell,CL:1000849,20-649_N,male,European,71-year-old human stage,81,2.719033232628399
+20,Single cell RNA-seq data from normal adult kidney tissue,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,20-649_N,male,European,71-year-old human stage,105,3.5246727089627394
+21,Single cell RNA-seq data from normal adult kidney tissue,kidney loop of Henle thin descending limb epithelial cell,CL:1001111,20-649_N,male,European,71-year-old human stage,1,0.033568311513930846
+22,Single cell RNA-seq data from normal adult kidney tissue,renal interstitial pericyte,CL:1001318,20-649_N,male,European,71-year-old human stage,30,1.0070493454179255
+23,Single cell RNA-seq data from normal adult kidney tissue,kidney collecting duct principal cell,CL:1001431,20-649_N,male,European,71-year-old human stage,227,7.620006713662303
+24,Single cell RNA-seq data from normal adult kidney tissue,kidney collecting duct intercalated cell,CL:1001432,20-649_N,male,European,71-year-old human stage,179,6.008727760993622

@@ -1,0 +1,26 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,mature,mast cell,CL:0000097,TxK4,male,unknown,72-year-old human stage,3,0.05178663904712584
+1,mature,mononuclear phagocyte,CL:0000113,TxK4,male,unknown,72-year-old human stage,114,1.9678922837907822
+2,mature,B cell,CL:0000236,TxK4,male,unknown,72-year-old human stage,751,12.963921974797168
+3,mature,lymphocyte,CL:0000542,TxK4,male,unknown,72-year-old human stage,153,2.641118591403418
+4,mature,natural killer cell,CL:0000623,TxK4,male,unknown,72-year-old human stage,341,5.886414638356637
+5,mature,"CD4-positive, alpha-beta T cell",CL:0000624,TxK4,male,unknown,72-year-old human stage,1884,32.52200932159503
+6,mature,"CD8-positive, alpha-beta T cell",CL:0000625,TxK4,male,unknown,72-year-old human stage,687,11.859140341791816
+7,mature,plasmacytoid dendritic cell,CL:0000784,TxK4,male,unknown,72-year-old human stage,2,0.03452442603141723
+8,mature,glomerular endothelial cell,CL:0002188,TxK4,male,unknown,72-year-old human stage,8,0.1380977041256689
+9,mature,epithelial cell of proximal tubule,CL:0002306,TxK4,male,unknown,72-year-old human stage,1667,28.776109097186257
+10,mature,renal intercalated cell,CL:0005010,TxK4,male,unknown,72-year-old human stage,9,0.15535991714137753
+11,mature,renal alpha-intercalated cell,CL:0005011,TxK4,male,unknown,72-year-old human stage,1,0.017262213015708613
+12,mature,epithelial cell of glomerular capsule,CL:1000450,TxK4,male,unknown,72-year-old human stage,1,0.017262213015708613
+13,mature,kidney connecting tubule epithelial cell,CL:1000768,TxK4,male,unknown,72-year-old human stage,3,0.05178663904712584
+14,mature,peritubular capillary endothelial cell,CL:1001033,TxK4,male,unknown,72-year-old human stage,84,1.4500258933195236
+15,mature,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,TxK4,male,unknown,72-year-old human stage,37,0.6387018815812188
+16,mature,vasa recta ascending limb cell,CL:1001131,TxK4,male,unknown,72-year-old human stage,12,0.20714655618850336
+17,mature,vasa recta descending limb cell,CL:1001285,TxK4,male,unknown,72-year-old human stage,3,0.05178663904712584
+18,mature,mononuclear phagocyte,CL:0000113,TxK4,male,unknown,72-year-old human stage,2,0.03452442603141723
+19,mature,B cell,CL:0000236,TxK4,male,unknown,72-year-old human stage,1,0.017262213015708613
+20,mature,lymphocyte,CL:0000542,TxK4,male,unknown,72-year-old human stage,8,0.1380977041256689
+21,mature,natural killer cell,CL:0000623,TxK4,male,unknown,72-year-old human stage,4,0.06904885206283445
+22,mature,"CD4-positive, alpha-beta T cell",CL:0000624,TxK4,male,unknown,72-year-old human stage,1,0.017262213015708613
+23,mature,"CD8-positive, alpha-beta T cell",CL:0000625,TxK4,male,unknown,72-year-old human stage,2,0.03452442603141723
+24,mature,epithelial cell of proximal tubule,CL:0002306,TxK4,male,unknown,72-year-old human stage,15,0.25893319523562924

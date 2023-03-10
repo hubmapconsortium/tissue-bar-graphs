@@ -1,0 +1,13 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,NK/T cells,native cell,CL:0000003,F35,female,unknown,Carnegie stage 20,1,1.0526315789473684
+1,NK/T cells,T cell,CL:0000084,F35,female,unknown,Carnegie stage 20,6,6.315789473684211
+2,NK/T cells,natural killer cell,CL:0000623,F35,female,unknown,Carnegie stage 20,44,46.31578947368421
+3,NK/T cells,"double-positive, alpha-beta thymocyte",CL:0000809,F35,female,unknown,Carnegie stage 20,1,1.0526315789473684
+4,NK/T cells,hematopoietic multipotent progenitor cell,CL:0000837,F35,female,unknown,Carnegie stage 20,2,2.1052631578947367
+5,NK/T cells,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,F35,female,unknown,Carnegie stage 20,1,1.0526315789473684
+6,NK/T cells,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,F35,female,unknown,Carnegie stage 20,2,2.1052631578947367
+7,NK/T cells,"CD8-alpha-alpha-positive, alpha-beta intraepithelial T cell",CL:0000915,F35,female,unknown,Carnegie stage 20,6,6.315789473684211
+8,NK/T cells,early lymphoid progenitor,CL:0000936,F35,female,unknown,Carnegie stage 20,11,11.578947368421053
+9,NK/T cells,innate lymphoid cell,CL:0001065,F35,female,unknown,Carnegie stage 20,6,6.315789473684211
+10,NK/T cells,group 3 innate lymphoid cell,CL:0001071,F35,female,unknown,Carnegie stage 20,14,14.736842105263156
+11,NK/T cells,double negative thymocyte,CL:0002489,F35,female,unknown,Carnegie stage 20,1,1.0526315789473684

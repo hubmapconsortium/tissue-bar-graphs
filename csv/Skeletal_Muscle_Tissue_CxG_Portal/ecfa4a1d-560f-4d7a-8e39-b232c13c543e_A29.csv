@@ -1,0 +1,9 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Global,naive B cell,CL:0000788,A29,female,unknown,seventh decade human stage,1,6.25
+1,Global,alpha-beta T cell,CL:0000789,A29,female,unknown,seventh decade human stage,1,6.25
+2,Global,classical monocyte,CL:0000860,A29,female,unknown,seventh decade human stage,5,31.25
+3,Global,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,A29,female,unknown,seventh decade human stage,1,6.25
+4,Global,"CD16-positive, CD56-dim natural killer cell, human",CL:0000939,A29,female,unknown,seventh decade human stage,2,12.5
+5,Global,conventional dendritic cell,CL:0000990,A29,female,unknown,seventh decade human stage,2,12.5
+6,Global,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",CL:0001062,A29,female,unknown,seventh decade human stage,3,18.75
+7,Global,"CD8-positive, alpha-beta memory T cell, CD45RO-positive",CL:0001203,A29,female,unknown,seventh decade human stage,1,6.25

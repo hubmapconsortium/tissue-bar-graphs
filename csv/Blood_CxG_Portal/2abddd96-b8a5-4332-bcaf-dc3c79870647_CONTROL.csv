@@ -1,0 +1,4 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Steady-state B cells - scRNA-seq,naive B cell,CL:0000788,CONTROL,male,unknown,26-year-old human stage,174,26.93498452012384
+1,Steady-state B cells - scRNA-seq,unswitched memory B cell,CL:0000970,CONTROL,male,unknown,26-year-old human stage,245,37.925696594427244
+2,Steady-state B cells - scRNA-seq,class switched memory B cell,CL:0000972,CONTROL,male,unknown,26-year-old human stage,227,35.139318885448915

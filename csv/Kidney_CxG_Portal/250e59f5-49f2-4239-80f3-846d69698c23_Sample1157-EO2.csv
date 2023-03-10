@@ -1,0 +1,13 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Single-cell RNA-seq of the Adult Human Kidney (Version 1.0),endothelial cell,CL:0000115,Sample1157-EO2,female,European,41-year-old human stage,98,8.13953488372093
+1,Single-cell RNA-seq of the Adult Human Kidney (Version 1.0),podocyte,CL:0000653,Sample1157-EO2,female,European,41-year-old human stage,6,0.4983388704318937
+2,Single-cell RNA-seq of the Adult Human Kidney (Version 1.0),leukocyte,CL:0000738,Sample1157-EO2,female,European,41-year-old human stage,40,3.322259136212625
+3,Single-cell RNA-seq of the Adult Human Kidney (Version 1.0),epithelial cell of proximal tubule,CL:0002306,Sample1157-EO2,female,European,41-year-old human stage,473,39.285714285714285
+4,Single-cell RNA-seq of the Adult Human Kidney (Version 1.0),parietal epithelial cell,CL:1000452,Sample1157-EO2,female,European,41-year-old human stage,9,0.7475083056478405
+5,Single-cell RNA-seq of the Adult Human Kidney (Version 1.0),kidney interstitial cell,CL:1000500,Sample1157-EO2,female,European,41-year-old human stage,29,2.408637873754153
+6,Single-cell RNA-seq of the Adult Human Kidney (Version 1.0),kidney connecting tubule epithelial cell,CL:1000768,Sample1157-EO2,female,European,41-year-old human stage,2,0.16611295681063123
+7,Single-cell RNA-seq of the Adult Human Kidney (Version 1.0),kidney distal convoluted tubule epithelial cell,CL:1000849,Sample1157-EO2,female,European,41-year-old human stage,48,3.9867109634551494
+8,Single-cell RNA-seq of the Adult Human Kidney (Version 1.0),kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,Sample1157-EO2,female,European,41-year-old human stage,381,31.64451827242525
+9,Single-cell RNA-seq of the Adult Human Kidney (Version 1.0),kidney loop of Henle thin descending limb epithelial cell,CL:1001111,Sample1157-EO2,female,European,41-year-old human stage,1,0.08305647840531562
+10,Single-cell RNA-seq of the Adult Human Kidney (Version 1.0),kidney collecting duct principal cell,CL:1001431,Sample1157-EO2,female,European,41-year-old human stage,85,7.059800664451828
+11,Single-cell RNA-seq of the Adult Human Kidney (Version 1.0),kidney collecting duct intercalated cell,CL:1001432,Sample1157-EO2,female,European,41-year-old human stage,32,2.6578073089700998

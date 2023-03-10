@@ -1,0 +1,19 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Global,mast cell,CL:0000097,A37,female,unknown,sixth decade human stage,1,0.5882352941176471
+1,Global,macrophage,CL:0000235,A37,female,unknown,sixth decade human stage,29,17.058823529411764
+2,Global,CD4-positive helper T cell,CL:0000492,A37,female,unknown,sixth decade human stage,41,24.11764705882353
+3,Global,animal cell,CL:0000548,A37,female,unknown,sixth decade human stage,3,1.7647058823529411
+4,Global,alveolar macrophage,CL:0000583,A37,female,unknown,sixth decade human stage,26,15.294117647058824
+5,Global,memory B cell,CL:0000787,A37,female,unknown,sixth decade human stage,4,2.3529411764705883
+6,Global,regulatory T cell,CL:0000815,A37,female,unknown,sixth decade human stage,1,0.5882352941176471
+7,Global,classical monocyte,CL:0000860,A37,female,unknown,sixth decade human stage,15,8.823529411764707
+8,Global,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,A37,female,unknown,sixth decade human stage,3,1.7647058823529411
+9,Global,"effector memory CD4-positive, alpha-beta T cell",CL:0000905,A37,female,unknown,sixth decade human stage,17,10.0
+10,Global,"CD8-positive, alpha-beta memory T cell",CL:0000909,A37,female,unknown,sixth decade human stage,8,4.705882352941177
+11,Global,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,A37,female,unknown,sixth decade human stage,5,2.941176470588235
+12,Global,"CD16-positive, CD56-dim natural killer cell, human",CL:0000939,A37,female,unknown,sixth decade human stage,3,1.7647058823529411
+13,Global,mucosal invariant T cell,CL:0000940,A37,female,unknown,sixth decade human stage,3,1.7647058823529411
+14,Global,conventional dendritic cell,CL:0000990,A37,female,unknown,sixth decade human stage,3,1.7647058823529411
+15,Global,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",CL:0001062,A37,female,unknown,sixth decade human stage,2,1.1764705882352942
+16,Global,"CD8-positive, alpha-beta memory T cell, CD45RO-positive",CL:0001203,A37,female,unknown,sixth decade human stage,5,2.941176470588235
+17,Global,T follicular helper cell,CL:0002038,A37,female,unknown,sixth decade human stage,1,0.5882352941176471

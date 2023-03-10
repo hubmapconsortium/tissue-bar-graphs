@@ -1,0 +1,25 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Activated PBMCs - Expanded cohort CITE-seq,macrophage,CL:0000235,CONTROL8,male,unknown,31-year-old human stage,284,6.230802983764809
+1,Activated PBMCs - Expanded cohort CITE-seq,plasmacytoid dendritic cell,CL:0000784,CONTROL8,male,unknown,31-year-old human stage,10,0.2193944712593243
+2,Activated PBMCs - Expanded cohort CITE-seq,plasma cell,CL:0000786,CONTROL8,male,unknown,31-year-old human stage,59,1.294427380430013
+3,Activated PBMCs - Expanded cohort CITE-seq,memory B cell,CL:0000787,CONTROL8,male,unknown,31-year-old human stage,371,8.13953488372093
+4,Activated PBMCs - Expanded cohort CITE-seq,naive B cell,CL:0000788,CONTROL8,male,unknown,31-year-old human stage,257,5.638437911364633
+5,Activated PBMCs - Expanded cohort CITE-seq,gamma-delta T cell,CL:0000798,CONTROL8,male,unknown,31-year-old human stage,81,1.7770952172005263
+6,Activated PBMCs - Expanded cohort CITE-seq,regulatory T cell,CL:0000815,CONTROL8,male,unknown,31-year-old human stage,256,5.616498464238702
+7,Activated PBMCs - Expanded cohort CITE-seq,classical monocyte,CL:0000860,CONTROL8,male,unknown,31-year-old human stage,417,9.14874945151382
+8,Activated PBMCs - Expanded cohort CITE-seq,non-classical monocyte,CL:0000875,CONTROL8,male,unknown,31-year-old human stage,106,2.3255813953488373
+9,Activated PBMCs - Expanded cohort CITE-seq,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,CONTROL8,male,unknown,31-year-old human stage,253,5.5506801228609035
+10,Activated PBMCs - Expanded cohort CITE-seq,"activated CD4-positive, alpha-beta T cell",CL:0000896,CONTROL8,male,unknown,31-year-old human stage,141,3.093462044756472
+11,Activated PBMCs - Expanded cohort CITE-seq,"CD4-positive, alpha-beta memory T cell",CL:0000897,CONTROL8,male,unknown,31-year-old human stage,339,7.437472575691093
+12,Activated PBMCs - Expanded cohort CITE-seq,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,CONTROL8,male,unknown,31-year-old human stage,148,3.247038174637999
+13,Activated PBMCs - Expanded cohort CITE-seq,"activated CD8-positive, alpha-beta T cell",CL:0000906,CONTROL8,male,unknown,31-year-old human stage,34,0.7459412022817025
+14,Activated PBMCs - Expanded cohort CITE-seq,"CD8-positive, alpha-beta memory T cell",CL:0000909,CONTROL8,male,unknown,31-year-old human stage,73,1.601579640193067
+15,Activated PBMCs - Expanded cohort CITE-seq,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,CONTROL8,male,unknown,31-year-old human stage,66,1.4480035103115403
+16,Activated PBMCs - Expanded cohort CITE-seq,type I NK T cell,CL:0000921,CONTROL8,male,unknown,31-year-old human stage,104,2.2817025010969725
+17,Activated PBMCs - Expanded cohort CITE-seq,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,CONTROL8,male,unknown,31-year-old human stage,151,3.3128565160157963
+18,Activated PBMCs - Expanded cohort CITE-seq,"CD16-positive, CD56-dim natural killer cell, human",CL:0000939,CONTROL8,male,unknown,31-year-old human stage,480,10.530934620447564
+19,Activated PBMCs - Expanded cohort CITE-seq,mucosal invariant T cell,CL:0000940,CONTROL8,male,unknown,31-year-old human stage,59,1.294427380430013
+20,Activated PBMCs - Expanded cohort CITE-seq,conventional dendritic cell,CL:0000990,CONTROL8,male,unknown,31-year-old human stage,165,3.6200087757788504
+21,Activated PBMCs - Expanded cohort CITE-seq,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",CL:0001062,CONTROL8,male,unknown,31-year-old human stage,93,2.0403685827117157
+22,Activated PBMCs - Expanded cohort CITE-seq,intermediate monocyte,CL:0002393,CONTROL8,male,unknown,31-year-old human stage,571,12.527424308907415
+23,Activated PBMCs - Expanded cohort CITE-seq,hematopoietic precursor cell,CL:0008001,CONTROL8,male,unknown,31-year-old human stage,40,0.8775778850372972

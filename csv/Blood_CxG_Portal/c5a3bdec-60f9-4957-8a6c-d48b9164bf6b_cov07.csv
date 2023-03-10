@@ -1,0 +1,5 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,B Cell/Plasmablast Sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,memory B cell,CL:0000787,cov07,female,European,84-year-old human stage,5,3.937007874015748
+1,B Cell/Plasmablast Sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,naive B cell,CL:0000788,cov07,female,European,84-year-old human stage,98,77.16535433070865
+2,B Cell/Plasmablast Sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,transitional stage B cell,CL:0000818,cov07,female,European,84-year-old human stage,16,12.598425196850393
+3,B Cell/Plasmablast Sub_clusters of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,plasmablast,CL:0000980,cov07,female,European,84-year-old human stage,8,6.299212598425196

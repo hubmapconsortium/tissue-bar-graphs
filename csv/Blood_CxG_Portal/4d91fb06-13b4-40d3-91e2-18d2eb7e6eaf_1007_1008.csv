@@ -1,0 +1,20 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,natural killer cell,CL:0000623,1007_1008,female,European,75-year-old human stage,97,8.882783882783883
+1,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"CD4-positive, alpha-beta T cell",CL:0000624,1007_1008,female,European,75-year-old human stage,2,0.18315018315018314
+2,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,memory B cell,CL:0000787,1007_1008,female,European,75-year-old human stage,7,0.641025641025641
+3,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,naive B cell,CL:0000788,1007_1008,female,European,75-year-old human stage,23,2.1062271062271063
+4,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,gamma-delta T cell,CL:0000798,1007_1008,female,European,75-year-old human stage,30,2.7472527472527473
+5,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,regulatory T cell,CL:0000815,1007_1008,female,European,75-year-old human stage,13,1.1904761904761905
+6,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,transitional stage B cell,CL:0000818,1007_1008,female,European,75-year-old human stage,20,1.8315018315018317
+7,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,1007_1008,female,European,75-year-old human stage,84,7.6923076923076925
+8,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,1007_1008,female,European,75-year-old human stage,7,0.641025641025641
+9,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"central memory CD4-positive, alpha-beta T cell",CL:0000904,1007_1008,female,European,75-year-old human stage,237,21.703296703296704
+10,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"effector memory CD4-positive, alpha-beta T cell",CL:0000905,1007_1008,female,European,75-year-old human stage,53,4.853479853479854
+11,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"central memory CD8-positive, alpha-beta T cell",CL:0000907,1007_1008,female,European,75-year-old human stage,17,1.5567765567765568
+12,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,1007_1008,female,European,75-year-old human stage,413,37.82051282051282
+13,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"CD4-positive, alpha-beta cytotoxic T cell",CL:0000934,1007_1008,female,European,75-year-old human stage,72,6.593406593406594
+14,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,1007_1008,female,European,75-year-old human stage,3,0.27472527472527475
+15,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,mucosal invariant T cell,CL:0000940,1007_1008,female,European,75-year-old human stage,7,0.641025641025641
+16,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,plasmablast,CL:0000980,1007_1008,female,European,75-year-old human stage,1,0.09157509157509157
+17,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,conventional dendritic cell,CL:0000990,1007_1008,female,European,75-year-old human stage,1,0.09157509157509157
+18,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,CD14-positive monocyte,CL:0001054,1007_1008,female,European,75-year-old human stage,5,0.4578754578754579

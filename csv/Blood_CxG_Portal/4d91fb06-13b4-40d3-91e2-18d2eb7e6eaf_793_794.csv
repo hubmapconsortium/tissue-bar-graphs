@@ -1,0 +1,20 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,erythrocyte,CL:0000232,793_794,female,European,78-year-old human stage,1,0.06802721088435373
+1,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,natural killer cell,CL:0000623,793_794,female,European,78-year-old human stage,53,3.6054421768707483
+2,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,memory B cell,CL:0000787,793_794,female,European,78-year-old human stage,16,1.0884353741496597
+3,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,naive B cell,CL:0000788,793_794,female,European,78-year-old human stage,307,20.884353741496597
+4,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,gamma-delta T cell,CL:0000798,793_794,female,European,78-year-old human stage,4,0.27210884353741494
+5,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,regulatory T cell,CL:0000815,793_794,female,European,78-year-old human stage,8,0.5442176870748299
+6,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,transitional stage B cell,CL:0000818,793_794,female,European,78-year-old human stage,894,60.816326530612244
+7,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,793_794,female,European,78-year-old human stage,72,4.8979591836734695
+8,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,793_794,female,European,78-year-old human stage,4,0.27210884353741494
+9,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"central memory CD4-positive, alpha-beta T cell",CL:0000904,793_794,female,European,78-year-old human stage,71,4.829931972789116
+10,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"effector memory CD4-positive, alpha-beta T cell",CL:0000905,793_794,female,European,78-year-old human stage,8,0.5442176870748299
+11,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"central memory CD8-positive, alpha-beta T cell",CL:0000907,793_794,female,European,78-year-old human stage,1,0.06802721088435373
+12,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,793_794,female,European,78-year-old human stage,18,1.2244897959183674
+13,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"CD4-positive, alpha-beta cytotoxic T cell",CL:0000934,793_794,female,European,78-year-old human stage,3,0.20408163265306123
+14,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,793_794,female,European,78-year-old human stage,3,0.20408163265306123
+15,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,CD14-positive monocyte,CL:0001054,793_794,female,European,78-year-old human stage,2,0.13605442176870747
+16,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"CD14-low, CD16-positive monocyte",CL:0002396,793_794,female,European,78-year-old human stage,2,0.13605442176870747
+17,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,double negative thymocyte,CL:0002489,793_794,female,European,78-year-old human stage,1,0.06802721088435373
+18,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,hematopoietic precursor cell,CL:0008001,793_794,female,European,78-year-old human stage,2,0.13605442176870747

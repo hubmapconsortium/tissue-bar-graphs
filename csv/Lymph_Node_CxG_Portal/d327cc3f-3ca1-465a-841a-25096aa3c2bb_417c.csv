@@ -1,0 +1,18 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Colon,mast cell,CL:0000097,417c,male,unknown,65-79 year-old human stage,1,0.09337068160597572
+1,Colon,macrophage,CL:0000235,417c,male,unknown,65-79 year-old human stage,19,1.7740429505135387
+2,Colon,B cell,CL:0000236,417c,male,unknown,65-79 year-old human stage,3,0.2801120448179272
+3,Colon,dendritic cell,CL:0000451,417c,male,unknown,65-79 year-old human stage,5,0.4668534080298786
+4,Colon,monocyte,CL:0000576,417c,male,unknown,65-79 year-old human stage,16,1.4939309056956116
+5,Colon,natural killer cell,CL:0000623,417c,male,unknown,65-79 year-old human stage,18,1.680672268907563
+6,Colon,"CD8-positive, alpha-beta T cell",CL:0000625,417c,male,unknown,65-79 year-old human stage,254,23.71615312791783
+7,Colon,memory B cell,CL:0000787,417c,male,unknown,65-79 year-old human stage,382,35.66760037348273
+8,Colon,gamma-delta T cell,CL:0000798,417c,male,unknown,65-79 year-old human stage,3,0.2801120448179272
+9,Colon,memory T cell,CL:0000813,417c,male,unknown,65-79 year-old human stage,221,20.634920634920633
+10,Colon,regulatory T cell,CL:0000815,417c,male,unknown,65-79 year-old human stage,97,9.056956115779645
+11,Colon,follicular B cell,CL:0000843,417c,male,unknown,65-79 year-old human stage,20,1.8674136321195145
+12,Colon,IgA plasma cell,CL:0000987,417c,male,unknown,65-79 year-old human stage,1,0.09337068160597572
+13,Colon,conventional dendritic cell,CL:0000990,417c,male,unknown,65-79 year-old human stage,2,0.18674136321195145
+14,Colon,innate lymphoid cell,CL:0001065,417c,male,unknown,65-79 year-old human stage,12,1.1204481792717087
+15,Colon,T follicular helper cell,CL:0002038,417c,male,unknown,65-79 year-old human stage,14,1.3071895424836601
+16,Colon,colon macrophage,CL:0009038,417c,male,unknown,65-79 year-old human stage,3,0.2801120448179272

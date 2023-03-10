@@ -1,0 +1,11 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Single-cell RNA-seq of the Adult Human Kidney (Version 1.0),endothelial cell,CL:0000115,Sample1158-EO1,female,European,48-year-old human stage,103,19.65648854961832
+1,Single-cell RNA-seq of the Adult Human Kidney (Version 1.0),leukocyte,CL:0000738,Sample1158-EO1,female,European,48-year-old human stage,15,2.8625954198473282
+2,Single-cell RNA-seq of the Adult Human Kidney (Version 1.0),epithelial cell of proximal tubule,CL:0002306,Sample1158-EO1,female,European,48-year-old human stage,21,4.007633587786259
+3,Single-cell RNA-seq of the Adult Human Kidney (Version 1.0),kidney interstitial cell,CL:1000500,Sample1158-EO1,female,European,48-year-old human stage,60,11.450381679389313
+4,Single-cell RNA-seq of the Adult Human Kidney (Version 1.0),kidney connecting tubule epithelial cell,CL:1000768,Sample1158-EO1,female,European,48-year-old human stage,2,0.38167938931297707
+5,Single-cell RNA-seq of the Adult Human Kidney (Version 1.0),kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,Sample1158-EO1,female,European,48-year-old human stage,246,46.94656488549619
+6,Single-cell RNA-seq of the Adult Human Kidney (Version 1.0),kidney loop of Henle thin ascending limb epithelial cell,CL:1001107,Sample1158-EO1,female,European,48-year-old human stage,2,0.38167938931297707
+7,Single-cell RNA-seq of the Adult Human Kidney (Version 1.0),kidney loop of Henle thin descending limb epithelial cell,CL:1001111,Sample1158-EO1,female,European,48-year-old human stage,16,3.0534351145038165
+8,Single-cell RNA-seq of the Adult Human Kidney (Version 1.0),kidney collecting duct principal cell,CL:1001431,Sample1158-EO1,female,European,48-year-old human stage,52,9.923664122137405
+9,Single-cell RNA-seq of the Adult Human Kidney (Version 1.0),kidney collecting duct intercalated cell,CL:1001432,Sample1158-EO1,female,European,48-year-old human stage,7,1.3358778625954197

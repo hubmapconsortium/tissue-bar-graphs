@@ -1,0 +1,17 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Single cell RNA-seq data from normal adult kidney tissue,T cell,CL:0000084,PRECISE_023_N,male,European,67-year-old human stage,1,0.02003205128205128
+1,Single cell RNA-seq data from normal adult kidney tissue,endothelial cell,CL:0000115,PRECISE_023_N,male,European,67-year-old human stage,45,0.9014423076923076
+2,Single cell RNA-seq data from normal adult kidney tissue,B cell,CL:0000236,PRECISE_023_N,male,European,67-year-old human stage,1,0.02003205128205128
+3,Single cell RNA-seq data from normal adult kidney tissue,monocyte,CL:0000576,PRECISE_023_N,male,European,67-year-old human stage,6,0.1201923076923077
+4,Single cell RNA-seq data from normal adult kidney tissue,leukocyte,CL:0000738,PRECISE_023_N,male,European,67-year-old human stage,1,0.02003205128205128
+5,Single cell RNA-seq data from normal adult kidney tissue,non-classical monocyte,CL:0000875,PRECISE_023_N,male,European,67-year-old human stage,3,0.06009615384615385
+6,Single cell RNA-seq data from normal adult kidney tissue,conventional dendritic cell,CL:0000990,PRECISE_023_N,male,European,67-year-old human stage,15,0.3004807692307693
+7,Single cell RNA-seq data from normal adult kidney tissue,epithelial cell of proximal tubule,CL:0002306,PRECISE_023_N,male,European,67-year-old human stage,54,1.0817307692307692
+8,Single cell RNA-seq data from normal adult kidney tissue,kidney connecting tubule epithelial cell,CL:1000768,PRECISE_023_N,male,European,67-year-old human stage,27,0.5408653846153846
+9,Single cell RNA-seq data from normal adult kidney tissue,kidney distal convoluted tubule epithelial cell,CL:1000849,PRECISE_023_N,male,European,67-year-old human stage,51,1.0216346153846154
+10,Single cell RNA-seq data from normal adult kidney tissue,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,PRECISE_023_N,male,European,67-year-old human stage,3626,72.63621794871796
+11,Single cell RNA-seq data from normal adult kidney tissue,kidney loop of Henle thin ascending limb epithelial cell,CL:1001107,PRECISE_023_N,male,European,67-year-old human stage,1,0.02003205128205128
+12,Single cell RNA-seq data from normal adult kidney tissue,kidney loop of Henle thin descending limb epithelial cell,CL:1001111,PRECISE_023_N,male,European,67-year-old human stage,374,7.491987179487179
+13,Single cell RNA-seq data from normal adult kidney tissue,renal interstitial pericyte,CL:1001318,PRECISE_023_N,male,European,67-year-old human stage,296,5.929487179487179
+14,Single cell RNA-seq data from normal adult kidney tissue,kidney collecting duct principal cell,CL:1001431,PRECISE_023_N,male,European,67-year-old human stage,342,6.850961538461539
+15,Single cell RNA-seq data from normal adult kidney tissue,kidney collecting duct intercalated cell,CL:1001432,PRECISE_023_N,male,European,67-year-old human stage,149,2.984775641025641

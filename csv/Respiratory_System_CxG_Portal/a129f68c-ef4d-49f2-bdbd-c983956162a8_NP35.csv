@@ -1,0 +1,16 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Airway,native cell,CL:0000003,NP35,female,European,adolescent stage,1,0.2762430939226519
+1,Airway,ciliated cell,CL:0000064,NP35,female,European,adolescent stage,62,17.12707182320442
+2,Airway,T cell,CL:0000084,NP35,female,European,adolescent stage,1,0.2762430939226519
+3,Airway,monocyte,CL:0000576,NP35,female,European,adolescent stage,64,17.67955801104972
+4,Airway,memory B cell,CL:0000787,NP35,female,European,adolescent stage,21,5.801104972375691
+5,Airway,naive B cell,CL:0000788,NP35,female,European,adolescent stage,19,5.248618784530387
+6,Airway,mature NK T cell,CL:0000814,NP35,female,European,adolescent stage,20,5.524861878453039
+7,Airway,regulatory T cell,CL:0000815,NP35,female,European,adolescent stage,1,0.2762430939226519
+8,Airway,"CD4-positive, alpha-beta memory T cell",CL:0000897,NP35,female,European,adolescent stage,1,0.2762430939226519
+9,Airway,naive T cell,CL:0000898,NP35,female,European,adolescent stage,109,30.11049723756906
+10,Airway,"CD8-positive, alpha-beta memory T cell",CL:0000909,NP35,female,European,adolescent stage,4,1.1049723756906076
+11,Airway,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,NP35,female,European,adolescent stage,9,2.4861878453038675
+12,Airway,"CD16-positive, CD56-dim natural killer cell, human",CL:0000939,NP35,female,European,adolescent stage,47,12.98342541436464
+13,Airway,mucosal invariant T cell,CL:0000940,NP35,female,European,adolescent stage,2,0.5524861878453038
+14,Airway,"plasmacytoid dendritic cell, human",CL:0001058,NP35,female,European,adolescent stage,1,0.2762430939226519

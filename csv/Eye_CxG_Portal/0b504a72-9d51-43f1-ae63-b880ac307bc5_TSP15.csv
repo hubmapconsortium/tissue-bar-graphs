@@ -1,0 +1,52 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Tabula Sapiens - All Cells,stem cell,CL:0000034,TSP15,male,Hispanic or Latin American,46-year-old human stage,93,1.6574585635359116
+1,Tabula Sapiens - All Cells,fibroblast,CL:0000057,TSP15,male,Hispanic or Latin American,46-year-old human stage,62,1.1049723756906076
+2,Tabula Sapiens - All Cells,T cell,CL:0000084,TSP15,male,Hispanic or Latin American,46-year-old human stage,30,0.5346640527535198
+3,Tabula Sapiens - All Cells,surface ectodermal cell,CL:0000114,TSP15,male,Hispanic or Latin American,46-year-old human stage,39,0.6950632685795759
+4,Tabula Sapiens - All Cells,endothelial cell,CL:0000115,TSP15,male,Hispanic or Latin American,46-year-old human stage,15,0.2673320263767599
+5,Tabula Sapiens - All Cells,microglial cell,CL:0000129,TSP15,male,Hispanic or Latin American,46-year-old human stage,25,0.44555337729459993
+6,Tabula Sapiens - All Cells,melanocyte,CL:0000148,TSP15,male,Hispanic or Latin American,46-year-old human stage,75,1.3366601318837996
+7,Tabula Sapiens - All Cells,macrophage,CL:0000235,TSP15,male,Hispanic or Latin American,46-year-old human stage,20,0.3564427018356799
+8,Tabula Sapiens - All Cells,stromal cell,CL:0000499,TSP15,male,Hispanic or Latin American,46-year-old human stage,1,0.017822135091783996
+9,Tabula Sapiens - All Cells,corneal epithelial cell,CL:0000575,TSP15,male,Hispanic or Latin American,46-year-old human stage,1445,25.752985207627876
+10,Tabula Sapiens - All Cells,monocyte,CL:0000576,TSP15,male,Hispanic or Latin American,46-year-old human stage,3,0.053466405275351986
+11,Tabula Sapiens - All Cells,"CD4-positive, alpha-beta T cell",CL:0000624,TSP15,male,Hispanic or Latin American,46-year-old human stage,1,0.017822135091783996
+12,Tabula Sapiens - All Cells,radial glial cell,CL:0000681,TSP15,male,Hispanic or Latin American,46-year-old human stage,174,3.1010515059704153
+13,Tabula Sapiens - All Cells,erythroid lineage cell,CL:0000764,TSP15,male,Hispanic or Latin American,46-year-old human stage,1,0.017822135091783996
+14,Tabula Sapiens - All Cells,pigmented ciliary epithelial cell,CL:0002303,TSP15,male,Hispanic or Latin American,46-year-old human stage,15,0.2673320263767599
+15,Tabula Sapiens - All Cells,keratocyte,CL:0002363,TSP15,male,Hispanic or Latin American,46-year-old human stage,73,1.3010158617002316
+16,Tabula Sapiens - All Cells,retinal blood vessel endothelial cell,CL:0002585,TSP15,male,Hispanic or Latin American,46-year-old human stage,158,2.815897344501871
+17,Tabula Sapiens - All Cells,conjunctival epithelial cell,CL:1000432,TSP15,male,Hispanic or Latin American,46-year-old human stage,1275,22.723222242024594
+18,Tabula Sapiens - All Cells,T cell,CL:0000084,TSP15,male,Hispanic or Latin American,46-year-old human stage,3,0.053466405275351986
+19,Tabula Sapiens - All Cells,microglial cell,CL:0000129,TSP15,male,Hispanic or Latin American,46-year-old human stage,21,0.3742648369274639
+20,Tabula Sapiens - All Cells,macrophage,CL:0000235,TSP15,male,Hispanic or Latin American,46-year-old human stage,1,0.017822135091783996
+21,Tabula Sapiens - All Cells,eye photoreceptor cell,CL:0000287,TSP15,male,Hispanic or Latin American,46-year-old human stage,325,5.792193904829799
+22,Tabula Sapiens - All Cells,dendritic cell,CL:0000451,TSP15,male,Hispanic or Latin American,46-year-old human stage,1,0.017822135091783996
+23,Tabula Sapiens - All Cells,monocyte,CL:0000576,TSP15,male,Hispanic or Latin American,46-year-old human stage,3,0.053466405275351986
+24,Tabula Sapiens - All Cells,Mueller cell,CL:0000636,TSP15,male,Hispanic or Latin American,46-year-old human stage,297,5.293174122259846
+25,Tabula Sapiens - All Cells,retina horizontal cell,CL:0000745,TSP15,male,Hispanic or Latin American,46-year-old human stage,3,0.053466405275351986
+26,Tabula Sapiens - All Cells,retinal bipolar neuron,CL:0000748,TSP15,male,Hispanic or Latin American,46-year-old human stage,16,0.28515416146854394
+27,Tabula Sapiens - All Cells,erythroid lineage cell,CL:0000764,TSP15,male,Hispanic or Latin American,46-year-old human stage,5,0.08911067545891997
+28,Tabula Sapiens - All Cells,stem cell,CL:0000034,TSP15,male,Hispanic or Latin American,46-year-old human stage,31,0.5524861878453038
+29,Tabula Sapiens - All Cells,fibroblast,CL:0000057,TSP15,male,Hispanic or Latin American,46-year-old human stage,17,0.30297629656032793
+30,Tabula Sapiens - All Cells,T cell,CL:0000084,TSP15,male,Hispanic or Latin American,46-year-old human stage,14,0.24950989128497597
+31,Tabula Sapiens - All Cells,mast cell,CL:0000097,TSP15,male,Hispanic or Latin American,46-year-old human stage,3,0.053466405275351986
+32,Tabula Sapiens - All Cells,surface ectodermal cell,CL:0000114,TSP15,male,Hispanic or Latin American,46-year-old human stage,9,0.16039921582605596
+33,Tabula Sapiens - All Cells,endothelial cell,CL:0000115,TSP15,male,Hispanic or Latin American,46-year-old human stage,83,1.4792372126180717
+34,Tabula Sapiens - All Cells,microglial cell,CL:0000129,TSP15,male,Hispanic or Latin American,46-year-old human stage,17,0.30297629656032793
+35,Tabula Sapiens - All Cells,fat cell,CL:0000136,TSP15,male,Hispanic or Latin American,46-year-old human stage,44,0.7841739440384958
+36,Tabula Sapiens - All Cells,melanocyte,CL:0000148,TSP15,male,Hispanic or Latin American,46-year-old human stage,9,0.16039921582605596
+37,Tabula Sapiens - All Cells,macrophage,CL:0000235,TSP15,male,Hispanic or Latin American,46-year-old human stage,60,1.0693281055070396
+38,Tabula Sapiens - All Cells,B cell,CL:0000236,TSP15,male,Hispanic or Latin American,46-year-old human stage,38,0.6772411334877919
+39,Tabula Sapiens - All Cells,dendritic cell,CL:0000451,TSP15,male,Hispanic or Latin American,46-year-old human stage,123,2.1921226162894314
+40,Tabula Sapiens - All Cells,stromal cell,CL:0000499,TSP15,male,Hispanic or Latin American,46-year-old human stage,185,3.2970949919800394
+41,Tabula Sapiens - All Cells,monocyte,CL:0000576,TSP15,male,Hispanic or Latin American,46-year-old human stage,9,0.16039921582605596
+42,Tabula Sapiens - All Cells,"CD4-positive, alpha-beta T cell",CL:0000624,TSP15,male,Hispanic or Latin American,46-year-old human stage,8,0.14257708073427197
+43,Tabula Sapiens - All Cells,"CD8-positive, alpha-beta T cell",CL:0000625,TSP15,male,Hispanic or Latin American,46-year-old human stage,1,0.017822135091783996
+44,Tabula Sapiens - All Cells,radial glial cell,CL:0000681,TSP15,male,Hispanic or Latin American,46-year-old human stage,6,0.10693281055070397
+45,Tabula Sapiens - All Cells,retinal ganglion cell,CL:0000740,TSP15,male,Hispanic or Latin American,46-year-old human stage,5,0.08911067545891997
+46,Tabula Sapiens - All Cells,erythroid lineage cell,CL:0000764,TSP15,male,Hispanic or Latin American,46-year-old human stage,13,0.23168775619319196
+47,Tabula Sapiens - All Cells,plasma cell,CL:0000786,TSP15,male,Hispanic or Latin American,46-year-old human stage,41,0.7307075387631438
+48,Tabula Sapiens - All Cells,keratocyte,CL:0002363,TSP15,male,Hispanic or Latin American,46-year-old human stage,367,6.540723578684727
+49,Tabula Sapiens - All Cells,retinal blood vessel endothelial cell,CL:0002585,TSP15,male,Hispanic or Latin American,46-year-old human stage,284,5.061486366066655
+50,Tabula Sapiens - All Cells,conjunctival epithelial cell,CL:1000432,TSP15,male,Hispanic or Latin American,46-year-old human stage,64,1.1406166458741758

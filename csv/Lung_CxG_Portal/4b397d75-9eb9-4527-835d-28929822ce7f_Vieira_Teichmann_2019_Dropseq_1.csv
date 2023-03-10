@@ -1,0 +1,25 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,The single-cell lung cancer atlas (LuCA) -- core atlas,mesothelial cell,CL:0000077,Vieira_Teichmann_2019_Dropseq_1,male,unknown,62-year-old human stage,8,0.7604562737642585
+1,The single-cell lung cancer atlas (LuCA) -- core atlas,epithelial cell of lung,CL:0000082,Vieira_Teichmann_2019_Dropseq_1,male,unknown,62-year-old human stage,44,4.182509505703422
+2,The single-cell lung cancer atlas (LuCA) -- core atlas,mast cell,CL:0000097,Vieira_Teichmann_2019_Dropseq_1,male,unknown,62-year-old human stage,22,2.091254752851711
+3,The single-cell lung cancer atlas (LuCA) -- core atlas,club cell,CL:0000158,Vieira_Teichmann_2019_Dropseq_1,male,unknown,62-year-old human stage,6,0.5703422053231939
+4,The single-cell lung cancer atlas (LuCA) -- core atlas,macrophage,CL:0000235,Vieira_Teichmann_2019_Dropseq_1,male,unknown,62-year-old human stage,11,1.0456273764258555
+5,The single-cell lung cancer atlas (LuCA) -- core atlas,B cell,CL:0000236,Vieira_Teichmann_2019_Dropseq_1,male,unknown,62-year-old human stage,2,0.19011406844106463
+6,The single-cell lung cancer atlas (LuCA) -- core atlas,alveolar macrophage,CL:0000583,Vieira_Teichmann_2019_Dropseq_1,male,unknown,62-year-old human stage,273,25.950570342205324
+7,The single-cell lung cancer atlas (LuCA) -- core atlas,natural killer cell,CL:0000623,Vieira_Teichmann_2019_Dropseq_1,male,unknown,62-year-old human stage,15,1.4258555133079849
+8,The single-cell lung cancer atlas (LuCA) -- core atlas,"CD4-positive, alpha-beta T cell",CL:0000624,Vieira_Teichmann_2019_Dropseq_1,male,unknown,62-year-old human stage,60,5.7034220532319395
+9,The single-cell lung cancer atlas (LuCA) -- core atlas,"CD8-positive, alpha-beta T cell",CL:0000625,Vieira_Teichmann_2019_Dropseq_1,male,unknown,62-year-old human stage,18,1.7110266159695817
+10,The single-cell lung cancer atlas (LuCA) -- core atlas,myeloid cell,CL:0000763,Vieira_Teichmann_2019_Dropseq_1,male,unknown,62-year-old human stage,2,0.19011406844106463
+11,The single-cell lung cancer atlas (LuCA) -- core atlas,plasmacytoid dendritic cell,CL:0000784,Vieira_Teichmann_2019_Dropseq_1,male,unknown,62-year-old human stage,4,0.38022813688212925
+12,The single-cell lung cancer atlas (LuCA) -- core atlas,regulatory T cell,CL:0000815,Vieira_Teichmann_2019_Dropseq_1,male,unknown,62-year-old human stage,2,0.19011406844106463
+13,The single-cell lung cancer atlas (LuCA) -- core atlas,classical monocyte,CL:0000860,Vieira_Teichmann_2019_Dropseq_1,male,unknown,62-year-old human stage,27,2.5665399239543727
+14,The single-cell lung cancer atlas (LuCA) -- core atlas,non-classical monocyte,CL:0000875,Vieira_Teichmann_2019_Dropseq_1,male,unknown,62-year-old human stage,1,0.09505703422053231
+15,The single-cell lung cancer atlas (LuCA) -- core atlas,malignant cell,CL:0001064,Vieira_Teichmann_2019_Dropseq_1,male,unknown,62-year-old human stage,5,0.4752851711026616
+16,The single-cell lung cancer atlas (LuCA) -- core atlas,type I pneumocyte,CL:0002062,Vieira_Teichmann_2019_Dropseq_1,male,unknown,62-year-old human stage,61,5.798479087452471
+17,The single-cell lung cancer atlas (LuCA) -- core atlas,type II pneumocyte,CL:0002063,Vieira_Teichmann_2019_Dropseq_1,male,unknown,62-year-old human stage,394,37.452471482889734
+18,The single-cell lung cancer atlas (LuCA) -- core atlas,endothelial cell of lymphatic vessel,CL:0002138,Vieira_Teichmann_2019_Dropseq_1,male,unknown,62-year-old human stage,19,1.8060836501901139
+19,The single-cell lung cancer atlas (LuCA) -- core atlas,CD1c-positive myeloid dendritic cell,CL:0002399,Vieira_Teichmann_2019_Dropseq_1,male,unknown,62-year-old human stage,17,1.6159695817490494
+20,The single-cell lung cancer atlas (LuCA) -- core atlas,vein endothelial cell,CL:0002543,Vieira_Teichmann_2019_Dropseq_1,male,unknown,62-year-old human stage,16,1.520912547528517
+21,The single-cell lung cancer atlas (LuCA) -- core atlas,fibroblast of lung,CL:0002553,Vieira_Teichmann_2019_Dropseq_1,male,unknown,62-year-old human stage,2,0.19011406844106463
+22,The single-cell lung cancer atlas (LuCA) -- core atlas,multi-ciliated epithelial cell,CL:0005012,Vieira_Teichmann_2019_Dropseq_1,male,unknown,62-year-old human stage,40,3.802281368821293
+23,The single-cell lung cancer atlas (LuCA) -- core atlas,bronchus fibroblast of lung,CL:2000093,Vieira_Teichmann_2019_Dropseq_1,male,unknown,62-year-old human stage,3,0.28517110266159695

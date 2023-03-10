@@ -1,0 +1,37 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,3 healthy young and 3 healthy old bone marrow donors (Reference sample),erythroid progenitor cell,CL:0000038,Aged1,male,unknown,69-year-old human stage,457,7.235592146928435
+1,3 healthy young and 3 healthy old bone marrow donors (Reference sample),megakaryocyte-erythroid progenitor cell,CL:0000050,Aged1,male,unknown,69-year-old human stage,18,0.2849905003166561
+2,3 healthy young and 3 healthy old bone marrow donors (Reference sample),non-terminally differentiated cell,CL:0000055,Aged1,male,unknown,69-year-old human stage,1,0.015832805573147563
+3,3 healthy young and 3 healthy old bone marrow donors (Reference sample),megakaryocyte progenitor cell,CL:0000553,Aged1,male,unknown,69-year-old human stage,25,0.3958201393286891
+4,3 healthy young and 3 healthy old bone marrow donors (Reference sample),natural killer cell,CL:0000623,Aged1,male,unknown,69-year-old human stage,66,1.044965167827739
+5,3 healthy young and 3 healthy old bone marrow donors (Reference sample),plasmacytoid dendritic cell,CL:0000784,Aged1,male,unknown,69-year-old human stage,23,0.3641545281823939
+6,3 healthy young and 3 healthy old bone marrow donors (Reference sample),plasma cell,CL:0000786,Aged1,male,unknown,69-year-old human stage,40,0.6333122229259025
+7,3 healthy young and 3 healthy old bone marrow donors (Reference sample),memory B cell,CL:0000787,Aged1,male,unknown,69-year-old human stage,11,0.1741608613046232
+8,3 healthy young and 3 healthy old bone marrow donors (Reference sample),naive B cell,CL:0000788,Aged1,male,unknown,69-year-old human stage,670,10.607979734008866
+9,3 healthy young and 3 healthy old bone marrow donors (Reference sample),gamma-delta T cell,CL:0000798,Aged1,male,unknown,69-year-old human stage,58,0.9183027232425586
+10,3 healthy young and 3 healthy old bone marrow donors (Reference sample),immature B cell,CL:0000816,Aged1,male,unknown,69-year-old human stage,20,0.31665611146295125
+11,3 healthy young and 3 healthy old bone marrow donors (Reference sample),precursor B cell,CL:0000817,Aged1,male,unknown,69-year-old human stage,19,0.30082330588980366
+12,3 healthy young and 3 healthy old bone marrow donors (Reference sample),pro-B cell,CL:0000826,Aged1,male,unknown,69-year-old human stage,18,0.2849905003166561
+13,3 healthy young and 3 healthy old bone marrow donors (Reference sample),hematopoietic multipotent progenitor cell,CL:0000837,Aged1,male,unknown,69-year-old human stage,128,2.026599113362888
+14,3 healthy young and 3 healthy old bone marrow donors (Reference sample),lymphoid lineage restricted progenitor cell,CL:0000838,Aged1,male,unknown,69-year-old human stage,60,0.9499683343888538
+15,3 healthy young and 3 healthy old bone marrow donors (Reference sample),classical monocyte,CL:0000860,Aged1,male,unknown,69-year-old human stage,26,0.41165294490183657
+16,3 healthy young and 3 healthy old bone marrow donors (Reference sample),non-classical monocyte,CL:0000875,Aged1,male,unknown,69-year-old human stage,59,0.9341355288157062
+17,3 healthy young and 3 healthy old bone marrow donors (Reference sample),"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,Aged1,male,unknown,69-year-old human stage,60,0.9499683343888538
+18,3 healthy young and 3 healthy old bone marrow donors (Reference sample),"CD4-positive, alpha-beta memory T cell",CL:0000897,Aged1,male,unknown,69-year-old human stage,543,8.597213426219126
+19,3 healthy young and 3 healthy old bone marrow donors (Reference sample),"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,Aged1,male,unknown,69-year-old human stage,19,0.30082330588980366
+20,3 healthy young and 3 healthy old bone marrow donors (Reference sample),"central memory CD8-positive, alpha-beta T cell",CL:0000907,Aged1,male,unknown,69-year-old human stage,520,8.233058898036733
+21,3 healthy young and 3 healthy old bone marrow donors (Reference sample),"CD8-positive, alpha-beta memory T cell",CL:0000909,Aged1,male,unknown,69-year-old human stage,136,2.1532615579480683
+22,3 healthy young and 3 healthy old bone marrow donors (Reference sample),"effector memory CD8-positive, alpha-beta T cell",CL:0000913,Aged1,male,unknown,69-year-old human stage,849,13.44205193160228
+23,3 healthy young and 3 healthy old bone marrow donors (Reference sample),"CD4-positive, alpha-beta cytotoxic T cell",CL:0000934,Aged1,male,unknown,69-year-old human stage,219,3.4673844205193163
+24,3 healthy young and 3 healthy old bone marrow donors (Reference sample),pre-natural killer cell,CL:0000937,Aged1,male,unknown,69-year-old human stage,3,0.04749841671944268
+25,3 healthy young and 3 healthy old bone marrow donors (Reference sample),"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,Aged1,male,unknown,69-year-old human stage,18,0.2849905003166561
+26,3 healthy young and 3 healthy old bone marrow donors (Reference sample),"CD16-positive, CD56-dim natural killer cell, human",CL:0000939,Aged1,male,unknown,69-year-old human stage,1502,23.78087397086764
+27,3 healthy young and 3 healthy old bone marrow donors (Reference sample),unswitched memory B cell,CL:0000970,Aged1,male,unknown,69-year-old human stage,401,6.348955034832173
+28,3 healthy young and 3 healthy old bone marrow donors (Reference sample),class switched memory B cell,CL:0000972,Aged1,male,unknown,69-year-old human stage,164,2.5965801139962
+29,3 healthy young and 3 healthy old bone marrow donors (Reference sample),conventional dendritic cell,CL:0000990,Aged1,male,unknown,69-year-old human stage,92,1.4566181127295756
+30,3 healthy young and 3 healthy old bone marrow donors (Reference sample),common dendritic progenitor,CL:0001029,Aged1,male,unknown,69-year-old human stage,6,0.09499683343888536
+31,3 healthy young and 3 healthy old bone marrow donors (Reference sample),basophil mast progenitor cell,CL:0002028,Aged1,male,unknown,69-year-old human stage,10,0.15832805573147563
+32,3 healthy young and 3 healthy old bone marrow donors (Reference sample),late promyelocyte,CL:0002151,Aged1,male,unknown,69-year-old human stage,4,0.06333122229259025
+33,3 healthy young and 3 healthy old bone marrow donors (Reference sample),early promyelocyte,CL:0002154,Aged1,male,unknown,69-year-old human stage,46,0.7283090563647878
+34,3 healthy young and 3 healthy old bone marrow donors (Reference sample),myelocyte,CL:0002193,Aged1,male,unknown,69-year-old human stage,24,0.37998733375554145
+35,3 healthy young and 3 healthy old bone marrow donors (Reference sample),mesenchymal cell,CL:0008019,Aged1,male,unknown,69-year-old human stage,1,0.015832805573147563

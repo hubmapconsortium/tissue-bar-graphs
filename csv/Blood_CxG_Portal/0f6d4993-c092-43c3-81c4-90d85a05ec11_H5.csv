@@ -1,0 +1,13 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,lymphocyte,CL:0000542,H5,male,Asian,48-year-old human stage,33,2.0024271844660197
+1,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,natural killer cell,CL:0000623,H5,male,Asian,48-year-old human stage,601,36.46844660194174
+2,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,gamma-delta T cell,CL:0000798,H5,male,Asian,48-year-old human stage,2,0.12135922330097086
+3,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,regulatory T cell,CL:0000815,H5,male,Asian,48-year-old human stage,31,1.8810679611650485
+4,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,H5,male,Asian,48-year-old human stage,310,18.810679611650485
+5,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,H5,male,Asian,48-year-old human stage,253,15.351941747572814
+6,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"central memory CD4-positive, alpha-beta T cell",CL:0000904,H5,male,Asian,48-year-old human stage,147,8.91990291262136
+7,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,H5,male,Asian,48-year-old human stage,173,10.49757281553398
+8,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,H5,male,Asian,48-year-old human stage,59,3.5800970873786406
+9,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,mucosal invariant T cell,CL:0000940,H5,male,Asian,48-year-old human stage,20,1.2135922330097086
+10,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"activated CD4-positive, alpha-beta T cell, human",CL:0001043,H5,male,Asian,48-year-old human stage,4,0.24271844660194172
+11,T Cell and NK Cell Subtypes of COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,double negative thymocyte,CL:0002489,H5,male,Asian,48-year-old human stage,15,0.9101941747572815

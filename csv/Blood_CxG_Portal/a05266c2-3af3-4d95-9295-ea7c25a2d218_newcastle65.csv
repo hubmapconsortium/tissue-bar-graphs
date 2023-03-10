@@ -1,0 +1,37 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Single-cell multi-omics analysis of the immune response in COVID-19,erythrocyte,CL:0000232,newcastle65,female,unknown,sixth decade human stage,1,0.01768346595932803
+1,Single-cell multi-omics analysis of the immune response in COVID-19,platelet,CL:0000233,newcastle65,female,unknown,sixth decade human stage,34,0.601237842617153
+2,Single-cell multi-omics analysis of the immune response in COVID-19,B cell,CL:0000236,newcastle65,female,unknown,sixth decade human stage,2,0.03536693191865606
+3,Single-cell multi-omics analysis of the immune response in COVID-19,dendritic cell,CL:0000451,newcastle65,female,unknown,sixth decade human stage,2,0.03536693191865606
+4,Single-cell multi-omics analysis of the immune response in COVID-19,T-helper 1 cell,CL:0000545,newcastle65,female,unknown,sixth decade human stage,6,0.10610079575596816
+5,Single-cell multi-omics analysis of the immune response in COVID-19,T-helper 2 cell,CL:0000546,newcastle65,female,unknown,sixth decade human stage,1,0.01768346595932803
+6,Single-cell multi-omics analysis of the immune response in COVID-19,natural killer cell,CL:0000623,newcastle65,female,unknown,sixth decade human stage,30,0.5305039787798408
+7,Single-cell multi-omics analysis of the immune response in COVID-19,"CD4-positive, alpha-beta T cell",CL:0000624,newcastle65,female,unknown,sixth decade human stage,2,0.03536693191865606
+8,Single-cell multi-omics analysis of the immune response in COVID-19,myeloid dendritic cell,CL:0000782,newcastle65,female,unknown,sixth decade human stage,53,0.9372236958443855
+9,Single-cell multi-omics analysis of the immune response in COVID-19,plasmacytoid dendritic cell,CL:0000784,newcastle65,female,unknown,sixth decade human stage,37,0.654288240495137
+10,Single-cell multi-omics analysis of the immune response in COVID-19,naive B cell,CL:0000788,newcastle65,female,unknown,sixth decade human stage,82,1.4500442086648984
+11,Single-cell multi-omics analysis of the immune response in COVID-19,gamma-delta T cell,CL:0000798,newcastle65,female,unknown,sixth decade human stage,198,3.50132625994695
+12,Single-cell multi-omics analysis of the immune response in COVID-19,mature NK T cell,CL:0000814,newcastle65,female,unknown,sixth decade human stage,267,4.721485411140583
+13,Single-cell multi-omics analysis of the immune response in COVID-19,regulatory T cell,CL:0000815,newcastle65,female,unknown,sixth decade human stage,4,0.07073386383731212
+14,Single-cell multi-omics analysis of the immune response in COVID-19,immature B cell,CL:0000816,newcastle65,female,unknown,sixth decade human stage,22,0.3890362511052166
+15,Single-cell multi-omics analysis of the immune response in COVID-19,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,newcastle65,female,unknown,sixth decade human stage,1205,21.308576480990276
+16,Single-cell multi-omics analysis of the immune response in COVID-19,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,newcastle65,female,unknown,sixth decade human stage,327,5.7824933687002655
+17,Single-cell multi-omics analysis of the immune response in COVID-19,"central memory CD4-positive, alpha-beta T cell",CL:0000904,newcastle65,female,unknown,sixth decade human stage,201,3.5543766578249336
+18,Single-cell multi-omics analysis of the immune response in COVID-19,"effector memory CD4-positive, alpha-beta T cell",CL:0000905,newcastle65,female,unknown,sixth decade human stage,6,0.10610079575596816
+19,Single-cell multi-omics analysis of the immune response in COVID-19,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,newcastle65,female,unknown,sixth decade human stage,712,12.590627763041557
+20,Single-cell multi-omics analysis of the immune response in COVID-19,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,newcastle65,female,unknown,sixth decade human stage,90,1.5915119363395225
+21,Single-cell multi-omics analysis of the immune response in COVID-19,"CD16-positive, CD56-dim natural killer cell, human",CL:0000939,newcastle65,female,unknown,sixth decade human stage,549,9.708222811671087
+22,Single-cell multi-omics analysis of the immune response in COVID-19,mucosal invariant T cell,CL:0000940,newcastle65,female,unknown,sixth decade human stage,318,5.623342175066313
+23,Single-cell multi-omics analysis of the immune response in COVID-19,unswitched memory B cell,CL:0000970,newcastle65,female,unknown,sixth decade human stage,7,0.1237842617152962
+24,Single-cell multi-omics analysis of the immune response in COVID-19,class switched memory B cell,CL:0000972,newcastle65,female,unknown,sixth decade human stage,16,0.28293545534924847
+25,Single-cell multi-omics analysis of the immune response in COVID-19,plasmablast,CL:0000980,newcastle65,female,unknown,sixth decade human stage,3,0.05305039787798408
+26,Single-cell multi-omics analysis of the immune response in COVID-19,IgA plasma cell,CL:0000987,newcastle65,female,unknown,sixth decade human stage,2,0.03536693191865606
+27,Single-cell multi-omics analysis of the immune response in COVID-19,T-helper 22 cell,CL:0001042,newcastle65,female,unknown,sixth decade human stage,796,14.07603890362511
+28,Single-cell multi-omics analysis of the immune response in COVID-19,"effector CD8-positive, alpha-beta T cell",CL:0001050,newcastle65,female,unknown,sixth decade human stage,176,3.112290008841733
+29,Single-cell multi-omics analysis of the immune response in COVID-19,CD14-positive monocyte,CL:0001054,newcastle65,female,unknown,sixth decade human stage,414,7.320954907161805
+30,Single-cell multi-omics analysis of the immune response in COVID-19,"dendritic cell, human",CL:0001056,newcastle65,female,unknown,sixth decade human stage,42,0.7427055702917772
+31,Single-cell multi-omics analysis of the immune response in COVID-19,"erythroid progenitor cell, mammalian",CL:0001066,newcastle65,female,unknown,sixth decade human stage,6,0.10610079575596816
+32,Single-cell multi-omics analysis of the immune response in COVID-19,"ILC1, human",CL:0001077,newcastle65,female,unknown,sixth decade human stage,2,0.03536693191865606
+33,Single-cell multi-omics analysis of the immune response in COVID-19,"group 2 innate lymphoid cell, human",CL:0001081,newcastle65,female,unknown,sixth decade human stage,2,0.03536693191865606
+34,Single-cell multi-omics analysis of the immune response in COVID-19,T follicular helper cell,CL:0002038,newcastle65,female,unknown,sixth decade human stage,28,0.4951370468611848
+35,Single-cell multi-omics analysis of the immune response in COVID-19,"CD14-low, CD16-positive monocyte",CL:0002396,newcastle65,female,unknown,sixth decade human stage,12,0.21220159151193632

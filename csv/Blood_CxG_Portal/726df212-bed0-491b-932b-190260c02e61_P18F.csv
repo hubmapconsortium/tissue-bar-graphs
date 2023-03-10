@@ -1,0 +1,20 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,lymphocyte,CL:0000542,P18F,unknown,European,human adult stage,9,0.6346967559943583
+1,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,natural killer cell,CL:0000623,P18F,unknown,European,human adult stage,207,14.598025387870239
+2,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,memory B cell,CL:0000787,P18F,unknown,European,human adult stage,39,2.7503526093088855
+3,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,naive B cell,CL:0000788,P18F,unknown,European,human adult stage,38,2.6798307475317347
+4,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,gamma-delta T cell,CL:0000798,P18F,unknown,European,human adult stage,35,2.4682651622002822
+5,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,regulatory T cell,CL:0000815,P18F,unknown,European,human adult stage,15,1.0578279266572637
+6,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,transitional stage B cell,CL:0000818,P18F,unknown,European,human adult stage,14,0.9873060648801129
+7,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,CL:0000860,P18F,unknown,European,human adult stage,448,31.59379407616361
+8,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,non-classical monocyte,CL:0000875,P18F,unknown,European,human adult stage,185,13.046544428772918
+9,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,P18F,unknown,European,human adult stage,37,2.609308885754584
+10,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,P18F,unknown,European,human adult stage,20,1.4104372355430184
+11,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"central memory CD4-positive, alpha-beta T cell",CL:0000904,P18F,unknown,European,human adult stage,165,11.6361071932299
+12,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,P18F,unknown,European,human adult stage,114,8.039492242595205
+13,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,P18F,unknown,European,human adult stage,5,0.3526093088857546
+14,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,mucosal invariant T cell,CL:0000940,P18F,unknown,European,human adult stage,55,3.8787023977433006
+15,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,plasmablast,CL:0000980,P18F,unknown,European,human adult stage,8,0.5641748942172073
+16,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,conventional dendritic cell,CL:0000990,P18F,unknown,European,human adult stage,7,0.4936530324400564
+17,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"plasmacytoid dendritic cell, human",CL:0001058,P18F,unknown,European,human adult stage,16,1.1283497884344147
+18,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,double negative thymocyte,CL:0002489,P18F,unknown,European,human adult stage,1,0.07052186177715092

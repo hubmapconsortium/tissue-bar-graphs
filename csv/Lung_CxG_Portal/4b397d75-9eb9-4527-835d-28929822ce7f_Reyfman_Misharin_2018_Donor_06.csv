@@ -1,0 +1,26 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,The single-cell lung cancer atlas (LuCA) -- core atlas,epithelial cell of lung,CL:0000082,Reyfman_Misharin_2018_Donor_06,female,unknown,22-year-old human stage,34,0.9161950956615468
+1,The single-cell lung cancer atlas (LuCA) -- core atlas,mast cell,CL:0000097,Reyfman_Misharin_2018_Donor_06,female,unknown,22-year-old human stage,7,0.18862840204796552
+2,The single-cell lung cancer atlas (LuCA) -- core atlas,smooth muscle cell,CL:0000192,Reyfman_Misharin_2018_Donor_06,female,unknown,22-year-old human stage,1,0.026946914578280787
+3,The single-cell lung cancer atlas (LuCA) -- core atlas,macrophage,CL:0000235,Reyfman_Misharin_2018_Donor_06,female,unknown,22-year-old human stage,183,4.931285367825384
+4,The single-cell lung cancer atlas (LuCA) -- core atlas,B cell,CL:0000236,Reyfman_Misharin_2018_Donor_06,female,unknown,22-year-old human stage,17,0.4580975478307734
+5,The single-cell lung cancer atlas (LuCA) -- core atlas,alveolar macrophage,CL:0000583,Reyfman_Misharin_2018_Donor_06,female,unknown,22-year-old human stage,1182,31.851253031527886
+6,The single-cell lung cancer atlas (LuCA) -- core atlas,natural killer cell,CL:0000623,Reyfman_Misharin_2018_Donor_06,female,unknown,22-year-old human stage,10,0.2694691457828079
+7,The single-cell lung cancer atlas (LuCA) -- core atlas,"CD4-positive, alpha-beta T cell",CL:0000624,Reyfman_Misharin_2018_Donor_06,female,unknown,22-year-old human stage,88,2.371328482888709
+8,The single-cell lung cancer atlas (LuCA) -- core atlas,"CD8-positive, alpha-beta T cell",CL:0000625,Reyfman_Misharin_2018_Donor_06,female,unknown,22-year-old human stage,12,0.32336297493936944
+9,The single-cell lung cancer atlas (LuCA) -- core atlas,myeloid cell,CL:0000763,Reyfman_Misharin_2018_Donor_06,female,unknown,22-year-old human stage,39,1.0509296685529508
+10,The single-cell lung cancer atlas (LuCA) -- core atlas,plasma cell,CL:0000786,Reyfman_Misharin_2018_Donor_06,female,unknown,22-year-old human stage,25,0.6736728644570197
+11,The single-cell lung cancer atlas (LuCA) -- core atlas,regulatory T cell,CL:0000815,Reyfman_Misharin_2018_Donor_06,female,unknown,22-year-old human stage,2,0.05389382915656157
+12,The single-cell lung cancer atlas (LuCA) -- core atlas,classical monocyte,CL:0000860,Reyfman_Misharin_2018_Donor_06,female,unknown,22-year-old human stage,277,7.464295338183778
+13,The single-cell lung cancer atlas (LuCA) -- core atlas,non-classical monocyte,CL:0000875,Reyfman_Misharin_2018_Donor_06,female,unknown,22-year-old human stage,20,0.5389382915656158
+14,The single-cell lung cancer atlas (LuCA) -- core atlas,conventional dendritic cell,CL:0000990,Reyfman_Misharin_2018_Donor_06,female,unknown,22-year-old human stage,2,0.05389382915656157
+15,The single-cell lung cancer atlas (LuCA) -- core atlas,malignant cell,CL:0001064,Reyfman_Misharin_2018_Donor_06,female,unknown,22-year-old human stage,61,1.6437617892751282
+16,The single-cell lung cancer atlas (LuCA) -- core atlas,type I pneumocyte,CL:0002062,Reyfman_Misharin_2018_Donor_06,female,unknown,22-year-old human stage,263,7.0870385340878475
+17,The single-cell lung cancer atlas (LuCA) -- core atlas,type II pneumocyte,CL:0002063,Reyfman_Misharin_2018_Donor_06,female,unknown,22-year-old human stage,1313,35.38129884128267
+18,The single-cell lung cancer atlas (LuCA) -- core atlas,endothelial cell of lymphatic vessel,CL:0002138,Reyfman_Misharin_2018_Donor_06,female,unknown,22-year-old human stage,14,0.37725680409593104
+19,The single-cell lung cancer atlas (LuCA) -- core atlas,capillary endothelial cell,CL:0002144,Reyfman_Misharin_2018_Donor_06,female,unknown,22-year-old human stage,5,0.13473457289140395
+20,The single-cell lung cancer atlas (LuCA) -- core atlas,CD1c-positive myeloid dendritic cell,CL:0002399,Reyfman_Misharin_2018_Donor_06,female,unknown,22-year-old human stage,58,1.5629210455402855
+21,The single-cell lung cancer atlas (LuCA) -- core atlas,vein endothelial cell,CL:0002543,Reyfman_Misharin_2018_Donor_06,female,unknown,22-year-old human stage,40,1.0778765831312316
+22,The single-cell lung cancer atlas (LuCA) -- core atlas,fibroblast of lung,CL:0002553,Reyfman_Misharin_2018_Donor_06,female,unknown,22-year-old human stage,24,0.6467259498787389
+23,The single-cell lung cancer atlas (LuCA) -- core atlas,multi-ciliated epithelial cell,CL:0005012,Reyfman_Misharin_2018_Donor_06,female,unknown,22-year-old human stage,20,0.5389382915656158
+24,The single-cell lung cancer atlas (LuCA) -- core atlas,pulmonary artery endothelial cell,CL:1001568,Reyfman_Misharin_2018_Donor_06,female,unknown,22-year-old human stage,14,0.37725680409593104

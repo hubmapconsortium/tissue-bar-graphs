@@ -1,0 +1,32 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,The single-cell lung cancer atlas (LuCA) -- core atlas,mesothelial cell,CL:0000077,Travaglini_Krasnow_2020_Lung_P3,female,unknown,51-year-old human stage,1,0.04952947003467063
+1,The single-cell lung cancer atlas (LuCA) -- core atlas,epithelial cell of lung,CL:0000082,Travaglini_Krasnow_2020_Lung_P3,female,unknown,51-year-old human stage,150,7.429420505200595
+2,The single-cell lung cancer atlas (LuCA) -- core atlas,mast cell,CL:0000097,Travaglini_Krasnow_2020_Lung_P3,female,unknown,51-year-old human stage,15,0.7429420505200593
+3,The single-cell lung cancer atlas (LuCA) -- core atlas,club cell,CL:0000158,Travaglini_Krasnow_2020_Lung_P3,female,unknown,51-year-old human stage,22,1.0896483407627537
+4,The single-cell lung cancer atlas (LuCA) -- core atlas,smooth muscle cell,CL:0000192,Travaglini_Krasnow_2020_Lung_P3,female,unknown,51-year-old human stage,72,3.566121842496285
+5,The single-cell lung cancer atlas (LuCA) -- core atlas,macrophage,CL:0000235,Travaglini_Krasnow_2020_Lung_P3,female,unknown,51-year-old human stage,10,0.49529470034670625
+6,The single-cell lung cancer atlas (LuCA) -- core atlas,B cell,CL:0000236,Travaglini_Krasnow_2020_Lung_P3,female,unknown,51-year-old human stage,8,0.396235760277365
+7,The single-cell lung cancer atlas (LuCA) -- core atlas,stromal cell,CL:0000499,Travaglini_Krasnow_2020_Lung_P3,female,unknown,51-year-old human stage,1,0.04952947003467063
+8,The single-cell lung cancer atlas (LuCA) -- core atlas,alveolar macrophage,CL:0000583,Travaglini_Krasnow_2020_Lung_P3,female,unknown,51-year-old human stage,5,0.24764735017335313
+9,The single-cell lung cancer atlas (LuCA) -- core atlas,natural killer cell,CL:0000623,Travaglini_Krasnow_2020_Lung_P3,female,unknown,51-year-old human stage,491,24.318969787023278
+10,The single-cell lung cancer atlas (LuCA) -- core atlas,"CD4-positive, alpha-beta T cell",CL:0000624,Travaglini_Krasnow_2020_Lung_P3,female,unknown,51-year-old human stage,14,0.6934125804853888
+11,The single-cell lung cancer atlas (LuCA) -- core atlas,"CD8-positive, alpha-beta T cell",CL:0000625,Travaglini_Krasnow_2020_Lung_P3,female,unknown,51-year-old human stage,52,2.5755324418028724
+12,The single-cell lung cancer atlas (LuCA) -- core atlas,pericyte,CL:0000669,Travaglini_Krasnow_2020_Lung_P3,female,unknown,51-year-old human stage,118,5.844477464091134
+13,The single-cell lung cancer atlas (LuCA) -- core atlas,myeloid cell,CL:0000763,Travaglini_Krasnow_2020_Lung_P3,female,unknown,51-year-old human stage,2,0.09905894006934125
+14,The single-cell lung cancer atlas (LuCA) -- core atlas,neutrophil,CL:0000775,Travaglini_Krasnow_2020_Lung_P3,female,unknown,51-year-old human stage,4,0.1981178801386825
+15,The single-cell lung cancer atlas (LuCA) -- core atlas,plasmacytoid dendritic cell,CL:0000784,Travaglini_Krasnow_2020_Lung_P3,female,unknown,51-year-old human stage,1,0.04952947003467063
+16,The single-cell lung cancer atlas (LuCA) -- core atlas,plasma cell,CL:0000786,Travaglini_Krasnow_2020_Lung_P3,female,unknown,51-year-old human stage,2,0.09905894006934125
+17,The single-cell lung cancer atlas (LuCA) -- core atlas,classical monocyte,CL:0000860,Travaglini_Krasnow_2020_Lung_P3,female,unknown,51-year-old human stage,1,0.04952947003467063
+18,The single-cell lung cancer atlas (LuCA) -- core atlas,non-classical monocyte,CL:0000875,Travaglini_Krasnow_2020_Lung_P3,female,unknown,51-year-old human stage,1,0.04952947003467063
+19,The single-cell lung cancer atlas (LuCA) -- core atlas,conventional dendritic cell,CL:0000990,Travaglini_Krasnow_2020_Lung_P3,female,unknown,51-year-old human stage,2,0.09905894006934125
+20,The single-cell lung cancer atlas (LuCA) -- core atlas,malignant cell,CL:0001064,Travaglini_Krasnow_2020_Lung_P3,female,unknown,51-year-old human stage,167,8.271421495789994
+21,The single-cell lung cancer atlas (LuCA) -- core atlas,type I pneumocyte,CL:0002062,Travaglini_Krasnow_2020_Lung_P3,female,unknown,51-year-old human stage,210,10.401188707280832
+22,The single-cell lung cancer atlas (LuCA) -- core atlas,type II pneumocyte,CL:0002063,Travaglini_Krasnow_2020_Lung_P3,female,unknown,51-year-old human stage,267,13.224368499257059
+23,The single-cell lung cancer atlas (LuCA) -- core atlas,endothelial cell of lymphatic vessel,CL:0002138,Travaglini_Krasnow_2020_Lung_P3,female,unknown,51-year-old human stage,8,0.396235760277365
+24,The single-cell lung cancer atlas (LuCA) -- core atlas,capillary endothelial cell,CL:0002144,Travaglini_Krasnow_2020_Lung_P3,female,unknown,51-year-old human stage,98,4.853888063397722
+25,The single-cell lung cancer atlas (LuCA) -- core atlas,CD1c-positive myeloid dendritic cell,CL:0002399,Travaglini_Krasnow_2020_Lung_P3,female,unknown,51-year-old human stage,5,0.24764735017335313
+26,The single-cell lung cancer atlas (LuCA) -- core atlas,vein endothelial cell,CL:0002543,Travaglini_Krasnow_2020_Lung_P3,female,unknown,51-year-old human stage,10,0.49529470034670625
+27,The single-cell lung cancer atlas (LuCA) -- core atlas,fibroblast of lung,CL:0002553,Travaglini_Krasnow_2020_Lung_P3,female,unknown,51-year-old human stage,192,9.50965824665676
+28,The single-cell lung cancer atlas (LuCA) -- core atlas,multi-ciliated epithelial cell,CL:0005012,Travaglini_Krasnow_2020_Lung_P3,female,unknown,51-year-old human stage,24,1.188707280832095
+29,The single-cell lung cancer atlas (LuCA) -- core atlas,pulmonary artery endothelial cell,CL:1001568,Travaglini_Krasnow_2020_Lung_P3,female,unknown,51-year-old human stage,1,0.04952947003467063
+30,The single-cell lung cancer atlas (LuCA) -- core atlas,bronchus fibroblast of lung,CL:2000093,Travaglini_Krasnow_2020_Lung_P3,female,unknown,51-year-old human stage,65,3.2194155522535906

@@ -1,0 +1,13 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,HSC/progenitor cells,native cell,CL:0000003,F32,female,unknown,Carnegie stage 20,11,1.2222222222222223
+1,HSC/progenitor cells,hematopoietic stem cell,CL:0000037,F32,female,unknown,Carnegie stage 20,190,21.11111111111111
+2,HSC/progenitor cells,common myeloid progenitor,CL:0000049,F32,female,unknown,Carnegie stage 20,5,0.5555555555555556
+3,HSC/progenitor cells,megakaryocyte-erythroid progenitor cell,CL:0000050,F32,female,unknown,Carnegie stage 20,196,21.777777777777775
+4,HSC/progenitor cells,megakaryocyte,CL:0000556,F32,female,unknown,Carnegie stage 20,125,13.88888888888889
+5,HSC/progenitor cells,granulocyte monocyte progenitor cell,CL:0000557,F32,female,unknown,Carnegie stage 20,11,1.2222222222222223
+6,HSC/progenitor cells,promonocyte,CL:0000559,F32,female,unknown,Carnegie stage 20,11,1.2222222222222223
+7,HSC/progenitor cells,promyelocyte,CL:0000836,F32,female,unknown,Carnegie stage 20,4,0.4444444444444444
+8,HSC/progenitor cells,hematopoietic multipotent progenitor cell,CL:0000837,F32,female,unknown,Carnegie stage 20,66,7.333333333333333
+9,HSC/progenitor cells,early lymphoid progenitor,CL:0000936,F32,female,unknown,Carnegie stage 20,41,4.555555555555555
+10,HSC/progenitor cells,fraction A pre-pro B cell,CL:0002045,F32,female,unknown,Carnegie stage 20,232,25.77777777777778
+11,HSC/progenitor cells,double negative thymocyte,CL:0002489,F32,female,unknown,Carnegie stage 20,8,0.8888888888888888

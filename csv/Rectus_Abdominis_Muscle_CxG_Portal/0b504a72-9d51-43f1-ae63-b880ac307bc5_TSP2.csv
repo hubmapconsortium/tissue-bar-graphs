@@ -1,0 +1,17 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Tabula Sapiens - All Cells,T cell,CL:0000084,TSP2,female,African American or Afro-Caribbean,61-year-old human stage,114,1.0571216617210684
+1,Tabula Sapiens - All Cells,mast cell,CL:0000097,TSP2,female,African American or Afro-Caribbean,61-year-old human stage,7,0.06491097922848664
+2,Tabula Sapiens - All Cells,mesenchymal stem cell,CL:0000134,TSP2,female,African American or Afro-Caribbean,61-year-old human stage,5463,50.6583827893175
+3,Tabula Sapiens - All Cells,slow muscle cell,CL:0000189,TSP2,female,African American or Afro-Caribbean,61-year-old human stage,21,0.19473293768545993
+4,Tabula Sapiens - All Cells,fast muscle cell,CL:0000190,TSP2,female,African American or Afro-Caribbean,61-year-old human stage,11,0.10200296735905046
+5,Tabula Sapiens - All Cells,erythrocyte,CL:0000232,TSP2,female,African American or Afro-Caribbean,61-year-old human stage,7,0.06491097922848664
+6,Tabula Sapiens - All Cells,macrophage,CL:0000235,TSP2,female,African American or Afro-Caribbean,61-year-old human stage,693,6.426186943620178
+7,Tabula Sapiens - All Cells,tendon cell,CL:0000388,TSP2,female,African American or Afro-Caribbean,61-year-old human stage,11,0.10200296735905046
+8,Tabula Sapiens - All Cells,"CD4-positive, alpha-beta T cell",CL:0000624,TSP2,female,African American or Afro-Caribbean,61-year-old human stage,4,0.0370919881305638
+9,Tabula Sapiens - All Cells,pericyte,CL:0000669,TSP2,female,African American or Afro-Caribbean,61-year-old human stage,674,6.25
+10,Tabula Sapiens - All Cells,mature NK T cell,CL:0000814,TSP2,female,African American or Afro-Caribbean,61-year-old human stage,3,0.027818991097922848
+11,Tabula Sapiens - All Cells,endothelial cell of lymphatic vessel,CL:0002138,TSP2,female,African American or Afro-Caribbean,61-year-old human stage,9,0.08345697329376854
+12,Tabula Sapiens - All Cells,endothelial cell of vascular tree,CL:0002139,TSP2,female,African American or Afro-Caribbean,61-year-old human stage,947,8.78152818991098
+13,Tabula Sapiens - All Cells,capillary endothelial cell,CL:0002144,TSP2,female,African American or Afro-Caribbean,61-year-old human stage,790,7.32566765578635
+14,Tabula Sapiens - All Cells,skeletal muscle satellite stem cell,CL:0008011,TSP2,female,African American or Afro-Caribbean,61-year-old human stage,1994,18.490356083086056
+15,Tabula Sapiens - All Cells,endothelial cell of artery,CL:1000413,TSP2,female,African American or Afro-Caribbean,61-year-old human stage,36,0.33382789317507416

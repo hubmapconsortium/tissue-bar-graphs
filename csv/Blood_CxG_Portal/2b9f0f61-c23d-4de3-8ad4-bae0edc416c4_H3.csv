@@ -1,0 +1,20 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,granulocyte,CL:0000094,H3,female,European,36-year-old human stage,13,0.5637467476149176
+1,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,erythrocyte,CL:0000232,H3,female,European,36-year-old human stage,14,0.6071118820468344
+2,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,platelet,CL:0000233,H3,female,European,36-year-old human stage,10,0.43365134431916735
+3,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,B cell,CL:0000236,H3,female,European,36-year-old human stage,286,12.402428447528187
+4,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,monocyte,CL:0000576,H3,female,European,36-year-old human stage,33,1.4310494362532522
+5,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,natural killer cell,CL:0000623,H3,female,European,36-year-old human stage,261,11.31830008673027
+6,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,"CD4-positive, alpha-beta T cell",CL:0000624,H3,female,European,36-year-old human stage,2,0.08673026886383348
+7,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,neutrophil,CL:0000775,H3,female,European,36-year-old human stage,12,0.5203816131830009
+8,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,plasmacytoid dendritic cell,CL:0000784,H3,female,European,36-year-old human stage,14,0.6071118820468344
+9,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,gamma-delta T cell,CL:0000798,H3,female,European,36-year-old human stage,188,8.152645273200347
+10,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,"CD4-positive, alpha-beta memory T cell",CL:0000897,H3,female,European,36-year-old human stage,287,12.445793581960105
+11,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,naive T cell,CL:0000898,H3,female,European,36-year-old human stage,415,17.996530789245448
+12,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,"CD8-positive, alpha-beta memory T cell",CL:0000909,H3,female,European,36-year-old human stage,506,21.942758022549867
+13,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,class switched memory B cell,CL:0000972,H3,female,European,36-year-old human stage,3,0.13009540329575023
+14,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,IgG plasmablast,CL:0000982,H3,female,European,36-year-old human stage,2,0.08673026886383348
+15,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,IgA plasmablast,CL:0000984,H3,female,European,36-year-old human stage,7,0.3035559410234172
+16,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,conventional dendritic cell,CL:0000990,H3,female,European,36-year-old human stage,18,0.7805724197745013
+17,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,"effector CD8-positive, alpha-beta T cell",CL:0001050,H3,female,European,36-year-old human stage,20,0.8673026886383347
+18,Single-cell atlas of peripheral immune response to SARS-CoV-2 infection,CD14-positive monocyte,CL:0001054,H3,female,European,36-year-old human stage,215,9.323503902862099

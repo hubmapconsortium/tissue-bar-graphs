@@ -1,0 +1,15 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,NK/T cells,native cell,CL:0000003,F32,female,unknown,Carnegie stage 20,12,1.1753183153770812
+1,NK/T cells,hematopoietic stem cell,CL:0000037,F32,female,unknown,Carnegie stage 20,189,18.51126346718903
+2,NK/T cells,megakaryocyte-erythroid progenitor cell,CL:0000050,F32,female,unknown,Carnegie stage 20,141,13.809990205680705
+3,NK/T cells,T cell,CL:0000084,F32,female,unknown,Carnegie stage 20,17,1.665034280117532
+4,NK/T cells,megakaryocyte,CL:0000556,F32,female,unknown,Carnegie stage 20,3,0.2938295788442703
+5,NK/T cells,natural killer cell,CL:0000623,F32,female,unknown,Carnegie stage 20,406,39.764936336924585
+6,NK/T cells,regulatory T cell,CL:0000815,F32,female,unknown,Carnegie stage 20,2,0.1958863858961802
+7,NK/T cells,hematopoietic multipotent progenitor cell,CL:0000837,F32,female,unknown,Carnegie stage 20,64,6.268364348677767
+8,NK/T cells,"CD8-alpha-alpha-positive, alpha-beta intraepithelial T cell",CL:0000915,F32,female,unknown,Carnegie stage 20,8,0.7835455435847208
+9,NK/T cells,early lymphoid progenitor,CL:0000936,F32,female,unknown,Carnegie stage 20,30,2.9382957884427032
+10,NK/T cells,innate lymphoid cell,CL:0001065,F32,female,unknown,Carnegie stage 20,24,2.3506366307541624
+11,NK/T cells,group 3 innate lymphoid cell,CL:0001071,F32,female,unknown,Carnegie stage 20,111,10.871694417238002
+12,NK/T cells,fraction A pre-pro B cell,CL:0002045,F32,female,unknown,Carnegie stage 20,6,0.5876591576885406
+13,NK/T cells,double negative thymocyte,CL:0002489,F32,female,unknown,Carnegie stage 20,8,0.7835455435847208

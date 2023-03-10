@@ -1,0 +1,28 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Airway,native cell,CL:0000003,NP28,male,European,2-5 year-old child stage,2,0.07301935012778386
+1,Airway,ciliated cell,CL:0000064,NP28,male,European,2-5 year-old child stage,1122,40.963855421686745
+2,Airway,duct epithelial cell,CL:0000068,NP28,male,European,2-5 year-old child stage,1,0.03650967506389193
+3,Airway,squamous epithelial cell,CL:0000076,NP28,male,European,2-5 year-old child stage,1,0.03650967506389193
+4,Airway,T cell,CL:0000084,NP28,male,European,2-5 year-old child stage,3,0.10952902519167579
+5,Airway,secretory cell,CL:0000151,NP28,male,European,2-5 year-old child stage,68,2.4826579043446513
+6,Airway,club cell,CL:0000158,NP28,male,European,2-5 year-old child stage,185,6.754289886820007
+7,Airway,macrophage,CL:0000235,NP28,male,European,2-5 year-old child stage,69,2.5191675794085433
+8,Airway,B cell,CL:0000236,NP28,male,European,2-5 year-old child stage,49,1.7889740781307049
+9,Airway,Langerhans cell,CL:0000453,NP28,male,European,2-5 year-old child stage,6,0.21905805038335158
+10,Airway,plasma cell,CL:0000786,NP28,male,European,2-5 year-old child stage,18,0.6571741511500547
+11,Airway,memory B cell,CL:0000787,NP28,male,European,2-5 year-old child stage,382,13.946695874406718
+12,Airway,naive B cell,CL:0000788,NP28,male,European,2-5 year-old child stage,48,1.7524644030668126
+13,Airway,gamma-delta T cell,CL:0000798,NP28,male,European,2-5 year-old child stage,27,0.9857612267250823
+14,Airway,regulatory T cell,CL:0000815,NP28,male,European,2-5 year-old child stage,6,0.21905805038335158
+15,Airway,"CD4-positive, alpha-beta memory T cell",CL:0000897,NP28,male,European,2-5 year-old child stage,45,1.642935377875137
+16,Airway,naive T cell,CL:0000898,NP28,male,European,2-5 year-old child stage,57,2.08105147864184
+17,Airway,"CD8-positive, alpha-beta memory T cell",CL:0000909,NP28,male,European,2-5 year-old child stage,280,10.22270901788974
+18,Airway,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,NP28,male,European,2-5 year-old child stage,7,0.2555677254472435
+19,Airway,mucosal invariant T cell,CL:0000940,NP28,male,European,2-5 year-old child stage,5,0.18254837531945967
+20,Airway,"plasmacytoid dendritic cell, human",CL:0001058,NP28,male,European,2-5 year-old child stage,1,0.03650967506389193
+21,Airway,innate lymphoid cell,CL:0001065,NP28,male,European,2-5 year-old child stage,4,0.14603870025556773
+22,Airway,T follicular helper cell,CL:0002038,NP28,male,European,2-5 year-old child stage,2,0.07301935012778386
+23,Airway,brush cell of trachea,CL:0002207,NP28,male,European,2-5 year-old child stage,1,0.03650967506389193
+24,Airway,multi-ciliated epithelial cell,CL:0005012,NP28,male,European,2-5 year-old child stage,3,0.10952902519167579
+25,Airway,tracheal goblet cell,CL:1000329,NP28,male,European,2-5 year-old child stage,294,10.733844468784227
+26,Airway,basal cell of epithelium of trachea,CL:1000348,NP28,male,European,2-5 year-old child stage,53,1.9350127783862723

@@ -1,0 +1,26 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Mature kidney dataset: full,myofibroblast cell,CL:0000186,Wilms1,male,unknown,4-year-old human stage,2,0.10266940451745381
+1,Mature kidney dataset: full,B cell,CL:0000236,Wilms1,male,unknown,4-year-old human stage,16,0.8213552361396305
+2,Mature kidney dataset: full,dendritic cell,CL:0000451,Wilms1,male,unknown,4-year-old human stage,23,1.1806981519507187
+3,Mature kidney dataset: full,natural killer cell,CL:0000623,Wilms1,male,unknown,4-year-old human stage,52,2.6694045174537986
+4,Mature kidney dataset: full,"CD4-positive, alpha-beta T cell",CL:0000624,Wilms1,male,unknown,4-year-old human stage,45,2.3100616016427105
+5,Mature kidney dataset: full,"CD8-positive, alpha-beta T cell",CL:0000625,Wilms1,male,unknown,4-year-old human stage,26,1.3347022587268993
+6,Mature kidney dataset: full,podocyte,CL:0000653,Wilms1,male,unknown,4-year-old human stage,3,0.1540041067761807
+7,Mature kidney dataset: full,neutrophil,CL:0000775,Wilms1,male,unknown,4-year-old human stage,1,0.051334702258726904
+8,Mature kidney dataset: full,plasmacytoid dendritic cell,CL:0000784,Wilms1,male,unknown,4-year-old human stage,3,0.1540041067761807
+9,Mature kidney dataset: full,mature NK T cell,CL:0000814,Wilms1,male,unknown,4-year-old human stage,3,0.1540041067761807
+10,Mature kidney dataset: full,classical monocyte,CL:0000860,Wilms1,male,unknown,4-year-old human stage,133,6.827515400410677
+11,Mature kidney dataset: full,non-classical monocyte,CL:0000875,Wilms1,male,unknown,4-year-old human stage,37,1.8993839835728954
+12,Mature kidney dataset: full,capillary endothelial cell,CL:0002144,Wilms1,male,unknown,4-year-old human stage,19,0.9753593429158112
+13,Mature kidney dataset: full,glomerular endothelial cell,CL:0002188,Wilms1,male,unknown,4-year-old human stage,7,0.3593429158110883
+14,Mature kidney dataset: full,renal beta-intercalated cell,CL:0002201,Wilms1,male,unknown,4-year-old human stage,1,0.051334702258726904
+15,Mature kidney dataset: full,epithelial cell of proximal tubule,CL:0002306,Wilms1,male,unknown,4-year-old human stage,1487,76.33470225872689
+16,Mature kidney dataset: full,renal principal cell,CL:0005009,Wilms1,male,unknown,4-year-old human stage,1,0.051334702258726904
+17,Mature kidney dataset: full,renal intercalated cell,CL:0005010,Wilms1,male,unknown,4-year-old human stage,2,0.10266940451745381
+18,Mature kidney dataset: full,renal alpha-intercalated cell,CL:0005011,Wilms1,male,unknown,4-year-old human stage,8,0.41067761806981523
+19,Mature kidney dataset: full,progenitor cell,CL:0011026,Wilms1,male,unknown,4-year-old human stage,21,1.0780287474332648
+20,Mature kidney dataset: full,kidney interstitial fibroblast,CL:1000692,Wilms1,male,unknown,4-year-old human stage,4,0.20533880903490762
+21,Mature kidney dataset: full,kidney resident macrophage,CL:1000698,Wilms1,male,unknown,4-year-old human stage,6,0.3080082135523614
+22,Mature kidney dataset: full,kidney connecting tubule epithelial cell,CL:1000768,Wilms1,male,unknown,4-year-old human stage,28,1.4373716632443532
+23,Mature kidney dataset: full,vasa recta ascending limb cell,CL:1001131,Wilms1,male,unknown,4-year-old human stage,16,0.8213552361396305
+24,Mature kidney dataset: full,vasa recta descending limb cell,CL:1001285,Wilms1,male,unknown,4-year-old human stage,4,0.20533880903490762

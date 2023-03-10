@@ -1,0 +1,26 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,hematopoietic stem cell,CL:0000037,H2,male,European,49-year-old human stage,6,0.3186404673393521
+1,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,erythrocyte,CL:0000232,H2,male,European,49-year-old human stage,14,0.7434944237918215
+2,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,CL:0000233,H2,male,European,49-year-old human stage,27,1.4338821030270845
+3,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,lymphocyte,CL:0000542,H2,male,European,49-year-old human stage,18,0.9559214020180564
+4,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,natural killer cell,CL:0000623,H2,male,European,49-year-old human stage,203,10.780669144981413
+5,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,neutrophil,CL:0000775,H2,male,European,49-year-old human stage,12,0.6372809346787042
+6,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,memory B cell,CL:0000787,H2,male,European,49-year-old human stage,25,1.327668613913967
+7,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,naive B cell,CL:0000788,H2,male,European,49-year-old human stage,190,10.09028146574615
+8,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,gamma-delta T cell,CL:0000798,H2,male,European,49-year-old human stage,15,0.7966011683483802
+9,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,regulatory T cell,CL:0000815,H2,male,European,49-year-old human stage,31,1.6463090812533192
+10,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,transitional stage B cell,CL:0000818,H2,male,European,49-year-old human stage,76,4.03611258629846
+11,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,CL:0000860,H2,male,European,49-year-old human stage,290,15.400955921402018
+12,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,non-classical monocyte,CL:0000875,H2,male,European,49-year-old human stage,69,3.664365374402549
+13,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,H2,male,European,49-year-old human stage,44,2.336696760488582
+14,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,H2,male,European,49-year-old human stage,12,0.6372809346787042
+15,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"central memory CD4-positive, alpha-beta T cell",CL:0000904,H2,male,European,49-year-old human stage,102,5.416887944768986
+16,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,H2,male,European,49-year-old human stage,626,33.244822092405734
+17,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,H2,male,European,49-year-old human stage,18,0.9559214020180564
+18,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,mucosal invariant T cell,CL:0000940,H2,male,European,49-year-old human stage,32,1.6994158258098777
+19,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,IgG plasmablast,CL:0000982,H2,male,European,49-year-old human stage,1,0.05310674455655868
+20,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,IgA plasmablast,CL:0000984,H2,male,European,49-year-old human stage,1,0.05310674455655868
+21,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,conventional dendritic cell,CL:0000990,H2,male,European,49-year-old human stage,36,1.9118428040361128
+22,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"activated CD4-positive, alpha-beta T cell, human",CL:0001043,H2,male,European,49-year-old human stage,1,0.05310674455655868
+23,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"plasmacytoid dendritic cell, human",CL:0001058,H2,male,European,49-year-old human stage,31,1.6463090812533192
+24,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,double negative thymocyte,CL:0002489,H2,male,European,49-year-old human stage,3,0.15932023366967604

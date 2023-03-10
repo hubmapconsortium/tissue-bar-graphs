@@ -1,0 +1,32 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,mature,mast cell,CL:0000097,TxK3,male,unknown,64-year-old human stage,2,0.6172839506172839
+1,mature,mononuclear phagocyte,CL:0000113,TxK3,male,unknown,64-year-old human stage,16,4.938271604938271
+2,mature,lymphocyte,CL:0000542,TxK3,male,unknown,64-year-old human stage,24,7.4074074074074066
+3,mature,natural killer cell,CL:0000623,TxK3,male,unknown,64-year-old human stage,6,1.8518518518518516
+4,mature,"CD4-positive, alpha-beta T cell",CL:0000624,TxK3,male,unknown,64-year-old human stage,17,5.246913580246913
+5,mature,"CD8-positive, alpha-beta T cell",CL:0000625,TxK3,male,unknown,64-year-old human stage,11,3.3950617283950617
+6,mature,neutrophil,CL:0000775,TxK3,male,unknown,64-year-old human stage,1,0.30864197530864196
+7,mature,glomerular endothelial cell,CL:0002188,TxK3,male,unknown,64-year-old human stage,16,4.938271604938271
+8,mature,renal beta-intercalated cell,CL:0002201,TxK3,male,unknown,64-year-old human stage,3,0.9259259259259258
+9,mature,epithelial cell of proximal tubule,CL:0002306,TxK3,male,unknown,64-year-old human stage,47,14.506172839506174
+10,mature,renal alpha-intercalated cell,CL:0005011,TxK3,male,unknown,64-year-old human stage,16,4.938271604938271
+11,mature,kidney connecting tubule epithelial cell,CL:1000768,TxK3,male,unknown,64-year-old human stage,5,1.5432098765432098
+12,mature,peritubular capillary endothelial cell,CL:1001033,TxK3,male,unknown,64-year-old human stage,26,8.024691358024691
+13,mature,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,TxK3,male,unknown,64-year-old human stage,1,0.30864197530864196
+14,mature,vasa recta ascending limb cell,CL:1001131,TxK3,male,unknown,64-year-old human stage,7,2.1604938271604937
+15,mature,mast cell,CL:0000097,TxK3,male,unknown,64-year-old human stage,1,0.30864197530864196
+16,mature,mononuclear phagocyte,CL:0000113,TxK3,male,unknown,64-year-old human stage,5,1.5432098765432098
+17,mature,myofibroblast cell,CL:0000186,TxK3,male,unknown,64-year-old human stage,11,3.3950617283950617
+18,mature,lymphocyte,CL:0000542,TxK3,male,unknown,64-year-old human stage,4,1.2345679012345678
+19,mature,natural killer cell,CL:0000623,TxK3,male,unknown,64-year-old human stage,2,0.6172839506172839
+20,mature,"CD4-positive, alpha-beta T cell",CL:0000624,TxK3,male,unknown,64-year-old human stage,5,1.5432098765432098
+21,mature,"CD8-positive, alpha-beta T cell",CL:0000625,TxK3,male,unknown,64-year-old human stage,8,2.4691358024691357
+22,mature,epithelial cell of proximal tubule,CL:0002306,TxK3,male,unknown,64-year-old human stage,10,3.0864197530864197
+23,mature,kidney epithelial cell,CL:0002518,TxK3,male,unknown,64-year-old human stage,1,0.30864197530864196
+24,mature,renal principal cell,CL:0005009,TxK3,male,unknown,64-year-old human stage,12,3.7037037037037033
+25,mature,renal alpha-intercalated cell,CL:0005011,TxK3,male,unknown,64-year-old human stage,9,2.7777777777777777
+26,mature,progenitor cell,CL:0011026,TxK3,male,unknown,64-year-old human stage,17,5.246913580246913
+27,mature,peritubular capillary endothelial cell,CL:1001033,TxK3,male,unknown,64-year-old human stage,1,0.30864197530864196
+28,mature,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,TxK3,male,unknown,64-year-old human stage,11,3.3950617283950617
+29,mature,vasa recta ascending limb cell,CL:1001131,TxK3,male,unknown,64-year-old human stage,21,6.481481481481481
+30,mature,vasa recta descending limb cell,CL:1001285,TxK3,male,unknown,64-year-old human stage,8,2.4691358024691357

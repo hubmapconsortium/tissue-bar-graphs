@@ -1,0 +1,14 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Global,CD4-positive helper T cell,CL:0000492,A35,male,unknown,seventh decade human stage,19,37.254901960784316
+1,Global,alveolar macrophage,CL:0000583,A35,male,unknown,seventh decade human stage,8,15.686274509803921
+2,Global,gamma-delta T cell,CL:0000798,A35,male,unknown,seventh decade human stage,2,3.9215686274509802
+3,Global,non-classical monocyte,CL:0000875,A35,male,unknown,seventh decade human stage,1,1.9607843137254901
+4,Global,"effector memory CD4-positive, alpha-beta T cell",CL:0000905,A35,male,unknown,seventh decade human stage,1,1.9607843137254901
+5,Global,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,A35,male,unknown,seventh decade human stage,1,1.9607843137254901
+6,Global,"CD16-positive, CD56-dim natural killer cell, human",CL:0000939,A35,male,unknown,seventh decade human stage,5,9.803921568627452
+7,Global,plasmablast,CL:0000980,A35,male,unknown,seventh decade human stage,1,1.9607843137254901
+8,Global,conventional dendritic cell,CL:0000990,A35,male,unknown,seventh decade human stage,1,1.9607843137254901
+9,Global,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",CL:0001062,A35,male,unknown,seventh decade human stage,5,9.803921568627452
+10,Global,group 3 innate lymphoid cell,CL:0001071,A35,male,unknown,seventh decade human stage,1,1.9607843137254901
+11,Global,"CD8-positive, alpha-beta memory T cell, CD45RO-positive",CL:0001203,A35,male,unknown,seventh decade human stage,5,9.803921568627452
+12,Global,T follicular helper cell,CL:0002038,A35,male,unknown,seventh decade human stage,1,1.9607843137254901

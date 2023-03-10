@@ -1,0 +1,10 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Validation (Val) set of human colorectal tumor: Epithelial,goblet cell,CL:0000160,HTA11_7469,female,African American,46-year-old human stage,353,9.093250901597115
+1,Validation (Val) set of human colorectal tumor: Epithelial,absorptive cell,CL:0000212,HTA11_7469,female,African American,46-year-old human stage,3173,81.73621844410098
+2,Validation (Val) set of human colorectal tumor: Epithelial,abnormal cell,CL:0001061,HTA11_7469,female,African American,46-year-old human stage,3,0.07727975270479134
+3,Validation (Val) set of human colorectal tumor: Epithelial,neoplastic cell,CL:0001063,HTA11_7469,female,African American,46-year-old human stage,5,0.1287995878413189
+4,Validation (Val) set of human colorectal tumor: Epithelial,brush cell,CL:0002204,HTA11_7469,female,African American,46-year-old human stage,11,0.28335909325090164
+5,Validation (Val) set of human colorectal tumor: Epithelial,intestinal epithelial cell,CL:0002563,HTA11_7469,female,African American,46-year-old human stage,125,3.2199896960329726
+6,Validation (Val) set of human colorectal tumor: Epithelial,transit amplifying cell,CL:0009010,HTA11_7469,female,African American,46-year-old human stage,104,2.6790314270994333
+7,Validation (Val) set of human colorectal tumor: Epithelial,intestinal crypt stem cell of colon,CL:0009043,HTA11_7469,female,African American,46-year-old human stage,97,2.498712004121587
+8,Validation (Val) set of human colorectal tumor: Epithelial,intestinal enteroendocrine cell,CL:1001516,HTA11_7469,female,African American,46-year-old human stage,11,0.28335909325090164

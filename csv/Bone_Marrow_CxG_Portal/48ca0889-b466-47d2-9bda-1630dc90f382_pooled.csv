@@ -1,0 +1,85 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Human Fetal Bone Marrow (CITE-seq),common myeloid progenitor,CL:0000049,pooled,female,unknown,fifth LMP month human stage,19,0.21162842503898416
+1,Human Fetal Bone Marrow (CITE-seq),osteoclast,CL:0000092,pooled,female,unknown,fifth LMP month human stage,17,0.1893517487190911
+2,Human Fetal Bone Marrow (CITE-seq),mast cell,CL:0000097,pooled,female,unknown,fifth LMP month human stage,20,0.22276676319893074
+3,Human Fetal Bone Marrow (CITE-seq),erythrocyte,CL:0000232,pooled,female,unknown,fifth LMP month human stage,560,6.237469369570061
+4,Human Fetal Bone Marrow (CITE-seq),macrophage,CL:0000235,pooled,female,unknown,fifth LMP month human stage,17,0.1893517487190911
+5,Human Fetal Bone Marrow (CITE-seq),dendritic cell,CL:0000451,pooled,female,unknown,fifth LMP month human stage,13,0.14479839607930498
+6,Human Fetal Bone Marrow (CITE-seq),megakaryocyte,CL:0000556,pooled,female,unknown,fifth LMP month human stage,57,0.6348852751169526
+7,Human Fetal Bone Marrow (CITE-seq),granulocyte monocyte progenitor cell,CL:0000557,pooled,female,unknown,fifth LMP month human stage,21,0.23390510135887724
+8,Human Fetal Bone Marrow (CITE-seq),promonocyte,CL:0000559,pooled,female,unknown,fifth LMP month human stage,111,1.2363555357540654
+9,Human Fetal Bone Marrow (CITE-seq),"CD4-positive, alpha-beta T cell",CL:0000624,pooled,female,unknown,fifth LMP month human stage,19,0.21162842503898416
+10,Human Fetal Bone Marrow (CITE-seq),endothelial tip cell,CL:0000704,pooled,female,unknown,fifth LMP month human stage,8,0.08910670527957229
+11,Human Fetal Bone Marrow (CITE-seq),basophil,CL:0000767,pooled,female,unknown,fifth LMP month human stage,2,0.022276676319893073
+12,Human Fetal Bone Marrow (CITE-seq),eosinophil,CL:0000771,pooled,female,unknown,fifth LMP month human stage,2,0.022276676319893073
+13,Human Fetal Bone Marrow (CITE-seq),neutrophil,CL:0000775,pooled,female,unknown,fifth LMP month human stage,43,0.478948540877701
+14,Human Fetal Bone Marrow (CITE-seq),plasmacytoid dendritic cell,CL:0000784,pooled,female,unknown,fifth LMP month human stage,49,0.5457785698373803
+15,Human Fetal Bone Marrow (CITE-seq),naive B cell,CL:0000788,pooled,female,unknown,fifth LMP month human stage,75,0.8353753619959902
+16,Human Fetal Bone Marrow (CITE-seq),immature B cell,CL:0000816,pooled,female,unknown,fifth LMP month human stage,95,1.0581421251949208
+17,Human Fetal Bone Marrow (CITE-seq),precursor B cell,CL:0000817,pooled,female,unknown,fifth LMP month human stage,613,6.827801292047226
+18,Human Fetal Bone Marrow (CITE-seq),pro-B cell,CL:0000826,pooled,female,unknown,fifth LMP month human stage,184,2.0494542214301625
+19,Human Fetal Bone Marrow (CITE-seq),promyelocyte,CL:0000836,pooled,female,unknown,fifth LMP month human stage,18,0.20049008687903763
+20,Human Fetal Bone Marrow (CITE-seq),hematopoietic multipotent progenitor cell,CL:0000837,pooled,female,unknown,fifth LMP month human stage,14,0.1559367342392515
+21,Human Fetal Bone Marrow (CITE-seq),early lymphoid progenitor,CL:0000936,pooled,female,unknown,fifth LMP month human stage,63,0.7017153040766317
+22,Human Fetal Bone Marrow (CITE-seq),"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,pooled,female,unknown,fifth LMP month human stage,39,0.43439518823791495
+23,Human Fetal Bone Marrow (CITE-seq),CD14-positive monocyte,CL:0001054,pooled,female,unknown,fifth LMP month human stage,207,2.305635999108933
+24,Human Fetal Bone Marrow (CITE-seq),fraction A pre-pro B cell,CL:0002045,pooled,female,unknown,fifth LMP month human stage,104,1.1583871686344398
+25,Human Fetal Bone Marrow (CITE-seq),endothelial cell of sinusoid,CL:0002262,pooled,female,unknown,fifth LMP month human stage,27,0.3007351303185565
+26,Human Fetal Bone Marrow (CITE-seq),primitive red blood cell,CL:0002355,pooled,female,unknown,fifth LMP month human stage,173,1.9269325016707508
+27,Human Fetal Bone Marrow (CITE-seq),progenitor cell,CL:0011026,pooled,female,unknown,fifth LMP month human stage,39,0.43439518823791495
+28,Human Fetal Bone Marrow (CITE-seq),common myeloid progenitor,CL:0000049,pooled,male,unknown,fifth LMP month human stage,53,0.5903319224771664
+29,Human Fetal Bone Marrow (CITE-seq),osteoclast,CL:0000092,pooled,male,unknown,fifth LMP month human stage,29,0.32301180663844953
+30,Human Fetal Bone Marrow (CITE-seq),mast cell,CL:0000097,pooled,male,unknown,fifth LMP month human stage,33,0.3675651592782357
+31,Human Fetal Bone Marrow (CITE-seq),erythrocyte,CL:0000232,pooled,male,unknown,fifth LMP month human stage,328,3.6533749164624636
+32,Human Fetal Bone Marrow (CITE-seq),macrophage,CL:0000235,pooled,male,unknown,fifth LMP month human stage,18,0.20049008687903763
+33,Human Fetal Bone Marrow (CITE-seq),dendritic cell,CL:0000451,pooled,male,unknown,fifth LMP month human stage,100,1.1138338159946537
+34,Human Fetal Bone Marrow (CITE-seq),megakaryocyte,CL:0000556,pooled,male,unknown,fifth LMP month human stage,61,0.6794386277567387
+35,Human Fetal Bone Marrow (CITE-seq),granulocyte monocyte progenitor cell,CL:0000557,pooled,male,unknown,fifth LMP month human stage,80,0.891067052795723
+36,Human Fetal Bone Marrow (CITE-seq),promonocyte,CL:0000559,pooled,male,unknown,fifth LMP month human stage,471,5.246157273334819
+37,Human Fetal Bone Marrow (CITE-seq),"CD4-positive, alpha-beta T cell",CL:0000624,pooled,male,unknown,fifth LMP month human stage,19,0.21162842503898416
+38,Human Fetal Bone Marrow (CITE-seq),endothelial tip cell,CL:0000704,pooled,male,unknown,fifth LMP month human stage,2,0.022276676319893073
+39,Human Fetal Bone Marrow (CITE-seq),basophil,CL:0000767,pooled,male,unknown,fifth LMP month human stage,12,0.13366005791935842
+40,Human Fetal Bone Marrow (CITE-seq),eosinophil,CL:0000771,pooled,male,unknown,fifth LMP month human stage,19,0.21162842503898416
+41,Human Fetal Bone Marrow (CITE-seq),neutrophil,CL:0000775,pooled,male,unknown,fifth LMP month human stage,242,2.6954778347070616
+42,Human Fetal Bone Marrow (CITE-seq),plasmacytoid dendritic cell,CL:0000784,pooled,male,unknown,fifth LMP month human stage,82,0.9133437291156159
+43,Human Fetal Bone Marrow (CITE-seq),naive B cell,CL:0000788,pooled,male,unknown,fifth LMP month human stage,171,1.9046558253508576
+44,Human Fetal Bone Marrow (CITE-seq),immature B cell,CL:0000816,pooled,male,unknown,fifth LMP month human stage,303,3.3749164624638004
+45,Human Fetal Bone Marrow (CITE-seq),precursor B cell,CL:0000817,pooled,male,unknown,fifth LMP month human stage,1557,17.342392515036757
+46,Human Fetal Bone Marrow (CITE-seq),pro-B cell,CL:0000826,pooled,male,unknown,fifth LMP month human stage,175,1.9492091779906437
+47,Human Fetal Bone Marrow (CITE-seq),promyelocyte,CL:0000836,pooled,male,unknown,fifth LMP month human stage,70,0.7796836711962576
+48,Human Fetal Bone Marrow (CITE-seq),hematopoietic multipotent progenitor cell,CL:0000837,pooled,male,unknown,fifth LMP month human stage,21,0.23390510135887724
+49,Human Fetal Bone Marrow (CITE-seq),early lymphoid progenitor,CL:0000936,pooled,male,unknown,fifth LMP month human stage,109,1.2140788594341725
+50,Human Fetal Bone Marrow (CITE-seq),"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,pooled,male,unknown,fifth LMP month human stage,23,0.2561817776787703
+51,Human Fetal Bone Marrow (CITE-seq),CD14-positive monocyte,CL:0001054,pooled,male,unknown,fifth LMP month human stage,1107,12.330140343060815
+52,Human Fetal Bone Marrow (CITE-seq),fraction A pre-pro B cell,CL:0002045,pooled,male,unknown,fifth LMP month human stage,133,1.4813989752728893
+53,Human Fetal Bone Marrow (CITE-seq),endothelial cell of sinusoid,CL:0002262,pooled,male,unknown,fifth LMP month human stage,11,0.12252171975941191
+54,Human Fetal Bone Marrow (CITE-seq),primitive red blood cell,CL:0002355,pooled,male,unknown,fifth LMP month human stage,303,3.3749164624638004
+55,Human Fetal Bone Marrow (CITE-seq),progenitor cell,CL:0011026,pooled,male,unknown,fifth LMP month human stage,219,2.439296057028291
+56,Human Fetal Bone Marrow (CITE-seq),common myeloid progenitor,CL:0000049,pooled,unknown,unknown,fifth LMP month human stage,6,0.06683002895967921
+57,Human Fetal Bone Marrow (CITE-seq),osteoclast,CL:0000092,pooled,unknown,unknown,fifth LMP month human stage,12,0.13366005791935842
+58,Human Fetal Bone Marrow (CITE-seq),mast cell,CL:0000097,pooled,unknown,unknown,fifth LMP month human stage,4,0.044553352639786145
+59,Human Fetal Bone Marrow (CITE-seq),erythrocyte,CL:0000232,pooled,unknown,unknown,fifth LMP month human stage,248,2.7623078636667406
+60,Human Fetal Bone Marrow (CITE-seq),macrophage,CL:0000235,pooled,unknown,unknown,fifth LMP month human stage,12,0.13366005791935842
+61,Human Fetal Bone Marrow (CITE-seq),dendritic cell,CL:0000451,pooled,unknown,unknown,fifth LMP month human stage,7,0.07796836711962575
+62,Human Fetal Bone Marrow (CITE-seq),megakaryocyte,CL:0000556,pooled,unknown,unknown,fifth LMP month human stage,4,0.044553352639786145
+63,Human Fetal Bone Marrow (CITE-seq),granulocyte monocyte progenitor cell,CL:0000557,pooled,unknown,unknown,fifth LMP month human stage,7,0.07796836711962575
+64,Human Fetal Bone Marrow (CITE-seq),promonocyte,CL:0000559,pooled,unknown,unknown,fifth LMP month human stage,38,0.4232568500779683
+65,Human Fetal Bone Marrow (CITE-seq),"CD4-positive, alpha-beta T cell",CL:0000624,pooled,unknown,unknown,fifth LMP month human stage,1,0.011138338159946536
+66,Human Fetal Bone Marrow (CITE-seq),endothelial tip cell,CL:0000704,pooled,unknown,unknown,fifth LMP month human stage,1,0.011138338159946536
+67,Human Fetal Bone Marrow (CITE-seq),basophil,CL:0000767,pooled,unknown,unknown,fifth LMP month human stage,1,0.011138338159946536
+68,Human Fetal Bone Marrow (CITE-seq),eosinophil,CL:0000771,pooled,unknown,unknown,fifth LMP month human stage,1,0.011138338159946536
+69,Human Fetal Bone Marrow (CITE-seq),neutrophil,CL:0000775,pooled,unknown,unknown,fifth LMP month human stage,9,0.10024504343951882
+70,Human Fetal Bone Marrow (CITE-seq),plasmacytoid dendritic cell,CL:0000784,pooled,unknown,unknown,fifth LMP month human stage,8,0.08910670527957229
+71,Human Fetal Bone Marrow (CITE-seq),naive B cell,CL:0000788,pooled,unknown,unknown,fifth LMP month human stage,3,0.033415014479839605
+72,Human Fetal Bone Marrow (CITE-seq),immature B cell,CL:0000816,pooled,unknown,unknown,fifth LMP month human stage,5,0.055691690799732685
+73,Human Fetal Bone Marrow (CITE-seq),precursor B cell,CL:0000817,pooled,unknown,unknown,fifth LMP month human stage,71,0.7908220093562041
+74,Human Fetal Bone Marrow (CITE-seq),pro-B cell,CL:0000826,pooled,unknown,unknown,fifth LMP month human stage,7,0.07796836711962575
+75,Human Fetal Bone Marrow (CITE-seq),promyelocyte,CL:0000836,pooled,unknown,unknown,fifth LMP month human stage,15,0.16707507239919805
+76,Human Fetal Bone Marrow (CITE-seq),hematopoietic multipotent progenitor cell,CL:0000837,pooled,unknown,unknown,fifth LMP month human stage,1,0.011138338159946536
+77,Human Fetal Bone Marrow (CITE-seq),early lymphoid progenitor,CL:0000936,pooled,unknown,unknown,fifth LMP month human stage,5,0.055691690799732685
+78,Human Fetal Bone Marrow (CITE-seq),"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,pooled,unknown,unknown,fifth LMP month human stage,4,0.044553352639786145
+79,Human Fetal Bone Marrow (CITE-seq),CD14-positive monocyte,CL:0001054,pooled,unknown,unknown,fifth LMP month human stage,70,0.7796836711962576
+80,Human Fetal Bone Marrow (CITE-seq),fraction A pre-pro B cell,CL:0002045,pooled,unknown,unknown,fifth LMP month human stage,11,0.12252171975941191
+81,Human Fetal Bone Marrow (CITE-seq),endothelial cell of sinusoid,CL:0002262,pooled,unknown,unknown,fifth LMP month human stage,4,0.044553352639786145
+82,Human Fetal Bone Marrow (CITE-seq),primitive red blood cell,CL:0002355,pooled,unknown,unknown,fifth LMP month human stage,41,0.45667186455780795
+83,Human Fetal Bone Marrow (CITE-seq),progenitor cell,CL:0011026,pooled,unknown,unknown,fifth LMP month human stage,22,0.24504343951882382

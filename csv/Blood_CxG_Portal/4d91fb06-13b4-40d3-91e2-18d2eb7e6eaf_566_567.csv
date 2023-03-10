@@ -1,0 +1,24 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,natural killer cell,CL:0000623,566_567,male,European,58-year-old human stage,27,2.980132450331126
+1,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"CD4-positive, alpha-beta T cell",CL:0000624,566_567,male,European,58-year-old human stage,1,0.11037527593818984
+2,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"CD8-positive, alpha-beta T cell",CL:0000625,566_567,male,European,58-year-old human stage,1,0.11037527593818984
+3,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,plasmacytoid dendritic cell,CL:0000784,566_567,male,European,58-year-old human stage,8,0.8830022075055187
+4,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,memory B cell,CL:0000787,566_567,male,European,58-year-old human stage,10,1.1037527593818985
+5,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,naive B cell,CL:0000788,566_567,male,European,58-year-old human stage,14,1.545253863134658
+6,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,gamma-delta T cell,CL:0000798,566_567,male,European,58-year-old human stage,87,9.602649006622517
+7,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,regulatory T cell,CL:0000815,566_567,male,European,58-year-old human stage,14,1.545253863134658
+8,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,transitional stage B cell,CL:0000818,566_567,male,European,58-year-old human stage,4,0.44150110375275936
+9,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,566_567,male,European,58-year-old human stage,400,44.150110375275936
+10,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,566_567,male,European,58-year-old human stage,58,6.401766004415011
+11,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"central memory CD4-positive, alpha-beta T cell",CL:0000904,566_567,male,European,58-year-old human stage,117,12.91390728476821
+12,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"effector memory CD4-positive, alpha-beta T cell",CL:0000905,566_567,male,European,58-year-old human stage,15,1.6556291390728477
+13,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"central memory CD8-positive, alpha-beta T cell",CL:0000907,566_567,male,European,58-year-old human stage,4,0.44150110375275936
+14,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,566_567,male,European,58-year-old human stage,92,10.154525386313466
+15,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"CD4-positive, alpha-beta cytotoxic T cell",CL:0000934,566_567,male,European,58-year-old human stage,13,1.434878587196468
+16,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,566_567,male,European,58-year-old human stage,3,0.33112582781456956
+17,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,mucosal invariant T cell,CL:0000940,566_567,male,European,58-year-old human stage,9,0.9933774834437087
+18,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,plasmablast,CL:0000980,566_567,male,European,58-year-old human stage,4,0.44150110375275936
+19,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,conventional dendritic cell,CL:0000990,566_567,male,European,58-year-old human stage,1,0.11037527593818984
+20,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,CD14-positive monocyte,CL:0001054,566_567,male,European,58-year-old human stage,19,2.097130242825607
+21,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"CD14-low, CD16-positive monocyte",CL:0002396,566_567,male,European,58-year-old human stage,3,0.33112582781456956
+22,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,double negative thymocyte,CL:0002489,566_567,male,European,58-year-old human stage,2,0.22075055187637968

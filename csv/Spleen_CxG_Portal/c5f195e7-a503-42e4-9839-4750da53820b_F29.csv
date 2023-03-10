@@ -1,0 +1,17 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,NK/T cells,native cell,CL:0000003,F29,female,unknown,17th week post-fertilization human stage,29,1.4795918367346939
+1,NK/T cells,hematopoietic stem cell,CL:0000037,F29,female,unknown,17th week post-fertilization human stage,6,0.30612244897959184
+2,NK/T cells,megakaryocyte-erythroid progenitor cell,CL:0000050,F29,female,unknown,17th week post-fertilization human stage,80,4.081632653061225
+3,NK/T cells,T cell,CL:0000084,F29,female,unknown,17th week post-fertilization human stage,384,19.591836734693878
+4,NK/T cells,granulocyte monocyte progenitor cell,CL:0000557,F29,female,unknown,17th week post-fertilization human stage,2,0.10204081632653061
+5,NK/T cells,natural killer cell,CL:0000623,F29,female,unknown,17th week post-fertilization human stage,707,36.07142857142857
+6,NK/T cells,regulatory T cell,CL:0000815,F29,female,unknown,17th week post-fertilization human stage,132,6.73469387755102
+7,NK/T cells,hematopoietic multipotent progenitor cell,CL:0000837,F29,female,unknown,17th week post-fertilization human stage,5,0.25510204081632654
+8,NK/T cells,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,F29,female,unknown,17th week post-fertilization human stage,354,18.06122448979592
+9,NK/T cells,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,F29,female,unknown,17th week post-fertilization human stage,179,9.13265306122449
+10,NK/T cells,"CD8-alpha-alpha-positive, alpha-beta intraepithelial T cell",CL:0000915,F29,female,unknown,17th week post-fertilization human stage,4,0.20408163265306123
+11,NK/T cells,early lymphoid progenitor,CL:0000936,F29,female,unknown,17th week post-fertilization human stage,11,0.5612244897959183
+12,NK/T cells,innate lymphoid cell,CL:0001065,F29,female,unknown,17th week post-fertilization human stage,1,0.05102040816326531
+13,NK/T cells,group 2 innate lymphoid cell,CL:0001069,F29,female,unknown,17th week post-fertilization human stage,3,0.15306122448979592
+14,NK/T cells,group 3 innate lymphoid cell,CL:0001071,F29,female,unknown,17th week post-fertilization human stage,62,3.1632653061224487
+15,NK/T cells,fraction A pre-pro B cell,CL:0002045,F29,female,unknown,17th week post-fertilization human stage,1,0.05102040816326531

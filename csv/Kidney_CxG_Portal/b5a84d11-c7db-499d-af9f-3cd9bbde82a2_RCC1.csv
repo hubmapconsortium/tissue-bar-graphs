@@ -1,0 +1,25 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,mature,fibroblast,CL:0000057,RCC1,male,unknown,67-year-old human stage,1,0.028200789622109423
+1,mature,mast cell,CL:0000097,RCC1,male,unknown,67-year-old human stage,5,0.1410039481105471
+2,mature,mononuclear phagocyte,CL:0000113,RCC1,male,unknown,67-year-old human stage,243,6.852791878172589
+3,mature,myofibroblast cell,CL:0000186,RCC1,male,unknown,67-year-old human stage,63,1.7766497461928936
+4,mature,B cell,CL:0000236,RCC1,male,unknown,67-year-old human stage,15,0.4230118443316413
+5,mature,lymphocyte,CL:0000542,RCC1,male,unknown,67-year-old human stage,56,1.5792442188381277
+6,mature,natural killer cell,CL:0000623,RCC1,male,unknown,67-year-old human stage,270,7.614213197969544
+7,mature,"CD4-positive, alpha-beta T cell",CL:0000624,RCC1,male,unknown,67-year-old human stage,115,3.2430908065425834
+8,mature,"CD8-positive, alpha-beta T cell",CL:0000625,RCC1,male,unknown,67-year-old human stage,23,0.6486181613085167
+9,mature,neutrophil,CL:0000775,RCC1,male,unknown,67-year-old human stage,4,0.1128031584884377
+10,mature,plasmacytoid dendritic cell,CL:0000784,RCC1,male,unknown,67-year-old human stage,3,0.08460236886632826
+11,mature,glomerular endothelial cell,CL:0002188,RCC1,male,unknown,67-year-old human stage,489,13.790186125211507
+12,mature,renal beta-intercalated cell,CL:0002201,RCC1,male,unknown,67-year-old human stage,51,1.4382402707275803
+13,mature,epithelial cell of proximal tubule,CL:0002306,RCC1,male,unknown,67-year-old human stage,1247,35.16638465877045
+14,mature,renal principal cell,CL:0005009,RCC1,male,unknown,67-year-old human stage,3,0.08460236886632826
+15,mature,renal intercalated cell,CL:0005010,RCC1,male,unknown,67-year-old human stage,2,0.05640157924421885
+16,mature,renal alpha-intercalated cell,CL:0005011,RCC1,male,unknown,67-year-old human stage,38,1.071630005640158
+17,mature,progenitor cell,CL:0011026,RCC1,male,unknown,67-year-old human stage,24,0.676818950930626
+18,mature,epithelial cell of glomerular capsule,CL:1000450,RCC1,male,unknown,67-year-old human stage,4,0.1128031584884377
+19,mature,kidney connecting tubule epithelial cell,CL:1000768,RCC1,male,unknown,67-year-old human stage,31,0.8742244782853921
+20,mature,peritubular capillary endothelial cell,CL:1001033,RCC1,male,unknown,67-year-old human stage,640,18.048505358150027
+21,mature,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,RCC1,male,unknown,67-year-old human stage,40,1.1280315848843767
+22,mature,vasa recta ascending limb cell,CL:1001131,RCC1,male,unknown,67-year-old human stage,92,2.5944726452340667
+23,mature,vasa recta descending limb cell,CL:1001285,RCC1,male,unknown,67-year-old human stage,87,2.4534686971235193

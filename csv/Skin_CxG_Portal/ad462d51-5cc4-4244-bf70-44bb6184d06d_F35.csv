@@ -1,0 +1,10 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Megakaryocyte/erythroid cells,native cell,CL:0000003,F35,female,unknown,Carnegie stage 20,3,3.75
+1,Megakaryocyte/erythroid cells,megakaryocyte-erythroid progenitor cell,CL:0000050,F35,female,unknown,Carnegie stage 20,1,1.25
+2,Megakaryocyte/erythroid cells,erythrocyte,CL:0000232,F35,female,unknown,Carnegie stage 20,3,3.75
+3,Megakaryocyte/erythroid cells,megakaryocyte,CL:0000556,F35,female,unknown,Carnegie stage 20,4,5.0
+4,Megakaryocyte/erythroid cells,promyelocyte,CL:0000836,F35,female,unknown,Carnegie stage 20,1,1.25
+5,Megakaryocyte/erythroid cells,hematopoietic multipotent progenitor cell,CL:0000837,F35,female,unknown,Carnegie stage 20,2,2.5
+6,Megakaryocyte/erythroid cells,early lymphoid progenitor,CL:0000936,F35,female,unknown,Carnegie stage 20,47,58.75
+7,Megakaryocyte/erythroid cells,fraction A pre-pro B cell,CL:0002045,F35,female,unknown,Carnegie stage 20,18,22.5
+8,Megakaryocyte/erythroid cells,double negative thymocyte,CL:0002489,F35,female,unknown,Carnegie stage 20,1,1.25

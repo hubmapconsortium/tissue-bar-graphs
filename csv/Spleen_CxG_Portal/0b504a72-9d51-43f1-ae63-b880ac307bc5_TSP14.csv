@@ -1,0 +1,23 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Tabula Sapiens - All Cells,hematopoietic stem cell,CL:0000037,TSP14,male,European,59-year-old human stage,45,0.23729171060957602
+1,Tabula Sapiens - All Cells,endothelial cell,CL:0000115,TSP14,male,European,59-year-old human stage,128,0.6749630879561274
+2,Tabula Sapiens - All Cells,erythrocyte,CL:0000232,TSP14,male,European,59-year-old human stage,126,0.664416789706813
+3,Tabula Sapiens - All Cells,platelet,CL:0000233,TSP14,male,European,59-year-old human stage,10,0.05273149124657245
+4,Tabula Sapiens - All Cells,macrophage,CL:0000235,TSP14,male,European,59-year-old human stage,522,2.7525838430710823
+5,Tabula Sapiens - All Cells,neutrophil,CL:0000775,TSP14,male,European,59-year-old human stage,3814,20.111790761442734
+6,Tabula Sapiens - All Cells,plasmacytoid dendritic cell,CL:0000784,TSP14,male,European,59-year-old human stage,37,0.1951065176123181
+7,Tabula Sapiens - All Cells,plasma cell,CL:0000786,TSP14,male,European,59-year-old human stage,1829,9.644589748998103
+8,Tabula Sapiens - All Cells,memory B cell,CL:0000787,TSP14,male,European,59-year-old human stage,2775,14.632988820923856
+9,Tabula Sapiens - All Cells,naive B cell,CL:0000788,TSP14,male,European,59-year-old human stage,78,0.4113056317232651
+10,Tabula Sapiens - All Cells,mature NK T cell,CL:0000814,TSP14,male,European,59-year-old human stage,1239,6.533431765450327
+11,Tabula Sapiens - All Cells,regulatory T cell,CL:0000815,TSP14,male,European,59-year-old human stage,145,0.7646066230753006
+12,Tabula Sapiens - All Cells,classical monocyte,CL:0000860,TSP14,male,European,59-year-old human stage,2959,15.603248259860788
+13,Tabula Sapiens - All Cells,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,TSP14,male,European,59-year-old human stage,661,3.485551571398439
+14,Tabula Sapiens - All Cells,"CD4-positive, alpha-beta memory T cell",CL:0000897,TSP14,male,European,59-year-old human stage,1042,5.494621387892849
+15,Tabula Sapiens - All Cells,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,TSP14,male,European,59-year-old human stage,88,0.46403712296983757
+16,Tabula Sapiens - All Cells,"CD8-positive, alpha-beta memory T cell",CL:0000909,TSP14,male,European,59-year-old human stage,2756,14.532798987555367
+17,Tabula Sapiens - All Cells,type I NK T cell,CL:0000921,TSP14,male,European,59-year-old human stage,589,3.1058848344231174
+18,Tabula Sapiens - All Cells,innate lymphoid cell,CL:0001065,TSP14,male,European,59-year-old human stage,66,0.34802784222737815
+19,Tabula Sapiens - All Cells,intermediate monocyte,CL:0002393,TSP14,male,European,59-year-old human stage,30,0.15819447373971735
+20,Tabula Sapiens - All Cells,CD141-positive myeloid dendritic cell,CL:0002394,TSP14,male,European,59-year-old human stage,1,0.005273149124657245
+21,Tabula Sapiens - All Cells,CD1c-positive myeloid dendritic cell,CL:0002399,TSP14,male,European,59-year-old human stage,24,0.1265555789917739

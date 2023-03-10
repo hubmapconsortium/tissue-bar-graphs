@@ -1,0 +1,61 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Colon,mast cell,CL:0000097,290b,female,unknown,seventh decade human stage,180,1.4822134387351777
+1,Colon,macrophage,CL:0000235,290b,female,unknown,seventh decade human stage,5,0.04117259552042161
+2,Colon,B cell,CL:0000236,290b,female,unknown,seventh decade human stage,134,1.103425559947299
+3,Colon,dendritic cell,CL:0000451,290b,female,unknown,seventh decade human stage,6,0.04940711462450593
+4,Colon,T-helper 1 cell,CL:0000545,290b,female,unknown,seventh decade human stage,230,1.893939393939394
+5,Colon,monocyte,CL:0000576,290b,female,unknown,seventh decade human stage,3,0.024703557312252964
+6,Colon,natural killer cell,CL:0000623,290b,female,unknown,seventh decade human stage,1,0.008234519104084322
+7,Colon,"CD4-positive, alpha-beta T cell",CL:0000624,290b,female,unknown,seventh decade human stage,348,2.8656126482213438
+8,Colon,"CD8-positive, alpha-beta T cell",CL:0000625,290b,female,unknown,seventh decade human stage,123,1.0128458498023716
+9,Colon,memory B cell,CL:0000787,290b,female,unknown,seventh decade human stage,89,0.7328722002635046
+10,Colon,gamma-delta T cell,CL:0000798,290b,female,unknown,seventh decade human stage,54,0.4446640316205534
+11,Colon,memory T cell,CL:0000813,290b,female,unknown,seventh decade human stage,5,0.04117259552042161
+12,Colon,regulatory T cell,CL:0000815,290b,female,unknown,seventh decade human stage,64,0.5270092226613966
+13,Colon,follicular B cell,CL:0000843,290b,female,unknown,seventh decade human stage,47,0.3870223978919631
+14,Colon,T-helper 17 cell,CL:0000899,290b,female,unknown,seventh decade human stage,160,1.3175230566534915
+15,Colon,IgA plasma cell,CL:0000987,290b,female,unknown,seventh decade human stage,1851,15.24209486166008
+16,Colon,conventional dendritic cell,CL:0000990,290b,female,unknown,seventh decade human stage,22,0.18115942028985507
+17,Colon,innate lymphoid cell,CL:0001065,290b,female,unknown,seventh decade human stage,17,0.13998682476943347
+18,Colon,T follicular helper cell,CL:0002038,290b,female,unknown,seventh decade human stage,9,0.07411067193675888
+19,Colon,colon macrophage,CL:0009038,290b,female,unknown,seventh decade human stage,23,0.1893939393939394
+20,Colon,mast cell,CL:0000097,290b,female,unknown,seventh decade human stage,291,2.3962450592885376
+21,Colon,macrophage,CL:0000235,290b,female,unknown,seventh decade human stage,3,0.024703557312252964
+22,Colon,B cell,CL:0000236,290b,female,unknown,seventh decade human stage,32,0.2635046113306983
+23,Colon,dendritic cell,CL:0000451,290b,female,unknown,seventh decade human stage,21,0.17292490118577075
+24,Colon,T-helper 1 cell,CL:0000545,290b,female,unknown,seventh decade human stage,503,4.141963109354414
+25,Colon,monocyte,CL:0000576,290b,female,unknown,seventh decade human stage,2,0.016469038208168644
+26,Colon,natural killer cell,CL:0000623,290b,female,unknown,seventh decade human stage,4,0.03293807641633729
+27,Colon,"CD4-positive, alpha-beta T cell",CL:0000624,290b,female,unknown,seventh decade human stage,186,1.5316205533596838
+28,Colon,"CD8-positive, alpha-beta T cell",CL:0000625,290b,female,unknown,seventh decade human stage,180,1.4822134387351777
+29,Colon,memory B cell,CL:0000787,290b,female,unknown,seventh decade human stage,19,0.1564558629776021
+30,Colon,gamma-delta T cell,CL:0000798,290b,female,unknown,seventh decade human stage,41,0.3376152832674572
+31,Colon,memory T cell,CL:0000813,290b,female,unknown,seventh decade human stage,12,0.09881422924901186
+32,Colon,regulatory T cell,CL:0000815,290b,female,unknown,seventh decade human stage,54,0.4446640316205534
+33,Colon,follicular B cell,CL:0000843,290b,female,unknown,seventh decade human stage,23,0.1893939393939394
+34,Colon,T-helper 17 cell,CL:0000899,290b,female,unknown,seventh decade human stage,312,2.5691699604743086
+35,Colon,IgA plasma cell,CL:0000987,290b,female,unknown,seventh decade human stage,1767,14.550395256916996
+36,Colon,conventional dendritic cell,CL:0000990,290b,female,unknown,seventh decade human stage,37,0.3046772068511199
+37,Colon,innate lymphoid cell,CL:0001065,290b,female,unknown,seventh decade human stage,17,0.13998682476943347
+38,Colon,T follicular helper cell,CL:0002038,290b,female,unknown,seventh decade human stage,1,0.008234519104084322
+39,Colon,colon macrophage,CL:0009038,290b,female,unknown,seventh decade human stage,49,0.4034914361001318
+40,Colon,mast cell,CL:0000097,290b,female,unknown,seventh decade human stage,257,2.116271409749671
+41,Colon,macrophage,CL:0000235,290b,female,unknown,seventh decade human stage,2,0.016469038208168644
+42,Colon,B cell,CL:0000236,290b,female,unknown,seventh decade human stage,33,0.2717391304347826
+43,Colon,dendritic cell,CL:0000451,290b,female,unknown,seventh decade human stage,10,0.08234519104084322
+44,Colon,T-helper 1 cell,CL:0000545,290b,female,unknown,seventh decade human stage,499,4.109025032938077
+45,Colon,monocyte,CL:0000576,290b,female,unknown,seventh decade human stage,12,0.09881422924901186
+46,Colon,natural killer cell,CL:0000623,290b,female,unknown,seventh decade human stage,15,0.12351778656126483
+47,Colon,"CD4-positive, alpha-beta T cell",CL:0000624,290b,female,unknown,seventh decade human stage,360,2.9644268774703555
+48,Colon,"CD8-positive, alpha-beta T cell",CL:0000625,290b,female,unknown,seventh decade human stage,387,3.1867588932806328
+49,Colon,memory B cell,CL:0000787,290b,female,unknown,seventh decade human stage,266,2.1903820816864297
+50,Colon,gamma-delta T cell,CL:0000798,290b,female,unknown,seventh decade human stage,109,0.897562582345191
+51,Colon,memory T cell,CL:0000813,290b,female,unknown,seventh decade human stage,133,1.0951910408432148
+52,Colon,regulatory T cell,CL:0000815,290b,female,unknown,seventh decade human stage,257,2.116271409749671
+53,Colon,follicular B cell,CL:0000843,290b,female,unknown,seventh decade human stage,582,4.792490118577075
+54,Colon,T-helper 17 cell,CL:0000899,290b,female,unknown,seventh decade human stage,832,6.851119894598155
+55,Colon,IgA plasma cell,CL:0000987,290b,female,unknown,seventh decade human stage,1388,11.429512516469039
+56,Colon,conventional dendritic cell,CL:0000990,290b,female,unknown,seventh decade human stage,18,0.14822134387351776
+57,Colon,innate lymphoid cell,CL:0001065,290b,female,unknown,seventh decade human stage,18,0.14822134387351776
+58,Colon,T follicular helper cell,CL:0002038,290b,female,unknown,seventh decade human stage,21,0.17292490118577075
+59,Colon,colon macrophage,CL:0009038,290b,female,unknown,seventh decade human stage,20,0.16469038208168643

@@ -1,0 +1,21 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,fetal,native cell,CL:0000003,F16,male,unknown,9th week post-fertilization human stage,89,5.7717250324254215
+1,fetal,mast cell,CL:0000097,F16,male,unknown,9th week post-fertilization human stage,5,0.324254215304799
+2,fetal,endothelial cell,CL:0000115,F16,male,unknown,9th week post-fertilization human stage,179,11.608300907911802
+3,fetal,mesenchymal stem cell,CL:0000134,F16,male,unknown,9th week post-fertilization human stage,72,4.669260700389105
+4,fetal,macrophage,CL:0000235,F16,male,unknown,9th week post-fertilization human stage,40,2.594033722438392
+5,fetal,megakaryocyte,CL:0000556,F16,male,unknown,9th week post-fertilization human stage,21,1.3618677042801557
+6,fetal,monocyte,CL:0000576,F16,male,unknown,9th week post-fertilization human stage,4,0.25940337224383914
+7,fetal,natural killer cell,CL:0000623,F16,male,unknown,9th week post-fertilization human stage,26,1.6861219195849546
+8,fetal,"CD8-positive, alpha-beta T cell",CL:0000625,F16,male,unknown,9th week post-fertilization human stage,1,0.06485084306095978
+9,fetal,erythroid lineage cell,CL:0000764,F16,male,unknown,9th week post-fertilization human stage,4,0.25940337224383914
+10,fetal,neutrophil,CL:0000775,F16,male,unknown,9th week post-fertilization human stage,4,0.25940337224383914
+11,fetal,conventional dendritic cell,CL:0000990,F16,male,unknown,9th week post-fertilization human stage,5,0.324254215304799
+12,fetal,innate lymphoid cell,CL:0001065,F16,male,unknown,9th week post-fertilization human stage,9,0.5836575875486382
+13,fetal,epithelial cell of proximal tubule,CL:0002306,F16,male,unknown,9th week post-fertilization human stage,30,1.9455252918287937
+14,fetal,epithelial cell of nephron,CL:1000449,F16,male,unknown,9th week post-fertilization human stage,552,35.797665369649806
+15,fetal,epithelial cell of glomerular capsule,CL:1000450,F16,male,unknown,9th week post-fertilization human stage,30,1.9455252918287937
+16,fetal,nephron tubule epithelial cell,CL:1000494,F16,male,unknown,9th week post-fertilization human stage,21,1.3618677042801557
+17,fetal,kidney interstitial cell,CL:1000500,F16,male,unknown,9th week post-fertilization human stage,404,26.19974059662776
+18,fetal,kidney connecting tubule epithelial cell,CL:1000768,F16,male,unknown,9th week post-fertilization human stage,35,2.2697795071335927
+19,fetal,kidney collecting duct cell,CL:1001225,F16,male,unknown,9th week post-fertilization human stage,11,0.7133592736705577

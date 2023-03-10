@@ -1,0 +1,28 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Mature kidney dataset: full,mast cell,CL:0000097,RCC1,male,unknown,67-year-old human stage,5,0.1410039481105471
+1,Mature kidney dataset: full,myofibroblast cell,CL:0000186,RCC1,male,unknown,67-year-old human stage,63,1.7766497461928936
+2,Mature kidney dataset: full,B cell,CL:0000236,RCC1,male,unknown,67-year-old human stage,15,0.4230118443316413
+3,Mature kidney dataset: full,dendritic cell,CL:0000451,RCC1,male,unknown,67-year-old human stage,44,1.2408347433728144
+4,Mature kidney dataset: full,natural killer cell,CL:0000623,RCC1,male,unknown,67-year-old human stage,270,7.614213197969544
+5,Mature kidney dataset: full,"CD4-positive, alpha-beta T cell",CL:0000624,RCC1,male,unknown,67-year-old human stage,115,3.2430908065425834
+6,Mature kidney dataset: full,"CD8-positive, alpha-beta T cell",CL:0000625,RCC1,male,unknown,67-year-old human stage,23,0.6486181613085167
+7,Mature kidney dataset: full,podocyte,CL:0000653,RCC1,male,unknown,67-year-old human stage,4,0.1128031584884377
+8,Mature kidney dataset: full,neutrophil,CL:0000775,RCC1,male,unknown,67-year-old human stage,4,0.1128031584884377
+9,Mature kidney dataset: full,plasmacytoid dendritic cell,CL:0000784,RCC1,male,unknown,67-year-old human stage,3,0.08460236886632826
+10,Mature kidney dataset: full,mature NK T cell,CL:0000814,RCC1,male,unknown,67-year-old human stage,56,1.5792442188381277
+11,Mature kidney dataset: full,classical monocyte,CL:0000860,RCC1,male,unknown,67-year-old human stage,96,2.707275803722504
+12,Mature kidney dataset: full,non-classical monocyte,CL:0000875,RCC1,male,unknown,67-year-old human stage,87,2.4534686971235193
+13,Mature kidney dataset: full,capillary endothelial cell,CL:0002144,RCC1,male,unknown,67-year-old human stage,640,18.048505358150027
+14,Mature kidney dataset: full,glomerular endothelial cell,CL:0002188,RCC1,male,unknown,67-year-old human stage,489,13.790186125211507
+15,Mature kidney dataset: full,renal beta-intercalated cell,CL:0002201,RCC1,male,unknown,67-year-old human stage,51,1.4382402707275803
+16,Mature kidney dataset: full,epithelial cell of proximal tubule,CL:0002306,RCC1,male,unknown,67-year-old human stage,1247,35.16638465877045
+17,Mature kidney dataset: full,renal principal cell,CL:0005009,RCC1,male,unknown,67-year-old human stage,3,0.08460236886632826
+18,Mature kidney dataset: full,renal intercalated cell,CL:0005010,RCC1,male,unknown,67-year-old human stage,2,0.05640157924421885
+19,Mature kidney dataset: full,renal alpha-intercalated cell,CL:0005011,RCC1,male,unknown,67-year-old human stage,38,1.071630005640158
+20,Mature kidney dataset: full,progenitor cell,CL:0011026,RCC1,male,unknown,67-year-old human stage,24,0.676818950930626
+21,Mature kidney dataset: full,kidney interstitial fibroblast,CL:1000692,RCC1,male,unknown,67-year-old human stage,1,0.028200789622109423
+22,Mature kidney dataset: full,kidney resident macrophage,CL:1000698,RCC1,male,unknown,67-year-old human stage,16,0.4512126339537508
+23,Mature kidney dataset: full,kidney connecting tubule epithelial cell,CL:1000768,RCC1,male,unknown,67-year-old human stage,31,0.8742244782853921
+24,Mature kidney dataset: full,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,RCC1,male,unknown,67-year-old human stage,40,1.1280315848843767
+25,Mature kidney dataset: full,vasa recta ascending limb cell,CL:1001131,RCC1,male,unknown,67-year-old human stage,92,2.5944726452340667
+26,Mature kidney dataset: full,vasa recta descending limb cell,CL:1001285,RCC1,male,unknown,67-year-old human stage,87,2.4534686971235193

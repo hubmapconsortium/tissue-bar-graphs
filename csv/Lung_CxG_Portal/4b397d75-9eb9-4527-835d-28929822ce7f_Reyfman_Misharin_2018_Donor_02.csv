@@ -1,0 +1,23 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,The single-cell lung cancer atlas (LuCA) -- core atlas,epithelial cell of lung,CL:0000082,Reyfman_Misharin_2018_Donor_02,male,unknown,55-year-old human stage,35,1.11323155216285
+1,The single-cell lung cancer atlas (LuCA) -- core atlas,mast cell,CL:0000097,Reyfman_Misharin_2018_Donor_02,male,unknown,55-year-old human stage,3,0.09541984732824427
+2,The single-cell lung cancer atlas (LuCA) -- core atlas,smooth muscle cell,CL:0000192,Reyfman_Misharin_2018_Donor_02,male,unknown,55-year-old human stage,3,0.09541984732824427
+3,The single-cell lung cancer atlas (LuCA) -- core atlas,macrophage,CL:0000235,Reyfman_Misharin_2018_Donor_02,male,unknown,55-year-old human stage,79,2.5127226463104324
+4,The single-cell lung cancer atlas (LuCA) -- core atlas,alveolar macrophage,CL:0000583,Reyfman_Misharin_2018_Donor_02,male,unknown,55-year-old human stage,893,28.403307888040715
+5,The single-cell lung cancer atlas (LuCA) -- core atlas,natural killer cell,CL:0000623,Reyfman_Misharin_2018_Donor_02,male,unknown,55-year-old human stage,5,0.1590330788804071
+6,The single-cell lung cancer atlas (LuCA) -- core atlas,"CD4-positive, alpha-beta T cell",CL:0000624,Reyfman_Misharin_2018_Donor_02,male,unknown,55-year-old human stage,9,0.2862595419847328
+7,The single-cell lung cancer atlas (LuCA) -- core atlas,"CD8-positive, alpha-beta T cell",CL:0000625,Reyfman_Misharin_2018_Donor_02,male,unknown,55-year-old human stage,3,0.09541984732824427
+8,The single-cell lung cancer atlas (LuCA) -- core atlas,myeloid cell,CL:0000763,Reyfman_Misharin_2018_Donor_02,male,unknown,55-year-old human stage,2,0.06361323155216285
+9,The single-cell lung cancer atlas (LuCA) -- core atlas,plasma cell,CL:0000786,Reyfman_Misharin_2018_Donor_02,male,unknown,55-year-old human stage,8,0.2544529262086514
+10,The single-cell lung cancer atlas (LuCA) -- core atlas,classical monocyte,CL:0000860,Reyfman_Misharin_2018_Donor_02,male,unknown,55-year-old human stage,96,3.0534351145038165
+11,The single-cell lung cancer atlas (LuCA) -- core atlas,non-classical monocyte,CL:0000875,Reyfman_Misharin_2018_Donor_02,male,unknown,55-year-old human stage,6,0.19083969465648853
+12,The single-cell lung cancer atlas (LuCA) -- core atlas,malignant cell,CL:0001064,Reyfman_Misharin_2018_Donor_02,male,unknown,55-year-old human stage,5,0.1590330788804071
+13,The single-cell lung cancer atlas (LuCA) -- core atlas,type I pneumocyte,CL:0002062,Reyfman_Misharin_2018_Donor_02,male,unknown,55-year-old human stage,117,3.7213740458015265
+14,The single-cell lung cancer atlas (LuCA) -- core atlas,type II pneumocyte,CL:0002063,Reyfman_Misharin_2018_Donor_02,male,unknown,55-year-old human stage,1652,52.54452926208651
+15,The single-cell lung cancer atlas (LuCA) -- core atlas,endothelial cell of lymphatic vessel,CL:0002138,Reyfman_Misharin_2018_Donor_02,male,unknown,55-year-old human stage,9,0.2862595419847328
+16,The single-cell lung cancer atlas (LuCA) -- core atlas,capillary endothelial cell,CL:0002144,Reyfman_Misharin_2018_Donor_02,male,unknown,55-year-old human stage,5,0.1590330788804071
+17,The single-cell lung cancer atlas (LuCA) -- core atlas,CD1c-positive myeloid dendritic cell,CL:0002399,Reyfman_Misharin_2018_Donor_02,male,unknown,55-year-old human stage,47,1.494910941475827
+18,The single-cell lung cancer atlas (LuCA) -- core atlas,vein endothelial cell,CL:0002543,Reyfman_Misharin_2018_Donor_02,male,unknown,55-year-old human stage,39,1.2404580152671756
+19,The single-cell lung cancer atlas (LuCA) -- core atlas,fibroblast of lung,CL:0002553,Reyfman_Misharin_2018_Donor_02,male,unknown,55-year-old human stage,27,0.8587786259541985
+20,The single-cell lung cancer atlas (LuCA) -- core atlas,multi-ciliated epithelial cell,CL:0005012,Reyfman_Misharin_2018_Donor_02,male,unknown,55-year-old human stage,61,1.940203562340967
+21,The single-cell lung cancer atlas (LuCA) -- core atlas,pulmonary artery endothelial cell,CL:1001568,Reyfman_Misharin_2018_Donor_02,male,unknown,55-year-old human stage,40,1.2722646310432568

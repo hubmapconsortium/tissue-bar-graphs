@@ -1,0 +1,41 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,HSC/immune cells (all hematopoietic-derived cells),native cell,CL:0000003,F21,male,unknown,16th week post-fertilization human stage,95,1.5780730897009967
+1,HSC/immune cells (all hematopoietic-derived cells),hematopoietic stem cell,CL:0000037,F21,male,unknown,16th week post-fertilization human stage,17,0.2823920265780731
+2,HSC/immune cells (all hematopoietic-derived cells),common myeloid progenitor,CL:0000049,F21,male,unknown,16th week post-fertilization human stage,64,1.06312292358804
+3,HSC/immune cells (all hematopoietic-derived cells),megakaryocyte-erythroid progenitor cell,CL:0000050,F21,male,unknown,16th week post-fertilization human stage,38,0.6312292358803987
+4,HSC/immune cells (all hematopoietic-derived cells),T cell,CL:0000084,F21,male,unknown,16th week post-fertilization human stage,15,0.24916943521594684
+5,HSC/immune cells (all hematopoietic-derived cells),osteoclast,CL:0000092,F21,male,unknown,16th week post-fertilization human stage,49,0.813953488372093
+6,HSC/immune cells (all hematopoietic-derived cells),granulocyte,CL:0000094,F21,male,unknown,16th week post-fertilization human stage,45,0.7475083056478405
+7,HSC/immune cells (all hematopoietic-derived cells),mast cell,CL:0000097,F21,male,unknown,16th week post-fertilization human stage,62,1.0299003322259137
+8,HSC/immune cells (all hematopoietic-derived cells),erythrocyte,CL:0000232,F21,male,unknown,16th week post-fertilization human stage,556,9.235880398671096
+9,HSC/immune cells (all hematopoietic-derived cells),macrophage,CL:0000235,F21,male,unknown,16th week post-fertilization human stage,76,1.2624584717607974
+10,HSC/immune cells (all hematopoietic-derived cells),dendritic cell,CL:0000451,F21,male,unknown,16th week post-fertilization human stage,78,1.2956810631229236
+11,HSC/immune cells (all hematopoietic-derived cells),megakaryocyte,CL:0000556,F21,male,unknown,16th week post-fertilization human stage,217,3.604651162790698
+12,HSC/immune cells (all hematopoietic-derived cells),granulocyte monocyte progenitor cell,CL:0000557,F21,male,unknown,16th week post-fertilization human stage,217,3.604651162790698
+13,HSC/immune cells (all hematopoietic-derived cells),promonocyte,CL:0000559,F21,male,unknown,16th week post-fertilization human stage,561,9.31893687707641
+14,HSC/immune cells (all hematopoietic-derived cells),monocyte,CL:0000576,F21,male,unknown,16th week post-fertilization human stage,1795,29.817275747508305
+15,HSC/immune cells (all hematopoietic-derived cells),natural killer cell,CL:0000623,F21,male,unknown,16th week post-fertilization human stage,75,1.2458471760797343
+16,HSC/immune cells (all hematopoietic-derived cells),plasmacytoid dendritic cell,CL:0000784,F21,male,unknown,16th week post-fertilization human stage,50,0.8305647840531563
+17,HSC/immune cells (all hematopoietic-derived cells),mature B cell,CL:0000785,F21,male,unknown,16th week post-fertilization human stage,3,0.04983388704318936
+18,HSC/immune cells (all hematopoietic-derived cells),"double-positive, alpha-beta thymocyte",CL:0000809,F21,male,unknown,16th week post-fertilization human stage,1,0.016611295681063124
+19,HSC/immune cells (all hematopoietic-derived cells),regulatory T cell,CL:0000815,F21,male,unknown,16th week post-fertilization human stage,10,0.16611295681063123
+20,HSC/immune cells (all hematopoietic-derived cells),immature B cell,CL:0000816,F21,male,unknown,16th week post-fertilization human stage,3,0.04983388704318936
+21,HSC/immune cells (all hematopoietic-derived cells),B-1 B cell,CL:0000819,F21,male,unknown,16th week post-fertilization human stage,11,0.18272425249169436
+22,HSC/immune cells (all hematopoietic-derived cells),B-2 B cell,CL:0000822,F21,male,unknown,16th week post-fertilization human stage,43,0.7142857142857143
+23,HSC/immune cells (all hematopoietic-derived cells),pro-B cell,CL:0000826,F21,male,unknown,16th week post-fertilization human stage,552,9.169435215946844
+24,HSC/immune cells (all hematopoietic-derived cells),promyelocyte,CL:0000836,F21,male,unknown,16th week post-fertilization human stage,100,1.6611295681063125
+25,HSC/immune cells (all hematopoietic-derived cells),hematopoietic multipotent progenitor cell,CL:0000837,F21,male,unknown,16th week post-fertilization human stage,13,0.2159468438538206
+26,HSC/immune cells (all hematopoietic-derived cells),"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,F21,male,unknown,16th week post-fertilization human stage,20,0.33222591362126247
+27,HSC/immune cells (all hematopoietic-derived cells),"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,F21,male,unknown,16th week post-fertilization human stage,15,0.24916943521594684
+28,HSC/immune cells (all hematopoietic-derived cells),"CD8-alpha-alpha-positive, alpha-beta intraepithelial T cell",CL:0000915,F21,male,unknown,16th week post-fertilization human stage,2,0.03322259136212625
+29,HSC/immune cells (all hematopoietic-derived cells),early lymphoid progenitor,CL:0000936,F21,male,unknown,16th week post-fertilization human stage,1,0.016611295681063124
+30,HSC/immune cells (all hematopoietic-derived cells),small pre-B-II cell,CL:0000954,F21,male,unknown,16th week post-fertilization human stage,277,4.601328903654485
+31,HSC/immune cells (all hematopoietic-derived cells),large pre-B-II cell,CL:0000957,F21,male,unknown,16th week post-fertilization human stage,645,10.714285714285714
+32,HSC/immune cells (all hematopoietic-derived cells),common dendritic progenitor,CL:0001029,F21,male,unknown,16th week post-fertilization human stage,3,0.04983388704318936
+33,HSC/immune cells (all hematopoietic-derived cells),innate lymphoid cell,CL:0001065,F21,male,unknown,16th week post-fertilization human stage,1,0.016611295681063124
+34,HSC/immune cells (all hematopoietic-derived cells),group 3 innate lymphoid cell,CL:0001071,F21,male,unknown,16th week post-fertilization human stage,9,0.14950166112956811
+35,HSC/immune cells (all hematopoietic-derived cells),pre-conventional dendritic cell,CL:0002010,F21,male,unknown,16th week post-fertilization human stage,7,0.11627906976744186
+36,HSC/immune cells (all hematopoietic-derived cells),fraction A pre-pro B cell,CL:0002045,F21,male,unknown,16th week post-fertilization human stage,100,1.6611295681063125
+37,HSC/immune cells (all hematopoietic-derived cells),late pro-B cell,CL:0002048,F21,male,unknown,16th week post-fertilization human stage,186,3.089700996677741
+38,HSC/immune cells (all hematopoietic-derived cells),myelocyte,CL:0002193,F21,male,unknown,16th week post-fertilization human stage,5,0.08305647840531562
+39,HSC/immune cells (all hematopoietic-derived cells),double negative thymocyte,CL:0002489,F21,male,unknown,16th week post-fertilization human stage,3,0.04983388704318936

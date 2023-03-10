@@ -1,0 +1,12 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Airway,native cell,CL:0000003,NP23,male,European,infant stage,2,0.3436426116838488
+1,Airway,ciliated cell,CL:0000064,NP23,male,European,infant stage,134,23.02405498281787
+2,Airway,duct epithelial cell,CL:0000068,NP23,male,European,infant stage,1,0.1718213058419244
+3,Airway,secretory cell,CL:0000151,NP23,male,European,infant stage,14,2.405498281786942
+4,Airway,club cell,CL:0000158,NP23,male,European,infant stage,140,24.054982817869416
+5,Airway,macrophage,CL:0000235,NP23,male,European,infant stage,69,11.855670103092782
+6,Airway,dendritic cell,CL:0000451,NP23,male,European,infant stage,3,0.5154639175257731
+7,Airway,monocyte,CL:0000576,NP23,male,European,infant stage,4,0.6872852233676976
+8,Airway,pulmonary ionocyte,CL:0017000,NP23,male,European,infant stage,1,0.1718213058419244
+9,Airway,tracheal goblet cell,CL:1000329,NP23,male,European,infant stage,5,0.859106529209622
+10,Airway,basal cell of epithelium of trachea,CL:1000348,NP23,male,European,infant stage,209,35.9106529209622

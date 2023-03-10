@@ -1,0 +1,30 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Lymphoid cells,native cell,CL:0000003,F41,female,unknown,16th week post-fertilization human stage,92,2.0739404869251574
+1,Lymphoid cells,hematopoietic stem cell,CL:0000037,F41,female,unknown,16th week post-fertilization human stage,102,2.299368800721371
+2,Lymphoid cells,common myeloid progenitor,CL:0000049,F41,female,unknown,16th week post-fertilization human stage,1,0.022542831379621278
+3,Lymphoid cells,megakaryocyte-erythroid progenitor cell,CL:0000050,F41,female,unknown,16th week post-fertilization human stage,231,5.207394048692516
+4,Lymphoid cells,T cell,CL:0000084,F41,female,unknown,16th week post-fertilization human stage,228,5.139765554553652
+5,Lymphoid cells,megakaryocyte,CL:0000556,F41,female,unknown,16th week post-fertilization human stage,6,0.1352569882777277
+6,Lymphoid cells,granulocyte monocyte progenitor cell,CL:0000557,F41,female,unknown,16th week post-fertilization human stage,3,0.06762849413886385
+7,Lymphoid cells,natural killer cell,CL:0000623,F41,female,unknown,16th week post-fertilization human stage,1547,34.873760144274115
+8,Lymphoid cells,mature B cell,CL:0000785,F41,female,unknown,16th week post-fertilization human stage,17,0.38322813345356177
+9,Lymphoid cells,plasma cell,CL:0000786,F41,female,unknown,16th week post-fertilization human stage,1,0.022542831379621278
+10,Lymphoid cells,"double-positive, alpha-beta thymocyte",CL:0000809,F41,female,unknown,16th week post-fertilization human stage,2,0.045085662759242556
+11,Lymphoid cells,regulatory T cell,CL:0000815,F41,female,unknown,16th week post-fertilization human stage,78,1.7583408476104598
+12,Lymphoid cells,immature B cell,CL:0000816,F41,female,unknown,16th week post-fertilization human stage,353,7.957619477006311
+13,Lymphoid cells,B-1 B cell,CL:0000819,F41,female,unknown,16th week post-fertilization human stage,70,1.5779981965734897
+14,Lymphoid cells,B-2 B cell,CL:0000822,F41,female,unknown,16th week post-fertilization human stage,213,4.801623083859333
+15,Lymphoid cells,pro-B cell,CL:0000826,F41,female,unknown,16th week post-fertilization human stage,154,3.4715960324616777
+16,Lymphoid cells,hematopoietic multipotent progenitor cell,CL:0000837,F41,female,unknown,16th week post-fertilization human stage,64,1.4427412082957618
+17,Lymphoid cells,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,F41,female,unknown,16th week post-fertilization human stage,332,7.484220018034265
+18,Lymphoid cells,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,F41,female,unknown,16th week post-fertilization human stage,80,1.8034265103697025
+19,Lymphoid cells,"CD8-alpha-alpha-positive, alpha-beta intraepithelial T cell",CL:0000915,F41,female,unknown,16th week post-fertilization human stage,8,0.18034265103697023
+20,Lymphoid cells,early lymphoid progenitor,CL:0000936,F41,female,unknown,16th week post-fertilization human stage,14,0.3155996393146979
+21,Lymphoid cells,small pre-B-II cell,CL:0000954,F41,female,unknown,16th week post-fertilization human stage,254,5.725879170423806
+22,Lymphoid cells,large pre-B-II cell,CL:0000957,F41,female,unknown,16th week post-fertilization human stage,356,8.025247971145175
+23,Lymphoid cells,innate lymphoid cell,CL:0001065,F41,female,unknown,16th week post-fertilization human stage,1,0.022542831379621278
+24,Lymphoid cells,group 2 innate lymphoid cell,CL:0001069,F41,female,unknown,16th week post-fertilization human stage,4,0.09017132551848511
+25,Lymphoid cells,group 3 innate lymphoid cell,CL:0001071,F41,female,unknown,16th week post-fertilization human stage,73,1.6456266907123533
+26,Lymphoid cells,fraction A pre-pro B cell,CL:0002045,F41,female,unknown,16th week post-fertilization human stage,51,1.1496844003606854
+27,Lymphoid cells,late pro-B cell,CL:0002048,F41,female,unknown,16th week post-fertilization human stage,100,2.254283137962128
+28,Lymphoid cells,double negative thymocyte,CL:0002489,F41,female,unknown,16th week post-fertilization human stage,1,0.022542831379621278

@@ -1,0 +1,5 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,mature,mononuclear phagocyte,CL:0000113,Wilms3,female,unknown,2-year-old human stage,1,2.380952380952381
+1,mature,"CD4-positive, alpha-beta T cell",CL:0000624,Wilms3,female,unknown,2-year-old human stage,6,14.285714285714285
+2,mature,epithelial cell of proximal tubule,CL:0002306,Wilms3,female,unknown,2-year-old human stage,2,4.761904761904762
+3,mature,kidney epithelial cell,CL:0002518,Wilms3,female,unknown,2-year-old human stage,33,78.57142857142857

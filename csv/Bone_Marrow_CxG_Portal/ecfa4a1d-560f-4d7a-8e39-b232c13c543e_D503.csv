@@ -1,0 +1,35 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Global,mast cell,CL:0000097,D503,female,unknown,seventh decade human stage,70,0.3972532773395381
+1,Global,macrophage,CL:0000235,D503,female,unknown,seventh decade human stage,1,0.005675046819136258
+2,Global,CD4-positive helper T cell,CL:0000492,D503,female,unknown,seventh decade human stage,43,0.2440270132228591
+3,Global,lymphocyte,CL:0000542,D503,female,unknown,seventh decade human stage,672,3.813631462459565
+4,Global,animal cell,CL:0000548,D503,female,unknown,seventh decade human stage,794,4.505987174394189
+5,Global,megakaryocyte,CL:0000556,D503,female,unknown,seventh decade human stage,29,0.16457635775495147
+6,Global,alveolar macrophage,CL:0000583,D503,female,unknown,seventh decade human stage,6,0.03405028091481754
+7,Global,erythroid lineage cell,CL:0000764,D503,female,unknown,seventh decade human stage,69,0.3915782305204018
+8,Global,plasmacytoid dendritic cell,CL:0000784,D503,female,unknown,seventh decade human stage,301,1.7081890925600136
+9,Global,plasma cell,CL:0000786,D503,female,unknown,seventh decade human stage,83,0.47102888598830944
+10,Global,memory B cell,CL:0000787,D503,female,unknown,seventh decade human stage,157,0.8909823506043925
+11,Global,naive B cell,CL:0000788,D503,female,unknown,seventh decade human stage,248,1.407411611145792
+12,Global,alpha-beta T cell,CL:0000789,D503,female,unknown,seventh decade human stage,31,0.175926451393224
+13,Global,gamma-delta T cell,CL:0000798,D503,female,unknown,seventh decade human stage,60,0.34050280914817543
+14,Global,regulatory T cell,CL:0000815,D503,female,unknown,seventh decade human stage,262,1.4868622666136997
+15,Global,precursor B cell,CL:0000817,D503,female,unknown,seventh decade human stage,1,0.005675046819136258
+16,Global,pro-B cell,CL:0000826,D503,female,unknown,seventh decade human stage,5,0.02837523409568129
+17,Global,germinal center B cell,CL:0000844,D503,female,unknown,seventh decade human stage,1,0.005675046819136258
+18,Global,classical monocyte,CL:0000860,D503,female,unknown,seventh decade human stage,2605,14.783496963849952
+19,Global,non-classical monocyte,CL:0000875,D503,female,unknown,seventh decade human stage,199,1.1293343170081154
+20,Global,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,D503,female,unknown,seventh decade human stage,3647,20.69689574938993
+21,Global,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,D503,female,unknown,seventh decade human stage,131,0.7434311333068498
+22,Global,"effector memory CD4-positive, alpha-beta T cell",CL:0000905,D503,female,unknown,seventh decade human stage,1386,7.865614891322853
+23,Global,"CD8-positive, alpha-beta memory T cell",CL:0000909,D503,female,unknown,seventh decade human stage,30,0.17025140457408772
+24,Global,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,D503,female,unknown,seventh decade human stage,623,3.5355541683218887
+25,Global,"CD16-positive, CD56-dim natural killer cell, human",CL:0000939,D503,female,unknown,seventh decade human stage,4365,24.771579365529767
+26,Global,mucosal invariant T cell,CL:0000940,D503,female,unknown,seventh decade human stage,152,0.8626071165087111
+27,Global,plasmablast,CL:0000980,D503,female,unknown,seventh decade human stage,78,0.4426536518926281
+28,Global,conventional dendritic cell,CL:0000990,D503,female,unknown,seventh decade human stage,102,0.5788547755518983
+29,Global,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",CL:0001062,D503,female,unknown,seventh decade human stage,87,0.4937290732648545
+30,Global,group 3 innate lymphoid cell,CL:0001071,D503,female,unknown,seventh decade human stage,11,0.06242551501049883
+31,Global,"CD8-positive, alpha-beta memory T cell, CD45RO-positive",CL:0001203,D503,female,unknown,seventh decade human stage,306,1.736564326655695
+32,Global,T follicular helper cell,CL:0002038,D503,female,unknown,seventh decade human stage,143,0.8115316951364849
+33,Global,progenitor cell,CL:0011026,D503,female,unknown,seventh decade human stage,923,5.238068214062766

@@ -1,0 +1,23 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Lymphoid cells,native cell,CL:0000003,F61,male,unknown,Carnegie stage 20,232,6.328423349699945
+1,Lymphoid cells,hematopoietic stem cell,CL:0000037,F61,male,unknown,Carnegie stage 20,976,26.62302236770322
+2,Lymphoid cells,common myeloid progenitor,CL:0000049,F61,male,unknown,Carnegie stage 20,43,1.1729405346426625
+3,Lymphoid cells,megakaryocyte-erythroid progenitor cell,CL:0000050,F61,male,unknown,Carnegie stage 20,556,15.166393889798144
+4,Lymphoid cells,T cell,CL:0000084,F61,male,unknown,Carnegie stage 20,3,0.08183306055646482
+5,Lymphoid cells,megakaryocyte,CL:0000556,F61,male,unknown,Carnegie stage 20,12,0.32733224222585927
+6,Lymphoid cells,granulocyte monocyte progenitor cell,CL:0000557,F61,male,unknown,Carnegie stage 20,32,0.872885979268958
+7,Lymphoid cells,promonocyte,CL:0000559,F61,male,unknown,Carnegie stage 20,5,0.13638843426077468
+8,Lymphoid cells,natural killer cell,CL:0000623,F61,male,unknown,Carnegie stage 20,49,1.336606655755592
+9,Lymphoid cells,regulatory T cell,CL:0000815,F61,male,unknown,Carnegie stage 20,1,0.027277686852154936
+10,Lymphoid cells,pro-B cell,CL:0000826,F61,male,unknown,Carnegie stage 20,35,0.9547190398254228
+11,Lymphoid cells,promyelocyte,CL:0000836,F61,male,unknown,Carnegie stage 20,9,0.24549918166939444
+12,Lymphoid cells,hematopoietic multipotent progenitor cell,CL:0000837,F61,male,unknown,Carnegie stage 20,949,25.886524822695034
+13,Lymphoid cells,"CD8-alpha-alpha-positive, alpha-beta intraepithelial T cell",CL:0000915,F61,male,unknown,Carnegie stage 20,3,0.08183306055646482
+14,Lymphoid cells,early lymphoid progenitor,CL:0000936,F61,male,unknown,Carnegie stage 20,369,10.065466448445171
+15,Lymphoid cells,small pre-B-II cell,CL:0000954,F61,male,unknown,Carnegie stage 20,3,0.08183306055646482
+16,Lymphoid cells,large pre-B-II cell,CL:0000957,F61,male,unknown,Carnegie stage 20,76,2.073104200763775
+17,Lymphoid cells,innate lymphoid cell,CL:0001065,F61,male,unknown,Carnegie stage 20,4,0.10911074740861974
+18,Lymphoid cells,group 2 innate lymphoid cell,CL:0001069,F61,male,unknown,Carnegie stage 20,1,0.027277686852154936
+19,Lymphoid cells,group 3 innate lymphoid cell,CL:0001071,F61,male,unknown,Carnegie stage 20,41,1.1183851609383524
+20,Lymphoid cells,fraction A pre-pro B cell,CL:0002045,F61,male,unknown,Carnegie stage 20,245,6.68303327877796
+21,Lymphoid cells,double negative thymocyte,CL:0002489,F61,male,unknown,Carnegie stage 20,22,0.6001091107474086

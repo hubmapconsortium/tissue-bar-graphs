@@ -1,0 +1,24 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,fetal,native cell,CL:0000003,F41,female,unknown,17th week post-fertilization human stage,99,1.7609391675560297
+1,fetal,mast cell,CL:0000097,F41,female,unknown,17th week post-fertilization human stage,17,0.30238349341871223
+2,fetal,endothelial cell,CL:0000115,F41,female,unknown,17th week post-fertilization human stage,147,2.614727854855923
+3,fetal,mesenchymal stem cell,CL:0000134,F41,female,unknown,17th week post-fertilization human stage,188,3.344005691924582
+4,fetal,macrophage,CL:0000235,F41,female,unknown,17th week post-fertilization human stage,595,10.583422269654926
+5,fetal,B cell,CL:0000236,F41,female,unknown,17th week post-fertilization human stage,260,4.624688722874422
+6,fetal,megakaryocyte,CL:0000556,F41,female,unknown,17th week post-fertilization human stage,15,0.26680896478121663
+7,fetal,monocyte,CL:0000576,F41,female,unknown,17th week post-fertilization human stage,509,9.05371753824262
+8,fetal,natural killer cell,CL:0000623,F41,female,unknown,17th week post-fertilization human stage,390,6.937033084311634
+9,fetal,"CD4-positive, alpha-beta T cell",CL:0000624,F41,female,unknown,17th week post-fertilization human stage,352,6.261117040199217
+10,fetal,"CD8-positive, alpha-beta T cell",CL:0000625,F41,female,unknown,17th week post-fertilization human stage,39,0.6937033084311632
+11,fetal,erythroid lineage cell,CL:0000764,F41,female,unknown,17th week post-fertilization human stage,5,0.08893632159373889
+12,fetal,neutrophil,CL:0000775,F41,female,unknown,17th week post-fertilization human stage,53,0.9427250088936322
+13,fetal,plasmacytoid dendritic cell,CL:0000784,F41,female,unknown,17th week post-fertilization human stage,52,0.9249377445748843
+14,fetal,conventional dendritic cell,CL:0000990,F41,female,unknown,17th week post-fertilization human stage,418,7.4350764852365705
+15,fetal,innate lymphoid cell,CL:0001065,F41,female,unknown,17th week post-fertilization human stage,34,0.6047669868374245
+16,fetal,epithelial cell of proximal tubule,CL:0002306,F41,female,unknown,17th week post-fertilization human stage,196,3.4863038064745644
+17,fetal,epithelial cell of nephron,CL:1000449,F41,female,unknown,17th week post-fertilization human stage,769,13.67840626111704
+18,fetal,epithelial cell of glomerular capsule,CL:1000450,F41,female,unknown,17th week post-fertilization human stage,97,1.7253646389185344
+19,fetal,nephron tubule epithelial cell,CL:1000494,F41,female,unknown,17th week post-fertilization human stage,99,1.7609391675560297
+20,fetal,kidney interstitial cell,CL:1000500,F41,female,unknown,17th week post-fertilization human stage,1167,20.757737459978657
+21,fetal,kidney connecting tubule epithelial cell,CL:1000768,F41,female,unknown,17th week post-fertilization human stage,45,0.8004268943436499
+22,fetal,kidney collecting duct cell,CL:1001225,F41,female,unknown,17th week post-fertilization human stage,76,1.351832088224831

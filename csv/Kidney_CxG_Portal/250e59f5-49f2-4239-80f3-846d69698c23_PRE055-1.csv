@@ -1,0 +1,13 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Single-cell RNA-seq of the Adult Human Kidney (Version 1.0),endothelial cell,CL:0000115,PRE055-1,male,European,66-year-old human stage,98,18.846153846153847
+1,Single-cell RNA-seq of the Adult Human Kidney (Version 1.0),podocyte,CL:0000653,PRE055-1,male,European,66-year-old human stage,21,4.038461538461538
+2,Single-cell RNA-seq of the Adult Human Kidney (Version 1.0),leukocyte,CL:0000738,PRE055-1,male,European,66-year-old human stage,101,19.423076923076923
+3,Single-cell RNA-seq of the Adult Human Kidney (Version 1.0),epithelial cell of proximal tubule,CL:0002306,PRE055-1,male,European,66-year-old human stage,90,17.307692307692307
+4,Single-cell RNA-seq of the Adult Human Kidney (Version 1.0),kidney interstitial cell,CL:1000500,PRE055-1,male,European,66-year-old human stage,42,8.076923076923077
+5,Single-cell RNA-seq of the Adult Human Kidney (Version 1.0),kidney connecting tubule epithelial cell,CL:1000768,PRE055-1,male,European,66-year-old human stage,6,1.153846153846154
+6,Single-cell RNA-seq of the Adult Human Kidney (Version 1.0),kidney distal convoluted tubule epithelial cell,CL:1000849,PRE055-1,male,European,66-year-old human stage,6,1.153846153846154
+7,Single-cell RNA-seq of the Adult Human Kidney (Version 1.0),kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,PRE055-1,male,European,66-year-old human stage,55,10.576923076923077
+8,Single-cell RNA-seq of the Adult Human Kidney (Version 1.0),kidney loop of Henle thin ascending limb epithelial cell,CL:1001107,PRE055-1,male,European,66-year-old human stage,59,11.346153846153847
+9,Single-cell RNA-seq of the Adult Human Kidney (Version 1.0),kidney loop of Henle thin descending limb epithelial cell,CL:1001111,PRE055-1,male,European,66-year-old human stage,4,0.7692307692307693
+10,Single-cell RNA-seq of the Adult Human Kidney (Version 1.0),kidney collecting duct principal cell,CL:1001431,PRE055-1,male,European,66-year-old human stage,20,3.8461538461538463
+11,Single-cell RNA-seq of the Adult Human Kidney (Version 1.0),kidney collecting duct intercalated cell,CL:1001432,PRE055-1,male,European,66-year-old human stage,18,3.4615384615384617

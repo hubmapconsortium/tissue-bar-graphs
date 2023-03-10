@@ -1,0 +1,55 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,All cells,megakaryocyte-erythroid progenitor cell,CL:0000050,HDBR15280,male,unknown,11th week post-fertilization human stage,1,0.010492078480747036
+1,All cells,mesothelial cell,CL:0000077,HDBR15280,male,unknown,11th week post-fertilization human stage,39,0.4091910607491344
+2,All cells,epithelial cell of lung,CL:0000082,HDBR15280,male,unknown,11th week post-fertilization human stage,1409,14.783338579372574
+3,All cells,chondrocyte,CL:0000138,HDBR15280,male,unknown,11th week post-fertilization human stage,37,0.38820690378764033
+4,All cells,club cell,CL:0000158,HDBR15280,male,unknown,11th week post-fertilization human stage,1,0.010492078480747036
+5,All cells,myofibroblast cell,CL:0000186,HDBR15280,male,unknown,11th week post-fertilization human stage,75,0.7869058860560277
+6,All cells,erythrocyte,CL:0000232,HDBR15280,male,unknown,11th week post-fertilization human stage,14,0.14688909873045852
+7,All cells,platelet,CL:0000233,HDBR15280,male,unknown,11th week post-fertilization human stage,1,0.010492078480747036
+8,All cells,macrophage,CL:0000235,HDBR15280,male,unknown,11th week post-fertilization human stage,236,2.4761305214563003
+9,All cells,vascular associated smooth muscle cell,CL:0000359,HDBR15280,male,unknown,11th week post-fertilization human stage,94,0.9862553771902214
+10,All cells,dendritic cell,CL:0000451,HDBR15280,male,unknown,11th week post-fertilization human stage,19,0.1993494911341937
+11,All cells,neuron,CL:0000540,HDBR15280,male,unknown,11th week post-fertilization human stage,14,0.14688909873045852
+12,All cells,megakaryocyte,CL:0000556,HDBR15280,male,unknown,11th week post-fertilization human stage,2,0.020984156961494072
+13,All cells,reticulocyte,CL:0000558,HDBR15280,male,unknown,11th week post-fertilization human stage,20,0.20984156961494074
+14,All cells,promonocyte,CL:0000559,HDBR15280,male,unknown,11th week post-fertilization human stage,2,0.020984156961494072
+15,All cells,natural killer cell,CL:0000623,HDBR15280,male,unknown,11th week post-fertilization human stage,14,0.14688909873045852
+16,All cells,basal cell,CL:0000646,HDBR15280,male,unknown,11th week post-fertilization human stage,144,1.5108593012275733
+17,All cells,pericyte,CL:0000669,HDBR15280,male,unknown,11th week post-fertilization human stage,331,3.4728779771272684
+18,All cells,erythroblast,CL:0000765,HDBR15280,male,unknown,11th week post-fertilization human stage,41,0.43017521771062844
+19,All cells,mature NK T cell,CL:0000814,HDBR15280,male,unknown,11th week post-fertilization human stage,1,0.010492078480747036
+20,All cells,immature B cell,CL:0000816,HDBR15280,male,unknown,11th week post-fertilization human stage,3,0.03147623544224111
+21,All cells,B-1a B cell,CL:0000820,HDBR15280,male,unknown,11th week post-fertilization human stage,1,0.010492078480747036
+22,All cells,B-1b B cell,CL:0000821,HDBR15280,male,unknown,11th week post-fertilization human stage,1,0.010492078480747036
+23,All cells,pro-B cell,CL:0000826,HDBR15280,male,unknown,11th week post-fertilization human stage,1,0.010492078480747036
+24,All cells,promyelocyte,CL:0000836,HDBR15280,male,unknown,11th week post-fertilization human stage,1,0.010492078480747036
+25,All cells,classical monocyte,CL:0000860,HDBR15280,male,unknown,11th week post-fertilization human stage,15,0.15738117721120554
+26,All cells,non-classical monocyte,CL:0000875,HDBR15280,male,unknown,11th week post-fertilization human stage,6,0.06295247088448222
+27,All cells,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,HDBR15280,male,unknown,11th week post-fertilization human stage,5,0.052460392403735186
+28,All cells,"CD16-positive, CD56-dim natural killer cell, human",CL:0000939,HDBR15280,male,unknown,11th week post-fertilization human stage,1,0.010492078480747036
+29,All cells,small pre-B-II cell,CL:0000954,HDBR15280,male,unknown,11th week post-fertilization human stage,1,0.010492078480747036
+30,All cells,pre-B-I cell,CL:0000956,HDBR15280,male,unknown,11th week post-fertilization human stage,1,0.010492078480747036
+31,All cells,large pre-B-II cell,CL:0000957,HDBR15280,male,unknown,11th week post-fertilization human stage,3,0.03147623544224111
+32,All cells,"dendritic cell, human",CL:0001056,HDBR15280,male,unknown,11th week post-fertilization human stage,5,0.052460392403735186
+33,All cells,group 2 innate lymphoid cell,CL:0001069,HDBR15280,male,unknown,11th week post-fertilization human stage,2,0.020984156961494072
+34,All cells,group 3 innate lymphoid cell,CL:0001071,HDBR15280,male,unknown,11th week post-fertilization human stage,2,0.020984156961494072
+35,All cells,"CD34-positive, CD56-positive, CD117-positive common innate lymphoid precursor, human",CL:0001074,HDBR15280,male,unknown,11th week post-fertilization human stage,13,0.13639702024971148
+36,All cells,late pro-B cell,CL:0002048,HDBR15280,male,unknown,11th week post-fertilization human stage,7,0.07344454936522926
+37,All cells,bone marrow cell,CL:0002092,HDBR15280,male,unknown,11th week post-fertilization human stage,2,0.020984156961494072
+38,All cells,endothelial cell of lymphatic vessel,CL:0002138,HDBR15280,male,unknown,11th week post-fertilization human stage,56,0.5875563949218341
+39,All cells,capillary endothelial cell,CL:0002144,HDBR15280,male,unknown,11th week post-fertilization human stage,190,1.993494911341937
+40,All cells,pulmonary interstitial fibroblast,CL:0002241,HDBR15280,male,unknown,11th week post-fertilization human stage,13,0.13639702024971148
+41,All cells,respiratory epithelial cell,CL:0002368,HDBR15280,male,unknown,11th week post-fertilization human stage,377,3.9555135872416325
+42,All cells,immature Schwann cell,CL:0002377,HDBR15280,male,unknown,11th week post-fertilization human stage,2,0.020984156961494072
+43,All cells,vein endothelial cell,CL:0002543,HDBR15280,male,unknown,11th week post-fertilization human stage,8,0.08393662784597629
+44,All cells,fibroblast of lung,CL:0002553,HDBR15280,male,unknown,11th week post-fertilization human stage,5553,58.26251180358829
+45,All cells,Schwann cell,CL:0002573,HDBR15280,male,unknown,11th week post-fertilization human stage,71,0.7449375721330396
+46,All cells,mesenchymal cell,CL:0008019,HDBR15280,male,unknown,11th week post-fertilization human stage,2,0.020984156961494072
+47,All cells,neural progenitor cell,CL:0011020,HDBR15280,male,unknown,11th week post-fertilization human stage,4,0.041968313922988144
+48,All cells,tracheobronchial smooth muscle cell,CL:0019019,HDBR15280,male,unknown,11th week post-fertilization human stage,495,5.193578847969783
+49,All cells,lung neuroendocrine cell,CL:1000223,HDBR15280,male,unknown,11th week post-fertilization human stage,75,0.7869058860560277
+50,All cells,lung ciliated cell,CL:1000271,HDBR15280,male,unknown,11th week post-fertilization human stage,8,0.08393662784597629
+51,All cells,lung secretory cell,CL:1000272,HDBR15280,male,unknown,11th week post-fertilization human stage,104,1.0911761619976919
+52,All cells,endothelial cell of artery,CL:1000413,HDBR15280,male,unknown,11th week post-fertilization human stage,3,0.03147623544224111
+53,All cells,bronchus fibroblast of lung,CL:2000093,HDBR15280,male,unknown,11th week post-fertilization human stage,5,0.052460392403735186

@@ -1,0 +1,20 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,natural killer cell,CL:0000623,982_983,female,European,72-year-old human stage,255,20.46548956661316
+1,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,memory B cell,CL:0000787,982_983,female,European,72-year-old human stage,26,2.086677367576244
+2,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,naive B cell,CL:0000788,982_983,female,European,72-year-old human stage,59,4.735152487961477
+3,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,gamma-delta T cell,CL:0000798,982_983,female,European,72-year-old human stage,10,0.8025682182985553
+4,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,regulatory T cell,CL:0000815,982_983,female,European,72-year-old human stage,16,1.2841091492776886
+5,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,transitional stage B cell,CL:0000818,982_983,female,European,72-year-old human stage,65,5.21669341894061
+6,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,982_983,female,European,72-year-old human stage,250,20.064205457463885
+7,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,982_983,female,European,72-year-old human stage,62,4.975922953451043
+8,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"central memory CD4-positive, alpha-beta T cell",CL:0000904,982_983,female,European,72-year-old human stage,344,27.608346709470304
+9,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"effector memory CD4-positive, alpha-beta T cell",CL:0000905,982_983,female,European,72-year-old human stage,19,1.5248796147672552
+10,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"central memory CD8-positive, alpha-beta T cell",CL:0000907,982_983,female,European,72-year-old human stage,13,1.043338683788122
+11,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,982_983,female,European,72-year-old human stage,78,6.260032102728733
+12,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"CD4-positive, alpha-beta cytotoxic T cell",CL:0000934,982_983,female,European,72-year-old human stage,11,0.8828250401284109
+13,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,982_983,female,European,72-year-old human stage,10,0.8025682182985553
+14,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,mucosal invariant T cell,CL:0000940,982_983,female,European,72-year-old human stage,16,1.2841091492776886
+15,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,plasmablast,CL:0000980,982_983,female,European,72-year-old human stage,2,0.16051364365971107
+16,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,"CD14-low, CD16-positive monocyte",CL:0002396,982_983,female,European,72-year-old human stage,4,0.32102728731942215
+17,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,double negative thymocyte,CL:0002489,982_983,female,European,72-year-old human stage,1,0.08025682182985554
+18,Single-cell eQTL mapping identifies cell type specific genetic control of autoimmune disease,hematopoietic precursor cell,CL:0008001,982_983,female,European,72-year-old human stage,5,0.40128410914927765

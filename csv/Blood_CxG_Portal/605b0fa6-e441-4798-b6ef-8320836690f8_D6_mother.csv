@@ -1,0 +1,11 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Pregnant Uterus (All),T cell,CL:0000084,D6_mother,female,unknown,unknown,1053,48.12614259597806
+1,Pregnant Uterus (All),granulocyte,CL:0000094,D6_mother,female,unknown,unknown,17,0.7769652650822669
+2,Pregnant Uterus (All),macrophage,CL:0000235,D6_mother,female,unknown,unknown,3,0.13711151736745886
+3,Pregnant Uterus (All),monocyte,CL:0000576,D6_mother,female,unknown,unknown,393,17.961608775137112
+4,Pregnant Uterus (All),plasma cell,CL:0000786,D6_mother,female,unknown,unknown,51,2.330895795246801
+5,Pregnant Uterus (All),"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,D6_mother,female,unknown,unknown,20,0.9140767824497258
+6,Pregnant Uterus (All),"CD16-positive, CD56-dim natural killer cell, human",CL:0000939,D6_mother,female,unknown,unknown,569,26.0054844606947
+7,Pregnant Uterus (All),conventional dendritic cell,CL:0000990,D6_mother,female,unknown,unknown,80,3.656307129798903
+8,Pregnant Uterus (All),innate lymphoid cell,CL:0001065,D6_mother,female,unknown,unknown,1,0.04570383912248629
+9,Pregnant Uterus (All),"decidual natural killer cell, human",CL:0002343,D6_mother,female,unknown,unknown,1,0.04570383912248629

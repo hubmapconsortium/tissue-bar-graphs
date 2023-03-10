@@ -1,0 +1,18 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Myeloid cells,native cell,CL:0000003,F32,female,unknown,Carnegie stage 20,1,0.06891798759476223
+1,Myeloid cells,hematopoietic stem cell,CL:0000037,F32,female,unknown,Carnegie stage 20,2,0.13783597518952445
+2,Myeloid cells,common myeloid progenitor,CL:0000049,F32,female,unknown,Carnegie stage 20,1,0.06891798759476223
+3,Myeloid cells,megakaryocyte-erythroid progenitor cell,CL:0000050,F32,female,unknown,Carnegie stage 20,2,0.13783597518952445
+4,Myeloid cells,fibroblast,CL:0000057,F32,female,unknown,Carnegie stage 20,185,12.749827705031013
+5,Myeloid cells,Kupffer cell,CL:0000091,F32,female,unknown,Carnegie stage 20,3,0.20675396278428668
+6,Myeloid cells,granulocyte,CL:0000094,F32,female,unknown,Carnegie stage 20,13,0.8959338387319091
+7,Myeloid cells,mast cell,CL:0000097,F32,female,unknown,Carnegie stage 20,4,0.2756719503790489
+8,Myeloid cells,macrophage,CL:0000235,F32,female,unknown,Carnegie stage 20,1039,71.60578911095796
+9,Myeloid cells,dendritic cell,CL:0000451,F32,female,unknown,Carnegie stage 20,70,4.824259131633356
+10,Myeloid cells,granulocyte monocyte progenitor cell,CL:0000557,F32,female,unknown,Carnegie stage 20,1,0.06891798759476223
+11,Myeloid cells,promonocyte,CL:0000559,F32,female,unknown,Carnegie stage 20,8,0.5513439007580978
+12,Myeloid cells,monocyte,CL:0000576,F32,female,unknown,Carnegie stage 20,89,6.133700895933838
+13,Myeloid cells,plasmacytoid dendritic cell,CL:0000784,F32,female,unknown,Carnegie stage 20,4,0.2756719503790489
+14,Myeloid cells,hematopoietic multipotent progenitor cell,CL:0000837,F32,female,unknown,Carnegie stage 20,5,0.34458993797381116
+15,Myeloid cells,early lymphoid progenitor,CL:0000936,F32,female,unknown,Carnegie stage 20,22,1.5161957270847692
+16,Myeloid cells,common dendritic progenitor,CL:0001029,F32,female,unknown,Carnegie stage 20,2,0.13783597518952445

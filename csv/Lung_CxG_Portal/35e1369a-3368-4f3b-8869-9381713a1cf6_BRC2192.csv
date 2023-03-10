@@ -1,0 +1,28 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,All cells,mesothelial cell,CL:0000077,BRC2192,female,unknown,Carnegie stage 19,75,1.5657620041753653
+1,All cells,epithelial cell of lung,CL:0000082,BRC2192,female,unknown,Carnegie stage 19,168,3.507306889352818
+2,All cells,chondrocyte,CL:0000138,BRC2192,female,unknown,Carnegie stage 19,44,0.918580375782881
+3,All cells,myofibroblast cell,CL:0000186,BRC2192,female,unknown,Carnegie stage 19,2,0.04175365344467641
+4,All cells,smooth muscle cell,CL:0000192,BRC2192,female,unknown,Carnegie stage 19,267,5.5741127348643005
+5,All cells,erythrocyte,CL:0000232,BRC2192,female,unknown,Carnegie stage 19,34,0.7098121085594989
+6,All cells,macrophage,CL:0000235,BRC2192,female,unknown,Carnegie stage 19,5,0.10438413361169101
+7,All cells,vascular associated smooth muscle cell,CL:0000359,BRC2192,female,unknown,Carnegie stage 19,8,0.16701461377870563
+8,All cells,neuron,CL:0000540,BRC2192,female,unknown,Carnegie stage 19,36,0.7515657620041754
+9,All cells,reticulocyte,CL:0000558,BRC2192,female,unknown,Carnegie stage 19,10,0.20876826722338201
+10,All cells,natural killer cell,CL:0000623,BRC2192,female,unknown,Carnegie stage 19,3,0.06263048016701461
+11,All cells,pericyte,CL:0000669,BRC2192,female,unknown,Carnegie stage 19,8,0.16701461377870563
+12,All cells,erythroblast,CL:0000765,BRC2192,female,unknown,Carnegie stage 19,4,0.08350730688935282
+13,All cells,promyelocyte,CL:0000836,BRC2192,female,unknown,Carnegie stage 19,1,0.020876826722338204
+14,All cells,"CD34-positive, CD56-positive, CD117-positive common innate lymphoid precursor, human",CL:0001074,BRC2192,female,unknown,Carnegie stage 19,4,0.08350730688935282
+15,All cells,bone marrow cell,CL:0002092,BRC2192,female,unknown,Carnegie stage 19,1,0.020876826722338204
+16,All cells,endothelial cell of lymphatic vessel,CL:0002138,BRC2192,female,unknown,Carnegie stage 19,7,0.14613778705636743
+17,All cells,capillary endothelial cell,CL:0002144,BRC2192,female,unknown,Carnegie stage 19,141,2.943632567849687
+18,All cells,primitive red blood cell,CL:0002355,BRC2192,female,unknown,Carnegie stage 19,164,3.4237995824634653
+19,All cells,respiratory epithelial cell,CL:0002368,BRC2192,female,unknown,Carnegie stage 19,207,4.3215031315240084
+20,All cells,Schwann cell precursor,CL:0002375,BRC2192,female,unknown,Carnegie stage 19,10,0.20876826722338201
+21,All cells,immature Schwann cell,CL:0002377,BRC2192,female,unknown,Carnegie stage 19,27,0.5636743215031316
+22,All cells,vein endothelial cell,CL:0002543,BRC2192,female,unknown,Carnegie stage 19,1,0.020876826722338204
+23,All cells,fibroblast of lung,CL:0002553,BRC2192,female,unknown,Carnegie stage 19,3528,73.65344467640918
+24,All cells,mesenchymal cell,CL:0008019,BRC2192,female,unknown,Carnegie stage 19,4,0.08350730688935282
+25,All cells,lung neuroendocrine cell,CL:1000223,BRC2192,female,unknown,Carnegie stage 19,24,0.5010438413361169
+26,All cells,endothelial cell of artery,CL:1000413,BRC2192,female,unknown,Carnegie stage 19,7,0.14613778705636743

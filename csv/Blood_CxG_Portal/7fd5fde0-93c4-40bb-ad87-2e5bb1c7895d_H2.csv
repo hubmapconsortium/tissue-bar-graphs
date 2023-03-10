@@ -1,0 +1,26 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,hematopoietic stem cell,CL:0000037,H2,male,European,49-year-old human stage,6,0.3186404673393521
+1,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,erythrocyte,CL:0000232,H2,male,European,49-year-old human stage,14,0.7434944237918215
+2,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,platelet,CL:0000233,H2,male,European,49-year-old human stage,27,1.4338821030270845
+3,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,lymphocyte,CL:0000542,H2,male,European,49-year-old human stage,18,0.9559214020180564
+4,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,natural killer cell,CL:0000623,H2,male,European,49-year-old human stage,203,10.780669144981413
+5,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,neutrophil,CL:0000775,H2,male,European,49-year-old human stage,12,0.6372809346787042
+6,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,memory B cell,CL:0000787,H2,male,European,49-year-old human stage,25,1.327668613913967
+7,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,naive B cell,CL:0000788,H2,male,European,49-year-old human stage,190,10.09028146574615
+8,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,gamma-delta T cell,CL:0000798,H2,male,European,49-year-old human stage,15,0.7966011683483802
+9,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,regulatory T cell,CL:0000815,H2,male,European,49-year-old human stage,31,1.6463090812533192
+10,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,transitional stage B cell,CL:0000818,H2,male,European,49-year-old human stage,76,4.03611258629846
+11,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,classical monocyte,CL:0000860,H2,male,European,49-year-old human stage,290,15.400955921402018
+12,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,non-classical monocyte,CL:0000875,H2,male,European,49-year-old human stage,69,3.664365374402549
+13,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,H2,male,European,49-year-old human stage,44,2.336696760488582
+14,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,H2,male,European,49-year-old human stage,12,0.6372809346787042
+15,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,"central memory CD4-positive, alpha-beta T cell",CL:0000904,H2,male,European,49-year-old human stage,102,5.416887944768986
+16,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,H2,male,European,49-year-old human stage,626,33.244822092405734
+17,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,H2,male,European,49-year-old human stage,18,0.9559214020180564
+18,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,mucosal invariant T cell,CL:0000940,H2,male,European,49-year-old human stage,32,1.6994158258098777
+19,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,IgG plasmablast,CL:0000982,H2,male,European,49-year-old human stage,1,0.05310674455655868
+20,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,IgA plasmablast,CL:0000984,H2,male,European,49-year-old human stage,1,0.05310674455655868
+21,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,conventional dendritic cell,CL:0000990,H2,male,European,49-year-old human stage,36,1.9118428040361128
+22,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,"activated CD4-positive, alpha-beta T cell, human",CL:0001043,H2,male,European,49-year-old human stage,1,0.05310674455655868
+23,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,"plasmacytoid dendritic cell, human",CL:0001058,H2,male,European,49-year-old human stage,31,1.6463090812533192
+24,Individual Single-Cell RNA-seq PBMC Data from Wilk et al.,double negative thymocyte,CL:0002489,H2,male,European,49-year-old human stage,3,0.15932023366967604

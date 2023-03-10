@@ -1,0 +1,13 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,The single-cell lung cancer atlas (LuCA) -- core atlas,macrophage,CL:0000235,Adams_Kaminski_2020_092C,male,unknown,29-year-old human stage,1231,31.92427385892116
+1,The single-cell lung cancer atlas (LuCA) -- core atlas,B cell,CL:0000236,Adams_Kaminski_2020_092C,male,unknown,29-year-old human stage,14,0.3630705394190871
+2,The single-cell lung cancer atlas (LuCA) -- core atlas,dendritic cell,CL:0000451,Adams_Kaminski_2020_092C,male,unknown,29-year-old human stage,1,0.025933609958506226
+3,The single-cell lung cancer atlas (LuCA) -- core atlas,alveolar macrophage,CL:0000583,Adams_Kaminski_2020_092C,male,unknown,29-year-old human stage,2161,56.04253112033195
+4,The single-cell lung cancer atlas (LuCA) -- core atlas,natural killer cell,CL:0000623,Adams_Kaminski_2020_092C,male,unknown,29-year-old human stage,64,1.6597510373443984
+5,The single-cell lung cancer atlas (LuCA) -- core atlas,"CD4-positive, alpha-beta T cell",CL:0000624,Adams_Kaminski_2020_092C,male,unknown,29-year-old human stage,3,0.07780082987551867
+6,The single-cell lung cancer atlas (LuCA) -- core atlas,"CD8-positive, alpha-beta T cell",CL:0000625,Adams_Kaminski_2020_092C,male,unknown,29-year-old human stage,13,0.33713692946058094
+7,The single-cell lung cancer atlas (LuCA) -- core atlas,myeloid cell,CL:0000763,Adams_Kaminski_2020_092C,male,unknown,29-year-old human stage,32,0.8298755186721992
+8,The single-cell lung cancer atlas (LuCA) -- core atlas,classical monocyte,CL:0000860,Adams_Kaminski_2020_092C,male,unknown,29-year-old human stage,302,7.831950207468879
+9,The single-cell lung cancer atlas (LuCA) -- core atlas,non-classical monocyte,CL:0000875,Adams_Kaminski_2020_092C,male,unknown,29-year-old human stage,8,0.2074688796680498
+10,The single-cell lung cancer atlas (LuCA) -- core atlas,type I pneumocyte,CL:0002062,Adams_Kaminski_2020_092C,male,unknown,29-year-old human stage,1,0.025933609958506226
+11,The single-cell lung cancer atlas (LuCA) -- core atlas,CD1c-positive myeloid dendritic cell,CL:0002399,Adams_Kaminski_2020_092C,male,unknown,29-year-old human stage,26,0.6742738589211619

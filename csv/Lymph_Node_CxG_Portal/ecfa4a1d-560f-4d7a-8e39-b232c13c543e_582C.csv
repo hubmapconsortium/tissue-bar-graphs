@@ -1,0 +1,18 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Global,mast cell,CL:0000097,582C,female,unknown,sixth decade human stage,1,0.22727272727272727
+1,Global,macrophage,CL:0000235,582C,female,unknown,sixth decade human stage,2,0.45454545454545453
+2,Global,lymphocyte,CL:0000542,582C,female,unknown,sixth decade human stage,15,3.4090909090909087
+3,Global,animal cell,CL:0000548,582C,female,unknown,sixth decade human stage,10,2.272727272727273
+4,Global,plasma cell,CL:0000786,582C,female,unknown,sixth decade human stage,1,0.22727272727272727
+5,Global,memory B cell,CL:0000787,582C,female,unknown,sixth decade human stage,357,81.13636363636364
+6,Global,naive B cell,CL:0000788,582C,female,unknown,sixth decade human stage,24,5.454545454545454
+7,Global,regulatory T cell,CL:0000815,582C,female,unknown,sixth decade human stage,7,1.5909090909090908
+8,Global,germinal center B cell,CL:0000844,582C,female,unknown,sixth decade human stage,5,1.1363636363636365
+9,Global,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,582C,female,unknown,sixth decade human stage,2,0.45454545454545453
+10,Global,"effector memory CD4-positive, alpha-beta T cell",CL:0000905,582C,female,unknown,sixth decade human stage,2,0.45454545454545453
+11,Global,"CD8-positive, alpha-beta memory T cell",CL:0000909,582C,female,unknown,sixth decade human stage,1,0.22727272727272727
+12,Global,plasmablast,CL:0000980,582C,female,unknown,sixth decade human stage,1,0.22727272727272727
+13,Global,"dendritic cell, human",CL:0001056,582C,female,unknown,sixth decade human stage,5,1.1363636363636365
+14,Global,group 3 innate lymphoid cell,CL:0001071,582C,female,unknown,sixth decade human stage,2,0.45454545454545453
+15,Global,"CD8-positive, alpha-beta memory T cell, CD45RO-positive",CL:0001203,582C,female,unknown,sixth decade human stage,2,0.45454545454545453
+16,Global,T follicular helper cell,CL:0002038,582C,female,unknown,sixth decade human stage,3,0.6818181818181818

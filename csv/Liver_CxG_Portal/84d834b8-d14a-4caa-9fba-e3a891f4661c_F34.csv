@@ -1,0 +1,28 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Lymphoid cells,native cell,CL:0000003,F34,female,unknown,Carnegie stage 23,67,2.117572692793932
+1,Lymphoid cells,hematopoietic stem cell,CL:0000037,F34,female,unknown,Carnegie stage 23,154,4.867256637168142
+2,Lymphoid cells,common myeloid progenitor,CL:0000049,F34,female,unknown,Carnegie stage 23,9,0.28445006321112515
+3,Lymphoid cells,megakaryocyte-erythroid progenitor cell,CL:0000050,F34,female,unknown,Carnegie stage 23,144,4.551201011378002
+4,Lymphoid cells,T cell,CL:0000084,F34,female,unknown,Carnegie stage 23,71,2.2439949431099877
+5,Lymphoid cells,megakaryocyte,CL:0000556,F34,female,unknown,Carnegie stage 23,12,0.37926675094816686
+6,Lymphoid cells,granulocyte monocyte progenitor cell,CL:0000557,F34,female,unknown,Carnegie stage 23,4,0.12642225031605564
+7,Lymphoid cells,promonocyte,CL:0000559,F34,female,unknown,Carnegie stage 23,1,0.03160556257901391
+8,Lymphoid cells,natural killer cell,CL:0000623,F34,female,unknown,Carnegie stage 23,1733,54.772439949431096
+9,Lymphoid cells,"double-positive, alpha-beta thymocyte",CL:0000809,F34,female,unknown,Carnegie stage 23,24,0.7585335018963337
+10,Lymphoid cells,regulatory T cell,CL:0000815,F34,female,unknown,Carnegie stage 23,1,0.03160556257901391
+11,Lymphoid cells,immature B cell,CL:0000816,F34,female,unknown,Carnegie stage 23,8,0.2528445006321113
+12,Lymphoid cells,B-1 B cell,CL:0000819,F34,female,unknown,Carnegie stage 23,5,0.15802781289506954
+13,Lymphoid cells,B-2 B cell,CL:0000822,F34,female,unknown,Carnegie stage 23,8,0.2528445006321113
+14,Lymphoid cells,pro-B cell,CL:0000826,F34,female,unknown,Carnegie stage 23,96,3.034134007585335
+15,Lymphoid cells,hematopoietic multipotent progenitor cell,CL:0000837,F34,female,unknown,Carnegie stage 23,92,2.9077117572692797
+16,Lymphoid cells,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,F34,female,unknown,Carnegie stage 23,18,0.5689001264222503
+17,Lymphoid cells,"CD8-alpha-alpha-positive, alpha-beta intraepithelial T cell",CL:0000915,F34,female,unknown,Carnegie stage 23,20,0.6321112515802781
+18,Lymphoid cells,early lymphoid progenitor,CL:0000936,F34,female,unknown,Carnegie stage 23,29,0.9165613147914033
+19,Lymphoid cells,small pre-B-II cell,CL:0000954,F34,female,unknown,Carnegie stage 23,18,0.5689001264222503
+20,Lymphoid cells,large pre-B-II cell,CL:0000957,F34,female,unknown,Carnegie stage 23,54,1.7067003792667508
+21,Lymphoid cells,innate lymphoid cell,CL:0001065,F34,female,unknown,Carnegie stage 23,90,2.844500632111252
+22,Lymphoid cells,group 2 innate lymphoid cell,CL:0001069,F34,female,unknown,Carnegie stage 23,11,0.347661188369153
+23,Lymphoid cells,group 3 innate lymphoid cell,CL:0001071,F34,female,unknown,Carnegie stage 23,385,12.168141592920353
+24,Lymphoid cells,fraction A pre-pro B cell,CL:0002045,F34,female,unknown,Carnegie stage 23,79,2.4968394437420987
+25,Lymphoid cells,late pro-B cell,CL:0002048,F34,female,unknown,Carnegie stage 23,26,0.8217446270543615
+26,Lymphoid cells,double negative thymocyte,CL:0002489,F34,female,unknown,Carnegie stage 23,5,0.15802781289506954

@@ -1,0 +1,14 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Lymphoid cells,native cell,CL:0000003,F32,female,unknown,Carnegie stage 20,2,0.9090909090909091
+1,Lymphoid cells,megakaryocyte-erythroid progenitor cell,CL:0000050,F32,female,unknown,Carnegie stage 20,2,0.9090909090909091
+2,Lymphoid cells,T cell,CL:0000084,F32,female,unknown,Carnegie stage 20,5,2.272727272727273
+3,Lymphoid cells,natural killer cell,CL:0000623,F32,female,unknown,Carnegie stage 20,36,16.363636363636363
+4,Lymphoid cells,"double-positive, alpha-beta thymocyte",CL:0000809,F32,female,unknown,Carnegie stage 20,25,11.363636363636363
+5,Lymphoid cells,B-2 B cell,CL:0000822,F32,female,unknown,Carnegie stage 20,1,0.45454545454545453
+6,Lymphoid cells,early lymphoid progenitor,CL:0000936,F32,female,unknown,Carnegie stage 20,30,13.636363636363635
+7,Lymphoid cells,large pre-B-II cell,CL:0000957,F32,female,unknown,Carnegie stage 20,1,0.45454545454545453
+8,Lymphoid cells,innate lymphoid cell,CL:0001065,F32,female,unknown,Carnegie stage 20,5,2.272727272727273
+9,Lymphoid cells,group 2 innate lymphoid cell,CL:0001069,F32,female,unknown,Carnegie stage 20,6,2.727272727272727
+10,Lymphoid cells,group 3 innate lymphoid cell,CL:0001071,F32,female,unknown,Carnegie stage 20,82,37.27272727272727
+11,Lymphoid cells,fraction A pre-pro B cell,CL:0002045,F32,female,unknown,Carnegie stage 20,7,3.1818181818181817
+12,Lymphoid cells,double negative thymocyte,CL:0002489,F32,female,unknown,Carnegie stage 20,18,8.181818181818182

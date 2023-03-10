@@ -1,0 +1,22 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Myeloid cells,native cell,CL:0000003,F61,male,unknown,Carnegie stage 20,75,0.6634819532908706
+1,Myeloid cells,hematopoietic stem cell,CL:0000037,F61,male,unknown,Carnegie stage 20,1016,8.987968860580326
+2,Myeloid cells,common myeloid progenitor,CL:0000049,F61,male,unknown,Carnegie stage 20,167,1.4773531493276715
+3,Myeloid cells,megakaryocyte-erythroid progenitor cell,CL:0000050,F61,male,unknown,Carnegie stage 20,563,4.980537862703468
+4,Myeloid cells,fibroblast,CL:0000057,F61,male,unknown,Carnegie stage 20,4,0.035385704175513094
+5,Myeloid cells,Kupffer cell,CL:0000091,F61,male,unknown,Carnegie stage 20,1206,10.668789808917198
+6,Myeloid cells,granulocyte,CL:0000094,F61,male,unknown,Carnegie stage 20,121,1.070417551309271
+7,Myeloid cells,mast cell,CL:0000097,F61,male,unknown,Carnegie stage 20,86,0.7607926397735315
+8,Myeloid cells,macrophage,CL:0000235,F61,male,unknown,Carnegie stage 20,4385,38.79157820240623
+9,Myeloid cells,dendritic cell,CL:0000451,F61,male,unknown,Carnegie stage 20,1383,12.234607218683651
+10,Myeloid cells,megakaryocyte,CL:0000556,F61,male,unknown,Carnegie stage 20,12,0.10615711252653928
+11,Myeloid cells,granulocyte monocyte progenitor cell,CL:0000557,F61,male,unknown,Carnegie stage 20,155,1.3711960368011322
+12,Myeloid cells,promonocyte,CL:0000559,F61,male,unknown,Carnegie stage 20,151,1.3358103326256192
+13,Myeloid cells,monocyte,CL:0000576,F61,male,unknown,Carnegie stage 20,477,4.219745222929936
+14,Myeloid cells,plasmacytoid dendritic cell,CL:0000784,F61,male,unknown,Carnegie stage 20,123,1.0881104033970275
+15,Myeloid cells,promyelocyte,CL:0000836,F61,male,unknown,Carnegie stage 20,43,0.38039631988676575
+16,Myeloid cells,hematopoietic multipotent progenitor cell,CL:0000837,F61,male,unknown,Carnegie stage 20,949,8.395258315640481
+17,Myeloid cells,early lymphoid progenitor,CL:0000936,F61,male,unknown,Carnegie stage 20,369,3.2643312101910826
+18,Myeloid cells,common dendritic progenitor,CL:0001029,F61,male,unknown,Carnegie stage 20,3,0.02653927813163482
+19,Myeloid cells,pre-conventional dendritic cell,CL:0002010,F61,male,unknown,Carnegie stage 20,15,0.1326963906581741
+20,Myeloid cells,myelocyte,CL:0002193,F61,male,unknown,Carnegie stage 20,1,0.008846426043878274

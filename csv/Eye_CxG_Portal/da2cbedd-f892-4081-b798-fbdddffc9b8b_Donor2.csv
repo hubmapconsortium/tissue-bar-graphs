@@ -1,0 +1,10 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Retina,native cell,CL:0000003,Donor2,male,unknown,42-year-old human stage,2684,23.389978213507625
+1,Retina,microglial cell,CL:0000129,Donor2,male,unknown,42-year-old human stage,61,0.5315904139433552
+2,Retina,amacrine cell,CL:0000561,Donor2,male,unknown,42-year-old human stage,120,1.045751633986928
+3,Retina,retinal cone cell,CL:0000573,Donor2,male,unknown,42-year-old human stage,175,1.5250544662309369
+4,Retina,retinal rod cell,CL:0000604,Donor2,male,unknown,42-year-old human stage,7411,64.58387799564271
+5,Retina,Mueller cell,CL:0000636,Donor2,male,unknown,42-year-old human stage,327,2.849673202614379
+6,Retina,retinal ganglion cell,CL:0000740,Donor2,male,unknown,42-year-old human stage,1,0.008714596949891067
+7,Retina,ON-bipolar cell,CL:0000749,Donor2,male,unknown,42-year-old human stage,508,4.427015250544662
+8,Retina,OFF-bipolar cell,CL:0000750,Donor2,male,unknown,42-year-old human stage,188,1.6383442265795207

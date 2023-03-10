@@ -1,0 +1,22 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,hematopoietic stem cell,CL:0000037,cov09,male,European,38-year-old human stage,59,1.4549938347718867
+1,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,CL:0000233,cov09,male,European,38-year-old human stage,134,3.3045622688039455
+2,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,lymphocyte,CL:0000542,cov09,male,European,38-year-old human stage,8,0.19728729963008632
+3,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,natural killer cell,CL:0000623,cov09,male,European,38-year-old human stage,245,6.041923551171394
+4,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,memory B cell,CL:0000787,cov09,male,European,38-year-old human stage,16,0.39457459926017263
+5,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,naive B cell,CL:0000788,cov09,male,European,38-year-old human stage,36,0.8877928483353885
+6,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,regulatory T cell,CL:0000815,cov09,male,European,38-year-old human stage,51,1.2577065351418002
+7,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,transitional stage B cell,CL:0000818,cov09,male,European,38-year-old human stage,20,0.4932182490752158
+8,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,CL:0000860,cov09,male,European,38-year-old human stage,427,10.530209617755856
+9,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,non-classical monocyte,CL:0000875,cov09,male,European,38-year-old human stage,302,7.447595561035758
+10,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,cov09,male,European,38-year-old human stage,422,10.406905055487053
+11,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,cov09,male,European,38-year-old human stage,27,0.6658446362515413
+12,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"central memory CD4-positive, alpha-beta T cell",CL:0000904,cov09,male,European,38-year-old human stage,393,9.69173859432799
+13,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,cov09,male,European,38-year-old human stage,758,18.692971639950677
+14,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD4-positive, alpha-beta cytotoxic T cell",CL:0000934,cov09,male,European,38-year-old human stage,302,7.447595561035758
+15,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,cov09,male,European,38-year-old human stage,19,0.46855733662145505
+16,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,mucosal invariant T cell,CL:0000940,cov09,male,European,38-year-old human stage,32,0.7891491985203453
+17,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,plasmablast,CL:0000980,cov09,male,European,38-year-old human stage,1,0.02466091245376079
+18,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,conventional dendritic cell,CL:0000990,cov09,male,European,38-year-old human stage,524,12.922318125770655
+19,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"activated CD4-positive, alpha-beta T cell, human",CL:0001043,cov09,male,European,38-year-old human stage,2,0.04932182490752158
+20,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"plasmacytoid dendritic cell, human",CL:0001058,cov09,male,European,38-year-old human stage,277,6.831072749691739

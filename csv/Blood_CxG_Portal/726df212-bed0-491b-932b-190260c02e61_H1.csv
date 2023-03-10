@@ -1,0 +1,25 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,hematopoietic stem cell,CL:0000037,H1,female,European,49-year-old human stage,37,2.035203520352035
+1,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,erythrocyte,CL:0000232,H1,female,European,49-year-old human stage,35,1.9251925192519255
+2,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,platelet,CL:0000233,H1,female,European,49-year-old human stage,6,0.33003300330033003
+3,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,lymphocyte,CL:0000542,H1,female,European,49-year-old human stage,4,0.22002200220022
+4,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,natural killer cell,CL:0000623,H1,female,European,49-year-old human stage,426,23.432343234323433
+5,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,neutrophil,CL:0000775,H1,female,European,49-year-old human stage,7,0.385038503850385
+6,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,memory B cell,CL:0000787,H1,female,European,49-year-old human stage,54,2.9702970297029703
+7,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,naive B cell,CL:0000788,H1,female,European,49-year-old human stage,60,3.3003300330033
+8,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,gamma-delta T cell,CL:0000798,H1,female,European,49-year-old human stage,7,0.385038503850385
+9,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,regulatory T cell,CL:0000815,H1,female,European,49-year-old human stage,14,0.77007700770077
+10,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,transitional stage B cell,CL:0000818,H1,female,European,49-year-old human stage,56,3.08030803080308
+11,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,classical monocyte,CL:0000860,H1,female,European,49-year-old human stage,508,27.94279427942794
+12,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,non-classical monocyte,CL:0000875,H1,female,European,49-year-old human stage,132,7.2607260726072615
+13,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,H1,female,European,49-year-old human stage,63,3.4653465346534658
+14,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,H1,female,European,49-year-old human stage,12,0.6600660066006601
+15,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"central memory CD4-positive, alpha-beta T cell",CL:0000904,H1,female,European,49-year-old human stage,65,3.575357535753575
+16,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,H1,female,European,49-year-old human stage,251,13.806380638063805
+17,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,H1,female,European,49-year-old human stage,18,0.9900990099009901
+18,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,mucosal invariant T cell,CL:0000940,H1,female,European,49-year-old human stage,1,0.055005500550055
+19,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,IgG plasmablast,CL:0000982,H1,female,European,49-year-old human stage,1,0.055005500550055
+20,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,IgA plasmablast,CL:0000984,H1,female,European,49-year-old human stage,4,0.22002200220022
+21,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,conventional dendritic cell,CL:0000990,H1,female,European,49-year-old human stage,33,1.8151815181518154
+22,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,"plasmacytoid dendritic cell, human",CL:0001058,H1,female,European,49-year-old human stage,22,1.21012101210121
+23,COVID-19 Immune Altas: Integration of 5 public COVID-19 PBMC single-cell datasets,double negative thymocyte,CL:0002489,H1,female,European,49-year-old human stage,2,0.11001100110011

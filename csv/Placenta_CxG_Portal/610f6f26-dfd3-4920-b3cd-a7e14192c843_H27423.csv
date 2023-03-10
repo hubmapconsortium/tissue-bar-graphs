@@ -1,0 +1,5 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Survey of human embryonic development,native cell,CL:0000003,H27423,male,unknown,16th week post-fertilization human stage,2,8.695652173913043
+1,Survey of human embryonic development,stromal cell,CL:0000499,H27423,male,unknown,16th week post-fertilization human stage,5,21.73913043478261
+2,Survey of human embryonic development,syncytiotrophoblast cell,CL:0000525,H27423,male,unknown,16th week post-fertilization human stage,4,17.391304347826086
+3,Survey of human embryonic development,extravillous trophoblast,CL:0008036,H27423,male,unknown,16th week post-fertilization human stage,12,52.17391304347826

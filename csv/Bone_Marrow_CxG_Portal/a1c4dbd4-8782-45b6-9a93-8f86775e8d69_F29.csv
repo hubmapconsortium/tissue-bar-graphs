@@ -1,0 +1,49 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Fetal Bone Marrow (10x),common myeloid progenitor,CL:0000049,F29,female,unknown,17th week post-fertilization human stage,48,0.5881632152922436
+1,Fetal Bone Marrow (10x),megakaryocyte-erythroid progenitor cell,CL:0000050,F29,female,unknown,17th week post-fertilization human stage,22,0.269574807008945
+2,Fetal Bone Marrow (10x),osteoblast,CL:0000062,F29,female,unknown,17th week post-fertilization human stage,30,0.3676020095576522
+3,Fetal Bone Marrow (10x),osteoclast,CL:0000092,F29,female,unknown,17th week post-fertilization human stage,69,0.8454846219826001
+4,Fetal Bone Marrow (10x),mast cell,CL:0000097,F29,female,unknown,17th week post-fertilization human stage,75,0.9190050238941306
+5,Fetal Bone Marrow (10x),endothelial cell,CL:0000115,F29,female,unknown,17th week post-fertilization human stage,2,0.024506800637176817
+6,Fetal Bone Marrow (10x),fat cell,CL:0000136,F29,female,unknown,17th week post-fertilization human stage,16,0.19605440509741454
+7,Fetal Bone Marrow (10x),muscle cell,CL:0000187,F29,female,unknown,17th week post-fertilization human stage,2,0.024506800637176817
+8,Fetal Bone Marrow (10x),erythrocyte,CL:0000232,F29,female,unknown,17th week post-fertilization human stage,620,7.597108197524813
+9,Fetal Bone Marrow (10x),macrophage,CL:0000235,F29,female,unknown,17th week post-fertilization human stage,105,1.286607033451783
+10,Fetal Bone Marrow (10x),dendritic cell,CL:0000451,F29,female,unknown,17th week post-fertilization human stage,273,3.345178286974636
+11,Fetal Bone Marrow (10x),megakaryocyte,CL:0000556,F29,female,unknown,17th week post-fertilization human stage,271,3.3206714863374587
+12,Fetal Bone Marrow (10x),granulocyte monocyte progenitor cell,CL:0000557,F29,female,unknown,17th week post-fertilization human stage,130,1.5929420414164932
+13,Fetal Bone Marrow (10x),promonocyte,CL:0000559,F29,female,unknown,17th week post-fertilization human stage,576,7.057958583506924
+14,Fetal Bone Marrow (10x),natural killer cell,CL:0000623,F29,female,unknown,17th week post-fertilization human stage,8,0.09802720254870727
+15,Fetal Bone Marrow (10x),"CD4-positive, alpha-beta T cell",CL:0000624,F29,female,unknown,17th week post-fertilization human stage,40,0.4901360127435363
+16,Fetal Bone Marrow (10x),"CD8-positive, alpha-beta T cell",CL:0000625,F29,female,unknown,17th week post-fertilization human stage,15,0.1838010047788261
+17,Fetal Bone Marrow (10x),muscle precursor cell,CL:0000680,F29,female,unknown,17th week post-fertilization human stage,1,0.012253400318588408
+18,Fetal Bone Marrow (10x),endothelial tip cell,CL:0000704,F29,female,unknown,17th week post-fertilization human stage,2,0.024506800637176817
+19,Fetal Bone Marrow (10x),basophil,CL:0000767,F29,female,unknown,17th week post-fertilization human stage,5,0.06126700159294204
+20,Fetal Bone Marrow (10x),eosinophil,CL:0000771,F29,female,unknown,17th week post-fertilization human stage,30,0.3676020095576522
+21,Fetal Bone Marrow (10x),neutrophil,CL:0000775,F29,female,unknown,17th week post-fertilization human stage,160,1.9605440509741452
+22,Fetal Bone Marrow (10x),plasmacytoid dendritic cell,CL:0000784,F29,female,unknown,17th week post-fertilization human stage,166,2.034064452885676
+23,Fetal Bone Marrow (10x),naive B cell,CL:0000788,F29,female,unknown,17th week post-fertilization human stage,194,2.377159661806151
+24,Fetal Bone Marrow (10x),mature NK T cell,CL:0000814,F29,female,unknown,17th week post-fertilization human stage,8,0.09802720254870727
+25,Fetal Bone Marrow (10x),regulatory T cell,CL:0000815,F29,female,unknown,17th week post-fertilization human stage,5,0.06126700159294204
+26,Fetal Bone Marrow (10x),immature B cell,CL:0000816,F29,female,unknown,17th week post-fertilization human stage,26,0.3185884082832986
+27,Fetal Bone Marrow (10x),precursor B cell,CL:0000817,F29,female,unknown,17th week post-fertilization human stage,2481,30.40068619041784
+28,Fetal Bone Marrow (10x),immature natural killer cell,CL:0000823,F29,female,unknown,17th week post-fertilization human stage,1,0.012253400318588408
+29,Fetal Bone Marrow (10x),pro-B cell,CL:0000826,F29,female,unknown,17th week post-fertilization human stage,114,1.3968876363190785
+30,Fetal Bone Marrow (10x),promyelocyte,CL:0000836,F29,female,unknown,17th week post-fertilization human stage,123,1.5071682391863743
+31,Fetal Bone Marrow (10x),hematopoietic multipotent progenitor cell,CL:0000837,F29,female,unknown,17th week post-fertilization human stage,15,0.1838010047788261
+32,Fetal Bone Marrow (10x),lymphoid lineage restricted progenitor cell,CL:0000838,F29,female,unknown,17th week post-fertilization human stage,5,0.06126700159294204
+33,Fetal Bone Marrow (10x),myeloid lineage restricted progenitor cell,CL:0000839,F29,female,unknown,17th week post-fertilization human stage,11,0.1347874035044725
+34,Fetal Bone Marrow (10x),early lymphoid progenitor,CL:0000936,F29,female,unknown,17th week post-fertilization human stage,198,2.426173263080505
+35,Fetal Bone Marrow (10x),"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,F29,female,unknown,17th week post-fertilization human stage,22,0.269574807008945
+36,Fetal Bone Marrow (10x),common dendritic progenitor,CL:0001029,F29,female,unknown,17th week post-fertilization human stage,48,0.5881632152922436
+37,Fetal Bone Marrow (10x),CD14-positive monocyte,CL:0001054,F29,female,unknown,17th week post-fertilization human stage,594,7.278519789241515
+38,Fetal Bone Marrow (10x),immature innate lymphoid cell,CL:0001082,F29,female,unknown,17th week post-fertilization human stage,4,0.049013601274353634
+39,Fetal Bone Marrow (10x),macrophage dendritic cell progenitor,CL:0002009,F29,female,unknown,17th week post-fertilization human stage,3,0.036760200955765224
+40,Fetal Bone Marrow (10x),basophil mast progenitor cell,CL:0002028,F29,female,unknown,17th week post-fertilization human stage,23,0.2818282073275334
+41,Fetal Bone Marrow (10x),fraction A pre-pro B cell,CL:0002045,F29,female,unknown,17th week post-fertilization human stage,717,8.78568802842789
+42,Fetal Bone Marrow (10x),myelocyte,CL:0002193,F29,female,unknown,17th week post-fertilization human stage,71,0.869991422619777
+43,Fetal Bone Marrow (10x),endothelial cell of sinusoid,CL:0002262,F29,female,unknown,17th week post-fertilization human stage,17,0.2083078054160029
+44,Fetal Bone Marrow (10x),primitive red blood cell,CL:0002355,F29,female,unknown,17th week post-fertilization human stage,493,6.040926357064085
+45,Fetal Bone Marrow (10x),preosteoblast,CL:0007010,F29,female,unknown,17th week post-fertilization human stage,33,0.4043622105134175
+46,Fetal Bone Marrow (10x),progenitor cell,CL:0011026,F29,female,unknown,17th week post-fertilization human stage,283,3.4677122901605197
+47,Fetal Bone Marrow (10x),precursor cell,CL:0011115,F29,female,unknown,17th week post-fertilization human stage,6,0.07352040191153045

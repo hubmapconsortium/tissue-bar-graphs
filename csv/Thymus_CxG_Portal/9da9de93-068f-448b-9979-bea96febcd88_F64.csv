@@ -1,0 +1,9 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,HSC/progenitor cells,native cell,CL:0000003,F64,female,unknown,11th week post-fertilization human stage,2,0.3115264797507788
+1,HSC/progenitor cells,megakaryocyte-erythroid progenitor cell,CL:0000050,F64,female,unknown,11th week post-fertilization human stage,1,0.1557632398753894
+2,HSC/progenitor cells,megakaryocyte,CL:0000556,F64,female,unknown,11th week post-fertilization human stage,1,0.1557632398753894
+3,HSC/progenitor cells,granulocyte monocyte progenitor cell,CL:0000557,F64,female,unknown,11th week post-fertilization human stage,1,0.1557632398753894
+4,HSC/progenitor cells,promonocyte,CL:0000559,F64,female,unknown,11th week post-fertilization human stage,2,0.3115264797507788
+5,HSC/progenitor cells,early lymphoid progenitor,CL:0000936,F64,female,unknown,11th week post-fertilization human stage,1,0.1557632398753894
+6,HSC/progenitor cells,fraction A pre-pro B cell,CL:0002045,F64,female,unknown,11th week post-fertilization human stage,5,0.778816199376947
+7,HSC/progenitor cells,double negative thymocyte,CL:0002489,F64,female,unknown,11th week post-fertilization human stage,629,97.97507788161994

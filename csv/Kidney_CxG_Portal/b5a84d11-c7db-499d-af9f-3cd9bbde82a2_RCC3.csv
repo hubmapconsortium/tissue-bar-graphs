@@ -1,0 +1,23 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,mature,mast cell,CL:0000097,RCC3,male,unknown,72-year-old human stage,16,0.7026789635485288
+1,mature,mononuclear phagocyte,CL:0000113,RCC3,male,unknown,72-year-old human stage,78,3.4255599472990776
+2,mature,B cell,CL:0000236,RCC3,male,unknown,72-year-old human stage,28,1.2296881862099254
+3,mature,lymphocyte,CL:0000542,RCC3,male,unknown,72-year-old human stage,65,2.854633289415898
+4,mature,natural killer cell,CL:0000623,RCC3,male,unknown,72-year-old human stage,124,5.445761967501098
+5,mature,"CD4-positive, alpha-beta T cell",CL:0000624,RCC3,male,unknown,72-year-old human stage,68,2.9863855950812472
+6,mature,"CD8-positive, alpha-beta T cell",CL:0000625,RCC3,male,unknown,72-year-old human stage,16,0.7026789635485288
+7,mature,urothelial cell,CL:0000731,RCC3,male,unknown,72-year-old human stage,1,0.04391743522178305
+8,mature,neutrophil,CL:0000775,RCC3,male,unknown,72-year-old human stage,1,0.04391743522178305
+9,mature,plasmacytoid dendritic cell,CL:0000784,RCC3,male,unknown,72-year-old human stage,2,0.0878348704435661
+10,mature,glomerular endothelial cell,CL:0002188,RCC3,male,unknown,72-year-old human stage,6,0.2635046113306983
+11,mature,epithelial cell of proximal tubule,CL:0002306,RCC3,male,unknown,72-year-old human stage,1779,78.12911725955203
+12,mature,kidney epithelial cell,CL:0002518,RCC3,male,unknown,72-year-old human stage,6,0.2635046113306983
+13,mature,renal intercalated cell,CL:0005010,RCC3,male,unknown,72-year-old human stage,1,0.04391743522178305
+14,mature,renal alpha-intercalated cell,CL:0005011,RCC3,male,unknown,72-year-old human stage,1,0.04391743522178305
+15,mature,progenitor cell,CL:0011026,RCC3,male,unknown,72-year-old human stage,38,1.668862538427756
+16,mature,epithelial cell of glomerular capsule,CL:1000450,RCC3,male,unknown,72-year-old human stage,1,0.04391743522178305
+17,mature,kidney connecting tubule epithelial cell,CL:1000768,RCC3,male,unknown,72-year-old human stage,3,0.13175230566534915
+18,mature,peritubular capillary endothelial cell,CL:1001033,RCC3,male,unknown,72-year-old human stage,8,0.3513394817742644
+19,mature,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,RCC3,male,unknown,72-year-old human stage,7,0.30742204655248134
+20,mature,vasa recta ascending limb cell,CL:1001131,RCC3,male,unknown,72-year-old human stage,12,0.5270092226613966
+21,mature,vasa recta descending limb cell,CL:1001285,RCC3,male,unknown,72-year-old human stage,16,0.7026789635485288

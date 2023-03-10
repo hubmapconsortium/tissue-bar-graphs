@@ -1,0 +1,36 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,HSC/immune cells (all hematopoietic-derived cells),native cell,CL:0000003,F61,male,unknown,Carnegie stage 20,458,2.3205147692151797
+1,HSC/immune cells (all hematopoietic-derived cells),hematopoietic stem cell,CL:0000037,F61,male,unknown,Carnegie stage 20,1018,5.157825404063434
+2,HSC/immune cells (all hematopoietic-derived cells),common myeloid progenitor,CL:0000049,F61,male,unknown,Carnegie stage 20,168,0.8511931904544764
+3,HSC/immune cells (all hematopoietic-derived cells),megakaryocyte-erythroid progenitor cell,CL:0000050,F61,male,unknown,Carnegie stage 20,861,4.362365101079192
+4,HSC/immune cells (all hematopoietic-derived cells),fibroblast,CL:0000057,F61,male,unknown,Carnegie stage 20,4,0.02026650453463039
+5,HSC/immune cells (all hematopoietic-derived cells),T cell,CL:0000084,F61,male,unknown,Carnegie stage 20,3,0.015199878400972791
+6,HSC/immune cells (all hematopoietic-derived cells),Kupffer cell,CL:0000091,F61,male,unknown,Carnegie stage 20,1206,6.110351117191063
+7,HSC/immune cells (all hematopoietic-derived cells),granulocyte,CL:0000094,F61,male,unknown,Carnegie stage 20,121,0.6130617621725694
+8,HSC/immune cells (all hematopoietic-derived cells),mast cell,CL:0000097,F61,male,unknown,Carnegie stage 20,86,0.4357298474945534
+9,HSC/immune cells (all hematopoietic-derived cells),erythrocyte,CL:0000232,F61,male,unknown,Carnegie stage 20,5556,28.15017479860161
+10,HSC/immune cells (all hematopoietic-derived cells),macrophage,CL:0000235,F61,male,unknown,Carnegie stage 20,4493,22.764351218523586
+11,HSC/immune cells (all hematopoietic-derived cells),vascular associated smooth muscle cell,CL:0000359,F61,male,unknown,Carnegie stage 20,4,0.02026650453463039
+12,HSC/immune cells (all hematopoietic-derived cells),dendritic cell,CL:0000451,F61,male,unknown,Carnegie stage 20,1383,7.007143942848456
+13,HSC/immune cells (all hematopoietic-derived cells),megakaryocyte,CL:0000556,F61,male,unknown,Carnegie stage 20,1369,6.936211176977252
+14,HSC/immune cells (all hematopoietic-derived cells),granulocyte monocyte progenitor cell,CL:0000557,F61,male,unknown,Carnegie stage 20,155,0.7853270507169277
+15,HSC/immune cells (all hematopoietic-derived cells),promonocyte,CL:0000559,F61,male,unknown,Carnegie stage 20,151,0.7650605461822971
+16,HSC/immune cells (all hematopoietic-derived cells),monocyte,CL:0000576,F61,male,unknown,Carnegie stage 20,477,2.4167806657546738
+17,HSC/immune cells (all hematopoietic-derived cells),natural killer cell,CL:0000623,F61,male,unknown,Carnegie stage 20,49,0.24826468054922227
+18,HSC/immune cells (all hematopoietic-derived cells),plasmacytoid dendritic cell,CL:0000784,F61,male,unknown,Carnegie stage 20,123,0.6231950144398845
+19,HSC/immune cells (all hematopoietic-derived cells),regulatory T cell,CL:0000815,F61,male,unknown,Carnegie stage 20,1,0.005066626133657597
+20,HSC/immune cells (all hematopoietic-derived cells),pro-B cell,CL:0000826,F61,male,unknown,Carnegie stage 20,35,0.17733191467801593
+21,HSC/immune cells (all hematopoietic-derived cells),promyelocyte,CL:0000836,F61,male,unknown,Carnegie stage 20,263,1.3325226731519482
+22,HSC/immune cells (all hematopoietic-derived cells),hematopoietic multipotent progenitor cell,CL:0000837,F61,male,unknown,Carnegie stage 20,970,4.914627349647869
+23,HSC/immune cells (all hematopoietic-derived cells),"CD8-alpha-alpha-positive, alpha-beta intraepithelial T cell",CL:0000915,F61,male,unknown,Carnegie stage 20,3,0.015199878400972791
+24,HSC/immune cells (all hematopoietic-derived cells),early lymphoid progenitor,CL:0000936,F61,male,unknown,Carnegie stage 20,369,1.8695850433196535
+25,HSC/immune cells (all hematopoietic-derived cells),small pre-B-II cell,CL:0000954,F61,male,unknown,Carnegie stage 20,3,0.015199878400972791
+26,HSC/immune cells (all hematopoietic-derived cells),large pre-B-II cell,CL:0000957,F61,male,unknown,Carnegie stage 20,76,0.38506358615797737
+27,HSC/immune cells (all hematopoietic-derived cells),common dendritic progenitor,CL:0001029,F61,male,unknown,Carnegie stage 20,3,0.015199878400972791
+28,HSC/immune cells (all hematopoietic-derived cells),innate lymphoid cell,CL:0001065,F61,male,unknown,Carnegie stage 20,4,0.02026650453463039
+29,HSC/immune cells (all hematopoietic-derived cells),group 2 innate lymphoid cell,CL:0001069,F61,male,unknown,Carnegie stage 20,1,0.005066626133657597
+30,HSC/immune cells (all hematopoietic-derived cells),group 3 innate lymphoid cell,CL:0001071,F61,male,unknown,Carnegie stage 20,41,0.2077316714799615
+31,HSC/immune cells (all hematopoietic-derived cells),pre-conventional dendritic cell,CL:0002010,F61,male,unknown,Carnegie stage 20,15,0.07599939200486397
+32,HSC/immune cells (all hematopoietic-derived cells),fraction A pre-pro B cell,CL:0002045,F61,male,unknown,Carnegie stage 20,245,1.2413234027461113
+33,HSC/immune cells (all hematopoietic-derived cells),myelocyte,CL:0002193,F61,male,unknown,Carnegie stage 20,1,0.005066626133657597
+34,HSC/immune cells (all hematopoietic-derived cells),double negative thymocyte,CL:0002489,F61,male,unknown,Carnegie stage 20,22,0.11146577494046714

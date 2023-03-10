@@ -1,0 +1,10 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Type I interferon autoantibodies are associated with systemic immune alterations in patients with COVID-19,B cell,CL:0000236,ICC_C_0002,unknown,unknown,human adult stage,51,15.36144578313253
+1,Type I interferon autoantibodies are associated with systemic immune alterations in patients with COVID-19,natural killer cell,CL:0000623,ICC_C_0002,unknown,unknown,human adult stage,39,11.74698795180723
+2,Type I interferon autoantibodies are associated with systemic immune alterations in patients with COVID-19,"CD4-positive, alpha-beta T cell",CL:0000624,ICC_C_0002,unknown,unknown,human adult stage,103,31.024096385542173
+3,Type I interferon autoantibodies are associated with systemic immune alterations in patients with COVID-19,"CD8-positive, alpha-beta T cell",CL:0000625,ICC_C_0002,unknown,unknown,human adult stage,49,14.759036144578314
+4,Type I interferon autoantibodies are associated with systemic immune alterations in patients with COVID-19,plasmacytoid dendritic cell,CL:0000784,ICC_C_0002,unknown,unknown,human adult stage,4,1.2048192771084338
+5,Type I interferon autoantibodies are associated with systemic immune alterations in patients with COVID-19,gamma-delta T cell,CL:0000798,ICC_C_0002,unknown,unknown,human adult stage,2,0.6024096385542169
+6,Type I interferon autoantibodies are associated with systemic immune alterations in patients with COVID-19,classical monocyte,CL:0000860,ICC_C_0002,unknown,unknown,human adult stage,60,18.072289156626507
+7,Type I interferon autoantibodies are associated with systemic immune alterations in patients with COVID-19,non-classical monocyte,CL:0000875,ICC_C_0002,unknown,unknown,human adult stage,11,3.313253012048193
+8,Type I interferon autoantibodies are associated with systemic immune alterations in patients with COVID-19,conventional dendritic cell,CL:0000990,ICC_C_0002,unknown,unknown,human adult stage,13,3.91566265060241

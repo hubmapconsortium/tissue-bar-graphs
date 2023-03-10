@@ -1,0 +1,43 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Colon,macrophage,CL:0000235,390c,female,unknown,65-79 year-old human stage,7,1.202749140893471
+1,Colon,T-helper 1 cell,CL:0000545,390c,female,unknown,65-79 year-old human stage,3,0.5154639175257731
+2,Colon,monocyte,CL:0000576,390c,female,unknown,65-79 year-old human stage,1,0.1718213058419244
+3,Colon,natural killer cell,CL:0000623,390c,female,unknown,65-79 year-old human stage,1,0.1718213058419244
+4,Colon,"CD8-positive, alpha-beta T cell",CL:0000625,390c,female,unknown,65-79 year-old human stage,33,5.670103092783505
+5,Colon,memory B cell,CL:0000787,390c,female,unknown,65-79 year-old human stage,22,3.7800687285223367
+6,Colon,gamma-delta T cell,CL:0000798,390c,female,unknown,65-79 year-old human stage,20,3.436426116838488
+7,Colon,memory T cell,CL:0000813,390c,female,unknown,65-79 year-old human stage,2,0.3436426116838488
+8,Colon,regulatory T cell,CL:0000815,390c,female,unknown,65-79 year-old human stage,3,0.5154639175257731
+9,Colon,follicular B cell,CL:0000843,390c,female,unknown,65-79 year-old human stage,17,2.9209621993127146
+10,Colon,IgA plasma cell,CL:0000987,390c,female,unknown,65-79 year-old human stage,5,0.859106529209622
+11,Colon,innate lymphoid cell,CL:0001065,390c,female,unknown,65-79 year-old human stage,2,0.3436426116838488
+12,Colon,colon macrophage,CL:0009038,390c,female,unknown,65-79 year-old human stage,2,0.3436426116838488
+13,Colon,mast cell,CL:0000097,390c,female,unknown,65-79 year-old human stage,1,0.1718213058419244
+14,Colon,macrophage,CL:0000235,390c,female,unknown,65-79 year-old human stage,2,0.3436426116838488
+15,Colon,B cell,CL:0000236,390c,female,unknown,65-79 year-old human stage,1,0.1718213058419244
+16,Colon,T-helper 1 cell,CL:0000545,390c,female,unknown,65-79 year-old human stage,6,1.0309278350515463
+17,Colon,natural killer cell,CL:0000623,390c,female,unknown,65-79 year-old human stage,4,0.6872852233676976
+18,Colon,"CD8-positive, alpha-beta T cell",CL:0000625,390c,female,unknown,65-79 year-old human stage,25,4.29553264604811
+19,Colon,memory B cell,CL:0000787,390c,female,unknown,65-79 year-old human stage,37,6.357388316151202
+20,Colon,gamma-delta T cell,CL:0000798,390c,female,unknown,65-79 year-old human stage,48,8.24742268041237
+21,Colon,memory T cell,CL:0000813,390c,female,unknown,65-79 year-old human stage,3,0.5154639175257731
+22,Colon,regulatory T cell,CL:0000815,390c,female,unknown,65-79 year-old human stage,18,3.0927835051546393
+23,Colon,follicular B cell,CL:0000843,390c,female,unknown,65-79 year-old human stage,8,1.3745704467353952
+24,Colon,T-helper 17 cell,CL:0000899,390c,female,unknown,65-79 year-old human stage,3,0.5154639175257731
+25,Colon,IgA plasma cell,CL:0000987,390c,female,unknown,65-79 year-old human stage,48,8.24742268041237
+26,Colon,conventional dendritic cell,CL:0000990,390c,female,unknown,65-79 year-old human stage,2,0.3436426116838488
+27,Colon,innate lymphoid cell,CL:0001065,390c,female,unknown,65-79 year-old human stage,4,0.6872852233676976
+28,Colon,colon macrophage,CL:0009038,390c,female,unknown,65-79 year-old human stage,3,0.5154639175257731
+29,Colon,mast cell,CL:0000097,390c,female,unknown,65-79 year-old human stage,10,1.718213058419244
+30,Colon,macrophage,CL:0000235,390c,female,unknown,65-79 year-old human stage,1,0.1718213058419244
+31,Colon,B cell,CL:0000236,390c,female,unknown,65-79 year-old human stage,3,0.5154639175257731
+32,Colon,natural killer cell,CL:0000623,390c,female,unknown,65-79 year-old human stage,3,0.5154639175257731
+33,Colon,"CD8-positive, alpha-beta T cell",CL:0000625,390c,female,unknown,65-79 year-old human stage,25,4.29553264604811
+34,Colon,memory B cell,CL:0000787,390c,female,unknown,65-79 year-old human stage,8,1.3745704467353952
+35,Colon,gamma-delta T cell,CL:0000798,390c,female,unknown,65-79 year-old human stage,28,4.810996563573884
+36,Colon,memory T cell,CL:0000813,390c,female,unknown,65-79 year-old human stage,5,0.859106529209622
+37,Colon,regulatory T cell,CL:0000815,390c,female,unknown,65-79 year-old human stage,3,0.5154639175257731
+38,Colon,follicular B cell,CL:0000843,390c,female,unknown,65-79 year-old human stage,2,0.3436426116838488
+39,Colon,IgA plasma cell,CL:0000987,390c,female,unknown,65-79 year-old human stage,155,26.632302405498283
+40,Colon,innate lymphoid cell,CL:0001065,390c,female,unknown,65-79 year-old human stage,3,0.5154639175257731
+41,Colon,colon macrophage,CL:0009038,390c,female,unknown,65-79 year-old human stage,5,0.859106529209622
