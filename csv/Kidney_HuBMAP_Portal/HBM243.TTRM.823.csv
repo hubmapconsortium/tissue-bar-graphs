@@ -1,31 +1,28 @@
-,cell_type,donor_id,age,bmi,sex,race,count,percentage
-0,Afferent / Efferent Arteriole Endothelial,HBM796.VGTX.823,14.0,18.5,Female,White,16,0.438356
-1,Ascending Thin Limb,HBM796.VGTX.823,14.0,18.5,Female,White,33,0.90411
-2,Ascending Vasa Recta Endothelial,HBM796.VGTX.823,14.0,18.5,Female,White,112,3.06849
-3,Connecting Tubule,HBM796.VGTX.823,14.0,18.5,Female,White,105,2.87671
-4,Connecting Tubule Principal,HBM796.VGTX.823,14.0,18.5,Female,White,1,0.0273973
-5,Cortical Collecting Duct Intercalated Type A,HBM796.VGTX.823,14.0,18.5,Female,White,1,0.0273973
-6,Cortical Collecting Duct Principal,HBM796.VGTX.823,14.0,18.5,Female,White,34,0.931507
-7,Cortical Thick Ascending Limb,HBM796.VGTX.823,14.0,18.5,Female,White,411,11.2603
-8,Descending Thin Limb Type 1,HBM796.VGTX.823,14.0,18.5,Female,White,695,19.0411
-9,Descending Thin Limb Type 2,HBM796.VGTX.823,14.0,18.5,Female,White,30,0.821918
-10,Descending Thin Limb Type 3,HBM796.VGTX.823,14.0,18.5,Female,White,10,0.273973
-11,Descending Vasa Recta Endothelial ,HBM796.VGTX.823,14.0,18.5,Female,White,37,1.0137
-12,Distal Convoluted Tubule Type 1,HBM796.VGTX.823,14.0,18.5,Female,White,142,3.89041
-13,Fibroblast,HBM796.VGTX.823,14.0,18.5,Female,White,31,0.849315
-14,Glomerular Capillary Endothelial,HBM796.VGTX.823,14.0,18.5,Female,White,1,0.0273973
-15,Inner Medullary Collecting Duct,HBM796.VGTX.823,14.0,18.5,Female,White,348,9.53425
-16,Intercalated Type B,HBM796.VGTX.823,14.0,18.5,Female,White,9,0.246575
-17,Lymphatic Endothelial,HBM796.VGTX.823,14.0,18.5,Female,White,1,0.0273973
-18,M2 Macrophage,HBM796.VGTX.823,14.0,18.5,Female,White,49,1.34247
-19,Macula Densa,HBM796.VGTX.823,14.0,18.5,Female,White,15,0.410959
-20,Medullary Fibroblast,HBM796.VGTX.823,14.0,18.5,Female,White,229,6.27397
-21,Medullary Thick Ascending Limb,HBM796.VGTX.823,14.0,18.5,Female,White,1223,33.5068
-22,Mesangial,HBM796.VGTX.823,14.0,18.5,Female,White,1,0.0273973
-23,Outer Medullary Collecting Duct Intercalated Type A,HBM796.VGTX.823,14.0,18.5,Female,White,47,1.28767
-24,Papillary Tip Epithelial,HBM796.VGTX.823,14.0,18.5,Female,White,1,0.0273973
-25,Parietal Epithelial,HBM796.VGTX.823,14.0,18.5,Female,White,15,0.410959
-26,Peritubular Capilary Endothelial ,HBM796.VGTX.823,14.0,18.5,Female,White,41,1.12329
-27,Plasma,HBM796.VGTX.823,14.0,18.5,Female,White,1,0.0273973
-28,Plasmacytoid Dendritic,HBM796.VGTX.823,14.0,18.5,Female,White,1,0.0273973
-29,Vascular Smooth Muscle / Pericyte,HBM796.VGTX.823,14.0,18.5,Female,White,10,0.273973
+"","cell_type","count"
+"1","Afferent / Efferent Arteriole Endothelial",14
+"2","Ascending Thin Limb",31
+"3","Ascending Vasa Recta Endothelial",113
+"4","Connecting Tubule",51
+"5","Connecting Tubule Principal",1
+"6","Cortical Collecting Duct Intercalated Type A",27
+"7","Cortical Collecting Duct Principal",39
+"8","Cortical Thick Ascending Limb",347
+"9","Descending Thin Limb Type 1",644
+"10","Descending Thin Limb Type 2",13
+"11","Descending Thin Limb Type 3",22
+"12","Descending Vasa Recta Endothelial ",41
+"13","Distal Convoluted Tubule Type 1",109
+"14","Fibroblast",19
+"15","Glomerular Capillary Endothelial",1
+"16","Inner Medullary Collecting Duct",599
+"17","Intercalated Type B",4
+"18","Lymphatic Endothelial",1
+"19","M2 Macrophage",31
+"20","Macula Densa",12
+"21","Medullary Fibroblast",242
+"22","Medullary Thick Ascending Limb",1228
+"23","Outer Medullary Collecting Duct Intercalated Type A",10
+"24","Outer Medullary Collecting Duct Principal",2
+"25","Parietal Epithelial",9
+"26","Peritubular Capilary Endothelial ",34
+"27","Vascular Smooth Muscle / Pericyte",6

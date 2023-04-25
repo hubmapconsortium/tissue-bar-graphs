@@ -1,22 +1,17 @@
-,cell_type,donor_id,age,bmi,sex,race,count,percentage
-0,Ascending Thin Limb,HBM825.GBHD.667,,,,,46,0.418334
-1,Ascending Vasa Recta Endothelial,HBM825.GBHD.667,,,,,4,0.0363769
-2,Connecting Tubule,HBM825.GBHD.667,,,,,1940,17.6428
-3,Cortical Collecting Duct Principal,HBM825.GBHD.667,,,,,54,0.491088
-4,Descending Thin Limb Type 1,HBM825.GBHD.667,,,,,5251,47.7537
-5,Descending Thin Limb Type 2,HBM825.GBHD.667,,,,,7,0.0636595
-6,Descending Thin Limb Type 3,HBM825.GBHD.667,,,,,44,0.400146
-7,Distal Convoluted Tubule Type 1,HBM825.GBHD.667,,,,,1,0.00909422
-8,Fibroblast,HBM825.GBHD.667,,,,,11,0.100036
-9,Glomerular Capillary Endothelial,HBM825.GBHD.667,,,,,1,0.00909422
-10,Inner Medullary Collecting Duct,HBM825.GBHD.667,,,,,3344,30.4111
-11,Intercalated Type B,HBM825.GBHD.667,,,,,7,0.0636595
-12,M2 Macrophage,HBM825.GBHD.667,,,,,1,0.00909422
-13,Macula Densa,HBM825.GBHD.667,,,,,1,0.00909422
-14,Medullary Fibroblast,HBM825.GBHD.667,,,,,237,2.15533
-15,Medullary Thick Ascending Limb,HBM825.GBHD.667,,,,,2,0.0181884
-16,Mesangial,HBM825.GBHD.667,,,,,16,0.145507
-17,Papillary Tip Epithelial,HBM825.GBHD.667,,,,,1,0.00909422
-18,Parietal Epithelial,HBM825.GBHD.667,,,,,24,0.218261
-19,Peritubular Capilary Endothelial ,HBM825.GBHD.667,,,,,1,0.00909422
-20,Vascular Smooth Muscle / Pericyte,HBM825.GBHD.667,,,,,3,0.0272826
+"","cell_type","count"
+"1","Ascending Thin Limb",53
+"2","Ascending Vasa Recta Endothelial",5
+"3","Connecting Tubule",1158
+"4","Cortical Collecting Duct Principal",92
+"5","Descending Thin Limb Type 1",4974
+"6","Descending Thin Limb Type 2",10
+"7","Descending Thin Limb Type 3",43
+"8","Distal Convoluted Tubule Type 1",2
+"9","Fibroblast",10
+"10","Glomerular Capillary Endothelial",1
+"11","Inner Medullary Collecting Duct",4233
+"12","Medullary Fibroblast",377
+"13","Medullary Thick Ascending Limb",12
+"14","Papillary Tip Epithelial",2
+"15","Parietal Epithelial",21
+"16","Vascular Smooth Muscle / Pericyte",3

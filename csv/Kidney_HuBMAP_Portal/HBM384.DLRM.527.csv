@@ -1,34 +1,34 @@
-,cell_type,donor_id,age,bmi,sex,race,count,percentage
-0,Afferent / Efferent Arteriole Endothelial,HBM275.NCXJ.869,,,,,5,0.100523
-1,Ascending Thin Limb,HBM275.NCXJ.869,,,,,45,0.904704
-2,Ascending Vasa Recta Endothelial,HBM275.NCXJ.869,,,,,5,0.100523
-3,Connecting Tubule,HBM275.NCXJ.869,,,,,603,12.123
-4,Cortical Collecting Duct Intercalated Type A,HBM275.NCXJ.869,,,,,52,1.04544
-5,Cortical Collecting Duct Principal,HBM275.NCXJ.869,,,,,53,1.06554
-6,Cortical Thick Ascending Limb,HBM275.NCXJ.869,,,,,283,5.68959
-7,Cortical Vascular Smooth Muscle / Pericyte,HBM275.NCXJ.869,,,,,2,0.0402091
-8,Descending Thin Limb Type 1,HBM275.NCXJ.869,,,,,201,4.04101
-9,Descending Thin Limb Type 2,HBM275.NCXJ.869,,,,,126,2.53317
-10,Descending Thin Limb Type 3,HBM275.NCXJ.869,,,,,7,0.140732
-11,Descending Vasa Recta Endothelial ,HBM275.NCXJ.869,,,,,14,0.281464
-12,Distal Convoluted Tubule Type 1,HBM275.NCXJ.869,,,,,1214,24.4069
-13,Fibroblast,HBM275.NCXJ.869,,,,,49,0.985123
-14,Glomerular Capillary Endothelial,HBM275.NCXJ.869,,,,,17,0.341777
-15,Inner Medullary Collecting Duct,HBM275.NCXJ.869,,,,,201,4.04101
-16,Intercalated Type B,HBM275.NCXJ.869,,,,,19,0.381986
-17,Lymphatic Endothelial,HBM275.NCXJ.869,,,,,1,0.0201045
-18,M2 Macrophage,HBM275.NCXJ.869,,,,,5,0.100523
-19,Macula Densa,HBM275.NCXJ.869,,,,,38,0.763973
-20,Medullary Fibroblast,HBM275.NCXJ.869,,,,,8,0.160836
-21,Medullary Thick Ascending Limb,HBM275.NCXJ.869,,,,,941,18.9184
-22,Mesangial,HBM275.NCXJ.869,,,,,23,0.462405
-23,Outer Medullary Collecting Duct Intercalated Type A,HBM275.NCXJ.869,,,,,7,0.140732
-24,Outer Medullary Collecting Duct Principal,HBM275.NCXJ.869,,,,,30,0.603136
-25,Parietal Epithelial,HBM275.NCXJ.869,,,,,9,0.180941
-26,Peritubular Capilary Endothelial ,HBM275.NCXJ.869,,,,,42,0.844391
-27,Podocyte,HBM275.NCXJ.869,,,,,29,0.583032
-28,Proximal Tubule Epithelial Segment 1,HBM275.NCXJ.869,,,,,493,9.91154
-29,Proximal Tubule Epithelial Segment 2,HBM275.NCXJ.869,,,,,3,0.0603136
-30,Proximal Tubule Epithelial Segment 3,HBM275.NCXJ.869,,,,,440,8.846
-31,Schwann / Neural,HBM275.NCXJ.869,,,,,1,0.0201045
-32,Vascular Smooth Muscle / Pericyte,HBM275.NCXJ.869,,,,,8,0.160836
+"","cell_type","count"
+"1","Afferent / Efferent Arteriole Endothelial",1
+"2","Ascending Thin Limb",38
+"3","Ascending Vasa Recta Endothelial",6
+"4","Connecting Tubule",214
+"5","Connecting Tubule Principal",1
+"6","Cortical Collecting Duct Intercalated Type A",55
+"7","Cortical Collecting Duct Principal",72
+"8","Cortical Thick Ascending Limb",266
+"9","Cortical Vascular Smooth Muscle / Pericyte",1
+"10","Descending Thin Limb Type 1",189
+"11","Descending Thin Limb Type 2",131
+"12","Descending Thin Limb Type 3",37
+"13","Descending Vasa Recta Endothelial ",7
+"14","Distal Convoluted Tubule Type 1",595
+"15","Fibroblast",44
+"16","Glomerular Capillary Endothelial",21
+"17","Inner Medullary Collecting Duct",1548
+"18","Intercalated Type B",15
+"19","M2 Macrophage",3
+"20","Macula Densa",16
+"21","Medullary Fibroblast",11
+"22","Medullary Thick Ascending Limb",782
+"23","Mesangial",2
+"24","Outer Medullary Collecting Duct Intercalated Type A",4
+"25","Outer Medullary Collecting Duct Principal",9
+"26","Parietal Epithelial",4
+"27","Peritubular Capilary Endothelial ",35
+"28","Podocyte",19
+"29","Proximal Tubule Epithelial Segment 1",449
+"30","Proximal Tubule Epithelial Segment 2",5
+"31","Proximal Tubule Epithelial Segment 3",387
+"32","T",1
+"33","Vascular Smooth Muscle / Pericyte",6

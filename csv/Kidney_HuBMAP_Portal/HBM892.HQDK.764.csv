@@ -1,28 +1,32 @@
-,cell_type,donor_id,age,bmi,sex,race,count,percentage
-0,Ascending Thin Limb,HBM984.MHHN.738,66.0,29.1,Male,White,311,3.74383
-1,Ascending Vasa Recta Endothelial,HBM984.MHHN.738,66.0,29.1,Male,White,41,0.49356
-2,Connecting Tubule,HBM984.MHHN.738,66.0,29.1,Male,White,2592,31.2026
-3,Cortical Collecting Duct Principal,HBM984.MHHN.738,66.0,29.1,Male,White,545,6.56073
-4,Cortical Thick Ascending Limb,HBM984.MHHN.738,66.0,29.1,Male,White,1,0.012038
-5,Cortical Vascular Smooth Muscle / Pericyte,HBM984.MHHN.738,66.0,29.1,Male,White,6,0.0722282
-6,Descending Thin Limb Type 1,HBM984.MHHN.738,66.0,29.1,Male,White,2756,33.1768
-7,Descending Thin Limb Type 2,HBM984.MHHN.738,66.0,29.1,Male,White,7,0.0842663
-8,Descending Thin Limb Type 3,HBM984.MHHN.738,66.0,29.1,Male,White,101,1.21584
-9,Descending Vasa Recta Endothelial ,HBM984.MHHN.738,66.0,29.1,Male,White,56,0.67413
-10,Distal Convoluted Tubule Type 1,HBM984.MHHN.738,66.0,29.1,Male,White,20,0.240761
-11,Fibroblast,HBM984.MHHN.738,66.0,29.1,Male,White,16,0.192609
-12,Inner Medullary Collecting Duct,HBM984.MHHN.738,66.0,29.1,Male,White,1440,17.3348
-13,Intercalated Type B,HBM984.MHHN.738,66.0,29.1,Male,White,2,0.0240761
-14,M2 Macrophage,HBM984.MHHN.738,66.0,29.1,Male,White,17,0.204647
-15,Medullary Fibroblast,HBM984.MHHN.738,66.0,29.1,Male,White,277,3.33454
-16,Mesangial,HBM984.MHHN.738,66.0,29.1,Male,White,10,0.12038
-17,Monocyte-derived,HBM984.MHHN.738,66.0,29.1,Male,White,2,0.0240761
-18,Non-classical monocyte,HBM984.MHHN.738,66.0,29.1,Male,White,1,0.012038
-19,Outer Medullary Collecting Duct Intercalated Type A,HBM984.MHHN.738,66.0,29.1,Male,White,18,0.216685
-20,Papillary Tip Epithelial,HBM984.MHHN.738,66.0,29.1,Male,White,21,0.252799
-21,Parietal Epithelial,HBM984.MHHN.738,66.0,29.1,Male,White,50,0.601902
-22,Peritubular Capilary Endothelial ,HBM984.MHHN.738,66.0,29.1,Male,White,3,0.0361141
-23,Podocyte,HBM984.MHHN.738,66.0,29.1,Male,White,1,0.012038
-24,Proximal Tubule Epithelial Segment 3,HBM984.MHHN.738,66.0,29.1,Male,White,3,0.0361141
-25,Schwann / Neural,HBM984.MHHN.738,66.0,29.1,Male,White,1,0.012038
-26,Vascular Smooth Muscle / Pericyte,HBM984.MHHN.738,66.0,29.1,Male,White,9,0.108342
+"","cell_type","count"
+"1","Afferent / Efferent Arteriole Endothelial",1
+"2","Ascending Thin Limb",278
+"3","Ascending Vasa Recta Endothelial",39
+"4","Connecting Tubule",2078
+"5","Connecting Tubule Principal",2
+"6","Cortical Collecting Duct Intercalated Type A",4
+"7","Cortical Collecting Duct Principal",710
+"8","Cortical Thick Ascending Limb",1
+"9","Cortical Vascular Smooth Muscle / Pericyte",7
+"10","Cycling Mononuclear Phagocyte",3
+"11","Descending Thin Limb Type 1",3092
+"12","Descending Thin Limb Type 2",20
+"13","Descending Thin Limb Type 3",86
+"14","Descending Vasa Recta Endothelial ",50
+"15","Fibroblast",8
+"16","Glomerular Capillary Endothelial",1
+"17","Inner Medullary Collecting Duct",1462
+"18","Intercalated Type B",1
+"19","M2 Macrophage",16
+"20","Macula Densa",19
+"21","Medullary Fibroblast",277
+"22","Medullary Thick Ascending Limb",46
+"23","Mesangial",1
+"24","Monocyte-derived",2
+"25","Outer Medullary Collecting Duct Intercalated Type A",17
+"26","Papillary Tip Epithelial",68
+"27","Parietal Epithelial",4
+"28","Peritubular Capilary Endothelial ",1
+"29","Proximal Tubule Epithelial Segment 1",3
+"30","Proximal Tubule Epithelial Segment 3",1
+"31","Vascular Smooth Muscle / Pericyte",9

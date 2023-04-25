@@ -1,24 +1,29 @@
-,cell_type,donor_id,age,bmi,sex,race,count,percentage
-0,Ascending Thin Limb,HBM295.GHMR.582,54.0,38.6,Male,White,3,0.0942507
-1,Connecting Tubule,HBM295.GHMR.582,54.0,38.6,Male,White,1015,31.8882
-2,Connecting Tubule Principal,HBM295.GHMR.582,54.0,38.6,Male,White,36,1.13101
-3,Cortical Collecting Duct Intercalated Type A,HBM295.GHMR.582,54.0,38.6,Male,White,43,1.35093
-4,Cortical Collecting Duct Principal,HBM295.GHMR.582,54.0,38.6,Male,White,6,0.188501
-5,Cortical Thick Ascending Limb,HBM295.GHMR.582,54.0,38.6,Male,White,13,0.40842
-6,Descending Thin Limb Type 1,HBM295.GHMR.582,54.0,38.6,Male,White,6,0.188501
-7,Descending Thin Limb Type 2,HBM295.GHMR.582,54.0,38.6,Male,White,102,3.20452
-8,Distal Convoluted Tubule Type 1,HBM295.GHMR.582,54.0,38.6,Male,White,881,27.6783
-9,Distal Convoluted Tubule Type 2,HBM295.GHMR.582,54.0,38.6,Male,White,6,0.188501
-10,Fibroblast,HBM295.GHMR.582,54.0,38.6,Male,White,1,0.0314169
-11,Glomerular Capillary Endothelial,HBM295.GHMR.582,54.0,38.6,Male,White,1,0.0314169
-12,Inner Medullary Collecting Duct,HBM295.GHMR.582,54.0,38.6,Male,White,258,8.10556
-13,Intercalated Type B,HBM295.GHMR.582,54.0,38.6,Male,White,11,0.345586
-14,M2 Macrophage,HBM295.GHMR.582,54.0,38.6,Male,White,1,0.0314169
-15,Medullary Thick Ascending Limb,HBM295.GHMR.582,54.0,38.6,Male,White,4,0.125668
-16,Outer Medullary Collecting Duct Intercalated Type A,HBM295.GHMR.582,54.0,38.6,Male,White,27,0.848256
-17,Parietal Epithelial,HBM295.GHMR.582,54.0,38.6,Male,White,3,0.0942507
-18,Peritubular Capilary Endothelial ,HBM295.GHMR.582,54.0,38.6,Male,White,26,0.816839
-19,Podocyte,HBM295.GHMR.582,54.0,38.6,Male,White,2,0.0628338
-20,Proximal Tubule Epithelial Segment 1,HBM295.GHMR.582,54.0,38.6,Male,White,664,20.8608
-21,Proximal Tubule Epithelial Segment 3,HBM295.GHMR.582,54.0,38.6,Male,White,73,2.29343
-22,T,HBM295.GHMR.582,54.0,38.6,Male,White,1,0.0314169
+"","cell_type","count"
+"1","Afferent / Efferent Arteriole Endothelial",1
+"2","Ascending Thin Limb",2
+"3","Ascending Vasa Recta Endothelial",1
+"4","Connecting Tubule",749
+"5","Connecting Tubule Principal",28
+"6","Cortical Collecting Duct Intercalated Type A",175
+"7","Cortical Collecting Duct Principal",96
+"8","Cortical Thick Ascending Limb",15
+"9","Descending Thin Limb Type 1",1
+"10","Descending Thin Limb Type 2",86
+"11","Distal Convoluted Tubule Type 1",641
+"12","Distal Convoluted Tubule Type 2",6
+"13","Fibroblast",2
+"14","Glomerular Capillary Endothelial",1
+"15","Inner Medullary Collecting Duct",465
+"16","Intercalated Type B",2
+"17","M2 Macrophage",1
+"18","Macula Densa",1
+"19","Medullary Thick Ascending Limb",147
+"20","Outer Medullary Collecting Duct Intercalated Type A",21
+"21","Outer Medullary Collecting Duct Principal",2
+"22","Parietal Epithelial",1
+"23","Peritubular Capilary Endothelial ",27
+"24","Podocyte",1
+"25","Proximal Tubule Epithelial Segment 1",646
+"26","Proximal Tubule Epithelial Segment 2",1
+"27","Proximal Tubule Epithelial Segment 3",63
+"28","T",1

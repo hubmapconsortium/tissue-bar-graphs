@@ -1,16 +1,13 @@
-,cell_type,donor_id,age,bmi,sex,race,count,percentage
-0,Connecting Tubule,HBM375.PJSC.682,59.0,23.1,Female,White,696,9.94712
-1,Connecting Tubule Principal,HBM375.PJSC.682,59.0,23.1,Female,White,12,0.171502
-2,Cortical Vascular Smooth Muscle / Pericyte,HBM375.PJSC.682,59.0,23.1,Female,White,13,0.185794
-3,Descending Thin Limb Type 1,HBM375.PJSC.682,59.0,23.1,Female,White,638,9.11819
-4,Distal Convoluted Tubule Type 1,HBM375.PJSC.682,59.0,23.1,Female,White,23,0.328712
-5,Fibroblast,HBM375.PJSC.682,59.0,23.1,Female,White,1167,16.6786
-6,Inner Medullary Collecting Duct,HBM375.PJSC.682,59.0,23.1,Female,White,3406,48.678
-7,Lymphatic Endothelial,HBM375.PJSC.682,59.0,23.1,Female,White,17,0.242961
-8,M2 Macrophage,HBM375.PJSC.682,59.0,23.1,Female,White,123,1.7579
-9,Mast,HBM375.PJSC.682,59.0,23.1,Female,White,3,0.0428755
-10,Medullary Fibroblast,HBM375.PJSC.682,59.0,23.1,Female,White,501,7.16021
-11,Papillary Tip Epithelial,HBM375.PJSC.682,59.0,23.1,Female,White,361,5.15935
-12,Parietal Epithelial,HBM375.PJSC.682,59.0,23.1,Female,White,1,0.0142918
-13,Renin-positive Juxtaglomerular Granular,HBM375.PJSC.682,59.0,23.1,Female,White,1,0.0142918
-14,Vascular Smooth Muscle / Pericyte,HBM375.PJSC.682,59.0,23.1,Female,White,35,0.500214
+"","cell_type","count"
+"1","Connecting Tubule",946
+"2","Connecting Tubule Principal",12
+"3","Cortical Collecting Duct Principal",1
+"4","Cortical Vascular Smooth Muscle / Pericyte",15
+"5","Descending Thin Limb Type 1",473
+"6","Fibroblast",1111
+"7","Inner Medullary Collecting Duct",3385
+"8","M2 Macrophage",125
+"9","Macula Densa",1
+"10","Medullary Fibroblast",571
+"11","Papillary Tip Epithelial",353
+"12","Vascular Smooth Muscle / Pericyte",4

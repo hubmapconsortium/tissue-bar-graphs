@@ -1,40 +1,36 @@
-,cell_type,donor_id,age,bmi,sex,race,count,percentage
-0,Afferent / Efferent Arteriole Endothelial,HBM277.XCLT.589,63.0,36.5,Female,White,2,0.032113
-1,Ascending Thin Limb,HBM277.XCLT.589,63.0,36.5,Female,White,6,0.0963391
-2,Ascending Vasa Recta Endothelial,HBM277.XCLT.589,63.0,36.5,Female,White,1,0.0160565
-3,B,HBM277.XCLT.589,63.0,36.5,Female,White,9,0.144509
-4,Connecting Tubule,HBM277.XCLT.589,63.0,36.5,Female,White,2077,33.3494
-5,Connecting Tubule Intercalated Type A,HBM277.XCLT.589,63.0,36.5,Female,White,1,0.0160565
-6,Connecting Tubule Principal,HBM277.XCLT.589,63.0,36.5,Female,White,5,0.0802826
-7,Cortical Collecting Duct Intercalated Type A,HBM277.XCLT.589,63.0,36.5,Female,White,151,2.42453
-8,Cortical Collecting Duct Principal,HBM277.XCLT.589,63.0,36.5,Female,White,113,1.81439
-9,Cortical Thick Ascending Limb,HBM277.XCLT.589,63.0,36.5,Female,White,126,2.02312
-10,Cortical Vascular Smooth Muscle / Pericyte,HBM277.XCLT.589,63.0,36.5,Female,White,1,0.0160565
-11,Descending Thin Limb Type 1,HBM277.XCLT.589,63.0,36.5,Female,White,200,3.2113
-12,Descending Thin Limb Type 2,HBM277.XCLT.589,63.0,36.5,Female,White,129,2.07129
-13,Descending Thin Limb Type 3,HBM277.XCLT.589,63.0,36.5,Female,White,6,0.0963391
-14,Descending Vasa Recta Endothelial ,HBM277.XCLT.589,63.0,36.5,Female,White,1,0.0160565
-15,Distal Convoluted Tubule Type 1,HBM277.XCLT.589,63.0,36.5,Female,White,1255,20.1509
-16,Distal Convoluted Tubule Type 2,HBM277.XCLT.589,63.0,36.5,Female,White,2,0.032113
-17,Fibroblast,HBM277.XCLT.589,63.0,36.5,Female,White,51,0.818882
-18,Glomerular Capillary Endothelial,HBM277.XCLT.589,63.0,36.5,Female,White,8,0.128452
-19,Inner Medullary Collecting Duct,HBM277.XCLT.589,63.0,36.5,Female,White,243,3.90173
-20,Intercalated Type B,HBM277.XCLT.589,63.0,36.5,Female,White,86,1.38086
-21,Lymphatic Endothelial,HBM277.XCLT.589,63.0,36.5,Female,White,2,0.032113
-22,M2 Macrophage,HBM277.XCLT.589,63.0,36.5,Female,White,60,0.963391
-23,Macula Densa,HBM277.XCLT.589,63.0,36.5,Female,White,147,2.36031
-24,Mast,HBM277.XCLT.589,63.0,36.5,Female,White,4,0.0642261
-25,Medullary Thick Ascending Limb,HBM277.XCLT.589,63.0,36.5,Female,White,166,2.66538
-26,Monocyte-derived,HBM277.XCLT.589,63.0,36.5,Female,White,28,0.449583
-27,Outer Medullary Collecting Duct Intercalated Type A,HBM277.XCLT.589,63.0,36.5,Female,White,14,0.224791
-28,Outer Medullary Collecting Duct Principal,HBM277.XCLT.589,63.0,36.5,Female,White,28,0.449583
-29,Parietal Epithelial,HBM277.XCLT.589,63.0,36.5,Female,White,11,0.176622
-30,Peritubular Capilary Endothelial ,HBM277.XCLT.589,63.0,36.5,Female,White,127,2.03918
-31,Plasma,HBM277.XCLT.589,63.0,36.5,Female,White,34,0.545922
-32,Plasmacytoid Dendritic,HBM277.XCLT.589,63.0,36.5,Female,White,1,0.0160565
-33,Podocyte,HBM277.XCLT.589,63.0,36.5,Female,White,34,0.545922
-34,Proximal Tubule Epithelial Segment 1,HBM277.XCLT.589,63.0,36.5,Female,White,505,8.10854
-35,Proximal Tubule Epithelial Segment 2,HBM277.XCLT.589,63.0,36.5,Female,White,3,0.0481696
-36,Proximal Tubule Epithelial Segment 3,HBM277.XCLT.589,63.0,36.5,Female,White,388,6.22993
-37,T,HBM277.XCLT.589,63.0,36.5,Female,White,192,3.08285
-38,Vascular Smooth Muscle / Pericyte,HBM277.XCLT.589,63.0,36.5,Female,White,11,0.176622
+"","cell_type","count"
+"1","Afferent / Efferent Arteriole Endothelial",1
+"2","Ascending Thin Limb",8
+"3","Ascending Vasa Recta Endothelial",1
+"4","B",1
+"5","Connecting Tubule",1459
+"6","Connecting Tubule Principal",98
+"7","Cortical Collecting Duct Intercalated Type A",142
+"8","Cortical Collecting Duct Principal",94
+"9","Cortical Thick Ascending Limb",79
+"10","Descending Thin Limb Type 1",894
+"11","Descending Thin Limb Type 2",167
+"12","Descending Thin Limb Type 3",4
+"13","Descending Vasa Recta Endothelial ",1
+"14","Distal Convoluted Tubule Type 1",784
+"15","Fibroblast",45
+"16","Glomerular Capillary Endothelial",8
+"17","Inner Medullary Collecting Duct",761
+"18","Intercalated Type B",93
+"19","M2 Macrophage",66
+"20","Macula Densa",22
+"21","Medullary Fibroblast",2
+"22","Medullary Thick Ascending Limb",264
+"23","Monocyte-derived",4
+"24","Outer Medullary Collecting Duct Intercalated Type A",4
+"25","Outer Medullary Collecting Duct Principal",15
+"26","Parietal Epithelial",1
+"27","Peritubular Capilary Endothelial ",134
+"28","Plasma",5
+"29","Plasmacytoid Dendritic",1
+"30","Podocyte",30
+"31","Proximal Tubule Epithelial Segment 1",509
+"32","Proximal Tubule Epithelial Segment 2",1
+"33","Proximal Tubule Epithelial Segment 3",363
+"34","T",157
+"35","Vascular Smooth Muscle / Pericyte",10

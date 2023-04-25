@@ -1,34 +1,32 @@
-,cell_type,donor_id,age,bmi,sex,race,count,percentage
-0,Afferent / Efferent Arteriole Endothelial,HBM375.PJSC.682,59.0,23.1,Female,White,2,0.0204061
-1,Ascending Thin Limb,HBM375.PJSC.682,59.0,23.1,Female,White,50,0.510152
-2,Ascending Vasa Recta Endothelial,HBM375.PJSC.682,59.0,23.1,Female,White,1,0.010203
-3,Connecting Tubule,HBM375.PJSC.682,59.0,23.1,Female,White,3665,37.3941
-4,Cortical Collecting Duct Principal,HBM375.PJSC.682,59.0,23.1,Female,White,557,5.68309
-5,Cortical Thick Ascending Limb,HBM375.PJSC.682,59.0,23.1,Female,White,10,0.10203
-6,Cortical Vascular Smooth Muscle / Pericyte,HBM375.PJSC.682,59.0,23.1,Female,White,3,0.0306091
-7,Descending Thin Limb Type 1,HBM375.PJSC.682,59.0,23.1,Female,White,280,2.85685
-8,Descending Thin Limb Type 2,HBM375.PJSC.682,59.0,23.1,Female,White,2,0.0204061
-9,Descending Thin Limb Type 3,HBM375.PJSC.682,59.0,23.1,Female,White,20,0.204061
-10,Descending Vasa Recta Endothelial ,HBM375.PJSC.682,59.0,23.1,Female,White,9,0.0918274
-11,Fibroblast,HBM375.PJSC.682,59.0,23.1,Female,White,32,0.326497
-12,Inner Medullary Collecting Duct,HBM375.PJSC.682,59.0,23.1,Female,White,1137,11.6009
-13,Intercalated Type B,HBM375.PJSC.682,59.0,23.1,Female,White,30,0.306091
-14,Lymphatic Endothelial,HBM375.PJSC.682,59.0,23.1,Female,White,2,0.0204061
-15,M2 Macrophage,HBM375.PJSC.682,59.0,23.1,Female,White,3,0.0306091
-16,Macula Densa,HBM375.PJSC.682,59.0,23.1,Female,White,3,0.0306091
-17,Medullary Fibroblast,HBM375.PJSC.682,59.0,23.1,Female,White,254,2.59157
-18,Medullary Thick Ascending Limb,HBM375.PJSC.682,59.0,23.1,Female,White,3602,36.7514
-19,Mesangial,HBM375.PJSC.682,59.0,23.1,Female,White,23,0.23467
-20,Monocyte-derived,HBM375.PJSC.682,59.0,23.1,Female,White,1,0.010203
-21,Neutrophil,HBM375.PJSC.682,59.0,23.1,Female,White,1,0.010203
-22,Outer Medullary Collecting Duct Intercalated Type A,HBM375.PJSC.682,59.0,23.1,Female,White,8,0.0816243
-23,Outer Medullary Collecting Duct Principal,HBM375.PJSC.682,59.0,23.1,Female,White,2,0.0204061
-24,Papillary Tip Epithelial,HBM375.PJSC.682,59.0,23.1,Female,White,53,0.540761
-25,Parietal Epithelial,HBM375.PJSC.682,59.0,23.1,Female,White,25,0.255076
-26,Peritubular Capilary Endothelial ,HBM375.PJSC.682,59.0,23.1,Female,White,3,0.0306091
-27,Plasma,HBM375.PJSC.682,59.0,23.1,Female,White,2,0.0204061
-28,Proximal Tubule Epithelial Segment 1,HBM375.PJSC.682,59.0,23.1,Female,White,1,0.010203
-29,Proximal Tubule Epithelial Segment 3,HBM375.PJSC.682,59.0,23.1,Female,White,6,0.0612182
-30,Renin-positive Juxtaglomerular Granular,HBM375.PJSC.682,59.0,23.1,Female,White,1,0.010203
-31,Schwann / Neural,HBM375.PJSC.682,59.0,23.1,Female,White,2,0.0204061
-32,Vascular Smooth Muscle / Pericyte,HBM375.PJSC.682,59.0,23.1,Female,White,11,0.112233
+"","cell_type","count"
+"1","Afferent / Efferent Arteriole Endothelial",1
+"2","Ascending Thin Limb",48
+"3","Ascending Vasa Recta Endothelial",4
+"4","Connecting Tubule",1807
+"5","Connecting Tubule Principal",3
+"6","Cortical Collecting Duct Intercalated Type A",12
+"7","Cortical Collecting Duct Principal",570
+"8","Cortical Thick Ascending Limb",14
+"9","Cortical Vascular Smooth Muscle / Pericyte",1
+"10","Descending Thin Limb Type 1",337
+"11","Descending Thin Limb Type 2",10
+"12","Descending Thin Limb Type 3",23
+"13","Descending Vasa Recta Endothelial ",10
+"14","Distal Convoluted Tubule Type 1",4
+"15","Fibroblast",45
+"16","Inner Medullary Collecting Duct",953
+"17","Intercalated Type B",4
+"18","M2 Macrophage",2
+"19","Macula Densa",5
+"20","Medullary Fibroblast",307
+"21","Medullary Thick Ascending Limb",5523
+"22","Mesangial",2
+"23","Neutrophil",1
+"24","Outer Medullary Collecting Duct Intercalated Type A",9
+"25","Outer Medullary Collecting Duct Principal",4
+"26","Papillary Tip Epithelial",60
+"27","Parietal Epithelial",17
+"28","Peritubular Capilary Endothelial ",1
+"29","Proximal Tubule Epithelial Segment 3",10
+"30","Renin-positive Juxtaglomerular Granular",1
+"31","Vascular Smooth Muscle / Pericyte",13

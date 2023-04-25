@@ -1,35 +1,33 @@
-,cell_type,donor_id,age,bmi,sex,race,count,percentage
-0,Afferent / Efferent Arteriole Endothelial,HBM735.QDFT.264,67.0,32.5,Male,White,2,0.050226
-1,Ascending Thin Limb,HBM735.QDFT.264,67.0,32.5,Male,White,8,0.200904
-2,Ascending Vasa Recta Endothelial,HBM735.QDFT.264,67.0,32.5,Male,White,12,0.301356
-3,B,HBM735.QDFT.264,67.0,32.5,Male,White,1,0.025113
-4,Connecting Tubule,HBM735.QDFT.264,67.0,32.5,Male,White,472,11.8533
-5,Connecting Tubule Principal,HBM735.QDFT.264,67.0,32.5,Male,White,2,0.050226
-6,Cortical Collecting Duct Intercalated Type A,HBM735.QDFT.264,67.0,32.5,Male,White,33,0.828729
-7,Cortical Collecting Duct Principal,HBM735.QDFT.264,67.0,32.5,Male,White,120,3.01356
-8,Cortical Thick Ascending Limb,HBM735.QDFT.264,67.0,32.5,Male,White,735,18.4581
-9,Cortical Vascular Smooth Muscle / Pericyte,HBM735.QDFT.264,67.0,32.5,Male,White,1,0.025113
-10,Descending Thin Limb Type 1,HBM735.QDFT.264,67.0,32.5,Male,White,1139,28.6037
-11,Descending Thin Limb Type 2,HBM735.QDFT.264,67.0,32.5,Male,White,31,0.778503
-12,Descending Thin Limb Type 3,HBM735.QDFT.264,67.0,32.5,Male,White,1,0.025113
-13,Descending Vasa Recta Endothelial ,HBM735.QDFT.264,67.0,32.5,Male,White,21,0.527373
-14,Distal Convoluted Tubule Type 1,HBM735.QDFT.264,67.0,32.5,Male,White,126,3.16424
-15,Fibroblast,HBM735.QDFT.264,67.0,32.5,Male,White,2,0.050226
-16,Glomerular Capillary Endothelial,HBM735.QDFT.264,67.0,32.5,Male,White,7,0.175791
-17,Inner Medullary Collecting Duct,HBM735.QDFT.264,67.0,32.5,Male,White,454,11.4013
-18,Intercalated Type B,HBM735.QDFT.264,67.0,32.5,Male,White,5,0.125565
-19,M2 Macrophage,HBM735.QDFT.264,67.0,32.5,Male,White,1,0.025113
-20,Macula Densa,HBM735.QDFT.264,67.0,32.5,Male,White,114,2.86288
-21,Medullary Fibroblast,HBM735.QDFT.264,67.0,32.5,Male,White,6,0.150678
-22,Medullary Thick Ascending Limb,HBM735.QDFT.264,67.0,32.5,Male,White,542,13.6113
-23,Mesangial,HBM735.QDFT.264,67.0,32.5,Male,White,1,0.025113
-24,Non-classical monocyte,HBM735.QDFT.264,67.0,32.5,Male,White,1,0.025113
-25,Outer Medullary Collecting Duct Intercalated Type A,HBM735.QDFT.264,67.0,32.5,Male,White,17,0.426921
-26,Outer Medullary Collecting Duct Principal,HBM735.QDFT.264,67.0,32.5,Male,White,1,0.025113
-27,Parietal Epithelial,HBM735.QDFT.264,67.0,32.5,Male,White,1,0.025113
-28,Peritubular Capilary Endothelial ,HBM735.QDFT.264,67.0,32.5,Male,White,24,0.602712
-29,Plasma,HBM735.QDFT.264,67.0,32.5,Male,White,1,0.025113
-30,Podocyte,HBM735.QDFT.264,67.0,32.5,Male,White,33,0.828729
-31,Proximal Tubule Epithelial Segment 1,HBM735.QDFT.264,67.0,32.5,Male,White,55,1.38122
-32,Proximal Tubule Epithelial Segment 3,HBM735.QDFT.264,67.0,32.5,Male,White,12,0.301356
-33,Vascular Smooth Muscle / Pericyte,HBM735.QDFT.264,67.0,32.5,Male,White,1,0.025113
+"","cell_type","count"
+"1","Afferent / Efferent Arteriole Endothelial",2
+"2","Ascending Thin Limb",9
+"3","Ascending Vasa Recta Endothelial",18
+"4","B",1
+"5","Connecting Tubule",78
+"6","Connecting Tubule Principal",5
+"7","Cortical Collecting Duct Intercalated Type A",33
+"8","Cortical Collecting Duct Principal",138
+"9","Cortical Thick Ascending Limb",797
+"10","Cortical Vascular Smooth Muscle / Pericyte",1
+"11","Descending Thin Limb Type 1",981
+"12","Descending Thin Limb Type 2",33
+"13","Descending Thin Limb Type 3",4
+"14","Descending Vasa Recta Endothelial ",21
+"15","Distal Convoluted Tubule Type 1",49
+"16","Fibroblast",1
+"17","Glomerular Capillary Endothelial",8
+"18","Inner Medullary Collecting Duct",1082
+"19","Intercalated Type B",3
+"20","Macula Densa",32
+"21","Medullary Fibroblast",6
+"22","Medullary Thick Ascending Limb",547
+"23","Non-classical monocyte",1
+"24","Outer Medullary Collecting Duct Intercalated Type A",18
+"25","Outer Medullary Collecting Duct Principal",3
+"26","Parietal Epithelial",1
+"27","Peritubular Capilary Endothelial ",20
+"28","Podocyte",28
+"29","Proximal Tubule Epithelial Segment 1",48
+"30","Proximal Tubule Epithelial Segment 2",1
+"31","Proximal Tubule Epithelial Segment 3",11
+"32","Vascular Smooth Muscle / Pericyte",2

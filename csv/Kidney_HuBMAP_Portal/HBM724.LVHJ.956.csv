@@ -1,9 +1,9 @@
-,cell_type,donor_id,age,bmi,sex,race,count,percentage
-0,Connecting Tubule,HBM377.WFTZ.879,,,,,302,3.77547
-1,Cortical Collecting Duct Principal,HBM377.WFTZ.879,,,,,182,2.27528
-2,Cortical Vascular Smooth Muscle / Pericyte,HBM377.WFTZ.879,,,,,1,0.0125016
-3,Descending Thin Limb Type 1,HBM377.WFTZ.879,,,,,47,0.587573
-4,Fibroblast,HBM377.WFTZ.879,,,,,30,0.375047
-5,Inner Medullary Collecting Duct,HBM377.WFTZ.879,,,,,7317,91.4739
-6,Medullary Fibroblast,HBM377.WFTZ.879,,,,,4,0.0500063
-7,Papillary Tip Epithelial,HBM377.WFTZ.879,,,,,116,1.45018
+"","cell_type","count"
+"1","Connecting Tubule",51
+"2","Cortical Collecting Duct Principal",1
+"3","Cortical Vascular Smooth Muscle / Pericyte",1
+"4","Descending Thin Limb Type 1",798
+"5","Fibroblast",8
+"6","Inner Medullary Collecting Duct",6859
+"7","Medullary Fibroblast",23
+"8","Papillary Tip Epithelial",258

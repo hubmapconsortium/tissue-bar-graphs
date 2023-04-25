@@ -1,32 +1,31 @@
-,cell_type,donor_id,age,bmi,sex,race,count,percentage
-0,Afferent / Efferent Arteriole Endothelial,HBM735.QDFT.264,67.0,32.5,Male,White,26,0.371482
-1,Ascending Thin Limb,HBM735.QDFT.264,67.0,32.5,Male,White,4,0.057151
-2,Connecting Tubule,HBM735.QDFT.264,67.0,32.5,Male,White,1226,17.5168
-3,Connecting Tubule Principal,HBM735.QDFT.264,67.0,32.5,Male,White,77,1.10016
-4,Cortical Collecting Duct Principal,HBM735.QDFT.264,67.0,32.5,Male,White,7,0.100014
-5,Cortical Vascular Smooth Muscle / Pericyte,HBM735.QDFT.264,67.0,32.5,Male,White,133,1.90027
-6,Descending Thin Limb Type 1,HBM735.QDFT.264,67.0,32.5,Male,White,40,0.57151
-7,Descending Thin Limb Type 2,HBM735.QDFT.264,67.0,32.5,Male,White,1,0.0142878
-8,Descending Vasa Recta Endothelial ,HBM735.QDFT.264,67.0,32.5,Male,White,3,0.0428633
-9,Distal Convoluted Tubule Type 1,HBM735.QDFT.264,67.0,32.5,Male,White,372,5.31505
-10,Fibroblast,HBM735.QDFT.264,67.0,32.5,Male,White,697,9.95857
-11,Inner Medullary Collecting Duct,HBM735.QDFT.264,67.0,32.5,Male,White,3753,53.6219
-12,Intercalated Type B,HBM735.QDFT.264,67.0,32.5,Male,White,1,0.0142878
-13,Lymphatic Endothelial,HBM735.QDFT.264,67.0,32.5,Male,White,9,0.12859
-14,M2 Macrophage,HBM735.QDFT.264,67.0,32.5,Male,White,278,3.972
-15,Macula Densa,HBM735.QDFT.264,67.0,32.5,Male,White,2,0.0285755
-16,Mast,HBM735.QDFT.264,67.0,32.5,Male,White,56,0.800114
-17,Medullary Fibroblast,HBM735.QDFT.264,67.0,32.5,Male,White,217,3.10044
-18,Mesangial,HBM735.QDFT.264,67.0,32.5,Male,White,7,0.100014
-19,Monocyte-derived,HBM735.QDFT.264,67.0,32.5,Male,White,3,0.0428633
-20,Neutrophil,HBM735.QDFT.264,67.0,32.5,Male,White,4,0.057151
-21,Non-classical monocyte,HBM735.QDFT.264,67.0,32.5,Male,White,1,0.0142878
-22,Outer Medullary Collecting Duct Intercalated Type A,HBM735.QDFT.264,67.0,32.5,Male,White,2,0.0285755
-23,Papillary Tip Epithelial,HBM735.QDFT.264,67.0,32.5,Male,White,53,0.757251
-24,Parietal Epithelial,HBM735.QDFT.264,67.0,32.5,Male,White,1,0.0142878
-25,Peritubular Capilary Endothelial ,HBM735.QDFT.264,67.0,32.5,Male,White,4,0.057151
-26,Plasma,HBM735.QDFT.264,67.0,32.5,Male,White,4,0.057151
-27,Podocyte,HBM735.QDFT.264,67.0,32.5,Male,White,1,0.0142878
-28,Schwann / Neural,HBM735.QDFT.264,67.0,32.5,Male,White,3,0.0428633
-29,T,HBM735.QDFT.264,67.0,32.5,Male,White,1,0.0142878
-30,Vascular Smooth Muscle / Pericyte,HBM735.QDFT.264,67.0,32.5,Male,White,13,0.185741
+"","cell_type","count"
+"1","Afferent / Efferent Arteriole Endothelial",27
+"2","Ascending Thin Limb",4
+"3","B",2
+"4","Connecting Tubule",1644
+"5","Connecting Tubule Principal",76
+"6","Cortical Collecting Duct Intercalated Type A",15
+"7","Cortical Collecting Duct Principal",5
+"8","Cortical Vascular Smooth Muscle / Pericyte",118
+"9","Descending Thin Limb Type 1",453
+"10","Descending Thin Limb Type 2",1
+"11","Descending Vasa Recta Endothelial ",3
+"12","Distal Convoluted Tubule Type 1",1
+"13","Fibroblast",608
+"14","Inner Medullary Collecting Duct",3337
+"15","Intercalated Type B",6
+"16","Lymphatic Endothelial",14
+"17","M2 Macrophage",264
+"18","Macula Densa",1
+"19","Medullary Fibroblast",311
+"20","Mesangial",3
+"21","Monocyte-derived",6
+"22","Neutrophil",1
+"23","Non-classical monocyte",6
+"24","Outer Medullary Collecting Duct Intercalated Type A",11
+"25","Papillary Tip Epithelial",68
+"26","Peritubular Capilary Endothelial ",4
+"27","Plasma",1
+"28","Schwann / Neural",1
+"29","T",3
+"30","Vascular Smooth Muscle / Pericyte",5

@@ -1,15 +1,12 @@
-,cell_type,donor_id,age,bmi,sex,race,count,percentage
-0,Ascending Vasa Recta Endothelial,HBM833.LBTG.876,29.0,42.3,Male,White,1,0.199601
-1,Connecting Tubule,HBM833.LBTG.876,29.0,42.3,Male,White,28,5.58882
-2,Cortical Collecting Duct Principal,HBM833.LBTG.876,29.0,42.3,Male,White,39,7.78443
-3,Descending Thin Limb Type 1,HBM833.LBTG.876,29.0,42.3,Male,White,148,29.5409
-4,Descending Thin Limb Type 3,HBM833.LBTG.876,29.0,42.3,Male,White,3,0.598802
-5,Distal Convoluted Tubule Type 1,HBM833.LBTG.876,29.0,42.3,Male,White,5,0.998004
-6,Fibroblast,HBM833.LBTG.876,29.0,42.3,Male,White,3,0.598802
-7,Inner Medullary Collecting Duct,HBM833.LBTG.876,29.0,42.3,Male,White,231,46.1078
-8,Medullary Fibroblast,HBM833.LBTG.876,29.0,42.3,Male,White,32,6.38723
-9,Mesangial,HBM833.LBTG.876,29.0,42.3,Male,White,3,0.598802
-10,Non-classical monocyte,HBM833.LBTG.876,29.0,42.3,Male,White,2,0.399202
-11,Outer Medullary Collecting Duct Principal,HBM833.LBTG.876,29.0,42.3,Male,White,3,0.598802
-12,Papillary Tip Epithelial,HBM833.LBTG.876,29.0,42.3,Male,White,1,0.199601
-13,Parietal Epithelial,HBM833.LBTG.876,29.0,42.3,Male,White,2,0.399202
+"","cell_type","count"
+"1","Ascending Thin Limb",2
+"2","Ascending Vasa Recta Endothelial",3
+"3","Connecting Tubule",24
+"4","Cortical Collecting Duct Principal",38
+"5","Descending Thin Limb Type 1",150
+"6","Descending Thin Limb Type 3",1
+"7","Inner Medullary Collecting Duct",242
+"8","Medullary Fibroblast",36
+"9","Non-classical monocyte",2
+"10","Outer Medullary Collecting Duct Principal",2
+"11","Parietal Epithelial",1

@@ -1,39 +1,38 @@
-,cell_type,donor_id,age,bmi,sex,race,count,percentage
-0,Afferent / Efferent Arteriole Endothelial,HBM867.BLQJ.787,,,,,2,0.0166667
-1,Ascending Thin Limb,HBM867.BLQJ.787,,,,,8,0.0666667
-2,Ascending Vasa Recta Endothelial,HBM867.BLQJ.787,,,,,4,0.0333333
-3,Classical Dendritic,HBM867.BLQJ.787,,,,,1,0.00833333
-4,Connecting Tubule,HBM867.BLQJ.787,,,,,3620,30.1667
-5,Connecting Tubule Intercalated Type A,HBM867.BLQJ.787,,,,,3,0.025
-6,Connecting Tubule Principal,HBM867.BLQJ.787,,,,,14,0.116667
-7,Cortical Collecting Duct Intercalated Type A,HBM867.BLQJ.787,,,,,3,0.025
-8,Cortical Collecting Duct Principal,HBM867.BLQJ.787,,,,,71,0.591667
-9,Cortical Thick Ascending Limb,HBM867.BLQJ.787,,,,,234,1.95
-10,Cortical Vascular Smooth Muscle / Pericyte,HBM867.BLQJ.787,,,,,68,0.566667
-11,Descending Thin Limb Type 1,HBM867.BLQJ.787,,,,,1700,14.1667
-12,Descending Thin Limb Type 2,HBM867.BLQJ.787,,,,,196,1.63333
-13,Descending Thin Limb Type 3,HBM867.BLQJ.787,,,,,422,3.51667
-14,Descending Vasa Recta Endothelial ,HBM867.BLQJ.787,,,,,1,0.00833333
-15,Distal Convoluted Tubule Type 1,HBM867.BLQJ.787,,,,,1452,12.1
-16,Fibroblast,HBM867.BLQJ.787,,,,,2589,21.575
-17,Glomerular Capillary Endothelial,HBM867.BLQJ.787,,,,,21,0.175
-18,Inner Medullary Collecting Duct,HBM867.BLQJ.787,,,,,423,3.525
-19,Intercalated Type B,HBM867.BLQJ.787,,,,,1,0.00833333
-20,Lymphatic Endothelial,HBM867.BLQJ.787,,,,,2,0.0166667
-21,M2 Macrophage,HBM867.BLQJ.787,,,,,51,0.425
-22,Macula Densa,HBM867.BLQJ.787,,,,,164,1.36667
-23,Medullary Fibroblast,HBM867.BLQJ.787,,,,,34,0.283333
-24,Medullary Thick Ascending Limb,HBM867.BLQJ.787,,,,,603,5.025
-25,Mesangial,HBM867.BLQJ.787,,,,,53,0.441667
-26,Outer Medullary Collecting Duct Intercalated Type A,HBM867.BLQJ.787,,,,,18,0.15
-27,Papillary Tip Epithelial,HBM867.BLQJ.787,,,,,3,0.025
-28,Parietal Epithelial,HBM867.BLQJ.787,,,,,31,0.258333
-29,Peritubular Capilary Endothelial ,HBM867.BLQJ.787,,,,,3,0.025
-30,Plasma,HBM867.BLQJ.787,,,,,2,0.0166667
-31,Podocyte,HBM867.BLQJ.787,,,,,83,0.691667
-32,Proximal Tubule Epithelial Segment 1,HBM867.BLQJ.787,,,,,22,0.183333
-33,Proximal Tubule Epithelial Segment 3,HBM867.BLQJ.787,,,,,51,0.425
-34,Renin-positive Juxtaglomerular Granular,HBM867.BLQJ.787,,,,,1,0.00833333
-35,Schwann / Neural,HBM867.BLQJ.787,,,,,3,0.025
-36,T,HBM867.BLQJ.787,,,,,2,0.0166667
-37,Vascular Smooth Muscle / Pericyte,HBM867.BLQJ.787,,,,,41,0.341667
+"","cell_type","count"
+"1","Afferent / Efferent Arteriole Endothelial",3
+"2","Ascending Thin Limb",37
+"3","Ascending Vasa Recta Endothelial",11
+"4","B",2
+"5","Classical Dendritic",1
+"6","Connecting Tubule",2028
+"7","Connecting Tubule Principal",19
+"8","Cortical Collecting Duct Intercalated Type A",11
+"9","Cortical Collecting Duct Principal",93
+"10","Cortical Thick Ascending Limb",223
+"11","Cortical Vascular Smooth Muscle / Pericyte",60
+"12","Descending Thin Limb Type 1",2722
+"13","Descending Thin Limb Type 2",419
+"14","Descending Thin Limb Type 3",370
+"15","Descending Vasa Recta Endothelial ",1
+"16","Distal Convoluted Tubule Type 1",892
+"17","Fibroblast",2082
+"18","Glomerular Capillary Endothelial",15
+"19","Inner Medullary Collecting Duct",1919
+"20","Lymphatic Endothelial",2
+"21","M2 Macrophage",31
+"22","Macula Densa",243
+"23","Medullary Fibroblast",151
+"24","Medullary Thick Ascending Limb",380
+"25","Mesangial",8
+"26","Outer Medullary Collecting Duct Intercalated Type A",12
+"27","Outer Medullary Collecting Duct Principal",12
+"28","Papillary Tip Epithelial",18
+"29","Parietal Epithelial",12
+"30","Peritubular Capilary Endothelial ",2
+"31","Plasma",1
+"32","Podocyte",73
+"33","Proximal Tubule Epithelial Segment 1",33
+"34","Proximal Tubule Epithelial Segment 2",1
+"35","Proximal Tubule Epithelial Segment 3",76
+"36","Renin-positive Juxtaglomerular Granular",2
+"37","Vascular Smooth Muscle / Pericyte",35

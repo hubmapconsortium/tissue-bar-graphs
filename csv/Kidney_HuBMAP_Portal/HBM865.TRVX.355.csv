@@ -1,37 +1,38 @@
-,cell_type,donor_id,age,bmi,sex,race,count,percentage
-0,Afferent / Efferent Arteriole Endothelial,HBM773.MKPP.732,69.0,49.1,Female,White,2,0.0414594
-1,Ascending Thin Limb,HBM773.MKPP.732,69.0,49.1,Female,White,112,2.32172
-2,B,HBM773.MKPP.732,69.0,49.1,Female,White,1,0.0207297
-3,Connecting Tubule,HBM773.MKPP.732,69.0,49.1,Female,White,1688,34.9917
-4,Cortical Collecting Duct Intercalated Type A,HBM773.MKPP.732,69.0,49.1,Female,White,58,1.20232
-5,Cortical Collecting Duct Principal,HBM773.MKPP.732,69.0,49.1,Female,White,176,3.64842
-6,Cortical Thick Ascending Limb,HBM773.MKPP.732,69.0,49.1,Female,White,119,2.46683
-7,Cortical Vascular Smooth Muscle / Pericyte,HBM773.MKPP.732,69.0,49.1,Female,White,15,0.310945
-8,Descending Thin Limb Type 1,HBM773.MKPP.732,69.0,49.1,Female,White,29,0.601161
-9,Descending Thin Limb Type 2,HBM773.MKPP.732,69.0,49.1,Female,White,171,3.54478
-10,Descending Thin Limb Type 3,HBM773.MKPP.732,69.0,49.1,Female,White,5,0.103648
-11,Distal Convoluted Tubule Type 1,HBM773.MKPP.732,69.0,49.1,Female,White,401,8.3126
-12,Fibroblast,HBM773.MKPP.732,69.0,49.1,Female,White,11,0.228027
-13,Glomerular Capillary Endothelial,HBM773.MKPP.732,69.0,49.1,Female,White,12,0.248756
-14,Inner Medullary Collecting Duct,HBM773.MKPP.732,69.0,49.1,Female,White,246,5.0995
-15,Intercalated Type B,HBM773.MKPP.732,69.0,49.1,Female,White,5,0.103648
-16,Lymphatic Endothelial,HBM773.MKPP.732,69.0,49.1,Female,White,39,0.808458
-17,M2 Macrophage,HBM773.MKPP.732,69.0,49.1,Female,White,40,0.829187
-18,Macula Densa,HBM773.MKPP.732,69.0,49.1,Female,White,14,0.290216
-19,Medullary Fibroblast,HBM773.MKPP.732,69.0,49.1,Female,White,1,0.0207297
-20,Medullary Thick Ascending Limb,HBM773.MKPP.732,69.0,49.1,Female,White,809,16.7703
-21,Mesangial,HBM773.MKPP.732,69.0,49.1,Female,White,2,0.0414594
-22,Monocyte-derived,HBM773.MKPP.732,69.0,49.1,Female,White,1,0.0207297
-23,Natural Killer T,HBM773.MKPP.732,69.0,49.1,Female,White,12,0.248756
-24,Non-classical monocyte,HBM773.MKPP.732,69.0,49.1,Female,White,1,0.0207297
-25,Outer Medullary Collecting Duct Intercalated Type A,HBM773.MKPP.732,69.0,49.1,Female,White,173,3.58624
-26,Outer Medullary Collecting Duct Principal,HBM773.MKPP.732,69.0,49.1,Female,White,1,0.0207297
-27,Parietal Epithelial,HBM773.MKPP.732,69.0,49.1,Female,White,15,0.310945
-28,Peritubular Capilary Endothelial ,HBM773.MKPP.732,69.0,49.1,Female,White,164,3.39967
-29,Plasma,HBM773.MKPP.732,69.0,49.1,Female,White,2,0.0414594
-30,Podocyte,HBM773.MKPP.732,69.0,49.1,Female,White,76,1.57546
-31,Proximal Tubule Epithelial Segment 1,HBM773.MKPP.732,69.0,49.1,Female,White,294,6.09453
-32,Proximal Tubule Epithelial Segment 3,HBM773.MKPP.732,69.0,49.1,Female,White,95,1.96932
-33,Renin-positive Juxtaglomerular Granular,HBM773.MKPP.732,69.0,49.1,Female,White,1,0.0207297
-34,T,HBM773.MKPP.732,69.0,49.1,Female,White,16,0.331675
-35,Vascular Smooth Muscle / Pericyte,HBM773.MKPP.732,69.0,49.1,Female,White,17,0.352405
+"","cell_type","count"
+"1","Afferent / Efferent Arteriole Endothelial",3
+"2","Ascending Thin Limb",83
+"3","Ascending Vasa Recta Endothelial",2
+"4","B",1
+"5","Connecting Tubule",1168
+"6","Connecting Tubule Principal",1
+"7","Cortical Collecting Duct Intercalated Type A",60
+"8","Cortical Collecting Duct Principal",20
+"9","Cortical Thick Ascending Limb",99
+"10","Cortical Vascular Smooth Muscle / Pericyte",15
+"11","Descending Thin Limb Type 1",47
+"12","Descending Thin Limb Type 2",166
+"13","Descending Thin Limb Type 3",1
+"14","Descending Vasa Recta Endothelial ",2
+"15","Distal Convoluted Tubule Type 1",377
+"16","Fibroblast",7
+"17","Glomerular Capillary Endothelial",12
+"18","Inner Medullary Collecting Duct",1459
+"19","Intercalated Type B",5
+"20","Lymphatic Endothelial",6
+"21","M2 Macrophage",36
+"22","Macula Densa",15
+"23","Medullary Fibroblast",2
+"24","Medullary Thick Ascending Limb",408
+"25","Mesangial",2
+"26","Natural Killer T",9
+"27","Non-classical monocyte",1
+"28","Outer Medullary Collecting Duct Intercalated Type A",156
+"29","Outer Medullary Collecting Duct Principal",2
+"30","Papillary Tip Epithelial",1
+"31","Parietal Epithelial",8
+"32","Peritubular Capilary Endothelial ",166
+"33","Podocyte",53
+"34","Proximal Tubule Epithelial Segment 1",268
+"35","Proximal Tubule Epithelial Segment 3",132
+"36","T",17
+"37","Vascular Smooth Muscle / Pericyte",14

@@ -1,22 +1,24 @@
-,cell_type,donor_id,age,bmi,sex,race,count,percentage
-0,Ascending Thin Limb,HBM692.FRHS.655,,,,,69,4.6
-1,Ascending Vasa Recta Endothelial,HBM692.FRHS.655,,,,,12,0.8
-2,Connecting Tubule,HBM692.FRHS.655,,,,,271,18.0667
-3,Connecting Tubule Principal,HBM692.FRHS.655,,,,,1,0.0666667
-4,Cortical Collecting Duct Principal,HBM692.FRHS.655,,,,,68,4.53333
-5,Cortical Thick Ascending Limb,HBM692.FRHS.655,,,,,13,0.866667
-6,Descending Thin Limb Type 1,HBM692.FRHS.655,,,,,262,17.4667
-7,Descending Thin Limb Type 2,HBM692.FRHS.655,,,,,9,0.6
-8,Descending Thin Limb Type 3,HBM692.FRHS.655,,,,,7,0.466667
-9,Descending Vasa Recta Endothelial ,HBM692.FRHS.655,,,,,3,0.2
-10,Distal Convoluted Tubule Type 1,HBM692.FRHS.655,,,,,2,0.133333
-11,Inner Medullary Collecting Duct,HBM692.FRHS.655,,,,,316,21.0667
-12,M2 Macrophage,HBM692.FRHS.655,,,,,2,0.133333
-13,Macula Densa,HBM692.FRHS.655,,,,,2,0.133333
-14,Medullary Fibroblast,HBM692.FRHS.655,,,,,33,2.2
-15,Medullary Thick Ascending Limb,HBM692.FRHS.655,,,,,365,24.3333
-16,Outer Medullary Collecting Duct Intercalated Type A,HBM692.FRHS.655,,,,,34,2.26667
-17,Outer Medullary Collecting Duct Principal,HBM692.FRHS.655,,,,,19,1.26667
-18,Papillary Tip Epithelial,HBM692.FRHS.655,,,,,2,0.133333
-19,Parietal Epithelial,HBM692.FRHS.655,,,,,5,0.333333
-20,Vascular Smooth Muscle / Pericyte,HBM692.FRHS.655,,,,,5,0.333333
+"","cell_type","count"
+"1","Ascending Thin Limb",62
+"2","Ascending Vasa Recta Endothelial",11
+"3","Connecting Tubule",147
+"4","Cortical Collecting Duct Principal",72
+"5","Cortical Thick Ascending Limb",18
+"6","Descending Thin Limb Type 1",344
+"7","Descending Thin Limb Type 2",9
+"8","Descending Thin Limb Type 3",12
+"9","Descending Vasa Recta Endothelial ",3
+"10","Fibroblast",1
+"11","Inner Medullary Collecting Duct",141
+"12","Intercalated Type B",1
+"13","Lymphatic Endothelial",1
+"14","M2 Macrophage",2
+"15","Macula Densa",5
+"16","Medullary Fibroblast",31
+"17","Medullary Thick Ascending Limb",580
+"18","Natural Killer T",1
+"19","Outer Medullary Collecting Duct Intercalated Type A",34
+"20","Outer Medullary Collecting Duct Principal",13
+"21","Papillary Tip Epithelial",3
+"22","Parietal Epithelial",1
+"23","Vascular Smooth Muscle / Pericyte",8
