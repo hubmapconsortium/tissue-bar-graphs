@@ -1,7 +1,7 @@
 {
     "Small_Intestine_CxG_Portal": {
         "label": "Small Intestine CxG Portal (48 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Small_Intestine_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Small_Intestine_CxG_Portal",
         "datasets": [
             "ecfa4a1d-560f-4d7a-8e39-b232c13c543e_A29",
             "da72e8fd-808c-498b-9d43-898986930ee0_T110POS",
@@ -119,7 +119,7 @@
     },
     "Uterus_CxG_Portal": {
         "label": "Uterus CxG Portal (17 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Uterus_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Uterus_CxG_Portal",
         "datasets": [
             "1832f82c-cf47-488e-a22a-fe0a018b7c3e_A30",
             "1832f82c-cf47-488e-a22a-fe0a018b7c3e_SAMN15049045",
@@ -206,7 +206,7 @@
     },
     "Lymph_Node_HuBMAP_Portal": {
         "label": "Lymph Node HuBMAP Portal (2 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Lymph_Node_HuBMAP_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Lymph_Node_HuBMAP_Portal",
         "datasets": [
             "CODEX_Florida_19-003-lymph-node-R2",
             "CODEX_Florida_20-008-lymphnode10_righthalf"
@@ -278,7 +278,7 @@
     },
     "Skin_GTEx_Portal": {
         "label": "Skin GTEx Portal (3 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Skin_GTEx_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Skin_GTEx_Portal",
         "datasets": [
             "GTEX-1CAMR-5015",
             "GTEX-1HSMQ-5007",
@@ -351,7 +351,7 @@
     },
     "Thoracic_Lymph_Node_CxG_Portal": {
         "label": "Thoracic Lymph Node CxG Portal (12 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Thoracic_Lymph_Node_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Thoracic_Lymph_Node_CxG_Portal",
         "datasets": [
             "ecfa4a1d-560f-4d7a-8e39-b232c13c543e_A29",
             "ecfa4a1d-560f-4d7a-8e39-b232c13c543e_D496",
@@ -433,7 +433,7 @@
     },
     "Breast_GTEx_Portal": {
         "label": "Breast GTEx Portal (3 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Breast_GTEx_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Breast_GTEx_Portal",
         "datasets": [
             "GTEX-1CAMS-5015",
             "GTEX-1MCC2-5013",
@@ -506,7 +506,7 @@
     },
     "Large_Intestine_CxG_Portal": {
         "label": "Large Intestine CxG Portal (79 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Large_Intestine_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Large_Intestine_CxG_Portal",
         "datasets": [
             "ecfa4a1d-560f-4d7a-8e39-b232c13c543e_A29",
             "be15dae0-b9a2-4d03-87cd-219d72f8c72f_HTA11_7469",
@@ -655,7 +655,7 @@
     },
     "Lung_GTEx_Portal": {
         "label": "Lung GTEx Portal (3 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Lung_GTEx_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Lung_GTEx_Portal",
         "datasets": [
             "GTEX-15CHR-5005",
             "GTEX-13N11-5030",
@@ -728,7 +728,7 @@
     },
     "Eye_CxG_Portal": {
         "label": "Eye CxG Portal (79 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Eye_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Eye_CxG_Portal",
         "datasets": [
             "740d9613-224f-40d1-b4ad-6c78a1e12554_17D013",
             "badab625-4abc-414b-ac33-82eb695363e7_donor_1",
@@ -877,7 +877,7 @@
     },
     "Intestine_CxG_Portal": {
         "label": "Intestine CxG Portal (14 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Intestine_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Intestine_CxG_Portal",
         "datasets": [
             "610f6f26-dfd3-4920-b3cd-a7e14192c843_H27913",
             "5c706271-e86e-4b71-bbdc-1f222620a1bd_Donor14",
@@ -961,7 +961,7 @@
     },
     "Anterior_Part_Of_Tongue_CxG_Portal": {
         "label": "Anterior Part Of Tongue CxG Portal (2 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Anterior_Part_Of_Tongue_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Anterior_Part_Of_Tongue_CxG_Portal",
         "datasets": [
             "0b504a72-9d51-43f1-ae63-b880ac307bc5_TSP7",
             "0b504a72-9d51-43f1-ae63-b880ac307bc5_TSP14"
@@ -1033,7 +1033,7 @@
     },
     "Kidney_Blue_Lake": {
         "label": "Kidney Blue Lake (24 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Kidney_Blue_Lake",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Kidney_Blue_Lake",
         "datasets": [
             "HBM399.TFTQ.282",
             "HBM382.HNKL.447",
@@ -1127,7 +1127,7 @@
     },
     "Bone_Marrow_Azimuth": {
         "label": "Bone Marrow Azimuth (2 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Bone_Marrow_Azimuth",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Bone_Marrow_Azimuth",
         "datasets": [
             "celltype_l2",
             "celltype_l1"
@@ -1199,7 +1199,7 @@
     },
     "Omentum_CxG_Portal": {
         "label": "Omentum CxG Portal (7 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Omentum_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Omentum_CxG_Portal",
         "datasets": [
             "5c706271-e86e-4b71-bbdc-1f222620a1bd_Donor41",
             "ecfa4a1d-560f-4d7a-8e39-b232c13c543e_A35",
@@ -1276,7 +1276,7 @@
     },
     "Lung_Azimuth": {
         "label": "Lung Azimuth (8 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Lung_Azimuth",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Lung_Azimuth",
         "datasets": [
             "v1_annotation_l1",
             "v1_annotation_l2",
@@ -1354,7 +1354,7 @@
     },
     "Rectus_Abdominis_Muscle_CxG_Portal": {
         "label": "Rectus Abdominis Muscle CxG Portal (2 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Rectus_Abdominis_Muscle_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Rectus_Abdominis_Muscle_CxG_Portal",
         "datasets": [
             "0b504a72-9d51-43f1-ae63-b880ac307bc5_TSP2",
             "0b504a72-9d51-43f1-ae63-b880ac307bc5_TSP4"
@@ -1426,7 +1426,7 @@
     },
     "Brain_Motor_Cortex_NeMO_Data_Portal": {
         "label": "Brain Motor Cortex NeMO Data Portal (14 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Brain_Motor_Cortex_NeMO_Data_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Brain_Motor_Cortex_NeMO_Data_Portal",
         "datasets": [
             "10X160-7",
             "10X159-3",
@@ -1510,7 +1510,7 @@
     },
     "Skin_CxG_Portal": {
         "label": "Skin CxG Portal (95 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Skin_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Skin_CxG_Portal",
         "datasets": [
             "9da9de93-068f-448b-9979-bea96febcd88_F19",
             "84d834b8-d14a-4caa-9fba-e3a891f4661c_F19",
@@ -1675,7 +1675,7 @@
     },
     "Urinary_Bladder_CxG_Portal": {
         "label": "Urinary Bladder CxG Portal (6 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Urinary_Bladder_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Urinary_Bladder_CxG_Portal",
         "datasets": [
             "0b504a72-9d51-43f1-ae63-b880ac307bc5_TSP1",
             "0b504a72-9d51-43f1-ae63-b880ac307bc5_TSP2",
@@ -1751,7 +1751,7 @@
     },
     "Kidney_CxG_Portal": {
         "label": "Kidney CxG Portal (185 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Kidney_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Kidney_CxG_Portal",
         "datasets": [
             "a963dd1b-ee7e-42b3-8afe-0dac48b7d27f_20-687_N",
             "0217420c-b31d-4f92-8edf-c6d113573963_TxK2",
@@ -2006,7 +2006,7 @@
     },
     "Stomach_CxG_Portal": {
         "label": "Stomach CxG Portal (9 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Stomach_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Stomach_CxG_Portal",
         "datasets": [
             "610f6f26-dfd3-4920-b3cd-a7e14192c843_H27870",
             "5c706271-e86e-4b71-bbdc-1f222620a1bd_Donor17",
@@ -2085,7 +2085,7 @@
     },
     "Mammary_Gland_CxG_Portal": {
         "label": "Mammary Gland CxG Portal (1 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Mammary_Gland_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Mammary_Gland_CxG_Portal",
         "datasets": [
             "0b504a72-9d51-43f1-ae63-b880ac307bc5_TSP4"
         ],
@@ -2156,7 +2156,7 @@
     },
     "Endothelial_Cell_(Cell_Culture)_CxG_Portal": {
         "label": "Endothelial Cell (Cell Culture) CxG Portal (1 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Endothelial_Cell_(Cell_Culture)_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Endothelial_Cell_(Cell_Culture)_CxG_Portal",
         "datasets": [
             "591c028d-460a-441c-abaf-2c1fef359dba_HUVEC_donors"
         ],
@@ -2227,7 +2227,7 @@
     },
     "Motor_Cortex_Azimuth": {
         "label": "Motor Cortex Azimuth (4 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Motor_Cortex_Azimuth",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Motor_Cortex_Azimuth",
         "datasets": [
             "cross_species_cluster",
             "subclass",
@@ -2301,7 +2301,7 @@
     },
     "Esophagus_Muscularis_GTEx_Portal": {
         "label": "Esophagus Muscularis GTEx Portal (3 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Esophagus_Muscularis_GTEx_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Esophagus_Muscularis_GTEx_Portal",
         "datasets": [
             "GTEX-1HSMQ-5021",
             "GTEX-1ICG6-5014",
@@ -2374,7 +2374,7 @@
     },
     "Heart_GTEx_Portal": {
         "label": "Heart GTEx Portal (3 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Heart_GTEx_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Heart_GTEx_Portal",
         "datasets": [
             "GTEX-13N11-5002",
             "GTEX-1ICG6-5003",
@@ -2447,7 +2447,7 @@
     },
     "Tongue_CxG_Portal": {
         "label": "Tongue CxG Portal (1 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Tongue_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Tongue_CxG_Portal",
         "datasets": [
             "0b504a72-9d51-43f1-ae63-b880ac307bc5_TSP4"
         ],
@@ -2518,7 +2518,7 @@
     },
     "Pancreas_Azimuth": {
         "label": "Pancreas Azimuth (1 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Pancreas_Azimuth",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Pancreas_Azimuth",
         "datasets": [
             "annotation_l1"
         ],
@@ -2589,7 +2589,7 @@
     },
     "Heart_CxG_Portal": {
         "label": "Heart CxG Portal (182 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Heart_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Heart_CxG_Portal",
         "datasets": [
             "1dbe8849-c3b0-4b51-ac96-67541db10745_H7",
             "15d6eab3-920f-4eca-b5d0-7db37e33f889_H3",
@@ -2841,7 +2841,7 @@
     },
     "Liver_CxG_Portal": {
         "label": "Liver CxG Portal (130 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Liver_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Liver_CxG_Portal",
         "datasets": [
             "ecfa4a1d-560f-4d7a-8e39-b232c13c543e_A29",
             "5564bc1f-e92a-4073-922a-d6e8da2724db_F29",
@@ -3041,7 +3041,7 @@
     },
     "Muscle_Of_Pelvic_Diaphragm_CxG_Portal": {
         "label": "Muscle Of Pelvic Diaphragm CxG Portal (3 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Muscle_Of_Pelvic_Diaphragm_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Muscle_Of_Pelvic_Diaphragm_CxG_Portal",
         "datasets": [
             "0b504a72-9d51-43f1-ae63-b880ac307bc5_TSP2",
             "0b504a72-9d51-43f1-ae63-b880ac307bc5_TSP4",
@@ -3114,7 +3114,7 @@
     },
     "Skin_GE_Yingnan": {
         "label": "Skin GE Yingnan (240 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Skin_GE_Yingnan",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Skin_GE_Yingnan",
         "datasets": [
             "region1_layer10",
             "region3_layer3",
@@ -3424,7 +3424,7 @@
     },
     "Lung_CxG_Portal": {
         "label": "Lung CxG Portal (250 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Lung_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Lung_CxG_Portal",
         "datasets": [
             "8c252ce7-6fa8-4971-9986-8899831869ed_368C",
             "d084f1e1-42f1-4f65-8e5a-3ae93a05756c_483C",
@@ -3744,7 +3744,7 @@
     },
     "Spleen_CxG_Portal": {
         "label": "Spleen CxG Portal (99 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Spleen_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Spleen_CxG_Portal",
         "datasets": [
             "ecfa4a1d-560f-4d7a-8e39-b232c13c543e_A29",
             "5564bc1f-e92a-4073-922a-d6e8da2724db_F29",
@@ -3913,7 +3913,7 @@
     },
     "Bone_Marrow_CxG_Portal": {
         "label": "Bone Marrow CxG Portal (95 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Bone_Marrow_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Bone_Marrow_CxG_Portal",
         "datasets": [
             "ecfa4a1d-560f-4d7a-8e39-b232c13c543e_A29",
             "5564bc1f-e92a-4073-922a-d6e8da2724db_F29",
@@ -4078,7 +4078,7 @@
     },
     "Lung_HuBMAP_Portal": {
         "label": "Lung HuBMAP Portal (46 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Lung_HuBMAP_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Lung_HuBMAP_Portal",
         "datasets": [
             "HBM378.GFTQ.237",
             "HBM598.XDNT.535",
@@ -4194,7 +4194,7 @@
     },
     "Placenta_CxG_Portal": {
         "label": "Placenta CxG Portal (17 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Placenta_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Placenta_CxG_Portal",
         "datasets": [
             "605b0fa6-e441-4798-b6ef-8320836690f8_D8_fetus",
             "605b0fa6-e441-4798-b6ef-8320836690f8_D12_fetus",
@@ -4281,7 +4281,7 @@
     },
     "Skin_Soumya_et_al__paper": {
         "label": "Skin Soumya et al  paper (10 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Skin_Soumya_et_al__paper",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Skin_Soumya_et_al__paper",
         "datasets": [
             "HBM975.FVCG.922",
             "HBM238.ZKPC.934",
@@ -4361,7 +4361,7 @@
     },
     "Lymph_Node_CxG_Portal": {
         "label": "Lymph Node CxG Portal (28 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Lymph_Node_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Lymph_Node_CxG_Portal",
         "datasets": [
             "ecfa4a1d-560f-4d7a-8e39-b232c13c543e_A29",
             "d327cc3f-3ca1-465a-841a-25096aa3c2bb_302c",
@@ -4459,7 +4459,7 @@
     },
     "Tonsil_Azimuth": {
         "label": "Tonsil Azimuth (2 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Tonsil_Azimuth",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Tonsil_Azimuth",
         "datasets": [
             "celltype_l2",
             "celltype_l1"
@@ -4531,7 +4531,7 @@
     },
     "Mesenteric_Lymph_Node_CxG_Portal": {
         "label": "Mesenteric Lymph Node CxG Portal (6 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Mesenteric_Lymph_Node_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Mesenteric_Lymph_Node_CxG_Portal",
         "datasets": [
             "0b504a72-9d51-43f1-ae63-b880ac307bc5_TSP2",
             "49c2fee0-a4b4-49dd-bebe-f2d27ec77953_Control-069",
@@ -4607,7 +4607,7 @@
     },
     "PBMC_Azimuth": {
         "label": "PBMC Azimuth (3 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/PBMC_Azimuth",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/PBMC_Azimuth",
         "datasets": [
             "celltype_l2",
             "celltype_l3",
@@ -4680,7 +4680,7 @@
     },
     "Heart_Azimuth": {
         "label": "Heart Azimuth (2 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Heart_Azimuth",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Heart_Azimuth",
         "datasets": [
             "celltype_l2",
             "celltype_l1"
@@ -4752,7 +4752,7 @@
     },
     "Vasculature_CxG_Portal": {
         "label": "Vasculature CxG Portal (2 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Vasculature_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Vasculature_CxG_Portal",
         "datasets": [
             "0b504a72-9d51-43f1-ae63-b880ac307bc5_TSP2",
             "0b504a72-9d51-43f1-ae63-b880ac307bc5_TSP14"
@@ -4824,7 +4824,7 @@
     },
     "Adrenal_Gland_CxG_Portal": {
         "label": "Adrenal Gland CxG Portal (13 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Adrenal_Gland_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Adrenal_Gland_CxG_Portal",
         "datasets": [
             "5c706271-e86e-4b71-bbdc-1f222620a1bd_Donor5",
             "5c706271-e86e-4b71-bbdc-1f222620a1bd_Donor6",
@@ -4907,7 +4907,7 @@
     },
     "Muscle_Tissue_CxG_Portal": {
         "label": "Muscle Tissue CxG Portal (2 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Muscle_Tissue_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Muscle_Tissue_CxG_Portal",
         "datasets": [
             "0b504a72-9d51-43f1-ae63-b880ac307bc5_TSP1",
             "0b504a72-9d51-43f1-ae63-b880ac307bc5_TSP2"
@@ -4979,7 +4979,7 @@
     },
     "Prostate_GTEx_Portal": {
         "label": "Prostate GTEx Portal (4 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Prostate_GTEx_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Prostate_GTEx_Portal",
         "datasets": [
             "GTEX-12BJ1-5007",
             "GTEX-15CHR-5014",
@@ -5053,7 +5053,7 @@
     },
     "Epithelial_Cell_Of_Lung_(Cell_Culture)_CxG_Portal": {
         "label": "Epithelial Cell Of Lung (Cell Culture) CxG Portal (2 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Epithelial_Cell_Of_Lung_(Cell_Culture)_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Epithelial_Cell_Of_Lung_(Cell_Culture)_CxG_Portal",
         "datasets": [
             "a85c7061-9625-4271-b6b5-f3cd635137e3_Calu-3",
             "46300f98-3e1b-45d1-b7b6-683e28f5d50b_H1299"
@@ -5125,7 +5125,7 @@
     },
     "Adipose_Azimuth": {
         "label": "Adipose Azimuth (2 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Adipose_Azimuth",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Adipose_Azimuth",
         "datasets": [
             "celltype_l2",
             "celltype_l1"
@@ -5197,7 +5197,7 @@
     },
     "Pancreas_CxG_Portal": {
         "label": "Pancreas CxG Portal (54 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Pancreas_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Pancreas_CxG_Portal",
         "datasets": [
             "610f6f26-dfd3-4920-b3cd-a7e14192c843_H27870",
             "a42174a0-50be-42eb-84bd-9359e4269de0_HPAP049",
@@ -5321,7 +5321,7 @@
     },
     "Muscle_Organ_CxG_Portal": {
         "label": "Muscle Organ CxG Portal (10 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Muscle_Organ_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Muscle_Organ_CxG_Portal",
         "datasets": [
             "610f6f26-dfd3-4920-b3cd-a7e14192c843_H27634",
             "5c706271-e86e-4b71-bbdc-1f222620a1bd_Donor5",
@@ -5401,7 +5401,7 @@
     },
     "Fallopian_Tube_CxG_Portal": {
         "label": "Fallopian Tube CxG Portal (28 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Fallopian_Tube_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Fallopian_Tube_CxG_Portal",
         "datasets": [
             "dd31a0f0-3a4c-42ad-acc8-f223e7829ae2_donor_1",
             "b67ac525-77bf-4559-8d03-e1d2f7d8d3f6_D4_3295",
@@ -5499,7 +5499,7 @@
     },
     "Submandibular_Gland_CxG_Portal": {
         "label": "Submandibular Gland CxG Portal (1 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Submandibular_Gland_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Submandibular_Gland_CxG_Portal",
         "datasets": [
             "0b504a72-9d51-43f1-ae63-b880ac307bc5_TSP14"
         ],
@@ -5570,7 +5570,7 @@
     },
     "Heart_HuBMAP_Portal": {
         "label": "Heart HuBMAP Portal (16 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Heart_HuBMAP_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Heart_HuBMAP_Portal",
         "datasets": [
             "HBM656.TJNG.945",
             "HBM364.XLVH.839",
@@ -5656,7 +5656,7 @@
     },
     "Subcutaneous_Adipose_Tissue_CxG_Portal": {
         "label": "Subcutaneous Adipose Tissue CxG Portal (2 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Subcutaneous_Adipose_Tissue_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Subcutaneous_Adipose_Tissue_CxG_Portal",
         "datasets": [
             "0b504a72-9d51-43f1-ae63-b880ac307bc5_TSP14",
             "0b504a72-9d51-43f1-ae63-b880ac307bc5_TSP10"
@@ -5728,7 +5728,7 @@
     },
     "Kidney_Blue_Lake_Richard": {
         "label": "Kidney Blue Lake Richard (1 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Kidney_Blue_Lake_Richard",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Kidney_Blue_Lake_Richard",
         "datasets": [
             "richard_kidney_blue_lake"
         ],
@@ -5799,7 +5799,7 @@
     },
     "Cervical_Lymph_Node_CxG_Portal": {
         "label": "Cervical Lymph Node CxG Portal (1 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Cervical_Lymph_Node_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Cervical_Lymph_Node_CxG_Portal",
         "datasets": [
             "a8c0b8af-0d67-4b93-ac2d-4411dfffc9cd_Individual 4"
         ],
@@ -5870,7 +5870,7 @@
     },
     "Muscle_Of_Abdomen_CxG_Portal": {
         "label": "Muscle Of Abdomen CxG Portal (1 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Muscle_Of_Abdomen_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Muscle_Of_Abdomen_CxG_Portal",
         "datasets": [
             "0b504a72-9d51-43f1-ae63-b880ac307bc5_TSP14"
         ],
@@ -5941,7 +5941,7 @@
     },
     "Kidney_Azimuth": {
         "label": "Kidney Azimuth (3 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Kidney_Azimuth",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Kidney_Azimuth",
         "datasets": [
             "annotation_l1",
             "annotation_l2",
@@ -6014,7 +6014,7 @@
     },
     "Respiratory_System_CxG_Portal": {
         "label": "Respiratory System CxG Portal (19 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Respiratory_System_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Respiratory_System_CxG_Portal",
         "datasets": [
             "a129f68c-ef4d-49f2-bdbd-c983956162a8_NP39",
             "a129f68c-ef4d-49f2-bdbd-c983956162a8_NP38",
@@ -6103,7 +6103,7 @@
     },
     "Blood_Vasculature_CxG_Portal": {
         "label": "Blood Vasculature CxG Portal (8 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Blood_Vasculature_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Blood_Vasculature_CxG_Portal",
         "datasets": [
             "963bc3c9-d5cc-47c1-aab7-a2334bf8eb7a_DonorB",
             "963bc3c9-d5cc-47c1-aab7-a2334bf8eb7a_DonorA",
@@ -6181,7 +6181,7 @@
     },
     "Kidney_HuBMAP_Portal": {
         "label": "Kidney HuBMAP Portal (83 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Kidney_HuBMAP_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Kidney_HuBMAP_Portal",
         "datasets": [
             "HBM892.HQDK.764",
             "HBM537.GVTL.683",
@@ -6334,7 +6334,7 @@
     },
     "Intestine_Hickey_Omap": {
         "label": "Intestine Hickey Omap (64 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Intestine_Hickey_Omap",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Intestine_Hickey_Omap",
         "datasets": [
             "HBM424.STVV.842",
             "HBM845.VMSZ.536",
@@ -6468,7 +6468,7 @@
     },
     "Inguinal_Lymph_Node_CxG_Portal": {
         "label": "Inguinal Lymph Node CxG Portal (2 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Inguinal_Lymph_Node_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Inguinal_Lymph_Node_CxG_Portal",
         "datasets": [
             "0b504a72-9d51-43f1-ae63-b880ac307bc5_TSP2",
             "0b504a72-9d51-43f1-ae63-b880ac307bc5_TSP7"
@@ -6540,7 +6540,7 @@
     },
     "Skeletal_Muscle_GTEx_Portal": {
         "label": "Skeletal Muscle GTEx Portal (3 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Skeletal_Muscle_GTEx_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Skeletal_Muscle_GTEx_Portal",
         "datasets": [
             "GTEX-15RIE-5021",
             "GTEX-145ME-5018",
@@ -6613,7 +6613,7 @@
     },
     "Thymus_CxG_Portal": {
         "label": "Thymus CxG Portal (117 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Thymus_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Thymus_CxG_Portal",
         "datasets": [
             "ad462d51-5cc4-4244-bf70-44bb6184d06d_F64",
             "c72f2591-2b18-4f11-b5ca-74d121089d60_C41",
@@ -6800,7 +6800,7 @@
     },
     "Bronchopulmonary_Lymph_Node_CxG_Portal": {
         "label": "Bronchopulmonary Lymph Node CxG Portal (2 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Bronchopulmonary_Lymph_Node_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Bronchopulmonary_Lymph_Node_CxG_Portal",
         "datasets": [
             "963bc3c9-d5cc-47c1-aab7-a2334bf8eb7a_Donor2",
             "963bc3c9-d5cc-47c1-aab7-a2334bf8eb7a_Donor1"
@@ -6872,7 +6872,7 @@
     },
     "Skeletal_Muscle_Tissue_CxG_Portal": {
         "label": "Skeletal Muscle Tissue CxG Portal (5 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Skeletal_Muscle_Tissue_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Skeletal_Muscle_Tissue_CxG_Portal",
         "datasets": [
             "ecfa4a1d-560f-4d7a-8e39-b232c13c543e_A29",
             "ecfa4a1d-560f-4d7a-8e39-b232c13c543e_A35",
@@ -6947,7 +6947,7 @@
     },
     "Blood_CxG_Portal": {
         "label": "Blood CxG Portal (1384 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Blood_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Blood_CxG_Portal",
         "datasets": [
             "4d91fb06-13b4-40d3-91e2-18d2eb7e6eaf_25_25",
             "4d91fb06-13b4-40d3-91e2-18d2eb7e6eaf_186_187",
@@ -8401,7 +8401,7 @@
     },
     "Prostate_CxG_Portal": {
         "label": "Prostate CxG Portal (25 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Prostate_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Prostate_CxG_Portal",
         "datasets": [
             "5f05f0d7-a6eb-428c-8622-01f73263ea39_D27",
             "c17239ea-35a8-4289-aa36-6ddd98302710_D17",
@@ -8496,7 +8496,7 @@
     },
     "Esophagus_Mucosa_GTEx_Portal": {
         "label": "Esophagus Mucosa GTEx Portal (3 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Esophagus_Mucosa_GTEx_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Esophagus_Mucosa_GTEx_Portal",
         "datasets": [
             "GTEX-16BQI-5013",
             "GTEX-145ME-5005",
@@ -8569,7 +8569,7 @@
     },
     "Colon_Gut_Cell_Atlas": {
         "label": "Colon Gut Cell Atlas (5 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Colon_Gut_Cell_Atlas",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Colon_Gut_Cell_Atlas",
         "datasets": [
             "290b",
             "298c",
@@ -8644,7 +8644,7 @@
     },
     "Epithelium_Of_Esophagus_CxG_Portal": {
         "label": "Epithelium Of Esophagus CxG Portal (6 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Epithelium_Of_Esophagus_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Epithelium_Of_Esophagus_CxG_Portal",
         "datasets": [
             "54cf84f9-86a6-4aa8-922a-210b91b98a9e_362C",
             "54cf84f9-86a6-4aa8-922a-210b91b98a9e_325C",
@@ -8720,7 +8720,7 @@
     },
     "Posterior_Part_Of_Tongue_CxG_Portal": {
         "label": "Posterior Part Of Tongue CxG Portal (2 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Posterior_Part_Of_Tongue_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Posterior_Part_Of_Tongue_CxG_Portal",
         "datasets": [
             "0b504a72-9d51-43f1-ae63-b880ac307bc5_TSP7",
             "0b504a72-9d51-43f1-ae63-b880ac307bc5_TSP14"
@@ -8792,7 +8792,7 @@
     },
     "Brain_CxG_Portal": {
         "label": "Brain CxG Portal (138 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Brain_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Brain_CxG_Portal",
         "datasets": [
             "1ca90a2d-2943-483d-b678-b809bf464c30_H20.33.012",
             "8e7880cf-07b8-457f-9020-e15d2d335fcc_H19.30.001",
@@ -9000,7 +9000,7 @@
     },
     "Parotid_Gland_CxG_Portal": {
         "label": "Parotid Gland CxG Portal (2 datasets)",
-        "basepath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Parotid_Gland_CxG_Portal",
+        "basePath": "https://raw.githubusercontent.com/hubmapconsortium/tissue-bar-graphs/static/csv/Parotid_Gland_CxG_Portal",
         "datasets": [
             "0b504a72-9d51-43f1-ae63-b880ac307bc5_TSP7",
             "0b504a72-9d51-43f1-ae63-b880ac307bc5_TSP14"
