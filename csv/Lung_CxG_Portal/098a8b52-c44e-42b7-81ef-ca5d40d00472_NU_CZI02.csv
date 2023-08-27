@@ -1,0 +1,22 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Human - Lung v2 (HLCA),native cell,CL:0000003,NU_CZI02,male,unknown,25-year-old human stage,60,0.16298590171950125
+1,Human - Lung v2 (HLCA),fibroblast,CL:0000057,NU_CZI02,male,unknown,25-year-old human stage,3662,9.947572868280227
+2,Human - Lung v2 (HLCA),T cell,CL:0000084,NU_CZI02,male,unknown,25-year-old human stage,39,0.10594083611767582
+3,Human - Lung v2 (HLCA),mast cell,CL:0000097,NU_CZI02,male,unknown,25-year-old human stage,66,0.1792844918914514
+4,Human - Lung v2 (HLCA),fibrocyte,CL:0000135,NU_CZI02,male,unknown,25-year-old human stage,2,0.005432863390650042
+5,Human - Lung v2 (HLCA),secretory cell,CL:0000151,NU_CZI02,male,unknown,25-year-old human stage,140,0.38030043734550295
+6,Human - Lung v2 (HLCA),myofibroblast cell,CL:0000186,NU_CZI02,male,unknown,25-year-old human stage,12,0.03259718034390025
+7,Human - Lung v2 (HLCA),macrophage,CL:0000235,NU_CZI02,male,unknown,25-year-old human stage,22844,62.054165648004776
+8,Human - Lung v2 (HLCA),B cell,CL:0000236,NU_CZI02,male,unknown,25-year-old human stage,36,0.09779154103170076
+9,Human - Lung v2 (HLCA),dendritic cell,CL:0000451,NU_CZI02,male,unknown,25-year-old human stage,379,1.029527612528183
+10,Human - Lung v2 (HLCA),monocyte,CL:0000576,NU_CZI02,male,unknown,25-year-old human stage,741,2.012875886235841
+11,Human - Lung v2 (HLCA),basal cell,CL:0000646,NU_CZI02,male,unknown,25-year-old human stage,11,0.02988074864857523
+12,Human - Lung v2 (HLCA),"NKp46-positive innate lymphoid cell, human",CL:0001076,NU_CZI02,male,unknown,25-year-old human stage,16,0.04346290712520034
+13,Human - Lung v2 (HLCA),type I pneumocyte,CL:0002062,NU_CZI02,male,unknown,25-year-old human stage,505,1.3717980061391357
+14,Human - Lung v2 (HLCA),type II pneumocyte,CL:0002063,NU_CZI02,male,unknown,25-year-old human stage,3864,10.496292070735882
+15,Human - Lung v2 (HLCA),endothelial cell of lymphatic vessel,CL:0002138,NU_CZI02,male,unknown,25-year-old human stage,424,1.151767038817809
+16,Human - Lung v2 (HLCA),capillary endothelial cell,CL:0002144,NU_CZI02,male,unknown,25-year-old human stage,1544,4.194170537581832
+17,Human - Lung v2 (HLCA),vein endothelial cell,CL:0002543,NU_CZI02,male,unknown,25-year-old human stage,1459,3.9632738434792056
+18,Human - Lung v2 (HLCA),multi-ciliated epithelial cell,CL:0005012,NU_CZI02,male,unknown,25-year-old human stage,310,0.8420938255507566
+19,Human - Lung v2 (HLCA),tracheobronchial smooth muscle cell,CL:0019019,NU_CZI02,male,unknown,25-year-old human stage,2,0.005432863390650042
+20,Human - Lung v2 (HLCA),endothelial cell of artery,CL:1000413,NU_CZI02,male,unknown,25-year-old human stage,697,1.8933528916415396

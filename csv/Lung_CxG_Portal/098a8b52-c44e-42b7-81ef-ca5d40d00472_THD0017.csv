@@ -1,0 +1,16 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Human - Lung v2 (HLCA),native cell,CL:0000003,THD0017,male,European,42-year-old human stage,2,0.14174344436569808
+1,Human - Lung v2 (HLCA),fibroblast,CL:0000057,THD0017,male,European,42-year-old human stage,31,2.1970233876683203
+2,Human - Lung v2 (HLCA),mast cell,CL:0000097,THD0017,male,European,42-year-old human stage,62,4.394046775336641
+3,Human - Lung v2 (HLCA),secretory cell,CL:0000151,THD0017,male,European,42-year-old human stage,29,2.0552799433026223
+4,Human - Lung v2 (HLCA),macrophage,CL:0000235,THD0017,male,European,42-year-old human stage,376,26.64776754075124
+5,Human - Lung v2 (HLCA),B cell,CL:0000236,THD0017,male,European,42-year-old human stage,1,0.07087172218284904
+6,Human - Lung v2 (HLCA),dendritic cell,CL:0000451,THD0017,male,European,42-year-old human stage,37,2.6222537207654146
+7,Human - Lung v2 (HLCA),monocyte,CL:0000576,THD0017,male,European,42-year-old human stage,354,25.08858965272856
+8,Human - Lung v2 (HLCA),type I pneumocyte,CL:0002062,THD0017,male,European,42-year-old human stage,28,1.984408221119773
+9,Human - Lung v2 (HLCA),type II pneumocyte,CL:0002063,THD0017,male,European,42-year-old human stage,431,30.54571226080794
+10,Human - Lung v2 (HLCA),endothelial cell of lymphatic vessel,CL:0002138,THD0017,male,European,42-year-old human stage,18,1.2756909992912826
+11,Human - Lung v2 (HLCA),capillary endothelial cell,CL:0002144,THD0017,male,European,42-year-old human stage,1,0.07087172218284904
+12,Human - Lung v2 (HLCA),vein endothelial cell,CL:0002543,THD0017,male,European,42-year-old human stage,11,0.7795889440113395
+13,Human - Lung v2 (HLCA),multi-ciliated epithelial cell,CL:0005012,THD0017,male,European,42-year-old human stage,25,1.771793054571226
+14,Human - Lung v2 (HLCA),endothelial cell of artery,CL:1000413,THD0017,male,European,42-year-old human stage,5,0.3543586109142452

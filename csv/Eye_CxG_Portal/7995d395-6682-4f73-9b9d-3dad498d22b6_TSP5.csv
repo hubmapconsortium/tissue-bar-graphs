@@ -1,0 +1,12 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Tabula Sapiens - Immune,T cell,CL:0000084,TSP5,female,European,40-year-old human stage,118,29.280397022332505
+1,Tabula Sapiens - Immune,mast cell,CL:0000097,TSP5,female,European,40-year-old human stage,1,0.24813895781637718
+2,Tabula Sapiens - Immune,microglial cell,CL:0000129,TSP5,female,European,40-year-old human stage,121,30.024813895781637
+3,Tabula Sapiens - Immune,macrophage,CL:0000235,TSP5,female,European,40-year-old human stage,21,5.2109181141439205
+4,Tabula Sapiens - Immune,B cell,CL:0000236,TSP5,female,European,40-year-old human stage,52,12.903225806451612
+5,Tabula Sapiens - Immune,dendritic cell,CL:0000451,TSP5,female,European,40-year-old human stage,38,9.429280397022332
+6,Tabula Sapiens - Immune,monocyte,CL:0000576,TSP5,female,European,40-year-old human stage,27,6.699751861042183
+7,Tabula Sapiens - Immune,"CD4-positive, alpha-beta T cell",CL:0000624,TSP5,female,European,40-year-old human stage,10,2.481389578163772
+8,Tabula Sapiens - Immune,"CD8-positive, alpha-beta T cell",CL:0000625,TSP5,female,European,40-year-old human stage,3,0.7444168734491315
+9,Tabula Sapiens - Immune,erythroid lineage cell,CL:0000764,TSP5,female,European,40-year-old human stage,9,2.2332506203473943
+10,Tabula Sapiens - Immune,plasma cell,CL:0000786,TSP5,female,European,40-year-old human stage,3,0.7444168734491315

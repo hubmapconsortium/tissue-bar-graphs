@@ -1,0 +1,15 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Human - Lung v2 (HLCA),native cell,CL:0000003,Donor_04,female,African,57-year-old human stage,1,0.019364833462432226
+1,Human - Lung v2 (HLCA),fibroblast,CL:0000057,Donor_04,female,African,57-year-old human stage,10,0.19364833462432224
+2,Human - Lung v2 (HLCA),secretory cell,CL:0000151,Donor_04,female,African,57-year-old human stage,99,1.91711851278079
+3,Human - Lung v2 (HLCA),macrophage,CL:0000235,Donor_04,female,African,57-year-old human stage,1470,28.46630518977537
+4,Human - Lung v2 (HLCA),B cell,CL:0000236,Donor_04,female,African,57-year-old human stage,80,1.549186676994578
+5,Human - Lung v2 (HLCA),dendritic cell,CL:0000451,Donor_04,female,African,57-year-old human stage,6,0.11618900077459333
+6,Human - Lung v2 (HLCA),monocyte,CL:0000576,Donor_04,female,African,57-year-old human stage,9,0.17428350116189
+7,Human - Lung v2 (HLCA),basal cell,CL:0000646,Donor_04,female,African,57-year-old human stage,9,0.17428350116189
+8,Human - Lung v2 (HLCA),type I pneumocyte,CL:0002062,Donor_04,female,African,57-year-old human stage,50,0.9682416731216111
+9,Human - Lung v2 (HLCA),type II pneumocyte,CL:0002063,Donor_04,female,African,57-year-old human stage,3261,63.14872192099148
+10,Human - Lung v2 (HLCA),endothelial cell of lymphatic vessel,CL:0002138,Donor_04,female,African,57-year-old human stage,7,0.13555383423702555
+11,Human - Lung v2 (HLCA),vein endothelial cell,CL:0002543,Donor_04,female,African,57-year-old human stage,34,0.6584043377226956
+12,Human - Lung v2 (HLCA),multi-ciliated epithelial cell,CL:0005012,Donor_04,female,African,57-year-old human stage,115,2.2269558481797054
+13,Human - Lung v2 (HLCA),endothelial cell of artery,CL:1000413,Donor_04,female,African,57-year-old human stage,13,0.2517428350116189

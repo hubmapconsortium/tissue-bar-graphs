@@ -1,0 +1,21 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Tabula Sapiens - Immune,hematopoietic stem cell,CL:0000037,TSP7,female,European,69-year-old human stage,5,0.05968011458582001
+1,Tabula Sapiens - Immune,T cell,CL:0000084,TSP7,female,European,69-year-old human stage,339,4.046311768918597
+2,Tabula Sapiens - Immune,mast cell,CL:0000097,TSP7,female,European,69-year-old human stage,8,0.095488183337312
+3,Tabula Sapiens - Immune,erythrocyte,CL:0000232,TSP7,female,European,69-year-old human stage,2,0.023872045834328
+4,Tabula Sapiens - Immune,macrophage,CL:0000235,TSP7,female,European,69-year-old human stage,4,0.047744091668656
+5,Tabula Sapiens - Immune,B cell,CL:0000236,TSP7,female,European,69-year-old human stage,5935,70.84029601336835
+6,Tabula Sapiens - Immune,neutrophil,CL:0000775,TSP7,female,European,69-year-old human stage,8,0.095488183337312
+7,Tabula Sapiens - Immune,plasma cell,CL:0000786,TSP7,female,European,69-year-old human stage,127,1.5158749104798281
+8,Tabula Sapiens - Immune,mature NK T cell,CL:0000814,TSP7,female,European,69-year-old human stage,50,0.5968011458582
+9,Tabula Sapiens - Immune,regulatory T cell,CL:0000815,TSP7,female,European,69-year-old human stage,50,0.5968011458582
+10,Tabula Sapiens - Immune,mature conventional dendritic cell,CL:0000841,TSP7,female,European,69-year-old human stage,1,0.011936022917164
+11,Tabula Sapiens - Immune,classical monocyte,CL:0000860,TSP7,female,European,69-year-old human stage,30,0.35808068751492
+12,Tabula Sapiens - Immune,non-classical monocyte,CL:0000875,TSP7,female,European,69-year-old human stage,3,0.035808068751492006
+13,Tabula Sapiens - Immune,type I NK T cell,CL:0000921,TSP7,female,European,69-year-old human stage,295,3.5211267605633805
+14,Tabula Sapiens - Immune,"effector CD4-positive, alpha-beta T cell",CL:0001044,TSP7,female,European,69-year-old human stage,711,8.486512294103605
+15,Tabula Sapiens - Immune,"effector CD8-positive, alpha-beta T cell",CL:0001050,TSP7,female,European,69-year-old human stage,346,4.129863929338744
+16,Tabula Sapiens - Immune,innate lymphoid cell,CL:0001065,TSP7,female,European,69-year-old human stage,435,5.192169968966341
+17,Tabula Sapiens - Immune,intermediate monocyte,CL:0002393,TSP7,female,European,69-year-old human stage,18,0.21484841250895204
+18,Tabula Sapiens - Immune,CD141-positive myeloid dendritic cell,CL:0002394,TSP7,female,European,69-year-old human stage,1,0.011936022917164
+19,Tabula Sapiens - Immune,CD1c-positive myeloid dendritic cell,CL:0002399,TSP7,female,European,69-year-old human stage,10,0.11936022917164002

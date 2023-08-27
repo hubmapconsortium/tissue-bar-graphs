@@ -1,0 +1,12 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,All non-neuronal cells,fibroblast,CL:0000057,H19.30.001,male,European,42-year-old human stage,120,0.9480919649205973
+1,All non-neuronal cells,ependymal cell,CL:0000065,H19.30.001,male,European,42-year-old human stage,1,0.00790076637433831
+2,All non-neuronal cells,endothelial cell,CL:0000115,H19.30.001,male,European,42-year-old human stage,182,1.4379394801295726
+3,All non-neuronal cells,astrocyte,CL:0000127,H19.30.001,male,European,42-year-old human stage,108,0.8532827684285377
+4,All non-neuronal cells,oligodendrocyte,CL:0000128,H19.30.001,male,European,42-year-old human stage,4390,34.684364383345184
+5,All non-neuronal cells,vascular associated smooth muscle cell,CL:0000359,H19.30.001,male,European,42-year-old human stage,3,0.02370229912301493
+6,All non-neuronal cells,Bergmann glial cell,CL:0000644,H19.30.001,male,European,42-year-old human stage,3826,30.228332148218378
+7,All non-neuronal cells,pericyte,CL:0000669,H19.30.001,male,European,42-year-old human stage,93,0.7347712728134629
+8,All non-neuronal cells,choroid plexus epithelial cell,CL:0000706,H19.30.001,male,European,42-year-old human stage,2,0.01580153274867662
+9,All non-neuronal cells,central nervous system macrophage,CL:0000878,H19.30.001,male,European,42-year-old human stage,1312,10.365805483131863
+10,All non-neuronal cells,oligodendrocyte precursor cell,CL:0002453,H19.30.001,male,European,42-year-old human stage,2620,20.700007900766373

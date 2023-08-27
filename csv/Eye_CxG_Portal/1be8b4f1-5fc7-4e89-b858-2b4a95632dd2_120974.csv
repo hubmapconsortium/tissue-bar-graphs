@@ -1,0 +1,5 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Retinal ganglion cells of human eye,native cell,CL:0000003,120974,male,unknown,79-year-old human stage,3,0.949367088607595
+1,Retinal ganglion cells of human eye,retinal ganglion cell,CL:0000740,120974,male,unknown,79-year-old human stage,18,5.69620253164557
+2,Retinal ganglion cells of human eye,ON retinal ganglion cell,CL:4023032,120974,male,unknown,79-year-old human stage,67,21.202531645569618
+3,Retinal ganglion cells of human eye,OFF retinal ganglion cell,CL:4023033,120974,male,unknown,79-year-old human stage,228,72.15189873417721

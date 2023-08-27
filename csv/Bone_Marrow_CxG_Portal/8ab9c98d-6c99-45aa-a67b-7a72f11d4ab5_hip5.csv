@@ -1,0 +1,6 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,All cells,T cell,CL:0000084,hip5,unknown,unknown,human adult stage,1,0.12755102040816327
+1,All cells,macrophage,CL:0000235,hip5,unknown,unknown,human adult stage,62,7.908163265306123
+2,All cells,monocyte,CL:0000576,hip5,unknown,unknown,human adult stage,4,0.5102040816326531
+3,All cells,plasma cell,CL:0000786,hip5,unknown,unknown,human adult stage,711,90.68877551020408
+4,All cells,primitive red blood cell,CL:0002355,hip5,unknown,unknown,human adult stage,6,0.7653061224489796

@@ -1,0 +1,8 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,All donors all cell states (in vivo),T cell,CL:0000084,7_mother,female,unknown,unknown,136,42.90220820189275
+1,All donors all cell states (in vivo),macrophage,CL:0000235,7_mother,female,unknown,unknown,33,10.410094637223976
+2,All donors all cell states (in vivo),dendritic cell,CL:0000451,7_mother,female,unknown,unknown,1,0.31545741324921134
+3,All donors all cell states (in vivo),natural killer cell,CL:0000623,7_mother,female,unknown,unknown,117,36.90851735015773
+4,All donors all cell states (in vivo),regulatory T cell,CL:0000815,7_mother,female,unknown,unknown,22,6.940063091482649
+5,All donors all cell states (in vivo),"group 3 innate lymphoid cell, human",CL:0001078,7_mother,female,unknown,unknown,4,1.2618296529968454
+6,All donors all cell states (in vivo),"decidual natural killer cell, human",CL:0002343,7_mother,female,unknown,unknown,4,1.2618296529968454

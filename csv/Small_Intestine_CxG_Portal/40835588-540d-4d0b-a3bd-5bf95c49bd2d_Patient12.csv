@@ -1,0 +1,4 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,UMAP of Endothelial cells,capillary endothelial cell,CL:0002144,Patient12,female,unknown,55-year-old human stage,1,14.285714285714285
+1,UMAP of Endothelial cells,vein endothelial cell,CL:0002543,Patient12,female,unknown,55-year-old human stage,5,71.42857142857143
+2,UMAP of Endothelial cells,endothelial cell of artery,CL:1000413,Patient12,female,unknown,55-year-old human stage,1,14.285714285714285

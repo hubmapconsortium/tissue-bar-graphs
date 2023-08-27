@@ -1,0 +1,19 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,All donors all cell states (in vivo),native cell,CL:0000003,10_mother,female,unknown,unknown,8,0.9913258983890955
+1,All donors all cell states (in vivo),epithelial cell,CL:0000066,10_mother,female,unknown,unknown,60,7.434944237918216
+2,All donors all cell states (in vivo),T cell,CL:0000084,10_mother,female,unknown,unknown,27,3.3457249070631967
+3,All donors all cell states (in vivo),macrophage,CL:0000235,10_mother,female,unknown,unknown,394,48.822800495662946
+4,All donors all cell states (in vivo),B cell,CL:0000236,10_mother,female,unknown,unknown,1,0.12391573729863693
+5,All donors all cell states (in vivo),dendritic cell,CL:0000451,10_mother,female,unknown,unknown,11,1.3630731102850062
+6,All donors all cell states (in vivo),stromal cell,CL:0000499,10_mother,female,unknown,unknown,251,31.10285006195787
+7,All donors all cell states (in vivo),natural killer cell,CL:0000623,10_mother,female,unknown,unknown,7,0.8674101610904585
+8,All donors all cell states (in vivo),plasma cell,CL:0000786,10_mother,female,unknown,unknown,1,0.12391573729863693
+9,All donors all cell states (in vivo),regulatory T cell,CL:0000815,10_mother,female,unknown,unknown,2,0.24783147459727387
+10,All donors all cell states (in vivo),"group 3 innate lymphoid cell, human",CL:0001078,10_mother,female,unknown,unknown,1,0.12391573729863693
+11,All donors all cell states (in vivo),endothelial cell of lymphatic vessel,CL:0002138,10_mother,female,unknown,unknown,4,0.49566294919454773
+12,All donors all cell states (in vivo),"decidual natural killer cell, human",CL:0002343,10_mother,female,unknown,unknown,4,0.49566294919454773
+13,All donors all cell states (in vivo),uterine smooth muscle cell,CL:0002601,10_mother,female,unknown,unknown,4,0.49566294919454773
+14,All donors all cell states (in vivo),endothelial cell of placenta,CL:0009092,10_mother,female,unknown,unknown,1,0.12391573729863693
+15,All donors all cell states (in vivo),endothelial cell of uterus,CL:0009095,10_mother,female,unknown,unknown,20,2.478314745972739
+16,All donors all cell states (in vivo),placental villous trophoblast,CL:2000060,10_mother,female,unknown,unknown,2,0.24783147459727387
+17,All donors all cell states (in vivo),Hofbauer cell,CL:3000001,10_mother,female,unknown,unknown,9,1.1152416356877324

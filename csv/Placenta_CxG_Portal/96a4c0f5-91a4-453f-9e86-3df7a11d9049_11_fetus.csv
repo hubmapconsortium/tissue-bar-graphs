@@ -1,0 +1,14 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,All donors all cell states (in vivo),epithelial cell,CL:0000066,11_fetus,unknown,unknown,Carnegie stage 14,2,0.06349206349206349
+1,All donors all cell states (in vivo),T cell,CL:0000084,11_fetus,unknown,unknown,Carnegie stage 14,2,0.06349206349206349
+2,All donors all cell states (in vivo),macrophage,CL:0000235,11_fetus,unknown,unknown,Carnegie stage 14,19,0.6031746031746033
+3,All donors all cell states (in vivo),stromal cell,CL:0000499,11_fetus,unknown,unknown,Carnegie stage 14,6,0.19047619047619047
+4,All donors all cell states (in vivo),syncytiotrophoblast cell,CL:0000525,11_fetus,unknown,unknown,Carnegie stage 14,279,8.857142857142856
+5,All donors all cell states (in vivo),endothelial cell of lymphatic vessel,CL:0002138,11_fetus,unknown,unknown,Carnegie stage 14,2,0.06349206349206349
+6,All donors all cell states (in vivo),uterine smooth muscle cell,CL:0002601,11_fetus,unknown,unknown,Carnegie stage 14,10,0.31746031746031744
+7,All donors all cell states (in vivo),extravillous trophoblast,CL:0008036,11_fetus,unknown,unknown,Carnegie stage 14,1549,49.17460317460318
+8,All donors all cell states (in vivo),endothelial cell of placenta,CL:0009092,11_fetus,unknown,unknown,Carnegie stage 14,2,0.06349206349206349
+9,All donors all cell states (in vivo),endothelial cell of uterus,CL:0009095,11_fetus,unknown,unknown,Carnegie stage 14,2,0.06349206349206349
+10,All donors all cell states (in vivo),embryonic fibroblast,CL:2000042,11_fetus,unknown,unknown,Carnegie stage 14,280,8.88888888888889
+11,All donors all cell states (in vivo),placental villous trophoblast,CL:2000060,11_fetus,unknown,unknown,Carnegie stage 14,849,26.95238095238095
+12,All donors all cell states (in vivo),Hofbauer cell,CL:3000001,11_fetus,unknown,unknown,Carnegie stage 14,148,4.698412698412699

@@ -1,0 +1,8 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Tabula Sapiens - Immune,mast cell,CL:0000097,TSP14,male,European,59-year-old human stage,38,0.595704655902179
+1,Tabula Sapiens - Immune,B cell,CL:0000236,TSP14,male,European,59-year-old human stage,469,7.352249568897946
+2,Tabula Sapiens - Immune,monocyte,CL:0000576,TSP14,male,European,59-year-old human stage,543,8.512306004075874
+3,Tabula Sapiens - Immune,"CD4-positive, alpha-beta T cell",CL:0000624,TSP14,male,European,59-year-old human stage,2872,45.022730835554164
+4,Tabula Sapiens - Immune,"CD8-positive, alpha-beta T cell",CL:0000625,TSP14,male,European,59-year-old human stage,2105,32.998902649318076
+5,Tabula Sapiens - Immune,neutrophil,CL:0000775,TSP14,male,European,59-year-old human stage,22,0.34488164289073525
+6,Tabula Sapiens - Immune,plasma cell,CL:0000786,TSP14,male,European,59-year-old human stage,330,5.173224643361028

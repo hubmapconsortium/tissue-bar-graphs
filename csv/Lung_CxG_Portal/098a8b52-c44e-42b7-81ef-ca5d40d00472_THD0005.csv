@@ -1,0 +1,21 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Human - Lung v2 (HLCA),native cell,CL:0000003,THD0005,male,European,59-year-old human stage,38,0.8416389811738648
+1,Human - Lung v2 (HLCA),fibroblast,CL:0000057,THD0005,male,European,59-year-old human stage,17,0.37652270210409744
+2,Human - Lung v2 (HLCA),T cell,CL:0000084,THD0005,male,European,59-year-old human stage,321,7.109634551495017
+3,Human - Lung v2 (HLCA),mast cell,CL:0000097,THD0005,male,European,59-year-old human stage,320,7.087486157253599
+4,Human - Lung v2 (HLCA),fibrocyte,CL:0000135,THD0005,male,European,59-year-old human stage,1,0.0221483942414175
+5,Human - Lung v2 (HLCA),secretory cell,CL:0000151,THD0005,male,European,59-year-old human stage,8,0.17718715393134
+6,Human - Lung v2 (HLCA),myofibroblast cell,CL:0000186,THD0005,male,European,59-year-old human stage,2,0.044296788482835
+7,Human - Lung v2 (HLCA),macrophage,CL:0000235,THD0005,male,European,59-year-old human stage,813,18.006644518272424
+8,Human - Lung v2 (HLCA),B cell,CL:0000236,THD0005,male,European,59-year-old human stage,158,3.4994462901439642
+9,Human - Lung v2 (HLCA),dendritic cell,CL:0000451,THD0005,male,European,59-year-old human stage,195,4.318936877076411
+10,Human - Lung v2 (HLCA),monocyte,CL:0000576,THD0005,male,European,59-year-old human stage,1437,31.827242524916944
+11,Human - Lung v2 (HLCA),"NKp46-positive innate lymphoid cell, human",CL:0001076,THD0005,male,European,59-year-old human stage,74,1.6389811738648947
+12,Human - Lung v2 (HLCA),type I pneumocyte,CL:0002062,THD0005,male,European,59-year-old human stage,73,1.6168327796234772
+13,Human - Lung v2 (HLCA),type II pneumocyte,CL:0002063,THD0005,male,European,59-year-old human stage,42,0.9302325581395349
+14,Human - Lung v2 (HLCA),endothelial cell of lymphatic vessel,CL:0002138,THD0005,male,European,59-year-old human stage,162,3.5880398671096345
+15,Human - Lung v2 (HLCA),capillary endothelial cell,CL:0002144,THD0005,male,European,59-year-old human stage,24,0.53156146179402
+16,Human - Lung v2 (HLCA),vein endothelial cell,CL:0002543,THD0005,male,European,59-year-old human stage,283,6.267995570321151
+17,Human - Lung v2 (HLCA),multi-ciliated epithelial cell,CL:0005012,THD0005,male,European,59-year-old human stage,162,3.5880398671096345
+18,Human - Lung v2 (HLCA),tracheobronchial smooth muscle cell,CL:0019019,THD0005,male,European,59-year-old human stage,13,0.28792912513842744
+19,Human - Lung v2 (HLCA),endothelial cell of artery,CL:1000413,THD0005,male,European,59-year-old human stage,372,8.23920265780731

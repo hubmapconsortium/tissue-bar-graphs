@@ -1,0 +1,9 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,All cells from human liver dataset,fibroblast,CL:0000057,H38,female,unknown,68-year-old human stage,675,8.322031808654913
+1,All cells from human liver dataset,T cell,CL:0000084,H38,female,unknown,68-year-old human stage,3,0.03698680803846628
+2,All cells from human liver dataset,endothelial cell,CL:0000115,H38,female,unknown,68-year-old human stage,1420,17.507089138207373
+3,All cells from human liver dataset,hepatocyte,CL:0000182,H38,female,unknown,68-year-old human stage,5256,64.80088768339293
+4,All cells from human liver dataset,macrophage,CL:0000235,H38,female,unknown,68-year-old human stage,352,4.339785476513377
+5,All cells from human liver dataset,plasmacytoid dendritic cell,CL:0000784,H38,female,unknown,68-year-old human stage,1,0.012328936012822093
+6,All cells from human liver dataset,plasma cell,CL:0000786,H38,female,unknown,68-year-old human stage,2,0.024657872025644186
+7,All cells from human liver dataset,cholangiocyte,CL:1000488,H38,female,unknown,68-year-old human stage,402,4.956232277154482

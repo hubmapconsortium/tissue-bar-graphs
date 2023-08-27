@@ -1,0 +1,18 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,TI immune,native cell,CL:0000003,110216,female,unknown,fourth decade human stage,5,0.37369207772795215
+1,TI immune,T cell,CL:0000084,110216,female,unknown,fourth decade human stage,38,2.8400597907324365
+2,TI immune,mast cell,CL:0000097,110216,female,unknown,fourth decade human stage,94,7.025411061285501
+3,TI immune,macrophage,CL:0000235,110216,female,unknown,fourth decade human stage,99,7.399103139013453
+4,TI immune,B cell,CL:0000236,110216,female,unknown,fourth decade human stage,21,1.5695067264573992
+5,TI immune,dendritic cell,CL:0000451,110216,female,unknown,fourth decade human stage,2,0.14947683109118087
+6,TI immune,monocyte,CL:0000576,110216,female,unknown,fourth decade human stage,3,0.2242152466367713
+7,TI immune,natural killer cell,CL:0000623,110216,female,unknown,fourth decade human stage,8,0.5979073243647235
+8,TI immune,"CD4-positive, alpha-beta T cell",CL:0000624,110216,female,unknown,fourth decade human stage,315,23.54260089686099
+9,TI immune,"CD8-positive, alpha-beta T cell",CL:0000625,110216,female,unknown,fourth decade human stage,221,16.517189835575486
+10,TI immune,plasmacytoid dendritic cell,CL:0000784,110216,female,unknown,fourth decade human stage,74,5.5306427503736915
+11,TI immune,plasma cell,CL:0000786,110216,female,unknown,fourth decade human stage,383,28.62481315396114
+12,TI immune,regulatory T cell,CL:0000815,110216,female,unknown,fourth decade human stage,22,1.6442451420029895
+13,TI immune,naive T cell,CL:0000898,110216,female,unknown,fourth decade human stage,21,1.5695067264573992
+14,TI immune,conventional dendritic cell,CL:0000990,110216,female,unknown,fourth decade human stage,21,1.5695067264573992
+15,TI immune,innate lymphoid cell,CL:0001065,110216,female,unknown,fourth decade human stage,5,0.37369207772795215
+16,TI immune,intraepithelial lymphocyte,CL:0002496,110216,female,unknown,fourth decade human stage,6,0.4484304932735426

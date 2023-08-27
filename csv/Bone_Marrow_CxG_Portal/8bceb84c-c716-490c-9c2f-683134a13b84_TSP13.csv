@@ -1,0 +1,15 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Tabula Sapiens - Bone_Marrow,hematopoietic stem cell,CL:0000037,TSP13,male,Hispanic or Latin American,22-year-old human stage,70,13.011152416356877
+1,Tabula Sapiens - Bone_Marrow,erythroid progenitor cell,CL:0000038,TSP13,male,Hispanic or Latin American,22-year-old human stage,49,9.107806691449815
+2,Tabula Sapiens - Bone_Marrow,common myeloid progenitor,CL:0000049,TSP13,male,Hispanic or Latin American,22-year-old human stage,8,1.486988847583643
+3,Tabula Sapiens - Bone_Marrow,granulocyte,CL:0000094,TSP13,male,Hispanic or Latin American,22-year-old human stage,15,2.7881040892193307
+4,Tabula Sapiens - Bone_Marrow,erythrocyte,CL:0000232,TSP13,male,Hispanic or Latin American,22-year-old human stage,1,0.18587360594795538
+5,Tabula Sapiens - Bone_Marrow,monocyte,CL:0000576,TSP13,male,Hispanic or Latin American,22-year-old human stage,91,16.91449814126394
+6,Tabula Sapiens - Bone_Marrow,"CD4-positive, alpha-beta T cell",CL:0000624,TSP13,male,Hispanic or Latin American,22-year-old human stage,67,12.453531598513012
+7,Tabula Sapiens - Bone_Marrow,"CD8-positive, alpha-beta T cell",CL:0000625,TSP13,male,Hispanic or Latin American,22-year-old human stage,49,9.107806691449815
+8,Tabula Sapiens - Bone_Marrow,neutrophil,CL:0000775,TSP13,male,Hispanic or Latin American,22-year-old human stage,89,16.54275092936803
+9,Tabula Sapiens - Bone_Marrow,plasma cell,CL:0000786,TSP13,male,Hispanic or Latin American,22-year-old human stage,89,16.54275092936803
+10,Tabula Sapiens - Bone_Marrow,memory B cell,CL:0000787,TSP13,male,Hispanic or Latin American,22-year-old human stage,2,0.37174721189591076
+11,Tabula Sapiens - Bone_Marrow,naive B cell,CL:0000788,TSP13,male,Hispanic or Latin American,22-year-old human stage,4,0.7434944237918215
+12,Tabula Sapiens - Bone_Marrow,mature NK T cell,CL:0000814,TSP13,male,Hispanic or Latin American,22-year-old human stage,2,0.37174721189591076
+13,Tabula Sapiens - Bone_Marrow,plasmablast,CL:0000980,TSP13,male,Hispanic or Latin American,22-year-old human stage,2,0.37174721189591076

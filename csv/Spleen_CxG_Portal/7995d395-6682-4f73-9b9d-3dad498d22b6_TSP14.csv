@@ -1,0 +1,22 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Tabula Sapiens - Immune,hematopoietic stem cell,CL:0000037,TSP14,male,European,59-year-old human stage,45,0.2389042259503079
+1,Tabula Sapiens - Immune,erythrocyte,CL:0000232,TSP14,male,European,59-year-old human stage,126,0.6689318326608622
+2,Tabula Sapiens - Immune,platelet,CL:0000233,TSP14,male,European,59-year-old human stage,10,0.05308982798895731
+3,Tabula Sapiens - Immune,macrophage,CL:0000235,TSP14,male,European,59-year-old human stage,522,2.7712890210235717
+4,Tabula Sapiens - Immune,neutrophil,CL:0000775,TSP14,male,European,59-year-old human stage,3814,20.24846039498832
+5,Tabula Sapiens - Immune,plasmacytoid dendritic cell,CL:0000784,TSP14,male,European,59-year-old human stage,37,0.19643236355914206
+6,Tabula Sapiens - Immune,plasma cell,CL:0000786,TSP14,male,European,59-year-old human stage,1829,9.710129539180294
+7,Tabula Sapiens - Immune,memory B cell,CL:0000787,TSP14,male,European,59-year-old human stage,2775,14.732427266935655
+8,Tabula Sapiens - Immune,naive B cell,CL:0000788,TSP14,male,European,59-year-old human stage,78,0.4141006583138671
+9,Tabula Sapiens - Immune,mature NK T cell,CL:0000814,TSP14,male,European,59-year-old human stage,1239,6.577829687831811
+10,Tabula Sapiens - Immune,regulatory T cell,CL:0000815,TSP14,male,European,59-year-old human stage,145,0.7698025058398811
+11,Tabula Sapiens - Immune,classical monocyte,CL:0000860,TSP14,male,European,59-year-old human stage,2959,15.70928010193247
+12,Tabula Sapiens - Immune,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,TSP14,male,European,59-year-old human stage,661,3.5092376300700785
+13,Tabula Sapiens - Immune,"CD4-positive, alpha-beta memory T cell",CL:0000897,TSP14,male,European,59-year-old human stage,1042,5.531960076449352
+14,Tabula Sapiens - Immune,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,TSP14,male,European,59-year-old human stage,88,0.46719048630282434
+15,Tabula Sapiens - Immune,"CD8-positive, alpha-beta memory T cell",CL:0000909,TSP14,male,European,59-year-old human stage,2756,14.631556593756637
+16,Tabula Sapiens - Immune,type I NK T cell,CL:0000921,TSP14,male,European,59-year-old human stage,589,3.126990868549586
+17,Tabula Sapiens - Immune,innate lymphoid cell,CL:0001065,TSP14,male,European,59-year-old human stage,66,0.3503928647271183
+18,Tabula Sapiens - Immune,intermediate monocyte,CL:0002393,TSP14,male,European,59-year-old human stage,30,0.15926948396687196
+19,Tabula Sapiens - Immune,CD141-positive myeloid dendritic cell,CL:0002394,TSP14,male,European,59-year-old human stage,1,0.005308982798895732
+20,Tabula Sapiens - Immune,CD1c-positive myeloid dendritic cell,CL:0002399,TSP14,male,European,59-year-old human stage,24,0.12741558717349755

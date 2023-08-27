@@ -1,0 +1,12 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Tabula Sapiens - Immune,T cell,CL:0000084,TSP7,female,European,69-year-old human stage,83,1.368507831821929
+1,Tabula Sapiens - Immune,B cell,CL:0000236,TSP7,female,European,69-year-old human stage,129,2.1269579554822755
+2,Tabula Sapiens - Immune,CD4-positive helper T cell,CL:0000492,TSP7,female,European,69-year-old human stage,1217,20.065952184666116
+3,Tabula Sapiens - Immune,monocyte,CL:0000576,TSP7,female,European,69-year-old human stage,100,1.6488046166529264
+4,Tabula Sapiens - Immune,"CD4-positive, alpha-beta T cell",CL:0000624,TSP7,female,European,69-year-old human stage,182,3.0008244023083264
+5,Tabula Sapiens - Immune,"CD8-positive, alpha-beta T cell",CL:0000625,TSP7,female,European,69-year-old human stage,101,1.6652926628194558
+6,Tabula Sapiens - Immune,neutrophil,CL:0000775,TSP7,female,European,69-year-old human stage,12,0.19785655399835123
+7,Tabula Sapiens - Immune,plasma cell,CL:0000786,TSP7,female,European,69-year-old human stage,7,0.11541632316570487
+8,Tabula Sapiens - Immune,memory B cell,CL:0000787,TSP7,female,European,69-year-old human stage,2875,47.40313272877164
+9,Tabula Sapiens - Immune,naive B cell,CL:0000788,TSP7,female,European,69-year-old human stage,1120,18.46661170651278
+10,Tabula Sapiens - Immune,mature NK T cell,CL:0000814,TSP7,female,European,69-year-old human stage,239,3.940643033800495

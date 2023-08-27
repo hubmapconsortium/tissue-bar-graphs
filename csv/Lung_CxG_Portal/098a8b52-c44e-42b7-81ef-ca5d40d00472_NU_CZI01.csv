@@ -1,0 +1,18 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Human - Lung v2 (HLCA),native cell,CL:0000003,NU_CZI01,male,African,52-year-old human stage,217,1.1659144637868042
+1,Human - Lung v2 (HLCA),fibroblast,CL:0000057,NU_CZI01,male,African,52-year-old human stage,4285,23.022781001504406
+2,Human - Lung v2 (HLCA),T cell,CL:0000084,NU_CZI01,male,African,52-year-old human stage,351,1.885880077369439
+3,Human - Lung v2 (HLCA),secretory cell,CL:0000151,NU_CZI01,male,African,52-year-old human stage,453,2.4339136041263703
+4,Human - Lung v2 (HLCA),myofibroblast cell,CL:0000186,NU_CZI01,male,African,52-year-old human stage,152,0.8166774124220932
+5,Human - Lung v2 (HLCA),macrophage,CL:0000235,NU_CZI01,male,African,52-year-old human stage,4092,21.98581560283688
+6,Human - Lung v2 (HLCA),B cell,CL:0000236,NU_CZI01,male,African,52-year-old human stage,253,1.3593380614657211
+7,Human - Lung v2 (HLCA),dendritic cell,CL:0000451,NU_CZI01,male,African,52-year-old human stage,242,1.3002364066193852
+8,Human - Lung v2 (HLCA),monocyte,CL:0000576,NU_CZI01,male,African,52-year-old human stage,2426,13.034601332473672
+9,Human - Lung v2 (HLCA),basal cell,CL:0000646,NU_CZI01,male,African,52-year-old human stage,2,0.01074575542660649
+10,Human - Lung v2 (HLCA),"NKp46-positive innate lymphoid cell, human",CL:0001076,NU_CZI01,male,African,52-year-old human stage,15,0.08059316569954868
+11,Human - Lung v2 (HLCA),type I pneumocyte,CL:0002062,NU_CZI01,male,African,52-year-old human stage,624,3.352675693101225
+12,Human - Lung v2 (HLCA),type II pneumocyte,CL:0002063,NU_CZI01,male,African,52-year-old human stage,4108,22.07178164624973
+13,Human - Lung v2 (HLCA),endothelial cell of lymphatic vessel,CL:0002138,NU_CZI01,male,African,52-year-old human stage,398,2.1384053298946917
+14,Human - Lung v2 (HLCA),capillary endothelial cell,CL:0002144,NU_CZI01,male,African,52-year-old human stage,14,0.07522028798624544
+15,Human - Lung v2 (HLCA),multi-ciliated epithelial cell,CL:0005012,NU_CZI01,male,African,52-year-old human stage,687,3.6911669890393295
+16,Human - Lung v2 (HLCA),tracheobronchial smooth muscle cell,CL:0019019,NU_CZI01,male,African,52-year-old human stage,293,1.574253169997851

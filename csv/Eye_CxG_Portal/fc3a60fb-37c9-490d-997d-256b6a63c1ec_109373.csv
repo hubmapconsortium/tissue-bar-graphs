@@ -1,0 +1,4 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Cone cells of human eye,native cell,CL:0000003,109373,male,unknown,70-year-old human stage,30,8.522727272727272
+1,Cone cells of human eye,retinal cone cell,CL:0000573,109373,male,unknown,70-year-old human stage,289,82.10227272727273
+2,Cone cells of human eye,S cone cell,CL:0003050,109373,male,unknown,70-year-old human stage,33,9.375

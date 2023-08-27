@@ -1,0 +1,15 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Human - Lung v2 (HLCA),native cell,CL:0000003,VUHD080,male,European,29-year-old human stage,1,0.25
+1,Human - Lung v2 (HLCA),T cell,CL:0000084,VUHD080,male,European,29-year-old human stage,159,39.75
+2,Human - Lung v2 (HLCA),mast cell,CL:0000097,VUHD080,male,European,29-year-old human stage,1,0.25
+3,Human - Lung v2 (HLCA),secretory cell,CL:0000151,VUHD080,male,European,29-year-old human stage,4,1.0
+4,Human - Lung v2 (HLCA),macrophage,CL:0000235,VUHD080,male,European,29-year-old human stage,99,24.75
+5,Human - Lung v2 (HLCA),B cell,CL:0000236,VUHD080,male,European,29-year-old human stage,3,0.75
+6,Human - Lung v2 (HLCA),dendritic cell,CL:0000451,VUHD080,male,European,29-year-old human stage,12,3.0
+7,Human - Lung v2 (HLCA),monocyte,CL:0000576,VUHD080,male,European,29-year-old human stage,33,8.25
+8,Human - Lung v2 (HLCA),"NKp46-positive innate lymphoid cell, human",CL:0001076,VUHD080,male,European,29-year-old human stage,49,12.25
+9,Human - Lung v2 (HLCA),type I pneumocyte,CL:0002062,VUHD080,male,European,29-year-old human stage,4,1.0
+10,Human - Lung v2 (HLCA),type II pneumocyte,CL:0002063,VUHD080,male,European,29-year-old human stage,22,5.5
+11,Human - Lung v2 (HLCA),capillary endothelial cell,CL:0002144,VUHD080,male,European,29-year-old human stage,8,2.0
+12,Human - Lung v2 (HLCA),vein endothelial cell,CL:0002543,VUHD080,male,European,29-year-old human stage,3,0.75
+13,Human - Lung v2 (HLCA),endothelial cell of artery,CL:1000413,VUHD080,male,European,29-year-old human stage,2,0.5

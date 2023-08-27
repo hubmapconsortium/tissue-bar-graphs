@@ -1,0 +1,16 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Human - Lung v2 (HLCA),native cell,CL:0000003,lafy_donor_1,male,Asian,76-year-old human stage,9,1.278409090909091
+1,Human - Lung v2 (HLCA),fibroblast,CL:0000057,lafy_donor_1,male,Asian,76-year-old human stage,5,0.7102272727272727
+2,Human - Lung v2 (HLCA),T cell,CL:0000084,lafy_donor_1,male,Asian,76-year-old human stage,240,34.090909090909086
+3,Human - Lung v2 (HLCA),secretory cell,CL:0000151,lafy_donor_1,male,Asian,76-year-old human stage,5,0.7102272727272727
+4,Human - Lung v2 (HLCA),macrophage,CL:0000235,lafy_donor_1,male,Asian,76-year-old human stage,264,37.5
+5,Human - Lung v2 (HLCA),B cell,CL:0000236,lafy_donor_1,male,Asian,76-year-old human stage,31,4.403409090909091
+6,Human - Lung v2 (HLCA),dendritic cell,CL:0000451,lafy_donor_1,male,Asian,76-year-old human stage,3,0.4261363636363636
+7,Human - Lung v2 (HLCA),monocyte,CL:0000576,lafy_donor_1,male,Asian,76-year-old human stage,69,9.801136363636363
+8,Human - Lung v2 (HLCA),"NKp46-positive innate lymphoid cell, human",CL:0001076,lafy_donor_1,male,Asian,76-year-old human stage,65,9.232954545454545
+9,Human - Lung v2 (HLCA),type II pneumocyte,CL:0002063,lafy_donor_1,male,Asian,76-year-old human stage,3,0.4261363636363636
+10,Human - Lung v2 (HLCA),endothelial cell of lymphatic vessel,CL:0002138,lafy_donor_1,male,Asian,76-year-old human stage,1,0.14204545454545456
+11,Human - Lung v2 (HLCA),capillary endothelial cell,CL:0002144,lafy_donor_1,male,Asian,76-year-old human stage,2,0.2840909090909091
+12,Human - Lung v2 (HLCA),vein endothelial cell,CL:0002543,lafy_donor_1,male,Asian,76-year-old human stage,4,0.5681818181818182
+13,Human - Lung v2 (HLCA),multi-ciliated epithelial cell,CL:0005012,lafy_donor_1,male,Asian,76-year-old human stage,1,0.14204545454545456
+14,Human - Lung v2 (HLCA),endothelial cell of artery,CL:1000413,lafy_donor_1,male,Asian,76-year-old human stage,2,0.2840909090909091

@@ -1,0 +1,11 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,UMAP of all data,stem cell,CL:0000034,Wang02,female,unknown,67-year-old human stage,1166,42.1242774566474
+1,UMAP of all data,enteroendocrine cell,CL:0000164,Wang02,female,unknown,67-year-old human stage,22,0.7947976878612716
+2,UMAP of all data,macrophage,CL:0000235,Wang02,female,unknown,67-year-old human stage,1,0.0361271676300578
+3,UMAP of all data,enterocyte,CL:0000584,Wang02,female,unknown,67-year-old human stage,1082,39.08959537572254
+4,UMAP of all data,natural killer cell,CL:0000623,Wang02,female,unknown,67-year-old human stage,4,0.1445086705202312
+5,UMAP of all data,gamma-delta T cell,CL:0000798,Wang02,female,unknown,67-year-old human stage,8,0.2890173410404624
+6,UMAP of all data,memory T cell,CL:0000813,Wang02,female,unknown,67-year-old human stage,3,0.1083815028901734
+7,UMAP of all data,natural T-regulatory cell,CL:0000903,Wang02,female,unknown,67-year-old human stage,2,0.0722543352601156
+8,UMAP of all data,"activated CD8-positive, alpha-beta T cell",CL:0000906,Wang02,female,unknown,67-year-old human stage,9,0.32514450867052025
+9,UMAP of all data,intestine goblet cell,CL:0019031,Wang02,female,unknown,67-year-old human stage,471,17.015895953757227

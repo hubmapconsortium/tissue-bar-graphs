@@ -1,0 +1,5 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,UMAP of Columnar cells,stem cell,CL:0000034,Wang02,female,unknown,67-year-old human stage,280,7.212776919113859
+1,UMAP of Columnar cells,enteroendocrine cell,CL:0000164,Wang02,female,unknown,67-year-old human stage,46,1.184956208140134
+2,UMAP of Columnar cells,enterocyte,CL:0000584,Wang02,female,unknown,67-year-old human stage,2658,68.46986089644514
+3,UMAP of Columnar cells,intestine goblet cell,CL:0019031,Wang02,female,unknown,67-year-old human stage,898,23.132405976300877

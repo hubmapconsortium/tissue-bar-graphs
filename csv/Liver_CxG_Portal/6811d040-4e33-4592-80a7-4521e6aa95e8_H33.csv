@@ -1,0 +1,6 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,All cells from human liver dataset,fibroblast,CL:0000057,H33,male,unknown,67-year-old human stage,6,10.344827586206897
+1,All cells from human liver dataset,T cell,CL:0000084,H33,male,unknown,67-year-old human stage,1,1.7241379310344827
+2,All cells from human liver dataset,hepatocyte,CL:0000182,H33,male,unknown,67-year-old human stage,48,82.75862068965517
+3,All cells from human liver dataset,neutrophil,CL:0000775,H33,male,unknown,67-year-old human stage,2,3.4482758620689653
+4,All cells from human liver dataset,cholangiocyte,CL:1000488,H33,male,unknown,67-year-old human stage,1,1.7241379310344827

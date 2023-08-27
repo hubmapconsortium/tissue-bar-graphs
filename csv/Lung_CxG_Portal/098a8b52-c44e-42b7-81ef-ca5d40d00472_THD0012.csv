@@ -1,0 +1,17 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Human - Lung v2 (HLCA),native cell,CL:0000003,THD0012,male,European,40-year-old human stage,2,0.20898641588296762
+1,Human - Lung v2 (HLCA),fibroblast,CL:0000057,THD0012,male,European,40-year-old human stage,1,0.10449320794148381
+2,Human - Lung v2 (HLCA),T cell,CL:0000084,THD0012,male,European,40-year-old human stage,2,0.20898641588296762
+3,Human - Lung v2 (HLCA),mast cell,CL:0000097,THD0012,male,European,40-year-old human stage,18,1.8808777429467085
+4,Human - Lung v2 (HLCA),secretory cell,CL:0000151,THD0012,male,European,40-year-old human stage,21,2.19435736677116
+5,Human - Lung v2 (HLCA),macrophage,CL:0000235,THD0012,male,European,40-year-old human stage,491,51.306165099268554
+6,Human - Lung v2 (HLCA),B cell,CL:0000236,THD0012,male,European,40-year-old human stage,1,0.10449320794148381
+7,Human - Lung v2 (HLCA),dendritic cell,CL:0000451,THD0012,male,European,40-year-old human stage,4,0.41797283176593525
+8,Human - Lung v2 (HLCA),monocyte,CL:0000576,THD0012,male,European,40-year-old human stage,97,10.13584117032393
+9,Human - Lung v2 (HLCA),type I pneumocyte,CL:0002062,THD0012,male,European,40-year-old human stage,6,0.6269592476489028
+10,Human - Lung v2 (HLCA),type II pneumocyte,CL:0002063,THD0012,male,European,40-year-old human stage,180,18.808777429467085
+11,Human - Lung v2 (HLCA),endothelial cell of lymphatic vessel,CL:0002138,THD0012,male,European,40-year-old human stage,7,0.7314524555903866
+12,Human - Lung v2 (HLCA),capillary endothelial cell,CL:0002144,THD0012,male,European,40-year-old human stage,5,0.522466039707419
+13,Human - Lung v2 (HLCA),vein endothelial cell,CL:0002543,THD0012,male,European,40-year-old human stage,35,3.657262277951933
+14,Human - Lung v2 (HLCA),multi-ciliated epithelial cell,CL:0005012,THD0012,male,European,40-year-old human stage,68,7.105538140020899
+15,Human - Lung v2 (HLCA),endothelial cell of artery,CL:1000413,THD0012,male,European,40-year-old human stage,19,1.9853709508881923

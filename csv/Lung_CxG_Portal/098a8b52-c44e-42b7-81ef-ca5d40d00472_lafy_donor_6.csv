@@ -1,0 +1,21 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Human - Lung v2 (HLCA),native cell,CL:0000003,lafy_donor_6,female,European,23-year-old human stage,96,0.9437672040896579
+1,Human - Lung v2 (HLCA),fibroblast,CL:0000057,lafy_donor_6,female,European,23-year-old human stage,425,4.178136059771923
+2,Human - Lung v2 (HLCA),T cell,CL:0000084,lafy_donor_6,female,European,23-year-old human stage,1079,10.607550137632717
+3,Human - Lung v2 (HLCA),mast cell,CL:0000097,lafy_donor_6,female,European,23-year-old human stage,191,1.8777034998033817
+4,Human - Lung v2 (HLCA),secretory cell,CL:0000151,lafy_donor_6,female,European,23-year-old human stage,203,1.9956744003145892
+5,Human - Lung v2 (HLCA),myofibroblast cell,CL:0000186,lafy_donor_6,female,European,23-year-old human stage,33,0.3244199764058199
+6,Human - Lung v2 (HLCA),macrophage,CL:0000235,lafy_donor_6,female,European,23-year-old human stage,4336,42.62681871804955
+7,Human - Lung v2 (HLCA),B cell,CL:0000236,lafy_donor_6,female,European,23-year-old human stage,125,1.228863546991742
+8,Human - Lung v2 (HLCA),dendritic cell,CL:0000451,lafy_donor_6,female,European,23-year-old human stage,218,2.1431380259535984
+9,Human - Lung v2 (HLCA),monocyte,CL:0000576,lafy_donor_6,female,European,23-year-old human stage,939,9.231222965001965
+10,Human - Lung v2 (HLCA),basal cell,CL:0000646,lafy_donor_6,female,European,23-year-old human stage,13,0.12780180888714116
+11,Human - Lung v2 (HLCA),"NKp46-positive innate lymphoid cell, human",CL:0001076,lafy_donor_6,female,European,23-year-old human stage,213,2.0939834840739286
+12,Human - Lung v2 (HLCA),type I pneumocyte,CL:0002062,lafy_donor_6,female,European,23-year-old human stage,426,4.187966968147857
+13,Human - Lung v2 (HLCA),type II pneumocyte,CL:0002063,lafy_donor_6,female,European,23-year-old human stage,294,2.8902870625245773
+14,Human - Lung v2 (HLCA),endothelial cell of lymphatic vessel,CL:0002138,lafy_donor_6,female,European,23-year-old human stage,239,2.3495871018482104
+15,Human - Lung v2 (HLCA),capillary endothelial cell,CL:0002144,lafy_donor_6,female,European,23-year-old human stage,316,3.106567046795124
+16,Human - Lung v2 (HLCA),vein endothelial cell,CL:0002543,lafy_donor_6,female,European,23-year-old human stage,489,4.807314195831695
+17,Human - Lung v2 (HLCA),multi-ciliated epithelial cell,CL:0005012,lafy_donor_6,female,European,23-year-old human stage,358,3.5194651985843493
+18,Human - Lung v2 (HLCA),tracheobronchial smooth muscle cell,CL:0019019,lafy_donor_6,female,European,23-year-old human stage,9,0.08847817538340542
+19,Human - Lung v2 (HLCA),endothelial cell of artery,CL:1000413,lafy_donor_6,female,European,23-year-old human stage,170,1.6712544239087694

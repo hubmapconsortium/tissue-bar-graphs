@@ -1,0 +1,28 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,A molecular single-cell lung atlas of lethal COVID-19,fibroblast,CL:0000057,C56ctr,male,European,75-year-old human stage,477,11.662591687041566
+1,A molecular single-cell lung atlas of lethal COVID-19,epithelial cell,CL:0000066,C56ctr,male,European,75-year-old human stage,132,3.2273838630806844
+2,A molecular single-cell lung atlas of lethal COVID-19,mast cell,CL:0000097,C56ctr,male,European,75-year-old human stage,20,0.4889975550122249
+3,A molecular single-cell lung atlas of lethal COVID-19,endothelial cell,CL:0000115,C56ctr,male,European,75-year-old human stage,19,0.46454767726161367
+4,A molecular single-cell lung atlas of lethal COVID-19,club cell,CL:0000158,C56ctr,male,European,75-year-old human stage,6,0.1466992665036675
+5,A molecular single-cell lung atlas of lethal COVID-19,macrophage,CL:0000235,C56ctr,male,European,75-year-old human stage,326,7.970660146699267
+6,A molecular single-cell lung atlas of lethal COVID-19,B cell,CL:0000236,C56ctr,male,European,75-year-old human stage,16,0.3911980440097799
+7,A molecular single-cell lung atlas of lethal COVID-19,mucus secreting cell,CL:0000319,C56ctr,male,European,75-year-old human stage,989,24.18092909535452
+8,A molecular single-cell lung atlas of lethal COVID-19,dendritic cell,CL:0000451,C56ctr,male,European,75-year-old human stage,49,1.1980440097799512
+9,A molecular single-cell lung atlas of lethal COVID-19,neuron,CL:0000540,C56ctr,male,European,75-year-old human stage,5,0.12224938875305623
+10,A molecular single-cell lung atlas of lethal COVID-19,monocyte,CL:0000576,C56ctr,male,European,75-year-old human stage,76,1.8581907090464547
+11,A molecular single-cell lung atlas of lethal COVID-19,alveolar macrophage,CL:0000583,C56ctr,male,European,75-year-old human stage,103,2.5183374083129584
+12,A molecular single-cell lung atlas of lethal COVID-19,natural killer cell,CL:0000623,C56ctr,male,European,75-year-old human stage,215,5.256723716381418
+13,A molecular single-cell lung atlas of lethal COVID-19,"CD4-positive, alpha-beta T cell",CL:0000624,C56ctr,male,European,75-year-old human stage,133,3.2518337408312963
+14,A molecular single-cell lung atlas of lethal COVID-19,"CD8-positive, alpha-beta T cell",CL:0000625,C56ctr,male,European,75-year-old human stage,46,1.1246943765281174
+15,A molecular single-cell lung atlas of lethal COVID-19,pericyte,CL:0000669,C56ctr,male,European,75-year-old human stage,28,0.6845965770171148
+16,A molecular single-cell lung atlas of lethal COVID-19,plasma cell,CL:0000786,C56ctr,male,European,75-year-old human stage,212,5.183374083129584
+17,A molecular single-cell lung atlas of lethal COVID-19,regulatory T cell,CL:0000815,C56ctr,male,European,75-year-old human stage,57,1.393643031784841
+18,A molecular single-cell lung atlas of lethal COVID-19,type II pneumocyte,CL:0002063,C56ctr,male,European,75-year-old human stage,324,7.921760391198044
+19,A molecular single-cell lung atlas of lethal COVID-19,brush cell of trachebronchial tree,CL:0002075,C56ctr,male,European,75-year-old human stage,21,0.5134474327628362
+20,A molecular single-cell lung atlas of lethal COVID-19,vein endothelial cell,CL:0002543,C56ctr,male,European,75-year-old human stage,22,0.5378973105134475
+21,A molecular single-cell lung atlas of lethal COVID-19,respiratory basal cell,CL:0002633,C56ctr,male,European,75-year-old human stage,1,0.024449877750611245
+22,A molecular single-cell lung atlas of lethal COVID-19,tracheobronchial smooth muscle cell,CL:0019019,C56ctr,male,European,75-year-old human stage,105,2.567237163814181
+23,A molecular single-cell lung atlas of lethal COVID-19,lung goblet cell,CL:1000143,C56ctr,male,European,75-year-old human stage,668,16.332518337408313
+24,A molecular single-cell lung atlas of lethal COVID-19,lung ciliated cell,CL:1000271,C56ctr,male,European,75-year-old human stage,14,0.3422982885085574
+25,A molecular single-cell lung atlas of lethal COVID-19,endothelial cell of artery,CL:1000413,C56ctr,male,European,75-year-old human stage,12,0.293398533007335
+26,A molecular single-cell lung atlas of lethal COVID-19,alveolar type 2 fibroblast cell,CL:4028006,C56ctr,male,European,75-year-old human stage,14,0.3422982885085574

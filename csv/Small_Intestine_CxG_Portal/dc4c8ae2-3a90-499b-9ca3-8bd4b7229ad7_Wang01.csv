@@ -1,0 +1,6 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,UMAP of all data,stem cell,CL:0000034,Wang01,male,unknown,60-year-old human stage,497,17.395869793489673
+1,UMAP of all data,mast cell,CL:0000097,Wang01,male,unknown,60-year-old human stage,2,0.07000350017500875
+2,UMAP of all data,enteroendocrine cell,CL:0000164,Wang01,male,unknown,60-year-old human stage,23,0.8050402520126007
+3,UMAP of all data,enterocyte,CL:0000584,Wang01,male,unknown,60-year-old human stage,2139,74.86874343717186
+4,UMAP of all data,intestine goblet cell,CL:0019031,Wang01,male,unknown,60-year-old human stage,196,6.860343017150858

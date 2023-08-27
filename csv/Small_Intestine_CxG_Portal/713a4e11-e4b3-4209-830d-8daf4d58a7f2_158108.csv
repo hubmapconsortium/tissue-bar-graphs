@@ -1,0 +1,18 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,TI immune,native cell,CL:0000003,158108,male,unknown,sixth decade human stage,42,1.1441024244075184
+1,TI immune,T cell,CL:0000084,158108,male,unknown,sixth decade human stage,85,2.3154453827295014
+2,TI immune,mast cell,CL:0000097,158108,male,unknown,sixth decade human stage,332,9.043857259602287
+3,TI immune,macrophage,CL:0000235,158108,male,unknown,sixth decade human stage,543,14.791609915554346
+4,TI immune,B cell,CL:0000236,158108,male,unknown,sixth decade human stage,410,11.168618904930536
+5,TI immune,dendritic cell,CL:0000451,158108,male,unknown,sixth decade human stage,24,0.6537728139471534
+6,TI immune,monocyte,CL:0000576,158108,male,unknown,sixth decade human stage,10,0.2724053391446472
+7,TI immune,natural killer cell,CL:0000623,158108,male,unknown,sixth decade human stage,43,1.1713429583219832
+8,TI immune,"CD4-positive, alpha-beta T cell",CL:0000624,158108,male,unknown,sixth decade human stage,589,16.044674475619722
+9,TI immune,"CD8-positive, alpha-beta T cell",CL:0000625,158108,male,unknown,sixth decade human stage,456,12.421683464995914
+10,TI immune,plasmacytoid dendritic cell,CL:0000784,158108,male,unknown,sixth decade human stage,103,2.805774993189867
+11,TI immune,plasma cell,CL:0000786,158108,male,unknown,sixth decade human stage,574,15.63606646690275
+12,TI immune,regulatory T cell,CL:0000815,158108,male,unknown,sixth decade human stage,213,5.8022337237809865
+13,TI immune,naive T cell,CL:0000898,158108,male,unknown,sixth decade human stage,149,4.058839553255244
+14,TI immune,conventional dendritic cell,CL:0000990,158108,male,unknown,sixth decade human stage,43,1.1713429583219832
+15,TI immune,innate lymphoid cell,CL:0001065,158108,male,unknown,sixth decade human stage,21,0.5720512122037592
+16,TI immune,intraepithelial lymphocyte,CL:0002496,158108,male,unknown,sixth decade human stage,34,0.9261781530918006

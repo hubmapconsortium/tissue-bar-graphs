@@ -1,0 +1,12 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,All donors all cell states (in vivo),T cell,CL:0000084,8_mother,female,unknown,unknown,3142,71.23101337565177
+1,All donors all cell states (in vivo),macrophage,CL:0000235,8_mother,female,unknown,unknown,118,2.675130355928361
+2,All donors all cell states (in vivo),B cell,CL:0000236,8_mother,female,unknown,unknown,12,0.2720471548401723
+3,All donors all cell states (in vivo),dendritic cell,CL:0000451,8_mother,female,unknown,unknown,59,1.3375651779641804
+4,All donors all cell states (in vivo),natural killer cell,CL:0000623,8_mother,female,unknown,unknown,664,15.053275901156201
+5,All donors all cell states (in vivo),plasma cell,CL:0000786,8_mother,female,unknown,unknown,20,0.4534119247336205
+6,All donors all cell states (in vivo),regulatory T cell,CL:0000815,8_mother,female,unknown,unknown,318,7.209249603264565
+7,All donors all cell states (in vivo),"group 3 innate lymphoid cell, human",CL:0001078,8_mother,female,unknown,unknown,19,0.43074132849693947
+8,All donors all cell states (in vivo),"decidual natural killer cell, human",CL:0002343,8_mother,female,unknown,unknown,55,1.2468827930174564
+9,All donors all cell states (in vivo),uterine smooth muscle cell,CL:0002601,8_mother,female,unknown,unknown,1,0.022670596236681023
+10,All donors all cell states (in vivo),Hofbauer cell,CL:3000001,8_mother,female,unknown,unknown,3,0.06801178871004307

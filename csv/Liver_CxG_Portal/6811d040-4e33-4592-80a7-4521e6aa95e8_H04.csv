@@ -1,0 +1,10 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,All cells from human liver dataset,T cell,CL:0000084,H04,female,unknown,53-year-old human stage,945,58.98876404494382
+1,All cells from human liver dataset,macrophage,CL:0000235,H04,female,unknown,53-year-old human stage,2,0.12484394506866417
+2,All cells from human liver dataset,B cell,CL:0000236,H04,female,unknown,53-year-old human stage,37,2.309612983770287
+3,All cells from human liver dataset,monocyte,CL:0000576,H04,female,unknown,53-year-old human stage,68,4.2446941323345815
+4,All cells from human liver dataset,natural killer cell,CL:0000623,H04,female,unknown,53-year-old human stage,499,31.148564294631708
+5,All cells from human liver dataset,basophil,CL:0000767,H04,female,unknown,53-year-old human stage,2,0.12484394506866417
+6,All cells from human liver dataset,plasmacytoid dendritic cell,CL:0000784,H04,female,unknown,53-year-old human stage,23,1.435705368289638
+7,All cells from human liver dataset,plasma cell,CL:0000786,H04,female,unknown,53-year-old human stage,2,0.12484394506866417
+8,All cells from human liver dataset,conventional dendritic cell,CL:0000990,H04,female,unknown,53-year-old human stage,24,1.4981273408239701

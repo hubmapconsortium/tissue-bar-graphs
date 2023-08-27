@@ -1,0 +1,14 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,All donors all cell states (in vivo),epithelial cell,CL:0000066,9_mother,female,unknown,unknown,1,0.14903129657228018
+1,All donors all cell states (in vivo),T cell,CL:0000084,9_mother,female,unknown,unknown,67,9.985096870342772
+2,All donors all cell states (in vivo),macrophage,CL:0000235,9_mother,female,unknown,unknown,496,73.91952309985098
+3,All donors all cell states (in vivo),B cell,CL:0000236,9_mother,female,unknown,unknown,20,2.9806259314456036
+4,All donors all cell states (in vivo),dendritic cell,CL:0000451,9_mother,female,unknown,unknown,3,0.44709388971684055
+5,All donors all cell states (in vivo),natural killer cell,CL:0000623,9_mother,female,unknown,unknown,40,5.961251862891207
+6,All donors all cell states (in vivo),regulatory T cell,CL:0000815,9_mother,female,unknown,unknown,7,1.0432190760059614
+7,All donors all cell states (in vivo),"group 3 innate lymphoid cell, human",CL:0001078,9_mother,female,unknown,unknown,4,0.5961251862891207
+8,All donors all cell states (in vivo),endothelial cell of lymphatic vessel,CL:0002138,9_mother,female,unknown,unknown,2,0.29806259314456035
+9,All donors all cell states (in vivo),"decidual natural killer cell, human",CL:0002343,9_mother,female,unknown,unknown,16,2.384500745156483
+10,All donors all cell states (in vivo),endothelial cell of placenta,CL:0009092,9_mother,female,unknown,unknown,1,0.14903129657228018
+11,All donors all cell states (in vivo),endothelial cell of uterus,CL:0009095,9_mother,female,unknown,unknown,2,0.29806259314456035
+12,All donors all cell states (in vivo),Hofbauer cell,CL:3000001,9_mother,female,unknown,unknown,12,1.7883755588673622

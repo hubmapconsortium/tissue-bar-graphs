@@ -1,0 +1,14 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Single-cell multi-omics analysis of the immune response in COVID-19,platelet,CL:0000233,IVLPS-1,female,unknown,fourth decade human stage,64,14.15929203539823
+1,Single-cell multi-omics analysis of the immune response in COVID-19,B cell,CL:0000236,IVLPS-1,female,unknown,fourth decade human stage,2,0.4424778761061947
+2,Single-cell multi-omics analysis of the immune response in COVID-19,natural killer cell,CL:0000623,IVLPS-1,female,unknown,fourth decade human stage,2,0.4424778761061947
+3,Single-cell multi-omics analysis of the immune response in COVID-19,naive B cell,CL:0000788,IVLPS-1,female,unknown,fourth decade human stage,129,28.539823008849556
+4,Single-cell multi-omics analysis of the immune response in COVID-19,immature B cell,CL:0000816,IVLPS-1,female,unknown,fourth decade human stage,30,6.637168141592921
+5,Single-cell multi-omics analysis of the immune response in COVID-19,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,IVLPS-1,female,unknown,fourth decade human stage,40,8.849557522123893
+6,Single-cell multi-omics analysis of the immune response in COVID-19,"CD16-positive, CD56-dim natural killer cell, human",CL:0000939,IVLPS-1,female,unknown,fourth decade human stage,159,35.176991150442475
+7,Single-cell multi-omics analysis of the immune response in COVID-19,unswitched memory B cell,CL:0000970,IVLPS-1,female,unknown,fourth decade human stage,5,1.1061946902654867
+8,Single-cell multi-omics analysis of the immune response in COVID-19,class switched memory B cell,CL:0000972,IVLPS-1,female,unknown,fourth decade human stage,13,2.8761061946902653
+9,Single-cell multi-omics analysis of the immune response in COVID-19,IgG plasma cell,CL:0000985,IVLPS-1,female,unknown,fourth decade human stage,4,0.8849557522123894
+10,Single-cell multi-omics analysis of the immune response in COVID-19,IgM plasma cell,CL:0000986,IVLPS-1,female,unknown,fourth decade human stage,1,0.22123893805309736
+11,Single-cell multi-omics analysis of the immune response in COVID-19,"CD34-positive, CD38-negative hematopoietic stem cell",CL:0001024,IVLPS-1,female,unknown,fourth decade human stage,1,0.22123893805309736
+12,Single-cell multi-omics analysis of the immune response in COVID-19,"erythroid progenitor cell, mammalian",CL:0001066,IVLPS-1,female,unknown,fourth decade human stage,2,0.4424778761061947

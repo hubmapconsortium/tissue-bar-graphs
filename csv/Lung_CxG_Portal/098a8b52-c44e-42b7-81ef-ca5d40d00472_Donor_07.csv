@@ -1,0 +1,20 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Human - Lung v2 (HLCA),native cell,CL:0000003,Donor_07,female,European,47-year-old human stage,12,0.1651300399064263
+1,Human - Lung v2 (HLCA),fibroblast,CL:0000057,Donor_07,female,European,47-year-old human stage,43,0.591715976331361
+2,Human - Lung v2 (HLCA),T cell,CL:0000084,Donor_07,female,European,47-year-old human stage,21,0.28897756983624606
+3,Human - Lung v2 (HLCA),mast cell,CL:0000097,Donor_07,female,European,47-year-old human stage,27,0.3715425897894592
+4,Human - Lung v2 (HLCA),secretory cell,CL:0000151,Donor_07,female,European,47-year-old human stage,33,0.45410760974267234
+5,Human - Lung v2 (HLCA),myofibroblast cell,CL:0000186,Donor_07,female,European,47-year-old human stage,1,0.01376083665886886
+6,Human - Lung v2 (HLCA),macrophage,CL:0000235,Donor_07,female,European,47-year-old human stage,1555,21.398101004541076
+7,Human - Lung v2 (HLCA),B cell,CL:0000236,Donor_07,female,European,47-year-old human stage,24,0.3302600798128526
+8,Human - Lung v2 (HLCA),dendritic cell,CL:0000451,Donor_07,female,European,47-year-old human stage,62,0.8531718728498693
+9,Human - Lung v2 (HLCA),monocyte,CL:0000576,Donor_07,female,European,47-year-old human stage,479,6.591440759598184
+10,Human - Lung v2 (HLCA),basal cell,CL:0000646,Donor_07,female,European,47-year-old human stage,10,0.1376083665886886
+11,Human - Lung v2 (HLCA),"NKp46-positive innate lymphoid cell, human",CL:0001076,Donor_07,female,European,47-year-old human stage,8,0.11008669327095089
+12,Human - Lung v2 (HLCA),type I pneumocyte,CL:0002062,Donor_07,female,European,47-year-old human stage,13,0.17889087656529518
+13,Human - Lung v2 (HLCA),type II pneumocyte,CL:0002063,Donor_07,female,European,47-year-old human stage,4542,62.50172010458236
+14,Human - Lung v2 (HLCA),endothelial cell of lymphatic vessel,CL:0002138,Donor_07,female,European,47-year-old human stage,77,1.059584422732902
+15,Human - Lung v2 (HLCA),capillary endothelial cell,CL:0002144,Donor_07,female,European,47-year-old human stage,49,0.6742809962845742
+16,Human - Lung v2 (HLCA),vein endothelial cell,CL:0002543,Donor_07,female,European,47-year-old human stage,41,0.5641943030136232
+17,Human - Lung v2 (HLCA),multi-ciliated epithelial cell,CL:0005012,Donor_07,female,European,47-year-old human stage,216,2.9723407183156736
+18,Human - Lung v2 (HLCA),endothelial cell of artery,CL:1000413,Donor_07,female,European,47-year-old human stage,54,0.7430851795789184

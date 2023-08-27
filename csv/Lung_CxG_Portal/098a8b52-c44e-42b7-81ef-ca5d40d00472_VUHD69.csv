@@ -1,0 +1,20 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Human - Lung v2 (HLCA),native cell,CL:0000003,VUHD69,female,African,31-year-old human stage,2,0.16556291390728478
+1,Human - Lung v2 (HLCA),fibroblast,CL:0000057,VUHD69,female,African,31-year-old human stage,14,1.1589403973509933
+2,Human - Lung v2 (HLCA),T cell,CL:0000084,VUHD69,female,African,31-year-old human stage,754,62.41721854304636
+3,Human - Lung v2 (HLCA),fibrocyte,CL:0000135,VUHD69,female,African,31-year-old human stage,1,0.08278145695364239
+4,Human - Lung v2 (HLCA),secretory cell,CL:0000151,VUHD69,female,African,31-year-old human stage,8,0.6622516556291391
+5,Human - Lung v2 (HLCA),myofibroblast cell,CL:0000186,VUHD69,female,African,31-year-old human stage,4,0.33112582781456956
+6,Human - Lung v2 (HLCA),macrophage,CL:0000235,VUHD69,female,African,31-year-old human stage,6,0.49668874172185434
+7,Human - Lung v2 (HLCA),B cell,CL:0000236,VUHD69,female,African,31-year-old human stage,40,3.3112582781456954
+8,Human - Lung v2 (HLCA),dendritic cell,CL:0000451,VUHD69,female,African,31-year-old human stage,15,1.2417218543046358
+9,Human - Lung v2 (HLCA),monocyte,CL:0000576,VUHD69,female,African,31-year-old human stage,112,9.271523178807946
+10,Human - Lung v2 (HLCA),basal cell,CL:0000646,VUHD69,female,African,31-year-old human stage,1,0.08278145695364239
+11,Human - Lung v2 (HLCA),"NKp46-positive innate lymphoid cell, human",CL:0001076,VUHD69,female,African,31-year-old human stage,31,2.566225165562914
+12,Human - Lung v2 (HLCA),type I pneumocyte,CL:0002062,VUHD69,female,African,31-year-old human stage,3,0.24834437086092717
+13,Human - Lung v2 (HLCA),type II pneumocyte,CL:0002063,VUHD69,female,African,31-year-old human stage,5,0.4139072847682119
+14,Human - Lung v2 (HLCA),endothelial cell of lymphatic vessel,CL:0002138,VUHD69,female,African,31-year-old human stage,5,0.4139072847682119
+15,Human - Lung v2 (HLCA),capillary endothelial cell,CL:0002144,VUHD69,female,African,31-year-old human stage,176,14.56953642384106
+16,Human - Lung v2 (HLCA),vein endothelial cell,CL:0002543,VUHD69,female,African,31-year-old human stage,4,0.33112582781456956
+17,Human - Lung v2 (HLCA),multi-ciliated epithelial cell,CL:0005012,VUHD69,female,African,31-year-old human stage,19,1.5728476821192054
+18,Human - Lung v2 (HLCA),endothelial cell of artery,CL:1000413,VUHD69,female,African,31-year-old human stage,8,0.6622516556291391

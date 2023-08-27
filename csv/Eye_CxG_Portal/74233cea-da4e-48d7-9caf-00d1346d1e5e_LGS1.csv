@@ -1,0 +1,12 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Joint scRNA-seq and scATAC-seq atlas of the adult human retina,astrocyte,CL:0000127,LGS1,female,unknown,85-year-old human stage,12,0.06624710168930109
+1,Joint scRNA-seq and scATAC-seq atlas of the adult human retina,microglial cell,CL:0000129,LGS1,female,unknown,85-year-old human stage,55,0.3036325494092967
+2,Joint scRNA-seq and scATAC-seq atlas of the adult human retina,amacrine cell,CL:0000561,LGS1,female,unknown,85-year-old human stage,932,5.145191564535718
+3,Joint scRNA-seq and scATAC-seq atlas of the adult human retina,retinal cone cell,CL:0000573,LGS1,female,unknown,85-year-old human stage,721,3.9803466931655076
+4,Joint scRNA-seq and scATAC-seq atlas of the adult human retina,retinal rod cell,CL:0000604,LGS1,female,unknown,85-year-old human stage,12909,71.26531964226565
+5,Joint scRNA-seq and scATAC-seq atlas of the adult human retina,Mueller cell,CL:0000636,LGS1,female,unknown,85-year-old human stage,944,5.211438666225019
+6,Joint scRNA-seq and scATAC-seq atlas of the adult human retina,retinal ganglion cell,CL:0000740,LGS1,female,unknown,85-year-old human stage,46,0.2539472231423208
+7,Joint scRNA-seq and scATAC-seq atlas of the adult human retina,retina horizontal cell,CL:0000745,LGS1,female,unknown,85-year-old human stage,243,1.341503809208347
+8,Joint scRNA-seq and scATAC-seq atlas of the adult human retina,ON-bipolar cell,CL:0000749,LGS1,female,unknown,85-year-old human stage,626,3.455890471458541
+9,Joint scRNA-seq and scATAC-seq atlas of the adult human retina,OFF-bipolar cell,CL:0000750,LGS1,female,unknown,85-year-old human stage,1005,5.548194766478966
+10,Joint scRNA-seq and scATAC-seq atlas of the adult human retina,rod bipolar cell,CL:0000751,LGS1,female,unknown,85-year-old human stage,621,3.4282875124213317

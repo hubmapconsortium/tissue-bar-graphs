@@ -1,0 +1,17 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,All donors all cell states (in vivo),native cell,CL:0000003,Hrv98_mother,female,unknown,unknown,11,0.14086310667178897
+1,All donors all cell states (in vivo),epithelial cell,CL:0000066,Hrv98_mother,female,unknown,unknown,25,0.32014342425406583
+2,All donors all cell states (in vivo),T cell,CL:0000084,Hrv98_mother,female,unknown,unknown,634,8.11883723908311
+3,All donors all cell states (in vivo),granulocyte,CL:0000094,Hrv98_mother,female,unknown,unknown,5,0.06402868485081316
+4,All donors all cell states (in vivo),macrophage,CL:0000235,Hrv98_mother,female,unknown,unknown,4523,57.92034831604559
+5,All donors all cell states (in vivo),B cell,CL:0000236,Hrv98_mother,female,unknown,unknown,248,3.175822768600333
+6,All donors all cell states (in vivo),dendritic cell,CL:0000451,Hrv98_mother,female,unknown,unknown,213,2.727621974644641
+7,All donors all cell states (in vivo),stromal cell,CL:0000499,Hrv98_mother,female,unknown,unknown,540,6.915097963887821
+8,All donors all cell states (in vivo),natural killer cell,CL:0000623,Hrv98_mother,female,unknown,unknown,566,7.24804712511205
+9,All donors all cell states (in vivo),plasma cell,CL:0000786,Hrv98_mother,female,unknown,unknown,38,0.48661800486618007
+10,All donors all cell states (in vivo),regulatory T cell,CL:0000815,Hrv98_mother,female,unknown,unknown,331,4.238698937123832
+11,All donors all cell states (in vivo),"group 3 innate lymphoid cell, human",CL:0001078,Hrv98_mother,female,unknown,unknown,89,1.1397105903444744
+12,All donors all cell states (in vivo),"decidual natural killer cell, human",CL:0002343,Hrv98_mother,female,unknown,unknown,504,6.454091432961967
+13,All donors all cell states (in vivo),uterine smooth muscle cell,CL:0002601,Hrv98_mother,female,unknown,unknown,3,0.0384172109104879
+14,All donors all cell states (in vivo),embryonic fibroblast,CL:2000042,Hrv98_mother,female,unknown,unknown,1,0.012805736970162632
+15,All donors all cell states (in vivo),Hofbauer cell,CL:3000001,Hrv98_mother,female,unknown,unknown,78,0.9988474836726854
