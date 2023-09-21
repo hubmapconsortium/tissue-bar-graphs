@@ -1,0 +1,8 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Skin,melanocyte,CL:0000148,fore12,male,unknown,newborn human stage,1314,12.574162679425838
+1,Skin,Merkel cell,CL:0000242,fore12,male,unknown,newborn human stage,217,2.076555023923445
+2,Skin,keratinocyte,CL:0000312,fore12,male,unknown,newborn human stage,531,5.08133971291866
+3,Skin,prickle cell,CL:0000649,fore12,male,unknown,newborn human stage,4794,45.875598086124405
+4,Skin,hematopoietic cell,CL:0000988,fore12,male,unknown,newborn human stage,213,2.0382775119617227
+5,Skin,basal cell of epidermis,CL:0002187,fore12,male,unknown,newborn human stage,3338,31.942583732057418
+6,Skin,hair follicular keratinocyte,CL:2000092,fore12,male,unknown,newborn human stage,43,0.41148325358851673

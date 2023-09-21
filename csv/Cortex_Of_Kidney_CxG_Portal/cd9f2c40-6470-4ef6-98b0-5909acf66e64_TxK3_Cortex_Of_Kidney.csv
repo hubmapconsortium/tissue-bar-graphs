@@ -1,0 +1,18 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Mature kidney dataset: full,mast cell,CL:0000097,TxK3,male,unknown,64-year-old human stage,2,1.0101010101010102
+1,Mature kidney dataset: full,natural killer cell,CL:0000623,TxK3,male,unknown,64-year-old human stage,6,3.0303030303030303
+2,Mature kidney dataset: full,"CD4-positive, alpha-beta T cell",CL:0000624,TxK3,male,unknown,64-year-old human stage,17,8.585858585858585
+3,Mature kidney dataset: full,"CD8-positive, alpha-beta T cell",CL:0000625,TxK3,male,unknown,64-year-old human stage,11,5.555555555555555
+4,Mature kidney dataset: full,neutrophil,CL:0000775,TxK3,male,unknown,64-year-old human stage,1,0.5050505050505051
+5,Mature kidney dataset: full,mature NK T cell,CL:0000814,TxK3,male,unknown,64-year-old human stage,24,12.121212121212121
+6,Mature kidney dataset: full,classical monocyte,CL:0000860,TxK3,male,unknown,64-year-old human stage,9,4.545454545454546
+7,Mature kidney dataset: full,non-classical monocyte,CL:0000875,TxK3,male,unknown,64-year-old human stage,5,2.525252525252525
+8,Mature kidney dataset: full,capillary endothelial cell,CL:0002144,TxK3,male,unknown,64-year-old human stage,26,13.131313131313133
+9,Mature kidney dataset: full,glomerular endothelial cell,CL:0002188,TxK3,male,unknown,64-year-old human stage,16,8.080808080808081
+10,Mature kidney dataset: full,renal beta-intercalated cell,CL:0002201,TxK3,male,unknown,64-year-old human stage,3,1.5151515151515151
+11,Mature kidney dataset: full,epithelial cell of proximal tubule,CL:0002306,TxK3,male,unknown,64-year-old human stage,47,23.737373737373737
+12,Mature kidney dataset: full,renal alpha-intercalated cell,CL:0005011,TxK3,male,unknown,64-year-old human stage,16,8.080808080808081
+13,Mature kidney dataset: full,kidney resident macrophage,CL:1000698,TxK3,male,unknown,64-year-old human stage,2,1.0101010101010102
+14,Mature kidney dataset: full,kidney connecting tubule epithelial cell,CL:1000768,TxK3,male,unknown,64-year-old human stage,5,2.525252525252525
+15,Mature kidney dataset: full,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,TxK3,male,unknown,64-year-old human stage,1,0.5050505050505051
+16,Mature kidney dataset: full,vasa recta ascending limb cell,CL:1001131,TxK3,male,unknown,64-year-old human stage,7,3.535353535353535

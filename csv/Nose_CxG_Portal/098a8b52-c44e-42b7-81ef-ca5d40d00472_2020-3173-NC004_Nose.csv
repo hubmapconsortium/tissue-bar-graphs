@@ -1,0 +1,15 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Human - Lung v2 (HLCA),native cell,CL:0000003,2020-3173-NC004,female,unknown,27-year-old human stage,12,0.1023454157782516
+1,Human - Lung v2 (HLCA),fibroblast,CL:0000057,2020-3173-NC004,female,unknown,27-year-old human stage,6,0.0511727078891258
+2,Human - Lung v2 (HLCA),T cell,CL:0000084,2020-3173-NC004,female,unknown,27-year-old human stage,162,1.3816631130063965
+3,Human - Lung v2 (HLCA),mast cell,CL:0000097,2020-3173-NC004,female,unknown,27-year-old human stage,42,0.3582089552238806
+4,Human - Lung v2 (HLCA),secretory cell,CL:0000151,2020-3173-NC004,female,unknown,27-year-old human stage,9998,85.27078891257996
+5,Human - Lung v2 (HLCA),macrophage,CL:0000235,2020-3173-NC004,female,unknown,27-year-old human stage,4,0.03411513859275053
+6,Human - Lung v2 (HLCA),B cell,CL:0000236,2020-3173-NC004,female,unknown,27-year-old human stage,15,0.1279317697228145
+7,Human - Lung v2 (HLCA),dendritic cell,CL:0000451,2020-3173-NC004,female,unknown,27-year-old human stage,71,0.605543710021322
+8,Human - Lung v2 (HLCA),monocyte,CL:0000576,2020-3173-NC004,female,unknown,27-year-old human stage,8,0.06823027718550106
+9,Human - Lung v2 (HLCA),basal cell,CL:0000646,2020-3173-NC004,female,unknown,27-year-old human stage,205,1.7484008528784647
+10,Human - Lung v2 (HLCA),"NKp46-positive innate lymphoid cell, human",CL:0001076,2020-3173-NC004,female,unknown,27-year-old human stage,5,0.042643923240938165
+11,Human - Lung v2 (HLCA),vein endothelial cell,CL:0002543,2020-3173-NC004,female,unknown,27-year-old human stage,1,0.008528784648187633
+12,Human - Lung v2 (HLCA),multi-ciliated epithelial cell,CL:0005012,2020-3173-NC004,female,unknown,27-year-old human stage,1188,10.132196162046908
+13,Human - Lung v2 (HLCA),lung secretory cell,CL:1000272,2020-3173-NC004,female,unknown,27-year-old human stage,8,0.06823027718550106

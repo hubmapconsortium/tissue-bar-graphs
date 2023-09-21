@@ -1,0 +1,9 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,UMAP of all data,fibroblast,CL:0000057,Patient05,male,unknown,43-year-old human stage,6,0.30060120240480964
+1,UMAP of all data,macrophage,CL:0000235,Patient05,male,unknown,43-year-old human stage,3,0.15030060120240482
+2,UMAP of all data,gamma-delta T cell,CL:0000798,Patient05,male,unknown,43-year-old human stage,1,0.0501002004008016
+3,UMAP of all data,"activated CD8-positive, alpha-beta T cell",CL:0000906,Patient05,male,unknown,43-year-old human stage,4,0.2004008016032064
+4,UMAP of all data,IgA plasma cell,CL:0000987,Patient05,male,unknown,43-year-old human stage,1,0.0501002004008016
+5,UMAP of all data,epithelial cell of esophagus,CL:0002252,Patient05,male,unknown,43-year-old human stage,1962,98.29659318637275
+6,UMAP of all data,vein endothelial cell,CL:0002543,Patient05,male,unknown,43-year-old human stage,16,0.8016032064128256
+7,UMAP of all data,endothelial cell of artery,CL:1000413,Patient05,male,unknown,43-year-old human stage,3,0.15030060120240482

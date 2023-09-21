@@ -1,0 +1,20 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Human - Lung v2 (HLCA),native cell,CL:0000003,GRO-07,male,European,64-year-old human stage,12,0.2575107296137339
+1,Human - Lung v2 (HLCA),fibroblast,CL:0000057,GRO-07,male,European,64-year-old human stage,36,0.7725321888412017
+2,Human - Lung v2 (HLCA),T cell,CL:0000084,GRO-07,male,European,64-year-old human stage,982,21.07296137339056
+3,Human - Lung v2 (HLCA),mast cell,CL:0000097,GRO-07,male,European,64-year-old human stage,23,0.4935622317596567
+4,Human - Lung v2 (HLCA),secretory cell,CL:0000151,GRO-07,male,European,64-year-old human stage,371,7.96137339055794
+5,Human - Lung v2 (HLCA),myofibroblast cell,CL:0000186,GRO-07,male,European,64-year-old human stage,1,0.02145922746781116
+6,Human - Lung v2 (HLCA),macrophage,CL:0000235,GRO-07,male,European,64-year-old human stage,11,0.23605150214592274
+7,Human - Lung v2 (HLCA),B cell,CL:0000236,GRO-07,male,European,64-year-old human stage,49,1.0515021459227467
+8,Human - Lung v2 (HLCA),dendritic cell,CL:0000451,GRO-07,male,European,64-year-old human stage,82,1.759656652360515
+9,Human - Lung v2 (HLCA),monocyte,CL:0000576,GRO-07,male,European,64-year-old human stage,232,4.978540772532189
+10,Human - Lung v2 (HLCA),basal cell,CL:0000646,GRO-07,male,European,64-year-old human stage,1670,35.836909871244636
+11,Human - Lung v2 (HLCA),"NKp46-positive innate lymphoid cell, human",CL:0001076,GRO-07,male,European,64-year-old human stage,60,1.2875536480686696
+12,Human - Lung v2 (HLCA),endothelial cell of lymphatic vessel,CL:0002138,GRO-07,male,European,64-year-old human stage,1,0.02145922746781116
+13,Human - Lung v2 (HLCA),capillary endothelial cell,CL:0002144,GRO-07,male,European,64-year-old human stage,5,0.1072961373390558
+14,Human - Lung v2 (HLCA),vein endothelial cell,CL:0002543,GRO-07,male,European,64-year-old human stage,117,2.5107296137339055
+15,Human - Lung v2 (HLCA),multi-ciliated epithelial cell,CL:0005012,GRO-07,male,European,64-year-old human stage,969,20.793991416309012
+16,Human - Lung v2 (HLCA),tracheobronchial smooth muscle cell,CL:0019019,GRO-07,male,European,64-year-old human stage,3,0.06437768240343347
+17,Human - Lung v2 (HLCA),lung secretory cell,CL:1000272,GRO-07,male,European,64-year-old human stage,27,0.5793991416309012
+18,Human - Lung v2 (HLCA),endothelial cell of artery,CL:1000413,GRO-07,male,European,64-year-old human stage,9,0.19313304721030042

@@ -1,0 +1,22 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,UMAP of all data,native cell,CL:0000003,Patient13,female,unknown,41-year-old human stage,98,3.356164383561644
+1,UMAP of all data,fibroblast,CL:0000057,Patient13,female,unknown,41-year-old human stage,15,0.5136986301369862
+2,UMAP of all data,mast cell,CL:0000097,Patient13,female,unknown,41-year-old human stage,7,0.2397260273972603
+3,UMAP of all data,macrophage,CL:0000235,Patient13,female,unknown,41-year-old human stage,15,0.5136986301369862
+4,UMAP of all data,dendritic cell,CL:0000451,Patient13,female,unknown,41-year-old human stage,3,0.10273972602739725
+5,UMAP of all data,CD4-positive helper T cell,CL:0000492,Patient13,female,unknown,41-year-old human stage,1,0.03424657534246575
+6,UMAP of all data,monocyte,CL:0000576,Patient13,female,unknown,41-year-old human stage,8,0.273972602739726
+7,UMAP of all data,mucous neck cell,CL:0000651,Patient13,female,unknown,41-year-old human stage,11,0.3767123287671233
+8,UMAP of all data,memory B cell,CL:0000787,Patient13,female,unknown,41-year-old human stage,65,2.2260273972602738
+9,UMAP of all data,gamma-delta T cell,CL:0000798,Patient13,female,unknown,41-year-old human stage,13,0.4452054794520548
+10,UMAP of all data,memory T cell,CL:0000813,Patient13,female,unknown,41-year-old human stage,4,0.136986301369863
+11,UMAP of all data,natural T-regulatory cell,CL:0000903,Patient13,female,unknown,41-year-old human stage,11,0.3767123287671233
+12,UMAP of all data,"activated CD8-positive, alpha-beta T cell",CL:0000906,Patient13,female,unknown,41-year-old human stage,23,0.7876712328767124
+13,UMAP of all data,IgA plasma cell,CL:0000987,Patient13,female,unknown,41-year-old human stage,4,0.136986301369863
+14,UMAP of all data,capillary endothelial cell,CL:0002144,Patient13,female,unknown,41-year-old human stage,1,0.03424657534246575
+15,UMAP of all data,foveolar cell of stomach,CL:0002179,Patient13,female,unknown,41-year-old human stage,59,2.0205479452054793
+16,UMAP of all data,epithelial cell of esophagus,CL:0002252,Patient13,female,unknown,41-year-old human stage,2501,85.65068493150685
+17,UMAP of all data,P/D1 enteroendocrine cell,CL:0002268,Patient13,female,unknown,41-year-old human stage,1,0.03424657534246575
+18,UMAP of all data,vein endothelial cell,CL:0002543,Patient13,female,unknown,41-year-old human stage,36,1.2328767123287672
+19,UMAP of all data,glandular cell of esophagus,CL:0002657,Patient13,female,unknown,41-year-old human stage,38,1.3013698630136987
+20,UMAP of all data,endothelial cell of artery,CL:1000413,Patient13,female,unknown,41-year-old human stage,6,0.2054794520547945

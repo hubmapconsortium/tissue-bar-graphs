@@ -1,0 +1,37 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,scRNA-seq data - all cells,fibroblast,CL:0000057,P58,female,African American,mature stage,1590,28.69518137520303
+1,scRNA-seq data - all cells,T cell,CL:0000084,P58,female,African American,mature stage,6,0.10828370330265295
+2,scRNA-seq data - all cells,macrophage,CL:0000235,P58,female,African American,mature stage,12,0.2165674066053059
+3,scRNA-seq data - all cells,vascular associated smooth muscle cell,CL:0000359,P58,female,African American,mature stage,315,5.68489442338928
+4,scRNA-seq data - all cells,CD4-positive helper T cell,CL:0000492,P58,female,African American,mature stage,97,1.7505865367262226
+5,scRNA-seq data - all cells,lymphocyte,CL:0000542,P58,female,African American,mature stage,36,0.6497022198159177
+6,scRNA-seq data - all cells,natural killer cell,CL:0000623,P58,female,African American,mature stage,117,2.1115322144017323
+7,scRNA-seq data - all cells,"CD4-positive, alpha-beta T cell",CL:0000624,P58,female,African American,mature stage,46,0.8301750586536726
+8,scRNA-seq data - all cells,basal cell,CL:0000646,P58,female,African American,mature stage,180,3.2485110990795887
+9,scRNA-seq data - all cells,pericyte,CL:0000669,P58,female,African American,mature stage,47,0.8482223425374481
+10,scRNA-seq data - all cells,myeloid cell,CL:0000763,P58,female,African American,mature stage,4,0.07218913553510196
+11,scRNA-seq data - all cells,myeloid dendritic cell,CL:0000782,P58,female,African American,mature stage,5,0.09023641941887746
+12,scRNA-seq data - all cells,plasmacytoid dendritic cell,CL:0000784,P58,female,African American,mature stage,1,0.01804728388377549
+13,scRNA-seq data - all cells,naive B cell,CL:0000788,P58,female,African American,mature stage,6,0.10828370330265295
+14,scRNA-seq data - all cells,gamma-delta T cell,CL:0000798,P58,female,African American,mature stage,32,0.5775130842808157
+15,scRNA-seq data - all cells,mature NK T cell,CL:0000814,P58,female,African American,mature stage,4,0.07218913553510196
+16,scRNA-seq data - all cells,regulatory T cell,CL:0000815,P58,female,African American,mature stage,7,0.12633098718642843
+17,scRNA-seq data - all cells,classical monocyte,CL:0000860,P58,female,African American,mature stage,58,1.0467424652589785
+18,scRNA-seq data - all cells,inflammatory macrophage,CL:0000863,P58,female,African American,mature stage,94,1.6964446850748962
+19,scRNA-seq data - all cells,non-classical monocyte,CL:0000875,P58,female,African American,mature stage,26,0.4692293809781628
+20,scRNA-seq data - all cells,alternatively activated macrophage,CL:0000890,P58,female,African American,mature stage,102,1.8408229561451002
+21,scRNA-seq data - all cells,"activated CD4-positive, alpha-beta T cell",CL:0000896,P58,female,African American,mature stage,16,0.28875654214040786
+22,scRNA-seq data - all cells,"effector memory CD4-positive, alpha-beta T cell",CL:0000905,P58,female,African American,mature stage,12,0.2165674066053059
+23,scRNA-seq data - all cells,"activated CD8-positive, alpha-beta T cell",CL:0000906,P58,female,African American,mature stage,18,0.32485110990795885
+24,scRNA-seq data - all cells,"CD8-positive, alpha-beta memory T cell",CL:0000909,P58,female,African American,mature stage,79,1.4257354268182638
+25,scRNA-seq data - all cells,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,P58,female,African American,mature stage,66,1.1911207363291825
+26,scRNA-seq data - all cells,class switched memory B cell,CL:0000972,P58,female,African American,mature stage,24,0.4331348132106118
+27,scRNA-seq data - all cells,IgG plasma cell,CL:0000985,P58,female,African American,mature stage,4,0.07218913553510196
+28,scRNA-seq data - all cells,IgA plasma cell,CL:0000987,P58,female,African American,mature stage,9,0.16242555495397942
+29,scRNA-seq data - all cells,conventional dendritic cell,CL:0000990,P58,female,African American,mature stage,60,1.0828370330265296
+30,scRNA-seq data - all cells,endothelial cell of lymphatic vessel,CL:0002138,P58,female,African American,mature stage,70,1.2633098718642843
+31,scRNA-seq data - all cells,capillary endothelial cell,CL:0002144,P58,female,African American,mature stage,169,3.049990976358058
+32,scRNA-seq data - all cells,luminal epithelial cell of mammary gland,CL:0002326,P58,female,African American,mature stage,762,13.752030319436926
+33,scRNA-seq data - all cells,mammary gland epithelial cell,CL:0002327,P58,female,African American,mature stage,611,11.026890452986827
+34,scRNA-seq data - all cells,vein endothelial cell,CL:0002543,P58,female,African American,mature stage,687,12.398484028153762
+35,scRNA-seq data - all cells,endothelial cell of artery,CL:1000413,P58,female,African American,mature stage,169,3.049990976358058

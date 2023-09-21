@@ -1,0 +1,17 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,All donors all cell states (in vivo),epithelial cell,CL:0000066,R1_mother,female,unknown,unknown,4,0.17323516673884798
+1,All donors all cell states (in vivo),T cell,CL:0000084,R1_mother,female,unknown,unknown,424,18.362927674317888
+2,All donors all cell states (in vivo),granulocyte,CL:0000094,R1_mother,female,unknown,unknown,16,0.6929406669553919
+3,All donors all cell states (in vivo),macrophage,CL:0000235,R1_mother,female,unknown,unknown,713,30.87916847119965
+4,All donors all cell states (in vivo),B cell,CL:0000236,R1_mother,female,unknown,unknown,30,1.29926375054136
+5,All donors all cell states (in vivo),dendritic cell,CL:0000451,R1_mother,female,unknown,unknown,10,0.43308791684712
+6,All donors all cell states (in vivo),stromal cell,CL:0000499,R1_mother,female,unknown,unknown,49,2.122130792550888
+7,All donors all cell states (in vivo),natural killer cell,CL:0000623,R1_mother,female,unknown,unknown,170,7.362494586401039
+8,All donors all cell states (in vivo),plasma cell,CL:0000786,R1_mother,female,unknown,unknown,3,0.12992637505413598
+9,All donors all cell states (in vivo),regulatory T cell,CL:0000815,R1_mother,female,unknown,unknown,61,2.6418362927674317
+10,All donors all cell states (in vivo),"group 3 innate lymphoid cell, human",CL:0001078,R1_mother,female,unknown,unknown,110,4.76396708531832
+11,All donors all cell states (in vivo),endothelial cell of lymphatic vessel,CL:0002138,R1_mother,female,unknown,unknown,3,0.12992637505413598
+12,All donors all cell states (in vivo),"decidual natural killer cell, human",CL:0002343,R1_mother,female,unknown,unknown,663,28.713728886964052
+13,All donors all cell states (in vivo),uterine smooth muscle cell,CL:0002601,R1_mother,female,unknown,unknown,4,0.17323516673884798
+14,All donors all cell states (in vivo),endothelial cell of uterus,CL:0009095,R1_mother,female,unknown,unknown,20,0.86617583369424
+15,All donors all cell states (in vivo),Hofbauer cell,CL:3000001,R1_mother,female,unknown,unknown,29,1.2559549588566479

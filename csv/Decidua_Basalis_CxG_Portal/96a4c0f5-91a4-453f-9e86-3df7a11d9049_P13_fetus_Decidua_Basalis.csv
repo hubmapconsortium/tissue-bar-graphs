@@ -1,0 +1,22 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,All donors all cell states (in vivo),epithelial cell,CL:0000066,P13_fetus,unknown,unknown,9th week post-fertilization human stage,9,0.01743071291615827
+1,All donors all cell states (in vivo),T cell,CL:0000084,P13_fetus,unknown,unknown,9th week post-fertilization human stage,5,0.009683729397865706
+2,All donors all cell states (in vivo),granulocyte,CL:0000094,P13_fetus,unknown,unknown,9th week post-fertilization human stage,2,0.0038734917591462825
+3,All donors all cell states (in vivo),macrophage,CL:0000235,P13_fetus,unknown,unknown,9th week post-fertilization human stage,546,1.0574632502469352
+4,All donors all cell states (in vivo),B cell,CL:0000236,P13_fetus,unknown,unknown,9th week post-fertilization human stage,7,0.013557221157011988
+5,All donors all cell states (in vivo),dendritic cell,CL:0000451,P13_fetus,unknown,unknown,9th week post-fertilization human stage,1,0.0019367458795731412
+6,All donors all cell states (in vivo),stromal cell,CL:0000499,P13_fetus,unknown,unknown,9th week post-fertilization human stage,157,0.30406910309298313
+7,All donors all cell states (in vivo),syncytiotrophoblast cell,CL:0000525,P13_fetus,unknown,unknown,9th week post-fertilization human stage,26236,50.81246489648093
+8,All donors all cell states (in vivo),natural killer cell,CL:0000623,P13_fetus,unknown,unknown,9th week post-fertilization human stage,1,0.0019367458795731412
+9,All donors all cell states (in vivo),regulatory T cell,CL:0000815,P13_fetus,unknown,unknown,9th week post-fertilization human stage,2,0.0038734917591462825
+10,All donors all cell states (in vivo),"group 3 innate lymphoid cell, human",CL:0001078,P13_fetus,unknown,unknown,9th week post-fertilization human stage,14,0.027114442314023976
+11,All donors all cell states (in vivo),endothelial cell of lymphatic vessel,CL:0002138,P13_fetus,unknown,unknown,9th week post-fertilization human stage,25,0.04841864698932853
+12,All donors all cell states (in vivo),"decidual natural killer cell, human",CL:0002343,P13_fetus,unknown,unknown,9th week post-fertilization human stage,74,0.14331919508841245
+13,All donors all cell states (in vivo),trophoblast giant cell,CL:0002488,P13_fetus,unknown,unknown,9th week post-fertilization human stage,19,0.036798171711889684
+14,All donors all cell states (in vivo),uterine smooth muscle cell,CL:0002601,P13_fetus,unknown,unknown,9th week post-fertilization human stage,42,0.08134332694207193
+15,All donors all cell states (in vivo),extravillous trophoblast,CL:0008036,P13_fetus,unknown,unknown,9th week post-fertilization human stage,4457,8.632076385257491
+16,All donors all cell states (in vivo),endothelial cell of placenta,CL:0009092,P13_fetus,unknown,unknown,9th week post-fertilization human stage,473,0.9160808010380957
+17,All donors all cell states (in vivo),endothelial cell of uterus,CL:0009095,P13_fetus,unknown,unknown,9th week post-fertilization human stage,124,0.24015648906706955
+18,All donors all cell states (in vivo),embryonic fibroblast,CL:2000042,P13_fetus,unknown,unknown,9th week post-fertilization human stage,2917,5.649487730714853
+19,All donors all cell states (in vivo),placental villous trophoblast,CL:2000060,P13_fetus,unknown,unknown,9th week post-fertilization human stage,13516,26.177057308310577
+20,All donors all cell states (in vivo),Hofbauer cell,CL:3000001,P13_fetus,unknown,unknown,9th week post-fertilization human stage,3006,5.821858113996862

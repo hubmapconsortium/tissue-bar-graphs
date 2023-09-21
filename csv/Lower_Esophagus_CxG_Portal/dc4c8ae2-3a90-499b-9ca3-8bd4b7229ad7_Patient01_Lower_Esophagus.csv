@@ -1,0 +1,19 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,UMAP of all data,mast cell,CL:0000097,Patient01,male,unknown,57-year-old human stage,10,0.3124023742580444
+1,UMAP of all data,peptic cell,CL:0000155,Patient01,male,unknown,57-year-old human stage,1,0.031240237425804434
+2,UMAP of all data,erythrocyte,CL:0000232,Patient01,male,unknown,57-year-old human stage,1,0.031240237425804434
+3,UMAP of all data,macrophage,CL:0000235,Patient01,male,unknown,57-year-old human stage,19,0.5935645110902843
+4,UMAP of all data,dendritic cell,CL:0000451,Patient01,male,unknown,57-year-old human stage,5,0.1562011871290222
+5,UMAP of all data,CD4-positive helper T cell,CL:0000492,Patient01,male,unknown,57-year-old human stage,1,0.031240237425804434
+6,UMAP of all data,monocyte,CL:0000576,Patient01,male,unknown,57-year-old human stage,3,0.09372071227741331
+7,UMAP of all data,enterocyte,CL:0000584,Patient01,male,unknown,57-year-old human stage,1,0.031240237425804434
+8,UMAP of all data,natural killer cell,CL:0000623,Patient01,male,unknown,57-year-old human stage,1,0.031240237425804434
+9,UMAP of all data,gamma-delta T cell,CL:0000798,Patient01,male,unknown,57-year-old human stage,29,0.9059668853483286
+10,UMAP of all data,memory T cell,CL:0000813,Patient01,male,unknown,57-year-old human stage,14,0.43736332396126215
+11,UMAP of all data,natural T-regulatory cell,CL:0000903,Patient01,male,unknown,57-year-old human stage,30,0.937207122774133
+12,UMAP of all data,"activated CD8-positive, alpha-beta T cell",CL:0000906,Patient01,male,unknown,57-year-old human stage,56,1.7494532958450486
+13,UMAP of all data,foveolar cell of stomach,CL:0002179,Patient01,male,unknown,57-year-old human stage,3,0.09372071227741331
+14,UMAP of all data,epithelial cell of esophagus,CL:0002252,Patient01,male,unknown,57-year-old human stage,2989,93.37706966572946
+15,UMAP of all data,P/D1 enteroendocrine cell,CL:0002268,Patient01,male,unknown,57-year-old human stage,5,0.1562011871290222
+16,UMAP of all data,vein endothelial cell,CL:0002543,Patient01,male,unknown,57-year-old human stage,32,0.9996875976257419
+17,UMAP of all data,endothelial cell of artery,CL:1000413,Patient01,male,unknown,57-year-old human stage,1,0.031240237425804434

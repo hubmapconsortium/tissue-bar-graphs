@@ -1,0 +1,9 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Airway,ciliated cell,CL:0000064,NP36,male,European,newborn human stage,5,5.681818181818182
+1,Airway,squamous epithelial cell,CL:0000076,NP36,male,European,newborn human stage,1,1.1363636363636365
+2,Airway,secretory cell,CL:0000151,NP36,male,European,newborn human stage,2,2.272727272727273
+3,Airway,club cell,CL:0000158,NP36,male,European,newborn human stage,1,1.1363636363636365
+4,Airway,monocyte,CL:0000576,NP36,male,European,newborn human stage,12,13.636363636363635
+5,Airway,neutrophil,CL:0000775,NP36,male,European,newborn human stage,64,72.72727272727273
+6,Airway,conventional dendritic cell,CL:0000990,NP36,male,European,newborn human stage,2,2.272727272727273
+7,Airway,tracheal goblet cell,CL:1000329,NP36,male,European,newborn human stage,1,1.1363636363636365

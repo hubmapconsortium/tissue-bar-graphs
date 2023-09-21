@@ -1,0 +1,18 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Airway,native cell,CL:0000003,NP14,female,unknown,infant stage,7,0.37393162393162394
+1,Airway,ciliated cell,CL:0000064,NP14,female,unknown,infant stage,234,12.5
+2,Airway,duct epithelial cell,CL:0000068,NP14,female,unknown,infant stage,6,0.3205128205128205
+3,Airway,mast cell,CL:0000097,NP14,female,unknown,infant stage,2,0.10683760683760685
+4,Airway,secretory cell,CL:0000151,NP14,female,unknown,infant stage,431,23.023504273504273
+5,Airway,club cell,CL:0000158,NP14,female,unknown,infant stage,6,0.3205128205128205
+6,Airway,macrophage,CL:0000235,NP14,female,unknown,infant stage,1,0.05341880341880342
+7,Airway,dendritic cell,CL:0000451,NP14,female,unknown,infant stage,25,1.3354700854700854
+8,Airway,Langerhans cell,CL:0000453,NP14,female,unknown,infant stage,2,0.10683760683760685
+9,Airway,monocyte,CL:0000576,NP14,female,unknown,infant stage,39,2.083333333333333
+10,Airway,conventional dendritic cell,CL:0000990,NP14,female,unknown,infant stage,10,0.5341880341880342
+11,Airway,"plasmacytoid dendritic cell, human",CL:0001058,NP14,female,unknown,infant stage,2,0.10683760683760685
+12,Airway,brush cell of trachea,CL:0002207,NP14,female,unknown,infant stage,1,0.05341880341880342
+13,Airway,multi-ciliated epithelial cell,CL:0005012,NP14,female,unknown,infant stage,23,1.2286324786324787
+14,Airway,pulmonary ionocyte,CL:0017000,NP14,female,unknown,infant stage,8,0.4273504273504274
+15,Airway,tracheal goblet cell,CL:1000329,NP14,female,unknown,infant stage,407,21.74145299145299
+16,Airway,basal cell of epithelium of trachea,CL:1000348,NP14,female,unknown,infant stage,668,35.68376068376068

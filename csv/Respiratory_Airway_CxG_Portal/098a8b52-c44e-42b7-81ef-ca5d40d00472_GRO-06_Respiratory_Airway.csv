@@ -1,0 +1,19 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Human - Lung v2 (HLCA),native cell,CL:0000003,GRO-06,male,European,56-year-old human stage,43,1.2075259758494805
+1,Human - Lung v2 (HLCA),fibroblast,CL:0000057,GRO-06,male,European,56-year-old human stage,36,1.0109519797809603
+2,Human - Lung v2 (HLCA),T cell,CL:0000084,GRO-06,male,European,56-year-old human stage,819,22.99915754001685
+3,Human - Lung v2 (HLCA),mast cell,CL:0000097,GRO-06,male,European,56-year-old human stage,65,1.8253299634934008
+4,Human - Lung v2 (HLCA),secretory cell,CL:0000151,GRO-06,male,European,56-year-old human stage,178,4.998595900028082
+5,Human - Lung v2 (HLCA),macrophage,CL:0000235,GRO-06,male,European,56-year-old human stage,5,0.14040999719180006
+6,Human - Lung v2 (HLCA),B cell,CL:0000236,GRO-06,male,European,56-year-old human stage,44,1.2356079752878404
+7,Human - Lung v2 (HLCA),dendritic cell,CL:0000451,GRO-06,male,European,56-year-old human stage,148,4.156135916877282
+8,Human - Lung v2 (HLCA),monocyte,CL:0000576,GRO-06,male,European,56-year-old human stage,137,3.8472339230553216
+9,Human - Lung v2 (HLCA),basal cell,CL:0000646,GRO-06,male,European,56-year-old human stage,1268,35.607975287840496
+10,Human - Lung v2 (HLCA),"NKp46-positive innate lymphoid cell, human",CL:0001076,GRO-06,male,European,56-year-old human stage,20,0.5616399887672002
+11,Human - Lung v2 (HLCA),endothelial cell of lymphatic vessel,CL:0002138,GRO-06,male,European,56-year-old human stage,3,0.08424599831508003
+12,Human - Lung v2 (HLCA),capillary endothelial cell,CL:0002144,GRO-06,male,European,56-year-old human stage,2,0.05616399887672002
+13,Human - Lung v2 (HLCA),vein endothelial cell,CL:0002543,GRO-06,male,European,56-year-old human stage,58,1.6287559674248806
+14,Human - Lung v2 (HLCA),multi-ciliated epithelial cell,CL:0005012,GRO-06,male,European,56-year-old human stage,686,19.264251614714965
+15,Human - Lung v2 (HLCA),tracheobronchial smooth muscle cell,CL:0019019,GRO-06,male,European,56-year-old human stage,5,0.14040999719180006
+16,Human - Lung v2 (HLCA),lung secretory cell,CL:1000272,GRO-06,male,European,56-year-old human stage,39,1.0951979780960404
+17,Human - Lung v2 (HLCA),endothelial cell of artery,CL:1000413,GRO-06,male,European,56-year-old human stage,5,0.14040999719180006

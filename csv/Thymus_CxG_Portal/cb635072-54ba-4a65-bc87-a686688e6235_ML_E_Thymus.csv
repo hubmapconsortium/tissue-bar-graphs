@@ -1,0 +1,14 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Single-Cell Transcriptome Profiling of Immature Human Thymocytes,granulocyte monocyte progenitor cell,CL:0000557,ML_E,male,unknown,14-month-old human stage,79,0.920638620207435
+1,Single-Cell Transcriptome Profiling of Immature Human Thymocytes,monocyte,CL:0000576,ML_E,male,unknown,14-month-old human stage,30,0.34960960261041835
+2,Single-Cell Transcriptome Profiling of Immature Human Thymocytes,natural killer cell,CL:0000623,ML_E,male,unknown,14-month-old human stage,4,0.04661461368138912
+3,Single-Cell Transcriptome Profiling of Immature Human Thymocytes,erythroid lineage cell,CL:0000764,ML_E,male,unknown,14-month-old human stage,4,0.04661461368138912
+4,Single-Cell Transcriptome Profiling of Immature Human Thymocytes,plasmacytoid dendritic cell,CL:0000784,ML_E,male,unknown,14-month-old human stage,8,0.09322922736277824
+5,Single-Cell Transcriptome Profiling of Immature Human Thymocytes,mature B cell,CL:0000785,ML_E,male,unknown,14-month-old human stage,101,1.1770189954550752
+6,Single-Cell Transcriptome Profiling of Immature Human Thymocytes,plasma cell,CL:0000786,ML_E,male,unknown,14-month-old human stage,11,0.12819018762382006
+7,Single-Cell Transcriptome Profiling of Immature Human Thymocytes,immature B cell,CL:0000816,ML_E,male,unknown,14-month-old human stage,63,0.7341801654818786
+8,Single-Cell Transcriptome Profiling of Immature Human Thymocytes,pro-T cell,CL:0000827,ML_E,male,unknown,14-month-old human stage,1921,22.38666822048712
+9,Single-Cell Transcriptome Profiling of Immature Human Thymocytes,thymocyte,CL:0000893,ML_E,male,unknown,14-month-old human stage,6189,72.1244610185293
+10,Single-Cell Transcriptome Profiling of Immature Human Thymocytes,conventional dendritic cell,CL:0000990,ML_E,male,unknown,14-month-old human stage,51,0.5943363244377112
+11,Single-Cell Transcriptome Profiling of Immature Human Thymocytes,pre-conventional dendritic cell,CL:0002010,ML_E,male,unknown,14-month-old human stage,14,0.1631511478848619
+12,Single-Cell Transcriptome Profiling of Immature Human Thymocytes,hematopoietic precursor cell,CL:0008001,ML_E,male,unknown,14-month-old human stage,106,1.2352872625568116

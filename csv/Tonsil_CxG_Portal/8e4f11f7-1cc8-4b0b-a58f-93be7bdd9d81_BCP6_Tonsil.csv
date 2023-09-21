@@ -1,0 +1,5 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Human tonsil nonlymphoid cells scRNA,macrophage,CL:0000235,BCP6,female,unknown,5-year-old human stage,19,46.34146341463415
+1,Human tonsil nonlymphoid cells scRNA,myeloid cell,CL:0000763,BCP6,female,unknown,5-year-old human stage,2,4.878048780487805
+2,Human tonsil nonlymphoid cells scRNA,plasmacytoid dendritic cell,CL:0000784,BCP6,female,unknown,5-year-old human stage,19,46.34146341463415
+3,Human tonsil nonlymphoid cells scRNA,conventional dendritic cell,CL:0000990,BCP6,female,unknown,5-year-old human stage,1,2.4390243902439024

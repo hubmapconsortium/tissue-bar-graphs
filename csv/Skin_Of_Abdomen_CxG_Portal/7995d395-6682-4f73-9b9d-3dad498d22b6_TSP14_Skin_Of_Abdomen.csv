@@ -1,0 +1,16 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Tabula Sapiens - Immune,T cell,CL:0000084,TSP14,male,European,59-year-old human stage,98,12.810457516339868
+1,Tabula Sapiens - Immune,mast cell,CL:0000097,TSP14,male,European,59-year-old human stage,51,6.666666666666667
+2,Tabula Sapiens - Immune,macrophage,CL:0000235,TSP14,male,European,59-year-old human stage,90,11.76470588235294
+3,Tabula Sapiens - Immune,Langerhans cell,CL:0000453,TSP14,male,European,59-year-old human stage,13,1.6993464052287581
+4,Tabula Sapiens - Immune,CD4-positive helper T cell,CL:0000492,TSP14,male,European,59-year-old human stage,12,1.5686274509803921
+5,Tabula Sapiens - Immune,plasma cell,CL:0000786,TSP14,male,European,59-year-old human stage,9,1.1764705882352942
+6,Tabula Sapiens - Immune,"CD8-positive, alpha-beta cytotoxic T cell",CL:0000794,TSP14,male,European,59-year-old human stage,29,3.7908496732026142
+7,Tabula Sapiens - Immune,mature NK T cell,CL:0000814,TSP14,male,European,59-year-old human stage,118,15.42483660130719
+8,Tabula Sapiens - Immune,regulatory T cell,CL:0000815,TSP14,male,European,59-year-old human stage,47,6.143790849673202
+9,Tabula Sapiens - Immune,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,TSP14,male,European,59-year-old human stage,17,2.2222222222222223
+10,Tabula Sapiens - Immune,"CD4-positive, alpha-beta memory T cell",CL:0000897,TSP14,male,European,59-year-old human stage,89,11.633986928104575
+11,Tabula Sapiens - Immune,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,TSP14,male,European,59-year-old human stage,8,1.045751633986928
+12,Tabula Sapiens - Immune,"CD8-positive, alpha-beta memory T cell",CL:0000909,TSP14,male,European,59-year-old human stage,164,21.437908496732025
+13,Tabula Sapiens - Immune,CD141-positive myeloid dendritic cell,CL:0002394,TSP14,male,European,59-year-old human stage,3,0.39215686274509803
+14,Tabula Sapiens - Immune,CD1c-positive myeloid dendritic cell,CL:0002399,TSP14,male,European,59-year-old human stage,17,2.2222222222222223

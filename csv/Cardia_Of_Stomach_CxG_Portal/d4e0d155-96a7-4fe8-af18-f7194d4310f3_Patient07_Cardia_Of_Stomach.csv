@@ -1,0 +1,4 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,UMAP of Myeloid cells,mast cell,CL:0000097,Patient07,male,unknown,45-year-old human stage,1,11.11111111111111
+1,UMAP of Myeloid cells,macrophage,CL:0000235,Patient07,male,unknown,45-year-old human stage,7,77.77777777777779
+2,UMAP of Myeloid cells,dendritic cell,CL:0000451,Patient07,male,unknown,45-year-old human stage,1,11.11111111111111

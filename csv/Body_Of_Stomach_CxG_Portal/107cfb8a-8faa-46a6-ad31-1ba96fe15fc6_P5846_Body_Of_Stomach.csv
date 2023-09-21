@@ -1,0 +1,5 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,UMAP of Plasma and B-Cells cells,native cell,CL:0000003,P5846,unknown,unknown,unknown,10,5.847953216374268
+1,UMAP of Plasma and B-Cells cells,memory B cell,CL:0000787,P5846,unknown,unknown,unknown,1,0.5847953216374269
+2,UMAP of Plasma and B-Cells cells,IgG plasma cell,CL:0000985,P5846,unknown,unknown,unknown,24,14.035087719298245
+3,UMAP of Plasma and B-Cells cells,IgA plasma cell,CL:0000987,P5846,unknown,unknown,unknown,136,79.53216374269006

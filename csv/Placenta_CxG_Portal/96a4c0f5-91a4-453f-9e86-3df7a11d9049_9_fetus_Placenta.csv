@@ -1,18 +1,37 @@
 ,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
-0,All donors all cell states (in vivo),epithelial cell,CL:0000066,9_fetus,unknown,unknown,11th week post-fertilization human stage,2,0.12706480304955528
-1,All donors all cell states (in vivo),T cell,CL:0000084,9_fetus,unknown,unknown,11th week post-fertilization human stage,4,0.25412960609911056
-2,All donors all cell states (in vivo),macrophage,CL:0000235,9_fetus,unknown,unknown,11th week post-fertilization human stage,19,1.207115628970775
-3,All donors all cell states (in vivo),B cell,CL:0000236,9_fetus,unknown,unknown,11th week post-fertilization human stage,7,0.44472681067344344
-4,All donors all cell states (in vivo),stromal cell,CL:0000499,9_fetus,unknown,unknown,11th week post-fertilization human stage,4,0.25412960609911056
-5,All donors all cell states (in vivo),syncytiotrophoblast cell,CL:0000525,9_fetus,unknown,unknown,11th week post-fertilization human stage,41,2.6048284625158833
-6,All donors all cell states (in vivo),natural killer cell,CL:0000623,9_fetus,unknown,unknown,11th week post-fertilization human stage,1,0.06353240152477764
-7,All donors all cell states (in vivo),"group 3 innate lymphoid cell, human",CL:0001078,9_fetus,unknown,unknown,11th week post-fertilization human stage,1,0.06353240152477764
-8,All donors all cell states (in vivo),endothelial cell of lymphatic vessel,CL:0002138,9_fetus,unknown,unknown,11th week post-fertilization human stage,1,0.06353240152477764
-9,All donors all cell states (in vivo),"decidual natural killer cell, human",CL:0002343,9_fetus,unknown,unknown,11th week post-fertilization human stage,2,0.12706480304955528
-10,All donors all cell states (in vivo),uterine smooth muscle cell,CL:0002601,9_fetus,unknown,unknown,11th week post-fertilization human stage,8,0.5082592121982211
-11,All donors all cell states (in vivo),extravillous trophoblast,CL:0008036,9_fetus,unknown,unknown,11th week post-fertilization human stage,699,44.40914866581957
-12,All donors all cell states (in vivo),endothelial cell of placenta,CL:0009092,9_fetus,unknown,unknown,11th week post-fertilization human stage,7,0.44472681067344344
-13,All donors all cell states (in vivo),endothelial cell of uterus,CL:0009095,9_fetus,unknown,unknown,11th week post-fertilization human stage,4,0.25412960609911056
-14,All donors all cell states (in vivo),embryonic fibroblast,CL:2000042,9_fetus,unknown,unknown,11th week post-fertilization human stage,180,11.435832274459974
-15,All donors all cell states (in vivo),placental villous trophoblast,CL:2000060,9_fetus,unknown,unknown,11th week post-fertilization human stage,381,24.20584498094028
-16,All donors all cell states (in vivo),Hofbauer cell,CL:3000001,9_fetus,unknown,unknown,11th week post-fertilization human stage,213,13.532401524777637
+0,All donors all cell states (in vivo),epithelial cell,CL:0000066,9_fetus,unknown,unknown,11th week post-fertilization human stage,2,0.11389521640091116
+1,All donors all cell states (in vivo),T cell,CL:0000084,9_fetus,unknown,unknown,11th week post-fertilization human stage,4,0.22779043280182232
+2,All donors all cell states (in vivo),macrophage,CL:0000235,9_fetus,unknown,unknown,11th week post-fertilization human stage,19,1.082004555808656
+3,All donors all cell states (in vivo),B cell,CL:0000236,9_fetus,unknown,unknown,11th week post-fertilization human stage,7,0.3986332574031891
+4,All donors all cell states (in vivo),stromal cell,CL:0000499,9_fetus,unknown,unknown,11th week post-fertilization human stage,4,0.22779043280182232
+5,All donors all cell states (in vivo),syncytiotrophoblast cell,CL:0000525,9_fetus,unknown,unknown,11th week post-fertilization human stage,41,2.334851936218679
+6,All donors all cell states (in vivo),natural killer cell,CL:0000623,9_fetus,unknown,unknown,11th week post-fertilization human stage,1,0.05694760820045558
+7,All donors all cell states (in vivo),"group 3 innate lymphoid cell, human",CL:0001078,9_fetus,unknown,unknown,11th week post-fertilization human stage,1,0.05694760820045558
+8,All donors all cell states (in vivo),endothelial cell of lymphatic vessel,CL:0002138,9_fetus,unknown,unknown,11th week post-fertilization human stage,1,0.05694760820045558
+9,All donors all cell states (in vivo),"decidual natural killer cell, human",CL:0002343,9_fetus,unknown,unknown,11th week post-fertilization human stage,2,0.11389521640091116
+10,All donors all cell states (in vivo),uterine smooth muscle cell,CL:0002601,9_fetus,unknown,unknown,11th week post-fertilization human stage,8,0.45558086560364464
+11,All donors all cell states (in vivo),extravillous trophoblast,CL:0008036,9_fetus,unknown,unknown,11th week post-fertilization human stage,699,39.80637813211845
+12,All donors all cell states (in vivo),endothelial cell of placenta,CL:0009092,9_fetus,unknown,unknown,11th week post-fertilization human stage,7,0.3986332574031891
+13,All donors all cell states (in vivo),endothelial cell of uterus,CL:0009095,9_fetus,unknown,unknown,11th week post-fertilization human stage,4,0.22779043280182232
+14,All donors all cell states (in vivo),embryonic fibroblast,CL:2000042,9_fetus,unknown,unknown,11th week post-fertilization human stage,180,10.250569476082005
+15,All donors all cell states (in vivo),placental villous trophoblast,CL:2000060,9_fetus,unknown,unknown,11th week post-fertilization human stage,381,21.697038724373577
+16,All donors all cell states (in vivo),Hofbauer cell,CL:3000001,9_fetus,unknown,unknown,11th week post-fertilization human stage,213,12.12984054669704
+17,All donors all cell states (in vivo),epithelial cell,CL:0000066,9_fetus,unknown,unknown,11th week post-fertilization human stage,1,0.05694760820045558
+18,All donors all cell states (in vivo),T cell,CL:0000084,9_fetus,unknown,unknown,11th week post-fertilization human stage,3,0.17084282460136674
+19,All donors all cell states (in vivo),granulocyte,CL:0000094,9_fetus,unknown,unknown,11th week post-fertilization human stage,2,0.11389521640091116
+20,All donors all cell states (in vivo),macrophage,CL:0000235,9_fetus,unknown,unknown,11th week post-fertilization human stage,25,1.4236902050113895
+21,All donors all cell states (in vivo),B cell,CL:0000236,9_fetus,unknown,unknown,11th week post-fertilization human stage,5,0.2847380410022779
+22,All donors all cell states (in vivo),dendritic cell,CL:0000451,9_fetus,unknown,unknown,11th week post-fertilization human stage,3,0.17084282460136674
+23,All donors all cell states (in vivo),stromal cell,CL:0000499,9_fetus,unknown,unknown,11th week post-fertilization human stage,15,0.8542141230068337
+24,All donors all cell states (in vivo),syncytiotrophoblast cell,CL:0000525,9_fetus,unknown,unknown,11th week post-fertilization human stage,19,1.082004555808656
+25,All donors all cell states (in vivo),natural killer cell,CL:0000623,9_fetus,unknown,unknown,11th week post-fertilization human stage,1,0.05694760820045558
+26,All donors all cell states (in vivo),"group 3 innate lymphoid cell, human",CL:0001078,9_fetus,unknown,unknown,11th week post-fertilization human stage,3,0.17084282460136674
+27,All donors all cell states (in vivo),endothelial cell of lymphatic vessel,CL:0002138,9_fetus,unknown,unknown,11th week post-fertilization human stage,1,0.05694760820045558
+28,All donors all cell states (in vivo),"decidual natural killer cell, human",CL:0002343,9_fetus,unknown,unknown,11th week post-fertilization human stage,1,0.05694760820045558
+29,All donors all cell states (in vivo),uterine smooth muscle cell,CL:0002601,9_fetus,unknown,unknown,11th week post-fertilization human stage,2,0.11389521640091116
+30,All donors all cell states (in vivo),extravillous trophoblast,CL:0008036,9_fetus,unknown,unknown,11th week post-fertilization human stage,48,2.733485193621868
+31,All donors all cell states (in vivo),endothelial cell of placenta,CL:0009092,9_fetus,unknown,unknown,11th week post-fertilization human stage,7,0.3986332574031891
+32,All donors all cell states (in vivo),endothelial cell of uterus,CL:0009095,9_fetus,unknown,unknown,11th week post-fertilization human stage,5,0.2847380410022779
+33,All donors all cell states (in vivo),embryonic fibroblast,CL:2000042,9_fetus,unknown,unknown,11th week post-fertilization human stage,26,1.4806378132118452
+34,All donors all cell states (in vivo),placental villous trophoblast,CL:2000060,9_fetus,unknown,unknown,11th week post-fertilization human stage,10,0.5694760820045558
+35,All donors all cell states (in vivo),Hofbauer cell,CL:3000001,9_fetus,unknown,unknown,11th week post-fertilization human stage,5,0.2847380410022779

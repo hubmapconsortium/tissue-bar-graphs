@@ -1,0 +1,18 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,UMAP of all data,native cell,CL:0000003,Patient08,male,unknown,29-year-old human stage,2,0.9900990099009901
+1,UMAP of all data,stem cell,CL:0000034,Patient08,male,unknown,29-year-old human stage,1,0.49504950495049505
+2,UMAP of all data,fibroblast,CL:0000057,Patient08,male,unknown,29-year-old human stage,1,0.49504950495049505
+3,UMAP of all data,peptic cell,CL:0000155,Patient08,male,unknown,29-year-old human stage,27,13.366336633663368
+4,UMAP of all data,parietal cell,CL:0000162,Patient08,male,unknown,29-year-old human stage,8,3.9603960396039604
+5,UMAP of all data,enteroendocrine cell,CL:0000164,Patient08,male,unknown,29-year-old human stage,10,4.9504950495049505
+6,UMAP of all data,erythrocyte,CL:0000232,Patient08,male,unknown,29-year-old human stage,1,0.49504950495049505
+7,UMAP of all data,mucous neck cell,CL:0000651,Patient08,male,unknown,29-year-old human stage,7,3.4653465346534658
+8,UMAP of all data,memory B cell,CL:0000787,Patient08,male,unknown,29-year-old human stage,1,0.49504950495049505
+9,UMAP of all data,gamma-delta T cell,CL:0000798,Patient08,male,unknown,29-year-old human stage,3,1.4851485148514851
+10,UMAP of all data,natural T-regulatory cell,CL:0000903,Patient08,male,unknown,29-year-old human stage,2,0.9900990099009901
+11,UMAP of all data,"activated CD8-positive, alpha-beta T cell",CL:0000906,Patient08,male,unknown,29-year-old human stage,10,4.9504950495049505
+12,UMAP of all data,IgA plasma cell,CL:0000987,Patient08,male,unknown,29-year-old human stage,27,13.366336633663368
+13,UMAP of all data,foveolar cell of stomach,CL:0002179,Patient08,male,unknown,29-year-old human stage,51,25.247524752475247
+14,UMAP of all data,P/D1 enteroendocrine cell,CL:0002268,Patient08,male,unknown,29-year-old human stage,48,23.762376237623762
+15,UMAP of all data,vein endothelial cell,CL:0002543,Patient08,male,unknown,29-year-old human stage,2,0.9900990099009901
+16,UMAP of all data,endothelial cell of artery,CL:1000413,Patient08,male,unknown,29-year-old human stage,1,0.49504950495049505

@@ -1,0 +1,10 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Airway,native cell,CL:0000003,AN13,male,European,human adult stage,3452,72.8423718083984
+1,Airway,ciliated cell,CL:0000064,AN13,male,European,human adult stage,277,5.845115003165225
+2,Airway,secretory cell,CL:0000151,AN13,male,European,human adult stage,497,10.487444608567207
+3,Airway,club cell,CL:0000158,AN13,male,European,human adult stage,3,0.06330449461911795
+4,Airway,"CD8-positive, alpha-beta memory T cell",CL:0000909,AN13,male,European,human adult stage,1,0.02110149820637265
+5,Airway,multi-ciliated epithelial cell,CL:0005012,AN13,male,European,human adult stage,1,0.02110149820637265
+6,Airway,pulmonary ionocyte,CL:0017000,AN13,male,European,human adult stage,44,0.9284659210803967
+7,Airway,tracheal goblet cell,CL:1000329,AN13,male,European,human adult stage,169,3.566153196876978
+8,Airway,basal cell of epithelium of trachea,CL:1000348,AN13,male,European,human adult stage,295,6.224941970879932

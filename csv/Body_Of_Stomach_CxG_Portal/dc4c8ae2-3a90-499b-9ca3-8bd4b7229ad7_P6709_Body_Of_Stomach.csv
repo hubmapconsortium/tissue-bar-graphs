@@ -1,0 +1,24 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,UMAP of all data,native cell,CL:0000003,P6709,unknown,unknown,unknown,543,12.454128440366972
+1,UMAP of all data,stem cell,CL:0000034,P6709,unknown,unknown,unknown,1,0.022935779816513763
+2,UMAP of all data,fibroblast,CL:0000057,P6709,unknown,unknown,unknown,739,16.94954128440367
+3,UMAP of all data,mast cell,CL:0000097,P6709,unknown,unknown,unknown,53,1.2155963302752295
+4,UMAP of all data,peptic cell,CL:0000155,P6709,unknown,unknown,unknown,7,0.16055045871559634
+5,UMAP of all data,enteroendocrine cell,CL:0000164,P6709,unknown,unknown,unknown,13,0.2981651376146789
+6,UMAP of all data,macrophage,CL:0000235,P6709,unknown,unknown,unknown,7,0.16055045871559634
+7,UMAP of all data,dendritic cell,CL:0000451,P6709,unknown,unknown,unknown,25,0.573394495412844
+8,UMAP of all data,CD4-positive helper T cell,CL:0000492,P6709,unknown,unknown,unknown,322,7.385321100917432
+9,UMAP of all data,monocyte,CL:0000576,P6709,unknown,unknown,unknown,47,1.0779816513761469
+10,UMAP of all data,natural killer cell,CL:0000623,P6709,unknown,unknown,unknown,3,0.06880733944954129
+11,UMAP of all data,mucous neck cell,CL:0000651,P6709,unknown,unknown,unknown,72,1.651376146788991
+12,UMAP of all data,memory B cell,CL:0000787,P6709,unknown,unknown,unknown,88,2.0183486238532113
+13,UMAP of all data,gamma-delta T cell,CL:0000798,P6709,unknown,unknown,unknown,550,12.614678899082568
+14,UMAP of all data,memory T cell,CL:0000813,P6709,unknown,unknown,unknown,210,4.81651376146789
+15,UMAP of all data,natural T-regulatory cell,CL:0000903,P6709,unknown,unknown,unknown,538,12.339449541284404
+16,UMAP of all data,"activated CD8-positive, alpha-beta T cell",CL:0000906,P6709,unknown,unknown,unknown,755,17.31651376146789
+17,UMAP of all data,IgG plasma cell,CL:0000985,P6709,unknown,unknown,unknown,50,1.146788990825688
+18,UMAP of all data,IgA plasma cell,CL:0000987,P6709,unknown,unknown,unknown,128,2.9357798165137616
+19,UMAP of all data,capillary endothelial cell,CL:0002144,P6709,unknown,unknown,unknown,1,0.022935779816513763
+20,UMAP of all data,foveolar cell of stomach,CL:0002179,P6709,unknown,unknown,unknown,4,0.09174311926605505
+21,UMAP of all data,vein endothelial cell,CL:0002543,P6709,unknown,unknown,unknown,95,2.1788990825688073
+22,UMAP of all data,endothelial cell of artery,CL:1000413,P6709,unknown,unknown,unknown,109,2.5

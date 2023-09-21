@@ -1,3 +1,9 @@
 ,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
-0,Supercluster: Miscellaneous,neuron,CL:0000540,H18.30.002,male,European,50-year-old human stage,1,0.5524861878453038
-1,Supercluster: Miscellaneous,leukocyte,CL:0000738,H18.30.002,male,European,50-year-old human stage,180,99.4475138121547
+0,Supercluster: Miscellaneous,neuron,CL:0000540,H18.30.002,male,European,50-year-old human stage,1,0.015703517587939697
+1,Supercluster: Miscellaneous,leukocyte,CL:0000738,H18.30.002,male,European,50-year-old human stage,180,2.8266331658291457
+2,Supercluster: Miscellaneous,neuron,CL:0000540,H18.30.002,male,European,50-year-old human stage,5355,84.09233668341709
+3,Supercluster: Miscellaneous,leukocyte,CL:0000738,H18.30.002,male,European,50-year-old human stage,206,3.234924623115578
+4,Supercluster: Miscellaneous,neuron,CL:0000540,H18.30.002,male,European,50-year-old human stage,335,5.260678391959799
+5,Supercluster: Miscellaneous,leukocyte,CL:0000738,H18.30.002,male,European,50-year-old human stage,75,1.1777638190954776
+6,Supercluster: Miscellaneous,neuron,CL:0000540,H18.30.002,male,European,50-year-old human stage,2,0.031407035175879394
+7,Supercluster: Miscellaneous,leukocyte,CL:0000738,H18.30.002,male,European,50-year-old human stage,214,3.3605527638190953

@@ -1,0 +1,23 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,mature,fibroblast,CL:0000057,TxK1,female,unknown,53-year-old human stage,6,1.1976047904191618
+1,mature,mast cell,CL:0000097,TxK1,female,unknown,53-year-old human stage,4,0.7984031936127743
+2,mature,mononuclear phagocyte,CL:0000113,TxK1,female,unknown,53-year-old human stage,54,10.778443113772456
+3,mature,myofibroblast cell,CL:0000186,TxK1,female,unknown,53-year-old human stage,21,4.191616766467066
+4,mature,B cell,CL:0000236,TxK1,female,unknown,53-year-old human stage,14,2.7944111776447107
+5,mature,lymphocyte,CL:0000542,TxK1,female,unknown,53-year-old human stage,34,6.786427145708583
+6,mature,natural killer cell,CL:0000623,TxK1,female,unknown,53-year-old human stage,8,1.5968063872255487
+7,mature,"CD4-positive, alpha-beta T cell",CL:0000624,TxK1,female,unknown,53-year-old human stage,21,4.191616766467066
+8,mature,"CD8-positive, alpha-beta T cell",CL:0000625,TxK1,female,unknown,53-year-old human stage,21,4.191616766467066
+9,mature,glomerular endothelial cell,CL:0002188,TxK1,female,unknown,53-year-old human stage,4,0.7984031936127743
+10,mature,renal beta-intercalated cell,CL:0002201,TxK1,female,unknown,53-year-old human stage,11,2.19560878243513
+11,mature,epithelial cell of proximal tubule,CL:0002306,TxK1,female,unknown,53-year-old human stage,183,36.52694610778443
+12,mature,kidney epithelial cell,CL:0002518,TxK1,female,unknown,53-year-old human stage,4,0.7984031936127743
+13,mature,renal principal cell,CL:0005009,TxK1,female,unknown,53-year-old human stage,12,2.3952095808383236
+14,mature,renal alpha-intercalated cell,CL:0005011,TxK1,female,unknown,53-year-old human stage,35,6.986027944111776
+15,mature,progenitor cell,CL:0011026,TxK1,female,unknown,53-year-old human stage,16,3.1936127744510974
+16,mature,epithelial cell of glomerular capsule,CL:1000450,TxK1,female,unknown,53-year-old human stage,1,0.19960079840319359
+17,mature,kidney connecting tubule epithelial cell,CL:1000768,TxK1,female,unknown,53-year-old human stage,5,0.998003992015968
+18,mature,peritubular capillary endothelial cell,CL:1001033,TxK1,female,unknown,53-year-old human stage,10,1.996007984031936
+19,mature,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,TxK1,female,unknown,53-year-old human stage,3,0.5988023952095809
+20,mature,vasa recta ascending limb cell,CL:1001131,TxK1,female,unknown,53-year-old human stage,21,4.191616766467066
+21,mature,vasa recta descending limb cell,CL:1001285,TxK1,female,unknown,53-year-old human stage,13,2.5948103792415167

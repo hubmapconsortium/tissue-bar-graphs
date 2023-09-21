@@ -1,0 +1,9 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Human - Lung v2 (HLCA),native cell,CL:0000003,T166,female,European,68-year-old human stage,27,1.0281797410510283
+1,Human - Lung v2 (HLCA),T cell,CL:0000084,T166,female,European,68-year-old human stage,5,0.19040365575019041
+2,Human - Lung v2 (HLCA),mast cell,CL:0000097,T166,female,European,68-year-old human stage,1,0.03808073115003808
+3,Human - Lung v2 (HLCA),secretory cell,CL:0000151,T166,female,European,68-year-old human stage,191,7.2734196496572725
+4,Human - Lung v2 (HLCA),macrophage,CL:0000235,T166,female,European,68-year-old human stage,1,0.03808073115003808
+5,Human - Lung v2 (HLCA),basal cell,CL:0000646,T166,female,European,68-year-old human stage,2079,79.16984006092918
+6,Human - Lung v2 (HLCA),multi-ciliated epithelial cell,CL:0005012,T166,female,European,68-year-old human stage,299,11.386138613861387
+7,Human - Lung v2 (HLCA),lung secretory cell,CL:1000272,T166,female,European,68-year-old human stage,23,0.8758568164508759

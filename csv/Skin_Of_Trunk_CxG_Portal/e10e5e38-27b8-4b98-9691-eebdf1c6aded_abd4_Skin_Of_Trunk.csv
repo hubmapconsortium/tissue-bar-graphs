@@ -1,0 +1,9 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Skin,melanocyte,CL:0000148,abd4,female,unknown,human adult stage,368,3.2592330174475244
+1,Skin,Merkel cell,CL:0000242,abd4,female,unknown,human adult stage,122,1.0805065981755382
+2,Skin,keratinocyte,CL:0000312,abd4,female,unknown,human adult stage,778,6.890443716234169
+3,Skin,prickle cell,CL:0000649,abd4,female,unknown,human adult stage,3569,31.609246302364713
+4,Skin,hematopoietic cell,CL:0000988,abd4,female,unknown,human adult stage,99,0.8768045345850678
+5,Skin,basal cell of epidermis,CL:0002187,abd4,female,unknown,human adult stage,6191,54.83128155167832
+6,Skin,granular cell of epidermis,CL:0002189,abd4,female,unknown,human adult stage,29,0.2568417323532017
+7,Skin,hair follicular keratinocyte,CL:2000092,abd4,female,unknown,human adult stage,135,1.195642547161456

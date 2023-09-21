@@ -1,0 +1,17 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Airway,native cell,CL:0000003,NP47,female,European,newborn human stage,5,0.25853154084798347
+1,Airway,ciliated cell,CL:0000064,NP47,female,European,newborn human stage,216,11.168562564632884
+2,Airway,duct epithelial cell,CL:0000068,NP47,female,European,newborn human stage,22,1.1375387797311272
+3,Airway,squamous epithelial cell,CL:0000076,NP47,female,European,newborn human stage,4,0.2068252326783868
+4,Airway,secretory cell,CL:0000151,NP47,female,European,newborn human stage,507,26.215098241985523
+5,Airway,club cell,CL:0000158,NP47,female,European,newborn human stage,9,0.4653567735263702
+6,Airway,macrophage,CL:0000235,NP47,female,European,newborn human stage,4,0.2068252326783868
+7,Airway,dendritic cell,CL:0000451,NP47,female,European,newborn human stage,21,1.0858324715615306
+8,Airway,Langerhans cell,CL:0000453,NP47,female,European,newborn human stage,2,0.1034126163391934
+9,Airway,monocyte,CL:0000576,NP47,female,European,newborn human stage,2,0.1034126163391934
+10,Airway,"plasmacytoid dendritic cell, human",CL:0001058,NP47,female,European,newborn human stage,5,0.25853154084798347
+11,Airway,brush cell of trachea,CL:0002207,NP47,female,European,newborn human stage,3,0.15511892450879006
+12,Airway,multi-ciliated epithelial cell,CL:0005012,NP47,female,European,newborn human stage,64,3.3092037228541886
+13,Airway,pulmonary ionocyte,CL:0017000,NP47,female,European,newborn human stage,50,2.5853154084798344
+14,Airway,tracheal goblet cell,CL:1000329,NP47,female,European,newborn human stage,295,15.253360910031025
+15,Airway,basal cell of epithelium of trachea,CL:1000348,NP47,female,European,newborn human stage,725,37.4870734229576

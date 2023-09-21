@@ -1,0 +1,16 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Pregnant Uterus (All),T cell,CL:0000084,D5_mother,female,unknown,unknown,168,32.68482490272373
+1,Pregnant Uterus (All),granulocyte,CL:0000094,D5_mother,female,unknown,unknown,6,1.1673151750972763
+2,Pregnant Uterus (All),endothelial cell,CL:0000115,D5_mother,female,unknown,unknown,1,0.19455252918287938
+3,Pregnant Uterus (All),glandular epithelial cell,CL:0000150,D5_mother,female,unknown,unknown,1,0.19455252918287938
+4,Pregnant Uterus (All),macrophage,CL:0000235,D5_mother,female,unknown,unknown,115,22.37354085603113
+5,Pregnant Uterus (All),syncytiotrophoblast cell,CL:0000525,D5_mother,female,unknown,unknown,7,1.3618677042801557
+6,Pregnant Uterus (All),plasma cell,CL:0000786,D5_mother,female,unknown,unknown,3,0.5836575875486382
+7,Pregnant Uterus (All),"CD16-positive, CD56-dim natural killer cell, human",CL:0000939,D5_mother,female,unknown,unknown,3,0.5836575875486382
+8,Pregnant Uterus (All),conventional dendritic cell,CL:0000990,D5_mother,female,unknown,unknown,5,0.9727626459143969
+9,Pregnant Uterus (All),innate lymphoid cell,CL:0001065,D5_mother,female,unknown,unknown,3,0.5836575875486382
+10,Pregnant Uterus (All),"decidual natural killer cell, human",CL:0002343,D5_mother,female,unknown,unknown,132,25.680933852140075
+11,Pregnant Uterus (All),extravillous trophoblast,CL:0008036,D5_mother,female,unknown,unknown,27,5.252918287937743
+12,Pregnant Uterus (All),decidual cell,CL:2000002,D5_mother,female,unknown,unknown,12,2.3346303501945527
+13,Pregnant Uterus (All),placental villous trophoblast,CL:2000060,D5_mother,female,unknown,unknown,16,3.11284046692607
+14,Pregnant Uterus (All),Hofbauer cell,CL:3000001,D5_mother,female,unknown,unknown,15,2.9182879377431905

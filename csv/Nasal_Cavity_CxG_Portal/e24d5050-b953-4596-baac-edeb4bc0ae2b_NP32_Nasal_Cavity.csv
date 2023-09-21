@@ -1,0 +1,30 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Airway,native cell,CL:0000003,NP32,male,European,adolescent stage,1684,13.348129359543437
+1,Airway,ciliated cell,CL:0000064,NP32,male,European,adolescent stage,785,6.2222574508560555
+2,Airway,duct epithelial cell,CL:0000068,NP32,male,European,adolescent stage,3,0.023779327837666456
+3,Airway,squamous epithelial cell,CL:0000076,NP32,male,European,adolescent stage,36,0.2853519340519975
+4,Airway,mast cell,CL:0000097,NP32,male,European,adolescent stage,5,0.03963221306277743
+5,Airway,secretory cell,CL:0000151,NP32,male,European,adolescent stage,347,2.750475586556753
+6,Airway,club cell,CL:0000158,NP32,male,European,adolescent stage,12,0.09511731135066583
+7,Airway,macrophage,CL:0000235,NP32,male,European,adolescent stage,1,0.007926442612555484
+8,Airway,B cell,CL:0000236,NP32,male,European,adolescent stage,3,0.023779327837666456
+9,Airway,dendritic cell,CL:0000451,NP32,male,European,adolescent stage,187,1.4822447685478757
+10,Airway,Langerhans cell,CL:0000453,NP32,male,European,adolescent stage,13,0.1030437539632213
+11,Airway,monocyte,CL:0000576,NP32,male,European,adolescent stage,1,0.007926442612555484
+12,Airway,plasma cell,CL:0000786,NP32,male,European,adolescent stage,9,0.07133798351299937
+13,Airway,memory B cell,CL:0000787,NP32,male,European,adolescent stage,89,0.7054533925174381
+14,Airway,naive B cell,CL:0000788,NP32,male,European,adolescent stage,14,0.11097019657577678
+15,Airway,gamma-delta T cell,CL:0000798,NP32,male,European,adolescent stage,1,0.007926442612555484
+16,Airway,mature NK T cell,CL:0000814,NP32,male,European,adolescent stage,1,0.007926442612555484
+17,Airway,alternatively activated macrophage,CL:0000890,NP32,male,European,adolescent stage,3,0.023779327837666456
+18,Airway,"CD4-positive, alpha-beta memory T cell",CL:0000897,NP32,male,European,adolescent stage,1,0.007926442612555484
+19,Airway,naive T cell,CL:0000898,NP32,male,European,adolescent stage,7,0.05548509828788839
+20,Airway,"CD8-positive, alpha-beta memory T cell",CL:0000909,NP32,male,European,adolescent stage,57,0.4518072289156626
+21,Airway,mucosal invariant T cell,CL:0000940,NP32,male,European,adolescent stage,16,0.12682308180088775
+22,Airway,conventional dendritic cell,CL:0000990,NP32,male,European,adolescent stage,3,0.023779327837666456
+23,Airway,innate lymphoid cell,CL:0001065,NP32,male,European,adolescent stage,1,0.007926442612555484
+24,Airway,brush cell of trachea,CL:0002207,NP32,male,European,adolescent stage,1,0.007926442612555484
+25,Airway,multi-ciliated epithelial cell,CL:0005012,NP32,male,European,adolescent stage,30,0.23779327837666456
+26,Airway,pulmonary ionocyte,CL:0017000,NP32,male,European,adolescent stage,33,0.261572606214331
+27,Airway,tracheal goblet cell,CL:1000329,NP32,male,European,adolescent stage,9085,72.01173113506658
+28,Airway,basal cell of epithelium of trachea,CL:1000348,NP32,male,European,adolescent stage,188,1.4901712111604313

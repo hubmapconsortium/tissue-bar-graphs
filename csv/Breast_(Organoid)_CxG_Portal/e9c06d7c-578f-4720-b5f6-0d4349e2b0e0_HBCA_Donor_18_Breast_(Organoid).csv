@@ -1,0 +1,10 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,HBCA - global,blood vessel endothelial cell,CL:0000071,HBCA_Donor_18,female,unknown,29-year-old human stage,301,1.576741749607124
+1,HBCA - global,B cell,CL:0000236,HBCA_Donor_18,female,unknown,29-year-old human stage,2,0.010476689366160294
+2,HBCA - global,"CD8-positive, alpha-beta T cell",CL:0000625,HBCA_Donor_18,female,unknown,29-year-old human stage,2,0.010476689366160294
+3,HBCA - global,hematopoietic cell,CL:0000988,HBCA_Donor_18,female,unknown,29-year-old human stage,1,0.005238344683080147
+4,HBCA - global,myoepithelial cell of mammary gland,CL:0002324,HBCA_Donor_18,female,unknown,29-year-old human stage,3973,20.811943425877423
+5,HBCA - global,luminal epithelial cell of mammary gland,CL:0002326,HBCA_Donor_18,female,unknown,29-year-old human stage,4890,25.615505500261914
+6,HBCA - global,fibroblast of mammary gland,CL:0002555,HBCA_Donor_18,female,unknown,29-year-old human stage,3881,20.33001571503405
+7,HBCA - global,mural cell,CL:0008034,HBCA_Donor_18,female,unknown,29-year-old human stage,344,1.8019905709795705
+8,HBCA - global,progenitor cell of mammary luminal epithelium,CL:0009116,HBCA_Donor_18,female,unknown,29-year-old human stage,5696,29.837611314824514

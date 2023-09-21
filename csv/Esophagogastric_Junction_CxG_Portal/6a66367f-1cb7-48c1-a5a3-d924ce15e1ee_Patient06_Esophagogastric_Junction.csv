@@ -1,0 +1,6 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,UMAP of T-Cells cells,CD4-positive helper T cell,CL:0000492,Patient06,female,unknown,34-year-old human stage,1,2.3255813953488373
+1,UMAP of T-Cells cells,gamma-delta T cell,CL:0000798,Patient06,female,unknown,34-year-old human stage,11,25.581395348837212
+2,UMAP of T-Cells cells,memory T cell,CL:0000813,Patient06,female,unknown,34-year-old human stage,5,11.627906976744185
+3,UMAP of T-Cells cells,natural T-regulatory cell,CL:0000903,Patient06,female,unknown,34-year-old human stage,7,16.27906976744186
+4,UMAP of T-Cells cells,"activated CD8-positive, alpha-beta T cell",CL:0000906,Patient06,female,unknown,34-year-old human stage,19,44.18604651162791

@@ -1,0 +1,11 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Airway,native cell,CL:0000003,AN12,female,European,human aged stage,13,3.7356321839080464
+1,Airway,ciliated cell,CL:0000064,AN12,female,European,human aged stage,109,31.321839080459768
+2,Airway,duct epithelial cell,CL:0000068,AN12,female,European,human aged stage,1,0.28735632183908044
+3,Airway,squamous epithelial cell,CL:0000076,AN12,female,European,human aged stage,3,0.8620689655172413
+4,Airway,secretory cell,CL:0000151,AN12,female,European,human aged stage,124,35.63218390804598
+5,Airway,dendritic cell,CL:0000451,AN12,female,European,human aged stage,1,0.28735632183908044
+6,Airway,multi-ciliated epithelial cell,CL:0005012,AN12,female,European,human aged stage,2,0.5747126436781609
+7,Airway,pulmonary ionocyte,CL:0017000,AN12,female,European,human aged stage,4,1.1494252873563218
+8,Airway,tracheal goblet cell,CL:1000329,AN12,female,European,human aged stage,75,21.551724137931032
+9,Airway,basal cell of epithelium of trachea,CL:1000348,AN12,female,European,human aged stage,16,4.597701149425287

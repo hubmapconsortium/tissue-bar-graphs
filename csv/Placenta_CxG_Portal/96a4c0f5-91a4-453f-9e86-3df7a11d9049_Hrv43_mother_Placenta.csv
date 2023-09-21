@@ -1,0 +1,23 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,All donors all cell states (in vivo),native cell,CL:0000003,Hrv43_mother,female,unknown,unknown,612,1.0841260562257533
+1,All donors all cell states (in vivo),epithelial cell,CL:0000066,Hrv43_mother,female,unknown,unknown,4957,8.781066765867743
+2,All donors all cell states (in vivo),T cell,CL:0000084,Hrv43_mother,female,unknown,unknown,1032,1.828134134027741
+3,All donors all cell states (in vivo),granulocyte,CL:0000094,Hrv43_mother,female,unknown,unknown,11,0.019485925847194913
+4,All donors all cell states (in vivo),macrophage,CL:0000235,Hrv43_mother,female,unknown,unknown,1373,2.432197835290783
+5,All donors all cell states (in vivo),B cell,CL:0000236,Hrv43_mother,female,unknown,unknown,57,0.10097252484455546
+6,All donors all cell states (in vivo),dendritic cell,CL:0000451,Hrv43_mother,female,unknown,unknown,138,0.24445979699208162
+7,All donors all cell states (in vivo),stromal cell,CL:0000499,Hrv43_mother,female,unknown,unknown,42484,75.25818851747533
+8,All donors all cell states (in vivo),syncytiotrophoblast cell,CL:0000525,Hrv43_mother,female,unknown,unknown,8,0.014171582434323572
+9,All donors all cell states (in vivo),natural killer cell,CL:0000623,Hrv43_mother,female,unknown,unknown,395,0.6997218826947263
+10,All donors all cell states (in vivo),plasma cell,CL:0000786,Hrv43_mother,female,unknown,unknown,13,0.023028821455775804
+11,All donors all cell states (in vivo),regulatory T cell,CL:0000815,Hrv43_mother,female,unknown,unknown,195,0.3454323218366371
+12,All donors all cell states (in vivo),"group 3 innate lymphoid cell, human",CL:0001078,Hrv43_mother,female,unknown,unknown,269,0.47651945935413015
+13,All donors all cell states (in vivo),endothelial cell of lymphatic vessel,CL:0002138,Hrv43_mother,female,unknown,unknown,168,0.29760323112079506
+14,All donors all cell states (in vivo),"decidual natural killer cell, human",CL:0002343,Hrv43_mother,female,unknown,unknown,2326,4.120387592779578
+15,All donors all cell states (in vivo),uterine smooth muscle cell,CL:0002601,Hrv43_mother,female,unknown,unknown,116,0.2054879452976918
+16,All donors all cell states (in vivo),extravillous trophoblast,CL:0008036,Hrv43_mother,female,unknown,unknown,146,0.2586313794264052
+17,All donors all cell states (in vivo),endothelial cell of placenta,CL:0009092,Hrv43_mother,female,unknown,unknown,184,0.32594639598944214
+18,All donors all cell states (in vivo),endothelial cell of uterus,CL:0009095,Hrv43_mother,female,unknown,unknown,1724,3.05397601459673
+19,All donors all cell states (in vivo),embryonic fibroblast,CL:2000042,Hrv43_mother,female,unknown,unknown,65,0.11514410727887903
+20,All donors all cell states (in vivo),placental villous trophoblast,CL:2000060,Hrv43_mother,female,unknown,unknown,25,0.044286195107261166
+21,All donors all cell states (in vivo),Hofbauer cell,CL:3000001,Hrv43_mother,female,unknown,unknown,153,0.2710315140564383

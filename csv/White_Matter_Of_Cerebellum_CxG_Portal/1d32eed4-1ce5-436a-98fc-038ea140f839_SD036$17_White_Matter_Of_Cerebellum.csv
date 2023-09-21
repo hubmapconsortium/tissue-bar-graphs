@@ -1,0 +1,15 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,white matter - all cells,astrocyte,CL:0000127,SD036/17,male,British,71-year-old human stage,49,3.3863165169315828
+1,white matter - all cells,oligodendrocyte,CL:0000128,SD036/17,male,British,71-year-old human stage,473,32.68832066344161
+2,white matter - all cells,microglial cell,CL:0000129,SD036/17,male,British,71-year-old human stage,23,1.5894955079474777
+3,white matter - all cells,vascular associated smooth muscle cell,CL:0000359,SD036/17,male,British,71-year-old human stage,9,0.6219765031098825
+4,white matter - all cells,GABAergic neuron,CL:0000617,SD036/17,male,British,71-year-old human stage,43,2.9716655148583278
+5,white matter - all cells,glutamatergic neuron,CL:0000679,SD036/17,male,British,71-year-old human stage,22,1.520387007601935
+6,white matter - all cells,leukocyte,CL:0000738,SD036/17,male,British,71-year-old human stage,12,0.82930200414651
+7,white matter - all cells,central nervous system macrophage,CL:0000878,SD036/17,male,British,71-year-old human stage,1,0.0691085003455425
+8,white matter - all cells,cerebellar granule cell,CL:0001031,SD036/17,male,British,71-year-old human stage,603,41.67242570836213
+9,white matter - all cells,capillary endothelial cell,CL:0002144,SD036/17,male,British,71-year-old human stage,62,4.2847270214236355
+10,white matter - all cells,oligodendrocyte precursor cell,CL:0002453,SD036/17,male,British,71-year-old human stage,82,5.6668970283344855
+11,white matter - all cells,mural cell,CL:0008034,SD036/17,male,British,71-year-old human stage,44,3.04077401520387
+12,white matter - all cells,endothelial cell of artery,CL:1000413,SD036/17,male,British,71-year-old human stage,14,0.9675190048375951
+13,white matter - all cells,differentiation-committed oligodendrocyte precursor,CL:4023059,SD036/17,male,British,71-year-old human stage,10,0.691085003455425

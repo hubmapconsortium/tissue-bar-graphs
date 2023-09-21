@@ -1,2 +1,5 @@
 ,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
-0,Supercluster: Astrocyte,astrocyte,CL:0000127,H19.30.001,male,European,42-year-old human stage,108,100.0
+0,Supercluster: Astrocyte,astrocyte,CL:0000127,H19.30.001,male,European,42-year-old human stage,108,0.8551068883610451
+1,Supercluster: Astrocyte,astrocyte,CL:0000127,H19.30.001,male,European,42-year-old human stage,7074,56.00950118764846
+2,Supercluster: Astrocyte,astrocyte,CL:0000127,H19.30.001,male,European,42-year-old human stage,2134,16.896278701504354
+3,Supercluster: Astrocyte,astrocyte,CL:0000127,H19.30.001,male,European,42-year-old human stage,3314,26.239113222486143

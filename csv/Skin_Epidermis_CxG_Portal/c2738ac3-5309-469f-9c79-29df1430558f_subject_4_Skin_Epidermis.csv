@@ -1,0 +1,6 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,UMAP visualization of all 12 datasets,endothelial cell,CL:0000115,subject_4,female,unknown,56-year-old human stage,3,0.24193548387096775
+1,UMAP visualization of all 12 datasets,melanocyte,CL:0000148,subject_4,female,unknown,56-year-old human stage,21,1.6935483870967745
+2,UMAP visualization of all 12 datasets,keratinocyte,CL:0000312,subject_4,female,unknown,56-year-old human stage,1189,95.88709677419355
+3,UMAP visualization of all 12 datasets,leukocyte,CL:0000738,subject_4,female,unknown,56-year-old human stage,14,1.129032258064516
+4,UMAP visualization of all 12 datasets,skin fibroblast,CL:0002620,subject_4,female,unknown,56-year-old human stage,13,1.0483870967741937

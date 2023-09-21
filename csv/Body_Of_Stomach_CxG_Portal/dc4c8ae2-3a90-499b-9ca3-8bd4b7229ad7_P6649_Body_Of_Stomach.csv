@@ -1,0 +1,20 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,UMAP of all data,native cell,CL:0000003,P6649,unknown,unknown,unknown,6,0.9803921568627451
+1,UMAP of all data,fibroblast,CL:0000057,P6649,unknown,unknown,unknown,12,1.9607843137254901
+2,UMAP of all data,mast cell,CL:0000097,P6649,unknown,unknown,unknown,2,0.32679738562091504
+3,UMAP of all data,enteroendocrine cell,CL:0000164,P6649,unknown,unknown,unknown,2,0.32679738562091504
+4,UMAP of all data,macrophage,CL:0000235,P6649,unknown,unknown,unknown,4,0.6535947712418301
+5,UMAP of all data,CD4-positive helper T cell,CL:0000492,P6649,unknown,unknown,unknown,6,0.9803921568627451
+6,UMAP of all data,type G enteroendocrine cell,CL:0000508,P6649,unknown,unknown,unknown,3,0.49019607843137253
+7,UMAP of all data,monocyte,CL:0000576,P6649,unknown,unknown,unknown,1,0.16339869281045752
+8,UMAP of all data,natural killer cell,CL:0000623,P6649,unknown,unknown,unknown,5,0.8169934640522877
+9,UMAP of all data,mucous neck cell,CL:0000651,P6649,unknown,unknown,unknown,17,2.7777777777777777
+10,UMAP of all data,memory B cell,CL:0000787,P6649,unknown,unknown,unknown,1,0.16339869281045752
+11,UMAP of all data,gamma-delta T cell,CL:0000798,P6649,unknown,unknown,unknown,53,8.660130718954248
+12,UMAP of all data,memory T cell,CL:0000813,P6649,unknown,unknown,unknown,9,1.4705882352941175
+13,UMAP of all data,natural T-regulatory cell,CL:0000903,P6649,unknown,unknown,unknown,12,1.9607843137254901
+14,UMAP of all data,"activated CD8-positive, alpha-beta T cell",CL:0000906,P6649,unknown,unknown,unknown,37,6.045751633986928
+15,UMAP of all data,IgG plasma cell,CL:0000985,P6649,unknown,unknown,unknown,12,1.9607843137254901
+16,UMAP of all data,IgA plasma cell,CL:0000987,P6649,unknown,unknown,unknown,77,12.581699346405228
+17,UMAP of all data,foveolar cell of stomach,CL:0002179,P6649,unknown,unknown,unknown,351,57.35294117647059
+18,UMAP of all data,endothelial cell of artery,CL:1000413,P6649,unknown,unknown,unknown,2,0.32679738562091504

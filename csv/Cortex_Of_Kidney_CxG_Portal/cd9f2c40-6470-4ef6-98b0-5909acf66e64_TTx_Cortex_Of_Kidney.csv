@@ -1,0 +1,20 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Mature kidney dataset: full,B cell,CL:0000236,TTx,female,unknown,12-year-old human stage,1,0.009052231375033946
+1,Mature kidney dataset: full,natural killer cell,CL:0000623,TTx,female,unknown,12-year-old human stage,11,0.09957454512537339
+2,Mature kidney dataset: full,"CD4-positive, alpha-beta T cell",CL:0000624,TTx,female,unknown,12-year-old human stage,2,0.01810446275006789
+3,Mature kidney dataset: full,"CD8-positive, alpha-beta T cell",CL:0000625,TTx,female,unknown,12-year-old human stage,2,0.01810446275006789
+4,Mature kidney dataset: full,podocyte,CL:0000653,TTx,female,unknown,12-year-old human stage,12,0.10862677650040735
+5,Mature kidney dataset: full,neutrophil,CL:0000775,TTx,female,unknown,12-year-old human stage,1,0.009052231375033946
+6,Mature kidney dataset: full,mature NK T cell,CL:0000814,TTx,female,unknown,12-year-old human stage,3,0.027156694125101837
+7,Mature kidney dataset: full,classical monocyte,CL:0000860,TTx,female,unknown,12-year-old human stage,17,0.15388793337557707
+8,Mature kidney dataset: full,non-classical monocyte,CL:0000875,TTx,female,unknown,12-year-old human stage,5,0.045261156875169725
+9,Mature kidney dataset: full,capillary endothelial cell,CL:0002144,TTx,female,unknown,12-year-old human stage,1,0.009052231375033946
+10,Mature kidney dataset: full,glomerular endothelial cell,CL:0002188,TTx,female,unknown,12-year-old human stage,10,0.09052231375033945
+11,Mature kidney dataset: full,renal beta-intercalated cell,CL:0002201,TTx,female,unknown,12-year-old human stage,2,0.01810446275006789
+12,Mature kidney dataset: full,epithelial cell of proximal tubule,CL:0002306,TTx,female,unknown,12-year-old human stage,10665,96.54204761473704
+13,Mature kidney dataset: full,renal intercalated cell,CL:0005010,TTx,female,unknown,12-year-old human stage,181,1.638453878881144
+14,Mature kidney dataset: full,renal alpha-intercalated cell,CL:0005011,TTx,female,unknown,12-year-old human stage,31,0.2806191726260523
+15,Mature kidney dataset: full,kidney resident macrophage,CL:1000698,TTx,female,unknown,12-year-old human stage,4,0.03620892550013578
+16,Mature kidney dataset: full,kidney connecting tubule epithelial cell,CL:1000768,TTx,female,unknown,12-year-old human stage,2,0.01810446275006789
+17,Mature kidney dataset: full,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,TTx,female,unknown,12-year-old human stage,91,0.823753055128089
+18,Mature kidney dataset: full,vasa recta ascending limb cell,CL:1001131,TTx,female,unknown,12-year-old human stage,6,0.054313388250203674

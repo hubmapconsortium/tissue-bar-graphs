@@ -1,0 +1,14 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,HBCA - global,blood vessel endothelial cell,CL:0000071,HBCA_Donor_8,female,unknown,65-year-old human stage,3368,21.812058804481573
+1,HBCA - global,B cell,CL:0000236,HBCA_Donor_8,female,unknown,65-year-old human stage,1,0.006476264490641799
+2,HBCA - global,natural killer cell,CL:0000623,HBCA_Donor_8,female,unknown,65-year-old human stage,41,0.2655268441163137
+3,HBCA - global,"CD4-positive, alpha-beta T cell",CL:0000624,HBCA_Donor_8,female,unknown,65-year-old human stage,77,0.49867236577941837
+4,HBCA - global,"CD8-positive, alpha-beta T cell",CL:0000625,HBCA_Donor_8,female,unknown,65-year-old human stage,67,0.43390972087300045
+5,HBCA - global,hematopoietic cell,CL:0000988,HBCA_Donor_8,female,unknown,65-year-old human stage,24,0.15543034777540315
+6,HBCA - global,group 3 innate lymphoid cell,CL:0001071,HBCA_Donor_8,female,unknown,65-year-old human stage,1,0.006476264490641799
+7,HBCA - global,endothelial cell of lymphatic vessel,CL:0002138,HBCA_Donor_8,female,unknown,65-year-old human stage,456,2.9531766077326598
+8,HBCA - global,myoepithelial cell of mammary gland,CL:0002324,HBCA_Donor_8,female,unknown,65-year-old human stage,6,0.03885758694385079
+9,HBCA - global,luminal epithelial cell of mammary gland,CL:0002326,HBCA_Donor_8,female,unknown,65-year-old human stage,39,0.25257431513503015
+10,HBCA - global,fibroblast of mammary gland,CL:0002555,HBCA_Donor_8,female,unknown,65-year-old human stage,8295,53.72061394987371
+11,HBCA - global,mural cell,CL:0008034,HBCA_Donor_8,female,unknown,65-year-old human stage,3065,19.849750663817108
+12,HBCA - global,progenitor cell of mammary luminal epithelium,CL:0009116,HBCA_Donor_8,female,unknown,65-year-old human stage,1,0.006476264490641799

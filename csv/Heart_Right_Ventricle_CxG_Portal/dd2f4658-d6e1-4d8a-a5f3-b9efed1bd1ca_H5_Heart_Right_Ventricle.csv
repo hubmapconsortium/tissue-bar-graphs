@@ -1,0 +1,23 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,All — Cells of the adult human heart,native cell,CL:0000003,H5,female,European,sixth decade human stage,528,7.578584756710205
+1,All — Cells of the adult human heart,fibroblast,CL:0000057,H5,female,European,sixth decade human stage,208,2.9855030859767475
+2,All — Cells of the adult human heart,mast cell,CL:0000097,H5,female,European,sixth decade human stage,16,0.2296540835366729
+3,All — Cells of the adult human heart,endothelial cell,CL:0000115,H5,female,European,sixth decade human stage,38,0.545428448399598
+4,All — Cells of the adult human heart,smooth muscle cell,CL:0000192,H5,female,European,sixth decade human stage,163,2.339600976029855
+5,All — Cells of the adult human heart,macrophage,CL:0000235,H5,female,European,sixth decade human stage,20,0.2870676044208411
+6,All — Cells of the adult human heart,dendritic cell,CL:0000451,H5,female,European,sixth decade human stage,4,0.05741352088416823
+7,All — Cells of the adult human heart,monocyte,CL:0000576,H5,female,European,sixth decade human stage,3,0.04306014066312617
+8,All — Cells of the adult human heart,natural killer cell,CL:0000623,H5,female,European,sixth decade human stage,7,0.10047366154729438
+9,All — Cells of the adult human heart,pericyte,CL:0000669,H5,female,European,sixth decade human stage,1267,18.185732740060285
+10,All — Cells of the adult human heart,"CD8-positive, alpha-beta cytotoxic T cell",CL:0000794,H5,female,European,sixth decade human stage,3,0.04306014066312617
+11,All — Cells of the adult human heart,mature NK T cell,CL:0000814,H5,female,European,sixth decade human stage,3,0.04306014066312617
+12,All — Cells of the adult human heart,"activated CD8-positive, alpha-beta T cell",CL:0000906,H5,female,European,sixth decade human stage,4,0.05741352088416823
+13,All — Cells of the adult human heart,"CD4-positive, alpha-beta cytotoxic T cell",CL:0000934,H5,female,European,sixth decade human stage,4,0.05741352088416823
+14,All — Cells of the adult human heart,CD14-positive monocyte,CL:0001054,H5,female,European,sixth decade human stage,1,0.014353380221042057
+15,All — Cells of the adult human heart,regular ventricular cardiac myocyte,CL:0002131,H5,female,European,sixth decade human stage,4437,63.6859480407636
+16,All — Cells of the adult human heart,endothelial cell of lymphatic vessel,CL:0002138,H5,female,European,sixth decade human stage,3,0.04306014066312617
+17,All — Cells of the adult human heart,capillary endothelial cell,CL:0002144,H5,female,European,sixth decade human stage,174,2.4974881584613176
+18,All — Cells of the adult human heart,neural cell,CL:0002319,H5,female,European,sixth decade human stage,33,0.4736615472943878
+19,All — Cells of the adult human heart,vein endothelial cell,CL:0002543,H5,female,European,sixth decade human stage,22,0.3157743648629252
+20,All — Cells of the adult human heart,epicardial adipocyte,CL:1000309,H5,female,European,sixth decade human stage,1,0.014353380221042057
+21,All — Cells of the adult human heart,endothelial cell of artery,CL:1000413,H5,female,European,sixth decade human stage,28,0.40189464618917753

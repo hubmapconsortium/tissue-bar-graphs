@@ -1,0 +1,6 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Ovary ATAC,endothelial cell,CL:0000115,D8_3453,female,European,58-year-old human stage,55,1.4481305950500263
+1,Ovary ATAC,smooth muscle cell,CL:0000192,D8_3453,female,European,58-year-old human stage,12,0.315955766192733
+2,Ovary ATAC,stromal cell,CL:0000499,D8_3453,female,European,58-year-old human stage,2262,59.55766192733017
+3,Ovary ATAC,pericyte,CL:0000669,D8_3453,female,European,58-year-old human stage,1297,34.149552395997894
+4,Ovary ATAC,leukocyte,CL:0000738,D8_3453,female,European,58-year-old human stage,172,4.528699315429173

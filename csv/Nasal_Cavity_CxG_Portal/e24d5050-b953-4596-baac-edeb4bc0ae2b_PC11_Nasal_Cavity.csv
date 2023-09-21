@@ -1,0 +1,20 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Airway,native cell,CL:0000003,PC11,male,European,infant stage,11,3.1161473087818696
+1,Airway,ciliated cell,CL:0000064,PC11,male,European,infant stage,80,22.6628895184136
+2,Airway,duct epithelial cell,CL:0000068,PC11,male,European,infant stage,3,0.84985835694051
+3,Airway,squamous epithelial cell,CL:0000076,PC11,male,European,infant stage,3,0.84985835694051
+4,Airway,secretory cell,CL:0000151,PC11,male,European,infant stage,16,4.53257790368272
+5,Airway,club cell,CL:0000158,PC11,male,European,infant stage,6,1.69971671388102
+6,Airway,macrophage,CL:0000235,PC11,male,European,infant stage,5,1.41643059490085
+7,Airway,dendritic cell,CL:0000451,PC11,male,European,infant stage,6,1.69971671388102
+8,Airway,Langerhans cell,CL:0000453,PC11,male,European,infant stage,8,2.26628895184136
+9,Airway,monocyte,CL:0000576,PC11,male,European,infant stage,1,0.28328611898017
+10,Airway,plasma cell,CL:0000786,PC11,male,European,infant stage,1,0.28328611898017
+11,Airway,memory B cell,CL:0000787,PC11,male,European,infant stage,16,4.53257790368272
+12,Airway,naive B cell,CL:0000788,PC11,male,European,infant stage,14,3.9660056657223794
+13,Airway,alternatively activated macrophage,CL:0000890,PC11,male,European,infant stage,1,0.28328611898017
+14,Airway,conventional dendritic cell,CL:0000990,PC11,male,European,infant stage,1,0.28328611898017
+15,Airway,"plasmacytoid dendritic cell, human",CL:0001058,PC11,male,European,infant stage,1,0.28328611898017
+16,Airway,pulmonary ionocyte,CL:0017000,PC11,male,European,infant stage,5,1.41643059490085
+17,Airway,tracheal goblet cell,CL:1000329,PC11,male,European,infant stage,88,24.929178470254957
+18,Airway,basal cell of epithelium of trachea,CL:1000348,PC11,male,European,infant stage,87,24.645892351274785

@@ -1,0 +1,20 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,All donors all cell states (in vivo),native cell,CL:0000003,H2_mother,female,unknown,unknown,46,0.8092892329345531
+1,All donors all cell states (in vivo),epithelial cell,CL:0000066,H2_mother,female,unknown,unknown,16,0.28149190710767064
+2,All donors all cell states (in vivo),T cell,CL:0000084,H2_mother,female,unknown,unknown,395,6.9493314567206195
+3,All donors all cell states (in vivo),granulocyte,CL:0000094,H2_mother,female,unknown,unknown,6,0.1055594651653765
+4,All donors all cell states (in vivo),macrophage,CL:0000235,H2_mother,female,unknown,unknown,2273,39.98944405348347
+5,All donors all cell states (in vivo),B cell,CL:0000236,H2_mother,female,unknown,unknown,100,1.7593244194229414
+6,All donors all cell states (in vivo),dendritic cell,CL:0000451,H2_mother,female,unknown,unknown,200,3.5186488388458828
+7,All donors all cell states (in vivo),stromal cell,CL:0000499,H2_mother,female,unknown,unknown,313,5.506685432793807
+8,All donors all cell states (in vivo),natural killer cell,CL:0000623,H2_mother,female,unknown,unknown,158,2.7797325826882475
+9,All donors all cell states (in vivo),plasma cell,CL:0000786,H2_mother,female,unknown,unknown,4,0.07037297677691766
+10,All donors all cell states (in vivo),regulatory T cell,CL:0000815,H2_mother,female,unknown,unknown,106,1.864883884588318
+11,All donors all cell states (in vivo),"group 3 innate lymphoid cell, human",CL:0001078,H2_mother,female,unknown,unknown,96,1.688951442646024
+12,All donors all cell states (in vivo),endothelial cell of lymphatic vessel,CL:0002138,H2_mother,female,unknown,unknown,138,2.4278676988036594
+13,All donors all cell states (in vivo),"decidual natural killer cell, human",CL:0002343,H2_mother,female,unknown,unknown,1430,25.158339197748063
+14,All donors all cell states (in vivo),uterine smooth muscle cell,CL:0002601,H2_mother,female,unknown,unknown,16,0.28149190710767064
+15,All donors all cell states (in vivo),endothelial cell of placenta,CL:0009092,H2_mother,female,unknown,unknown,36,0.633356790992259
+16,All donors all cell states (in vivo),endothelial cell of uterus,CL:0009095,H2_mother,female,unknown,unknown,95,1.6713581984517945
+17,All donors all cell states (in vivo),embryonic fibroblast,CL:2000042,H2_mother,female,unknown,unknown,4,0.07037297677691766
+18,All donors all cell states (in vivo),Hofbauer cell,CL:3000001,H2_mother,female,unknown,unknown,252,4.433497536945813

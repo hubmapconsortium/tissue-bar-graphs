@@ -1,0 +1,38 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,scRNA-seq data - all cells,fibroblast,CL:0000057,P59,female,Hispanic or Latin American,mature stage,1559,20.783895480602585
+1,scRNA-seq data - all cells,T cell,CL:0000084,P59,female,Hispanic or Latin American,mature stage,1,0.013331555792560991
+2,scRNA-seq data - all cells,mast cell,CL:0000097,P59,female,Hispanic or Latin American,mature stage,21,0.27996267164378086
+3,scRNA-seq data - all cells,macrophage,CL:0000235,P59,female,Hispanic or Latin American,mature stage,11,0.1466471137181709
+4,scRNA-seq data - all cells,vascular associated smooth muscle cell,CL:0000359,P59,female,Hispanic or Latin American,mature stage,240,3.1995733902146384
+5,scRNA-seq data - all cells,CD4-positive helper T cell,CL:0000492,P59,female,Hispanic or Latin American,mature stage,613,8.172243700839887
+6,scRNA-seq data - all cells,lymphocyte,CL:0000542,P59,female,Hispanic or Latin American,mature stage,21,0.27996267164378086
+7,scRNA-seq data - all cells,natural killer cell,CL:0000623,P59,female,Hispanic or Latin American,mature stage,73,0.9732035728569524
+8,scRNA-seq data - all cells,"CD4-positive, alpha-beta T cell",CL:0000624,P59,female,Hispanic or Latin American,mature stage,41,0.5465937874950006
+9,scRNA-seq data - all cells,basal cell,CL:0000646,P59,female,Hispanic or Latin American,mature stage,398,5.305959205439275
+10,scRNA-seq data - all cells,pericyte,CL:0000669,P59,female,Hispanic or Latin American,mature stage,86,1.1465137981602451
+11,scRNA-seq data - all cells,myeloid cell,CL:0000763,P59,female,Hispanic or Latin American,mature stage,3,0.03999466737768298
+12,scRNA-seq data - all cells,myeloid dendritic cell,CL:0000782,P59,female,Hispanic or Latin American,mature stage,2,0.026663111585121982
+13,scRNA-seq data - all cells,plasmacytoid dendritic cell,CL:0000784,P59,female,Hispanic or Latin American,mature stage,2,0.026663111585121982
+14,scRNA-seq data - all cells,naive B cell,CL:0000788,P59,female,Hispanic or Latin American,mature stage,9,0.11998400213304893
+15,scRNA-seq data - all cells,mature NK T cell,CL:0000814,P59,female,Hispanic or Latin American,mature stage,59,0.7865617917610985
+16,scRNA-seq data - all cells,regulatory T cell,CL:0000815,P59,female,Hispanic or Latin American,mature stage,5,0.06665777896280496
+17,scRNA-seq data - all cells,classical monocyte,CL:0000860,P59,female,Hispanic or Latin American,mature stage,46,0.6132515664578057
+18,scRNA-seq data - all cells,inflammatory macrophage,CL:0000863,P59,female,Hispanic or Latin American,mature stage,28,0.3732835621917078
+19,scRNA-seq data - all cells,non-classical monocyte,CL:0000875,P59,female,Hispanic or Latin American,mature stage,8,0.10665244634048793
+20,scRNA-seq data - all cells,alternatively activated macrophage,CL:0000890,P59,female,Hispanic or Latin American,mature stage,52,0.6932409012131715
+21,scRNA-seq data - all cells,"activated CD4-positive, alpha-beta T cell",CL:0000896,P59,female,Hispanic or Latin American,mature stage,15,0.1999733368884149
+22,scRNA-seq data - all cells,"effector memory CD4-positive, alpha-beta T cell",CL:0000905,P59,female,Hispanic or Latin American,mature stage,302,4.02612984935342
+23,scRNA-seq data - all cells,"activated CD8-positive, alpha-beta T cell",CL:0000906,P59,female,Hispanic or Latin American,mature stage,8,0.10665244634048793
+24,scRNA-seq data - all cells,"CD8-positive, alpha-beta memory T cell",CL:0000909,P59,female,Hispanic or Latin American,mature stage,298,3.972803626183176
+25,scRNA-seq data - all cells,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,P59,female,Hispanic or Latin American,mature stage,36,0.4799360085321957
+26,scRNA-seq data - all cells,unswitched memory B cell,CL:0000970,P59,female,Hispanic or Latin American,mature stage,1,0.013331555792560991
+27,scRNA-seq data - all cells,class switched memory B cell,CL:0000972,P59,female,Hispanic or Latin American,mature stage,5,0.06665777896280496
+28,scRNA-seq data - all cells,IgG plasma cell,CL:0000985,P59,female,Hispanic or Latin American,mature stage,2,0.026663111585121982
+29,scRNA-seq data - all cells,IgA plasma cell,CL:0000987,P59,female,Hispanic or Latin American,mature stage,1,0.013331555792560991
+30,scRNA-seq data - all cells,conventional dendritic cell,CL:0000990,P59,female,Hispanic or Latin American,mature stage,79,1.0531929076123183
+31,scRNA-seq data - all cells,endothelial cell of lymphatic vessel,CL:0002138,P59,female,Hispanic or Latin American,mature stage,77,1.0265297960271964
+32,scRNA-seq data - all cells,capillary endothelial cell,CL:0002144,P59,female,Hispanic or Latin American,mature stage,152,2.0263964804692707
+33,scRNA-seq data - all cells,luminal epithelial cell of mammary gland,CL:0002326,P59,female,Hispanic or Latin American,mature stage,957,12.758298893480868
+34,scRNA-seq data - all cells,mammary gland epithelial cell,CL:0002327,P59,female,Hispanic or Latin American,mature stage,1177,15.69124116784429
+35,scRNA-seq data - all cells,vein endothelial cell,CL:0002543,P59,female,Hispanic or Latin American,mature stage,929,12.385015331289162
+36,scRNA-seq data - all cells,endothelial cell of artery,CL:1000413,P59,female,Hispanic or Latin American,mature stage,184,2.4530062658312226

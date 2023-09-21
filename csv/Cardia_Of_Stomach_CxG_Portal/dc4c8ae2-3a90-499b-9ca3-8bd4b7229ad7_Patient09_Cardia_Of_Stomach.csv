@@ -1,0 +1,21 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,UMAP of all data,native cell,CL:0000003,Patient09,male,unknown,77-year-old human stage,8,2.5806451612903225
+1,UMAP of all data,stem cell,CL:0000034,Patient09,male,unknown,77-year-old human stage,3,0.967741935483871
+2,UMAP of all data,fibroblast,CL:0000057,Patient09,male,unknown,77-year-old human stage,1,0.3225806451612903
+3,UMAP of all data,peptic cell,CL:0000155,Patient09,male,unknown,77-year-old human stage,48,15.483870967741936
+4,UMAP of all data,parietal cell,CL:0000162,Patient09,male,unknown,77-year-old human stage,25,8.064516129032258
+5,UMAP of all data,enteroendocrine cell,CL:0000164,Patient09,male,unknown,77-year-old human stage,15,4.838709677419355
+6,UMAP of all data,erythrocyte,CL:0000232,Patient09,male,unknown,77-year-old human stage,3,0.967741935483871
+7,UMAP of all data,macrophage,CL:0000235,Patient09,male,unknown,77-year-old human stage,1,0.3225806451612903
+8,UMAP of all data,type G enteroendocrine cell,CL:0000508,Patient09,male,unknown,77-year-old human stage,4,1.2903225806451613
+9,UMAP of all data,natural killer cell,CL:0000623,Patient09,male,unknown,77-year-old human stage,1,0.3225806451612903
+10,UMAP of all data,mucous neck cell,CL:0000651,Patient09,male,unknown,77-year-old human stage,21,6.774193548387098
+11,UMAP of all data,memory B cell,CL:0000787,Patient09,male,unknown,77-year-old human stage,5,1.6129032258064515
+12,UMAP of all data,gamma-delta T cell,CL:0000798,Patient09,male,unknown,77-year-old human stage,5,1.6129032258064515
+13,UMAP of all data,memory T cell,CL:0000813,Patient09,male,unknown,77-year-old human stage,2,0.6451612903225806
+14,UMAP of all data,natural T-regulatory cell,CL:0000903,Patient09,male,unknown,77-year-old human stage,5,1.6129032258064515
+15,UMAP of all data,"activated CD8-positive, alpha-beta T cell",CL:0000906,Patient09,male,unknown,77-year-old human stage,18,5.806451612903226
+16,UMAP of all data,IgG plasma cell,CL:0000985,Patient09,male,unknown,77-year-old human stage,3,0.967741935483871
+17,UMAP of all data,IgA plasma cell,CL:0000987,Patient09,male,unknown,77-year-old human stage,15,4.838709677419355
+18,UMAP of all data,foveolar cell of stomach,CL:0002179,Patient09,male,unknown,77-year-old human stage,122,39.35483870967742
+19,UMAP of all data,P/D1 enteroendocrine cell,CL:0002268,Patient09,male,unknown,77-year-old human stage,5,1.6129032258064515

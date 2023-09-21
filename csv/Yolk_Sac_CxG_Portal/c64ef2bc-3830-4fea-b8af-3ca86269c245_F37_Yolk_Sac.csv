@@ -1,0 +1,23 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Myeloid cells,native cell,CL:0000003,F37,female,unknown,Carnegie stage 13,42,0.43841336116910223
+1,Myeloid cells,hematopoietic stem cell,CL:0000037,F37,female,unknown,Carnegie stage 13,43,0.44885177453027136
+2,Myeloid cells,common myeloid progenitor,CL:0000049,F37,female,unknown,Carnegie stage 13,13,0.13569937369519833
+3,Myeloid cells,megakaryocyte-erythroid progenitor cell,CL:0000050,F37,female,unknown,Carnegie stage 13,54,0.5636743215031316
+4,Myeloid cells,fibroblast,CL:0000057,F37,female,unknown,Carnegie stage 13,22,0.22964509394572025
+5,Myeloid cells,Kupffer cell,CL:0000091,F37,female,unknown,Carnegie stage 13,213,2.223382045929019
+6,Myeloid cells,granulocyte,CL:0000094,F37,female,unknown,Carnegie stage 13,33,0.34446764091858034
+7,Myeloid cells,mast cell,CL:0000097,F37,female,unknown,Carnegie stage 13,28,0.29227557411273486
+8,Myeloid cells,macrophage,CL:0000235,F37,female,unknown,Carnegie stage 13,8472,88.43423799582465
+9,Myeloid cells,dendritic cell,CL:0000451,F37,female,unknown,Carnegie stage 13,294,3.068893528183716
+10,Myeloid cells,Langerhans cell,CL:0000453,F37,female,unknown,Carnegie stage 13,1,0.010438413361169102
+11,Myeloid cells,megakaryocyte,CL:0000556,F37,female,unknown,Carnegie stage 13,4,0.04175365344467641
+12,Myeloid cells,granulocyte monocyte progenitor cell,CL:0000557,F37,female,unknown,Carnegie stage 13,21,0.21920668058455112
+13,Myeloid cells,promonocyte,CL:0000559,F37,female,unknown,Carnegie stage 13,34,0.35490605427974947
+14,Myeloid cells,monocyte,CL:0000576,F37,female,unknown,Carnegie stage 13,92,0.9603340292275574
+15,Myeloid cells,neutrophil,CL:0000775,F37,female,unknown,Carnegie stage 13,1,0.010438413361169102
+16,Myeloid cells,plasmacytoid dendritic cell,CL:0000784,F37,female,unknown,Carnegie stage 13,8,0.08350730688935282
+17,Myeloid cells,promyelocyte,CL:0000836,F37,female,unknown,Carnegie stage 13,4,0.04175365344467641
+18,Myeloid cells,hematopoietic multipotent progenitor cell,CL:0000837,F37,female,unknown,Carnegie stage 13,103,1.0751565762004176
+19,Myeloid cells,early lymphoid progenitor,CL:0000936,F37,female,unknown,Carnegie stage 13,58,0.605427974947808
+20,Myeloid cells,common dendritic progenitor,CL:0001029,F37,female,unknown,Carnegie stage 13,39,0.407098121085595
+21,Myeloid cells,pre-conventional dendritic cell,CL:0002010,F37,female,unknown,Carnegie stage 13,1,0.010438413361169102

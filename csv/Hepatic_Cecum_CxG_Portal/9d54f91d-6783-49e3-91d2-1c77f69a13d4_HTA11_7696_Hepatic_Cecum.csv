@@ -1,0 +1,9 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Validation (Val) set of human colorectal tumor: Epithelial,goblet cell,CL:0000160,HTA11_7696,male,European,68-year-old human stage,119,16.059379217273953
+1,Validation (Val) set of human colorectal tumor: Epithelial,absorptive cell,CL:0000212,HTA11_7696,male,European,68-year-old human stage,455,61.40350877192983
+2,Validation (Val) set of human colorectal tumor: Epithelial,neoplastic cell,CL:0001063,HTA11_7696,male,European,68-year-old human stage,3,0.4048582995951417
+3,Validation (Val) set of human colorectal tumor: Epithelial,brush cell,CL:0002204,HTA11_7696,male,European,68-year-old human stage,10,1.349527665317139
+4,Validation (Val) set of human colorectal tumor: Epithelial,intestinal epithelial cell,CL:0002563,HTA11_7696,male,European,68-year-old human stage,36,4.8582995951417
+5,Validation (Val) set of human colorectal tumor: Epithelial,transit amplifying cell,CL:0009010,HTA11_7696,male,European,68-year-old human stage,80,10.796221322537113
+6,Validation (Val) set of human colorectal tumor: Epithelial,intestinal crypt stem cell of colon,CL:0009043,HTA11_7696,male,European,68-year-old human stage,33,4.4534412955465585
+7,Validation (Val) set of human colorectal tumor: Epithelial,intestinal enteroendocrine cell,CL:1001516,HTA11_7696,male,European,68-year-old human stage,5,0.6747638326585695

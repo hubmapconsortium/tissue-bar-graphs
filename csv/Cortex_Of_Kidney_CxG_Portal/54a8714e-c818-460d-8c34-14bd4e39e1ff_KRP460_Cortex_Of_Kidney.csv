@@ -1,0 +1,16 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),endothelial cell,CL:0000115,KRP460,female,European,63-year-old human stage,283,5.998304366256889
+1,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),podocyte,CL:0000653,KRP460,female,European,63-year-old human stage,96,2.0347604917337856
+2,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),leukocyte,CL:0000738,KRP460,female,European,63-year-old human stage,536,11.360746078846969
+3,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),epithelial cell of proximal tubule,CL:0002306,KRP460,female,European,63-year-old human stage,1616,34.251801610852056
+4,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),neural cell,CL:0002319,KRP460,female,European,63-year-old human stage,4,0.0847816871555744
+5,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),parietal epithelial cell,CL:1000452,KRP460,female,European,63-year-old human stage,45,0.9537939805002119
+6,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),papillary tips cell,CL:1000597,KRP460,female,European,63-year-old human stage,1,0.0211954217888936
+7,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),kidney interstitial fibroblast,CL:1000692,KRP460,female,European,63-year-old human stage,99,2.098346757100466
+8,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),kidney connecting tubule epithelial cell,CL:1000768,KRP460,female,European,63-year-old human stage,375,7.948283170835099
+9,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),kidney distal convoluted tubule epithelial cell,CL:1000849,KRP460,female,European,63-year-old human stage,356,7.545570156846121
+10,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,KRP460,female,European,63-year-old human stage,468,9.919457397202205
+11,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),kidney loop of Henle thin descending limb epithelial cell,CL:1001111,KRP460,female,European,63-year-old human stage,7,0.1483679525222552
+12,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),renal interstitial pericyte,CL:1001318,KRP460,female,European,63-year-old human stage,39,0.8266214497668503
+13,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),kidney collecting duct principal cell,CL:1001431,KRP460,female,European,63-year-old human stage,327,6.9309029249682075
+14,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),kidney collecting duct intercalated cell,CL:1001432,KRP460,female,European,63-year-old human stage,466,9.877066553624417

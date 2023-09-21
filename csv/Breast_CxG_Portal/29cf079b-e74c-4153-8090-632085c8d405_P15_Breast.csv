@@ -1,0 +1,22 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,scRNA-seq data - all cells,fibroblast,CL:0000057,P15,female,European,mature stage,612,11.403018446059251
+1,scRNA-seq data - all cells,vascular associated smooth muscle cell,CL:0000359,P15,female,European,mature stage,45,0.8384572386808273
+2,scRNA-seq data - all cells,CD4-positive helper T cell,CL:0000492,P15,female,European,mature stage,3,0.05589714924538849
+3,scRNA-seq data - all cells,basal cell,CL:0000646,P15,female,European,mature stage,2713,50.54965530091299
+4,scRNA-seq data - all cells,pericyte,CL:0000669,P15,female,European,mature stage,63,1.1738401341531581
+5,scRNA-seq data - all cells,naive B cell,CL:0000788,P15,female,European,mature stage,1,0.018632383081796162
+6,scRNA-seq data - all cells,gamma-delta T cell,CL:0000798,P15,female,European,mature stage,1,0.018632383081796162
+7,scRNA-seq data - all cells,classical monocyte,CL:0000860,P15,female,European,mature stage,1,0.018632383081796162
+8,scRNA-seq data - all cells,inflammatory macrophage,CL:0000863,P15,female,European,mature stage,17,0.31675051239053476
+9,scRNA-seq data - all cells,alternatively activated macrophage,CL:0000890,P15,female,European,mature stage,2,0.037264766163592325
+10,scRNA-seq data - all cells,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,P15,female,European,mature stage,3,0.05589714924538849
+11,scRNA-seq data - all cells,unswitched memory B cell,CL:0000970,P15,female,European,mature stage,1,0.018632383081796162
+12,scRNA-seq data - all cells,class switched memory B cell,CL:0000972,P15,female,European,mature stage,3,0.05589714924538849
+13,scRNA-seq data - all cells,IgG plasma cell,CL:0000985,P15,female,European,mature stage,1,0.018632383081796162
+14,scRNA-seq data - all cells,IgA plasma cell,CL:0000987,P15,female,European,mature stage,10,0.1863238308179616
+15,scRNA-seq data - all cells,endothelial cell of lymphatic vessel,CL:0002138,P15,female,European,mature stage,3,0.05589714924538849
+16,scRNA-seq data - all cells,capillary endothelial cell,CL:0002144,P15,female,European,mature stage,209,3.8941680640953975
+17,scRNA-seq data - all cells,luminal epithelial cell of mammary gland,CL:0002326,P15,female,European,mature stage,1053,19.619899385131358
+18,scRNA-seq data - all cells,mammary gland epithelial cell,CL:0002327,P15,female,European,mature stage,297,5.53381777529346
+19,scRNA-seq data - all cells,vein endothelial cell,CL:0002543,P15,female,European,mature stage,231,4.304080491894913
+20,scRNA-seq data - all cells,endothelial cell of artery,CL:1000413,P15,female,European,mature stage,98,1.825973542016024

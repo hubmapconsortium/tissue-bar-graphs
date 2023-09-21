@@ -1,0 +1,35 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Airway,native cell,CL:0000003,NP44,female,European,6-12 year-old child stage,3,0.14970059880239522
+1,Airway,ciliated cell,CL:0000064,NP44,female,European,6-12 year-old child stage,379,18.912175648702593
+2,Airway,duct epithelial cell,CL:0000068,NP44,female,European,6-12 year-old child stage,8,0.39920159680638717
+3,Airway,squamous epithelial cell,CL:0000076,NP44,female,European,6-12 year-old child stage,8,0.39920159680638717
+4,Airway,T cell,CL:0000084,NP44,female,European,6-12 year-old child stage,1,0.049900199600798396
+5,Airway,mast cell,CL:0000097,NP44,female,European,6-12 year-old child stage,28,1.3972055888223553
+6,Airway,secretory cell,CL:0000151,NP44,female,European,6-12 year-old child stage,112,5.588822355289421
+7,Airway,club cell,CL:0000158,NP44,female,European,6-12 year-old child stage,18,0.8982035928143712
+8,Airway,macrophage,CL:0000235,NP44,female,European,6-12 year-old child stage,21,1.0479041916167664
+9,Airway,dendritic cell,CL:0000451,NP44,female,European,6-12 year-old child stage,87,4.341317365269461
+10,Airway,Langerhans cell,CL:0000453,NP44,female,European,6-12 year-old child stage,39,1.9461077844311379
+11,Airway,monocyte,CL:0000576,NP44,female,European,6-12 year-old child stage,56,2.7944111776447107
+12,Airway,"CD4-positive, alpha-beta T cell",CL:0000624,NP44,female,European,6-12 year-old child stage,19,0.9481037924151697
+13,Airway,neutrophil,CL:0000775,NP44,female,European,6-12 year-old child stage,3,0.14970059880239522
+14,Airway,plasma cell,CL:0000786,NP44,female,European,6-12 year-old child stage,1,0.049900199600798396
+15,Airway,memory B cell,CL:0000787,NP44,female,European,6-12 year-old child stage,89,4.441117764471058
+16,Airway,naive B cell,CL:0000788,NP44,female,European,6-12 year-old child stage,22,1.097804391217565
+17,Airway,gamma-delta T cell,CL:0000798,NP44,female,European,6-12 year-old child stage,3,0.14970059880239522
+18,Airway,mature NK T cell,CL:0000814,NP44,female,European,6-12 year-old child stage,1,0.049900199600798396
+19,Airway,regulatory T cell,CL:0000815,NP44,female,European,6-12 year-old child stage,15,0.7485029940119761
+20,Airway,alternatively activated macrophage,CL:0000890,NP44,female,European,6-12 year-old child stage,9,0.4491017964071856
+21,Airway,"CD4-positive, alpha-beta memory T cell",CL:0000897,NP44,female,European,6-12 year-old child stage,7,0.34930139720558884
+22,Airway,naive T cell,CL:0000898,NP44,female,European,6-12 year-old child stage,15,0.7485029940119761
+23,Airway,"CD8-positive, alpha-beta memory T cell",CL:0000909,NP44,female,European,6-12 year-old child stage,161,8.033932135728543
+24,Airway,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,NP44,female,European,6-12 year-old child stage,13,0.6487025948103792
+25,Airway,"CD16-positive, CD56-dim natural killer cell, human",CL:0000939,NP44,female,European,6-12 year-old child stage,6,0.29940119760479045
+26,Airway,mucosal invariant T cell,CL:0000940,NP44,female,European,6-12 year-old child stage,1,0.049900199600798396
+27,Airway,conventional dendritic cell,CL:0000990,NP44,female,European,6-12 year-old child stage,11,0.5489021956087825
+28,Airway,"plasmacytoid dendritic cell, human",CL:0001058,NP44,female,European,6-12 year-old child stage,1,0.049900199600798396
+29,Airway,innate lymphoid cell,CL:0001065,NP44,female,European,6-12 year-old child stage,3,0.14970059880239522
+30,Airway,T follicular helper cell,CL:0002038,NP44,female,European,6-12 year-old child stage,2,0.09980039920159679
+31,Airway,multi-ciliated epithelial cell,CL:0005012,NP44,female,European,6-12 year-old child stage,3,0.14970059880239522
+32,Airway,tracheal goblet cell,CL:1000329,NP44,female,European,6-12 year-old child stage,773,38.572854291417165
+33,Airway,basal cell of epithelium of trachea,CL:1000348,NP44,female,European,6-12 year-old child stage,86,4.291417165668663

@@ -1,0 +1,5 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,UMAP of Plasma and B-Cells cells,native cell,CL:0000003,Patient09,male,unknown,77-year-old human stage,8,25.806451612903224
+1,UMAP of Plasma and B-Cells cells,memory B cell,CL:0000787,Patient09,male,unknown,77-year-old human stage,5,16.129032258064516
+2,UMAP of Plasma and B-Cells cells,IgG plasma cell,CL:0000985,Patient09,male,unknown,77-year-old human stage,3,9.67741935483871
+3,UMAP of Plasma and B-Cells cells,IgA plasma cell,CL:0000987,Patient09,male,unknown,77-year-old human stage,15,48.38709677419355

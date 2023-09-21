@@ -1,0 +1,13 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Lymphoid cells,native cell,CL:0000003,F37,female,unknown,Carnegie stage 13,10,3.484320557491289
+1,Lymphoid cells,hematopoietic stem cell,CL:0000037,F37,female,unknown,Carnegie stage 13,36,12.543554006968641
+2,Lymphoid cells,common myeloid progenitor,CL:0000049,F37,female,unknown,Carnegie stage 13,1,0.34843205574912894
+3,Lymphoid cells,megakaryocyte-erythroid progenitor cell,CL:0000050,F37,female,unknown,Carnegie stage 13,51,17.770034843205575
+4,Lymphoid cells,megakaryocyte,CL:0000556,F37,female,unknown,Carnegie stage 13,4,1.3937282229965158
+5,Lymphoid cells,granulocyte monocyte progenitor cell,CL:0000557,F37,female,unknown,Carnegie stage 13,13,4.529616724738676
+6,Lymphoid cells,promonocyte,CL:0000559,F37,female,unknown,Carnegie stage 13,2,0.6968641114982579
+7,Lymphoid cells,promyelocyte,CL:0000836,F37,female,unknown,Carnegie stage 13,1,0.34843205574912894
+8,Lymphoid cells,hematopoietic multipotent progenitor cell,CL:0000837,F37,female,unknown,Carnegie stage 13,103,35.88850174216028
+9,Lymphoid cells,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,F37,female,unknown,Carnegie stage 13,2,0.6968641114982579
+10,Lymphoid cells,early lymphoid progenitor,CL:0000936,F37,female,unknown,Carnegie stage 13,59,20.557491289198605
+11,Lymphoid cells,fraction A pre-pro B cell,CL:0002045,F37,female,unknown,Carnegie stage 13,5,1.7421602787456445

@@ -1,0 +1,12 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Human - Lung v2 (HLCA),native cell,CL:0000003,D337,female,European,35-year-old human stage,3,0.2181818181818182
+1,Human - Lung v2 (HLCA),T cell,CL:0000084,D337,female,European,35-year-old human stage,34,2.4727272727272727
+2,Human - Lung v2 (HLCA),mast cell,CL:0000097,D337,female,European,35-year-old human stage,5,0.36363636363636365
+3,Human - Lung v2 (HLCA),secretory cell,CL:0000151,D337,female,European,35-year-old human stage,290,21.09090909090909
+4,Human - Lung v2 (HLCA),macrophage,CL:0000235,D337,female,European,35-year-old human stage,202,14.690909090909091
+5,Human - Lung v2 (HLCA),B cell,CL:0000236,D337,female,European,35-year-old human stage,5,0.36363636363636365
+6,Human - Lung v2 (HLCA),dendritic cell,CL:0000451,D337,female,European,35-year-old human stage,11,0.8
+7,Human - Lung v2 (HLCA),monocyte,CL:0000576,D337,female,European,35-year-old human stage,7,0.5090909090909091
+8,Human - Lung v2 (HLCA),basal cell,CL:0000646,D337,female,European,35-year-old human stage,17,1.2363636363636363
+9,Human - Lung v2 (HLCA),"NKp46-positive innate lymphoid cell, human",CL:0001076,D337,female,European,35-year-old human stage,7,0.5090909090909091
+10,Human - Lung v2 (HLCA),multi-ciliated epithelial cell,CL:0005012,D337,female,European,35-year-old human stage,794,57.74545454545454

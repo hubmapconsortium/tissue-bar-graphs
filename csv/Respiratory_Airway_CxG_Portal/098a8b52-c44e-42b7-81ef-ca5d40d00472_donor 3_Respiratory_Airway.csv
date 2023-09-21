@@ -1,0 +1,23 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Human - Lung v2 (HLCA),native cell,CL:0000003,donor 3,female,unknown,50-year-old human stage,354,4.556570987257047
+1,Human - Lung v2 (HLCA),fibroblast,CL:0000057,donor 3,female,unknown,50-year-old human stage,712,9.164628652336209
+2,Human - Lung v2 (HLCA),T cell,CL:0000084,donor 3,female,unknown,50-year-old human stage,467,6.011069635731754
+3,Human - Lung v2 (HLCA),mast cell,CL:0000097,donor 3,female,unknown,50-year-old human stage,565,7.272493242373536
+4,Human - Lung v2 (HLCA),fibrocyte,CL:0000135,donor 3,female,unknown,50-year-old human stage,8,0.10297335564422706
+5,Human - Lung v2 (HLCA),secretory cell,CL:0000151,donor 3,female,unknown,50-year-old human stage,450,5.7922512549877725
+6,Human - Lung v2 (HLCA),myofibroblast cell,CL:0000186,donor 3,female,unknown,50-year-old human stage,88,1.1327069120864977
+7,Human - Lung v2 (HLCA),macrophage,CL:0000235,donor 3,female,unknown,50-year-old human stage,848,10.915175698288069
+8,Human - Lung v2 (HLCA),B cell,CL:0000236,donor 3,female,unknown,50-year-old human stage,167,2.14956879907324
+9,Human - Lung v2 (HLCA),dendritic cell,CL:0000451,donor 3,female,unknown,50-year-old human stage,68,0.87527352297593
+10,Human - Lung v2 (HLCA),monocyte,CL:0000576,donor 3,female,unknown,50-year-old human stage,271,3.4882224224481915
+11,Human - Lung v2 (HLCA),basal cell,CL:0000646,donor 3,female,unknown,50-year-old human stage,654,8.418071823915561
+12,Human - Lung v2 (HLCA),"NKp46-positive innate lymphoid cell, human",CL:0001076,donor 3,female,unknown,50-year-old human stage,273,3.513965761359248
+13,Human - Lung v2 (HLCA),type I pneumocyte,CL:0002062,donor 3,female,unknown,50-year-old human stage,334,4.29913759814648
+14,Human - Lung v2 (HLCA),type II pneumocyte,CL:0002063,donor 3,female,unknown,50-year-old human stage,1740,22.396704852619383
+15,Human - Lung v2 (HLCA),endothelial cell of lymphatic vessel,CL:0002138,donor 3,female,unknown,50-year-old human stage,44,0.5663534560432488
+16,Human - Lung v2 (HLCA),capillary endothelial cell,CL:0002144,donor 3,female,unknown,50-year-old human stage,31,0.39902175312137983
+17,Human - Lung v2 (HLCA),vein endothelial cell,CL:0002543,donor 3,female,unknown,50-year-old human stage,265,3.4109924057150214
+18,Human - Lung v2 (HLCA),multi-ciliated epithelial cell,CL:0005012,donor 3,female,unknown,50-year-old human stage,354,4.556570987257047
+19,Human - Lung v2 (HLCA),tracheobronchial smooth muscle cell,CL:0019019,donor 3,female,unknown,50-year-old human stage,13,0.16733170292186897
+20,Human - Lung v2 (HLCA),lung secretory cell,CL:1000272,donor 3,female,unknown,50-year-old human stage,28,0.3604067447547947
+21,Human - Lung v2 (HLCA),endothelial cell of artery,CL:1000413,donor 3,female,unknown,50-year-old human stage,35,0.45050843094349335

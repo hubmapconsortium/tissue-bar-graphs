@@ -1,0 +1,11 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,snRNA-seq data - all cells,fibroblast,CL:0000057,P12,female,European,mature stage,77,5.982905982905983
+1,snRNA-seq data - all cells,T cell,CL:0000084,P12,female,European,mature stage,33,2.564102564102564
+2,snRNA-seq data - all cells,mast cell,CL:0000097,P12,female,European,mature stage,24,1.8648018648018647
+3,snRNA-seq data - all cells,basal cell,CL:0000646,P12,female,European,mature stage,295,22.92152292152292
+4,snRNA-seq data - all cells,pericyte,CL:0000669,P12,female,European,mature stage,31,2.4087024087024087
+5,snRNA-seq data - all cells,myeloid cell,CL:0000763,P12,female,European,mature stage,287,22.2999222999223
+6,snRNA-seq data - all cells,endothelial cell of lymphatic vessel,CL:0002138,P12,female,European,mature stage,15,1.1655011655011656
+7,snRNA-seq data - all cells,endothelial cell of vascular tree,CL:0002139,P12,female,European,mature stage,12,0.9324009324009324
+8,snRNA-seq data - all cells,luminal epithelial cell of mammary gland,CL:0002326,P12,female,European,mature stage,501,38.92773892773892
+9,snRNA-seq data - all cells,adipocyte of breast,CL:0002617,P12,female,European,mature stage,12,0.9324009324009324

@@ -1,0 +1,5 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,HSC/progenitor cells,granulocyte monocyte progenitor cell,CL:0000557,F73,female,unknown,15th week post-fertilization human stage,1,6.25
+1,HSC/progenitor cells,promonocyte,CL:0000559,F73,female,unknown,15th week post-fertilization human stage,1,6.25
+2,HSC/progenitor cells,early lymphoid progenitor,CL:0000936,F73,female,unknown,15th week post-fertilization human stage,10,62.5
+3,HSC/progenitor cells,fraction A pre-pro B cell,CL:0002045,F73,female,unknown,15th week post-fertilization human stage,4,25.0

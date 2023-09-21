@@ -1,0 +1,21 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Airway,native cell,CL:0000003,NP28,male,European,2-5 year-old child stage,1,0.05506607929515419
+1,Airway,ciliated cell,CL:0000064,NP28,male,European,2-5 year-old child stage,504,27.75330396475771
+2,Airway,duct epithelial cell,CL:0000068,NP28,male,European,2-5 year-old child stage,7,0.3854625550660793
+3,Airway,squamous epithelial cell,CL:0000076,NP28,male,European,2-5 year-old child stage,1,0.05506607929515419
+4,Airway,T cell,CL:0000084,NP28,male,European,2-5 year-old child stage,1,0.05506607929515419
+5,Airway,secretory cell,CL:0000151,NP28,male,European,2-5 year-old child stage,338,18.612334801762113
+6,Airway,club cell,CL:0000158,NP28,male,European,2-5 year-old child stage,1,0.05506607929515419
+7,Airway,dendritic cell,CL:0000451,NP28,male,European,2-5 year-old child stage,1,0.05506607929515419
+8,Airway,memory B cell,CL:0000787,NP28,male,European,2-5 year-old child stage,7,0.3854625550660793
+9,Airway,gamma-delta T cell,CL:0000798,NP28,male,European,2-5 year-old child stage,22,1.2114537444933922
+10,Airway,naive T cell,CL:0000898,NP28,male,European,2-5 year-old child stage,2,0.11013215859030838
+11,Airway,"CD8-positive, alpha-beta memory T cell",CL:0000909,NP28,male,European,2-5 year-old child stage,133,7.323788546255507
+12,Airway,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,NP28,male,European,2-5 year-old child stage,2,0.11013215859030838
+13,Airway,mucosal invariant T cell,CL:0000940,NP28,male,European,2-5 year-old child stage,2,0.11013215859030838
+14,Airway,innate lymphoid cell,CL:0001065,NP28,male,European,2-5 year-old child stage,1,0.05506607929515419
+15,Airway,brush cell of trachea,CL:0002207,NP28,male,European,2-5 year-old child stage,3,0.16519823788546256
+16,Airway,multi-ciliated epithelial cell,CL:0005012,NP28,male,European,2-5 year-old child stage,19,1.0462555066079295
+17,Airway,pulmonary ionocyte,CL:0017000,NP28,male,European,2-5 year-old child stage,9,0.4955947136563877
+18,Airway,tracheal goblet cell,CL:1000329,NP28,male,European,2-5 year-old child stage,698,38.43612334801762
+19,Airway,basal cell of epithelium of trachea,CL:1000348,NP28,male,European,2-5 year-old child stage,64,3.524229074889868

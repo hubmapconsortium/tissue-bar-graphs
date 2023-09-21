@@ -1,0 +1,9 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Human - Lung v2 (HLCA),native cell,CL:0000003,D322,female,European,30-year-old human stage,5,0.29205607476635514
+1,Human - Lung v2 (HLCA),secretory cell,CL:0000151,D322,female,European,30-year-old human stage,1185,69.21728971962617
+2,Human - Lung v2 (HLCA),dendritic cell,CL:0000451,D322,female,European,30-year-old human stage,6,0.35046728971962615
+3,Human - Lung v2 (HLCA),basal cell,CL:0000646,D322,female,European,30-year-old human stage,360,21.02803738317757
+4,Human - Lung v2 (HLCA),endothelial cell of lymphatic vessel,CL:0002138,D322,female,European,30-year-old human stage,3,0.17523364485981308
+5,Human - Lung v2 (HLCA),vein endothelial cell,CL:0002543,D322,female,European,30-year-old human stage,72,4.205607476635514
+6,Human - Lung v2 (HLCA),lung secretory cell,CL:1000272,D322,female,European,30-year-old human stage,76,4.439252336448598
+7,Human - Lung v2 (HLCA),endothelial cell of artery,CL:1000413,D322,female,European,30-year-old human stage,5,0.29205607476635514

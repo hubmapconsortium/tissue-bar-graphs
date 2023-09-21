@@ -1,0 +1,4 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,UMAP of Myeloid cells,mast cell,CL:0000097,Patient13,female,unknown,41-year-old human stage,12,54.54545454545454
+1,UMAP of Myeloid cells,macrophage,CL:0000235,Patient13,female,unknown,41-year-old human stage,2,9.090909090909092
+2,UMAP of Myeloid cells,monocyte,CL:0000576,Patient13,female,unknown,41-year-old human stage,8,36.36363636363637

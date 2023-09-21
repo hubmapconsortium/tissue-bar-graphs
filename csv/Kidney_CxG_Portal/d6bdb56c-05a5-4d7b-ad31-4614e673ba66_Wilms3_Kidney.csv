@@ -1,5 +1,21 @@
 ,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
-0,mature,mononuclear phagocyte,CL:0000113,Wilms3,female,unknown,2-year-old human stage,1,2.380952380952381
-1,mature,"CD4-positive, alpha-beta T cell",CL:0000624,Wilms3,female,unknown,2-year-old human stage,6,14.285714285714285
-2,mature,epithelial cell of proximal tubule,CL:0002306,Wilms3,female,unknown,2-year-old human stage,2,4.761904761904762
-3,mature,kidney epithelial cell,CL:0002518,Wilms3,female,unknown,2-year-old human stage,33,78.57142857142857
+0,mature,fibroblast,CL:0000057,Wilms3,female,unknown,2-year-old human stage,1,0.4329004329004329
+1,mature,mast cell,CL:0000097,Wilms3,female,unknown,2-year-old human stage,1,0.4329004329004329
+2,mature,mononuclear phagocyte,CL:0000113,Wilms3,female,unknown,2-year-old human stage,14,6.0606060606060606
+3,mature,myofibroblast cell,CL:0000186,Wilms3,female,unknown,2-year-old human stage,4,1.7316017316017316
+4,mature,B cell,CL:0000236,Wilms3,female,unknown,2-year-old human stage,2,0.8658008658008658
+5,mature,lymphocyte,CL:0000542,Wilms3,female,unknown,2-year-old human stage,4,1.7316017316017316
+6,mature,natural killer cell,CL:0000623,Wilms3,female,unknown,2-year-old human stage,26,11.255411255411255
+7,mature,"CD4-positive, alpha-beta T cell",CL:0000624,Wilms3,female,unknown,2-year-old human stage,10,4.329004329004329
+8,mature,"CD8-positive, alpha-beta T cell",CL:0000625,Wilms3,female,unknown,2-year-old human stage,10,4.329004329004329
+9,mature,epithelial cell of proximal tubule,CL:0002306,Wilms3,female,unknown,2-year-old human stage,35,15.151515151515152
+10,mature,kidney epithelial cell,CL:0002518,Wilms3,female,unknown,2-year-old human stage,1,0.4329004329004329
+11,mature,renal principal cell,CL:0005009,Wilms3,female,unknown,2-year-old human stage,6,2.5974025974025974
+12,mature,renal alpha-intercalated cell,CL:0005011,Wilms3,female,unknown,2-year-old human stage,3,1.2987012987012987
+13,mature,progenitor cell,CL:0011026,Wilms3,female,unknown,2-year-old human stage,14,6.0606060606060606
+14,mature,epithelial cell of glomerular capsule,CL:1000450,Wilms3,female,unknown,2-year-old human stage,4,1.7316017316017316
+15,mature,kidney connecting tubule epithelial cell,CL:1000768,Wilms3,female,unknown,2-year-old human stage,12,5.194805194805195
+16,mature,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,Wilms3,female,unknown,2-year-old human stage,2,0.8658008658008658
+17,mature,vasa recta ascending limb cell,CL:1001131,Wilms3,female,unknown,2-year-old human stage,21,9.090909090909092
+18,mature,vasa recta descending limb cell,CL:1001285,Wilms3,female,unknown,2-year-old human stage,15,6.493506493506493
+19,mature,kidney epithelial cell,CL:0002518,Wilms3,female,unknown,2-year-old human stage,46,19.913419913419915

@@ -1,0 +1,6 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Construction of a human cell landscape at single-cell level,epithelial cell,CL:0000066,HESC_1,female,Han Chinese,embryonic human stage,27,1.6265060240963853
+1,Construction of a human cell landscape at single-cell level,T cell,CL:0000084,HESC_1,female,Han Chinese,embryonic human stage,1,0.06024096385542169
+2,Construction of a human cell landscape at single-cell level,neuron,CL:0000540,HESC_1,female,Han Chinese,embryonic human stage,1,0.06024096385542169
+3,Construction of a human cell landscape at single-cell level,primordial germ cell,CL:0000670,HESC_1,female,Han Chinese,embryonic human stage,21,1.2650602409638554
+4,Construction of a human cell landscape at single-cell level,embryonic stem cell,CL:0002322,HESC_1,female,Han Chinese,embryonic human stage,1610,96.98795180722891

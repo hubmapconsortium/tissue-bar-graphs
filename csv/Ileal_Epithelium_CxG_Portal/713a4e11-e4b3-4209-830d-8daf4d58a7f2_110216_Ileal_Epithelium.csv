@@ -1,0 +1,11 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,TI immune,native cell,CL:0000003,110216,female,unknown,fourth decade human stage,2,4.761904761904762
+1,TI immune,T cell,CL:0000084,110216,female,unknown,fourth decade human stage,4,9.523809523809524
+2,TI immune,macrophage,CL:0000235,110216,female,unknown,fourth decade human stage,1,2.380952380952381
+3,TI immune,B cell,CL:0000236,110216,female,unknown,fourth decade human stage,2,4.761904761904762
+4,TI immune,natural killer cell,CL:0000623,110216,female,unknown,fourth decade human stage,3,7.142857142857142
+5,TI immune,"CD4-positive, alpha-beta T cell",CL:0000624,110216,female,unknown,fourth decade human stage,2,4.761904761904762
+6,TI immune,"CD8-positive, alpha-beta T cell",CL:0000625,110216,female,unknown,fourth decade human stage,23,54.761904761904766
+7,TI immune,regulatory T cell,CL:0000815,110216,female,unknown,fourth decade human stage,1,2.380952380952381
+8,TI immune,naive T cell,CL:0000898,110216,female,unknown,fourth decade human stage,1,2.380952380952381
+9,TI immune,intraepithelial lymphocyte,CL:0002496,110216,female,unknown,fourth decade human stage,3,7.142857142857142

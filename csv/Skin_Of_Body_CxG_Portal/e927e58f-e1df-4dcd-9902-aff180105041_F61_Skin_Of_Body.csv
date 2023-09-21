@@ -1,0 +1,11 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Lymphoid cells,native cell,CL:0000003,F61,male,unknown,Carnegie stage 20,1,3.7037037037037033
+1,Lymphoid cells,hematopoietic stem cell,CL:0000037,F61,male,unknown,Carnegie stage 20,2,7.4074074074074066
+2,Lymphoid cells,megakaryocyte-erythroid progenitor cell,CL:0000050,F61,male,unknown,Carnegie stage 20,1,3.7037037037037033
+3,Lymphoid cells,natural killer cell,CL:0000623,F61,male,unknown,Carnegie stage 20,2,7.4074074074074066
+4,Lymphoid cells,pro-B cell,CL:0000826,F61,male,unknown,Carnegie stage 20,2,7.4074074074074066
+5,Lymphoid cells,hematopoietic multipotent progenitor cell,CL:0000837,F61,male,unknown,Carnegie stage 20,2,7.4074074074074066
+6,Lymphoid cells,early lymphoid progenitor,CL:0000936,F61,male,unknown,Carnegie stage 20,4,14.814814814814813
+7,Lymphoid cells,large pre-B-II cell,CL:0000957,F61,male,unknown,Carnegie stage 20,2,7.4074074074074066
+8,Lymphoid cells,group 3 innate lymphoid cell,CL:0001071,F61,male,unknown,Carnegie stage 20,10,37.03703703703704
+9,Lymphoid cells,fraction A pre-pro B cell,CL:0002045,F61,male,unknown,Carnegie stage 20,1,3.7037037037037033

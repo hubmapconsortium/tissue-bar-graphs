@@ -1,0 +1,11 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,snRNA-seq data - all cells,fibroblast,CL:0000057,P24,female,unknown,mature stage,502,7.039685878558406
+1,snRNA-seq data - all cells,T cell,CL:0000084,P24,female,unknown,mature stage,245,3.4357032674239236
+2,snRNA-seq data - all cells,mast cell,CL:0000097,P24,female,unknown,mature stage,18,0.2524190155658393
+3,snRNA-seq data - all cells,basal cell,CL:0000646,P24,female,unknown,mature stage,1099,15.411583228158744
+4,snRNA-seq data - all cells,pericyte,CL:0000669,P24,female,unknown,mature stage,36,0.5048380311316786
+5,snRNA-seq data - all cells,myeloid cell,CL:0000763,P24,female,unknown,mature stage,390,5.469078670593184
+6,snRNA-seq data - all cells,endothelial cell of lymphatic vessel,CL:0002138,P24,female,unknown,mature stage,229,3.211330809143178
+7,snRNA-seq data - all cells,endothelial cell of vascular tree,CL:0002139,P24,female,unknown,mature stage,139,1.9492357313139812
+8,snRNA-seq data - all cells,luminal epithelial cell of mammary gland,CL:0002326,P24,female,unknown,mature stage,4100,57.495442434441166
+9,snRNA-seq data - all cells,adipocyte of breast,CL:0002617,P24,female,unknown,mature stage,373,5.2306829336698915

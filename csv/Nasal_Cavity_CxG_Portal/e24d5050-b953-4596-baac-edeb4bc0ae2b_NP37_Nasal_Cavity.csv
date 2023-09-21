@@ -1,0 +1,24 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Airway,native cell,CL:0000003,NP37,female,European,2-5 year-old child stage,3,0.10266940451745381
+1,Airway,ciliated cell,CL:0000064,NP37,female,European,2-5 year-old child stage,378,12.93634496919918
+2,Airway,duct epithelial cell,CL:0000068,NP37,female,European,2-5 year-old child stage,14,0.4791238877481177
+3,Airway,secretory cell,CL:0000151,NP37,female,European,2-5 year-old child stage,475,16.255989048596852
+4,Airway,club cell,CL:0000158,NP37,female,European,2-5 year-old child stage,40,1.3689253935660506
+5,Airway,macrophage,CL:0000235,NP37,female,European,2-5 year-old child stage,1,0.034223134839151265
+6,Airway,B cell,CL:0000236,NP37,female,European,2-5 year-old child stage,3,0.10266940451745381
+7,Airway,dendritic cell,CL:0000451,NP37,female,European,2-5 year-old child stage,3,0.10266940451745381
+8,Airway,Langerhans cell,CL:0000453,NP37,female,European,2-5 year-old child stage,4,0.13689253935660506
+9,Airway,memory B cell,CL:0000787,NP37,female,European,2-5 year-old child stage,27,0.9240246406570842
+10,Airway,naive B cell,CL:0000788,NP37,female,European,2-5 year-old child stage,5,0.17111567419575632
+11,Airway,alternatively activated macrophage,CL:0000890,NP37,female,European,2-5 year-old child stage,3,0.10266940451745381
+12,Airway,"CD4-positive, alpha-beta memory T cell",CL:0000897,NP37,female,European,2-5 year-old child stage,1,0.034223134839151265
+13,Airway,"CD8-positive, alpha-beta memory T cell",CL:0000909,NP37,female,European,2-5 year-old child stage,12,0.41067761806981523
+14,Airway,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,NP37,female,European,2-5 year-old child stage,1,0.034223134839151265
+15,Airway,mucosal invariant T cell,CL:0000940,NP37,female,European,2-5 year-old child stage,2,0.06844626967830253
+16,Airway,"plasmacytoid dendritic cell, human",CL:0001058,NP37,female,European,2-5 year-old child stage,3,0.10266940451745381
+17,Airway,innate lymphoid cell,CL:0001065,NP37,female,European,2-5 year-old child stage,1,0.034223134839151265
+18,Airway,brush cell of trachea,CL:0002207,NP37,female,European,2-5 year-old child stage,2,0.06844626967830253
+19,Airway,multi-ciliated epithelial cell,CL:0005012,NP37,female,European,2-5 year-old child stage,3,0.10266940451745381
+20,Airway,pulmonary ionocyte,CL:0017000,NP37,female,European,2-5 year-old child stage,60,2.0533880903490758
+21,Airway,tracheal goblet cell,CL:1000329,NP37,female,European,2-5 year-old child stage,751,25.701574264202602
+22,Airway,basal cell of epithelium of trachea,CL:1000348,NP37,female,European,2-5 year-old child stage,1130,38.672142368240934

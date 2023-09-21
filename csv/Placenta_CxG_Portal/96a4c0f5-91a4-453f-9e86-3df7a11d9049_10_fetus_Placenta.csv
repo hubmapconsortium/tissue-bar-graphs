@@ -1,14 +1,20 @@
 ,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
-0,All donors all cell states (in vivo),T cell,CL:0000084,10_fetus,unknown,unknown,Carnegie stage 22,1,0.008329862557267805
-1,All donors all cell states (in vivo),macrophage,CL:0000235,10_fetus,unknown,unknown,Carnegie stage 22,29,0.24156601416076637
-2,All donors all cell states (in vivo),dendritic cell,CL:0000451,10_fetus,unknown,unknown,Carnegie stage 22,2,0.01665972511453561
-3,All donors all cell states (in vivo),stromal cell,CL:0000499,10_fetus,unknown,unknown,Carnegie stage 22,2,0.01665972511453561
-4,All donors all cell states (in vivo),syncytiotrophoblast cell,CL:0000525,10_fetus,unknown,unknown,Carnegie stage 22,80,0.6663890045814245
-5,All donors all cell states (in vivo),natural killer cell,CL:0000623,10_fetus,unknown,unknown,Carnegie stage 22,1,0.008329862557267805
-6,All donors all cell states (in vivo),uterine smooth muscle cell,CL:0002601,10_fetus,unknown,unknown,Carnegie stage 22,4,0.03331945022907122
-7,All donors all cell states (in vivo),extravillous trophoblast,CL:0008036,10_fetus,unknown,unknown,Carnegie stage 22,388,3.231986672219908
-8,All donors all cell states (in vivo),endothelial cell of placenta,CL:0009092,10_fetus,unknown,unknown,Carnegie stage 22,18,0.1499375260308205
-9,All donors all cell states (in vivo),endothelial cell of uterus,CL:0009095,10_fetus,unknown,unknown,Carnegie stage 22,15,0.12494793835901709
-10,All donors all cell states (in vivo),embryonic fibroblast,CL:2000042,10_fetus,unknown,unknown,Carnegie stage 22,659,5.489379425239484
-11,All donors all cell states (in vivo),placental villous trophoblast,CL:2000060,10_fetus,unknown,unknown,Carnegie stage 22,10105,84.17326114119118
-12,All donors all cell states (in vivo),Hofbauer cell,CL:3000001,10_fetus,unknown,unknown,Carnegie stage 22,701,5.839233652644731
+0,All donors all cell states (in vivo),T cell,CL:0000084,10_fetus,unknown,unknown,Carnegie stage 22,1,0.008200754469411185
+1,All donors all cell states (in vivo),macrophage,CL:0000235,10_fetus,unknown,unknown,Carnegie stage 22,29,0.2378218796129244
+2,All donors all cell states (in vivo),dendritic cell,CL:0000451,10_fetus,unknown,unknown,Carnegie stage 22,2,0.01640150893882237
+3,All donors all cell states (in vivo),stromal cell,CL:0000499,10_fetus,unknown,unknown,Carnegie stage 22,2,0.01640150893882237
+4,All donors all cell states (in vivo),syncytiotrophoblast cell,CL:0000525,10_fetus,unknown,unknown,Carnegie stage 22,80,0.6560603575528949
+5,All donors all cell states (in vivo),natural killer cell,CL:0000623,10_fetus,unknown,unknown,Carnegie stage 22,1,0.008200754469411185
+6,All donors all cell states (in vivo),uterine smooth muscle cell,CL:0002601,10_fetus,unknown,unknown,Carnegie stage 22,4,0.03280301787764474
+7,All donors all cell states (in vivo),extravillous trophoblast,CL:0008036,10_fetus,unknown,unknown,Carnegie stage 22,388,3.1818927341315404
+8,All donors all cell states (in vivo),endothelial cell of placenta,CL:0009092,10_fetus,unknown,unknown,Carnegie stage 22,18,0.14761358044940134
+9,All donors all cell states (in vivo),endothelial cell of uterus,CL:0009095,10_fetus,unknown,unknown,Carnegie stage 22,15,0.1230113170411678
+10,All donors all cell states (in vivo),embryonic fibroblast,CL:2000042,10_fetus,unknown,unknown,Carnegie stage 22,659,5.404297195341972
+11,All donors all cell states (in vivo),placental villous trophoblast,CL:2000060,10_fetus,unknown,unknown,Carnegie stage 22,10105,82.86862391340003
+12,All donors all cell states (in vivo),Hofbauer cell,CL:3000001,10_fetus,unknown,unknown,Carnegie stage 22,701,5.748728883057241
+13,All donors all cell states (in vivo),macrophage,CL:0000235,10_fetus,unknown,unknown,Carnegie stage 22,8,0.06560603575528948
+14,All donors all cell states (in vivo),dendritic cell,CL:0000451,10_fetus,unknown,unknown,Carnegie stage 22,2,0.01640150893882237
+15,All donors all cell states (in vivo),syncytiotrophoblast cell,CL:0000525,10_fetus,unknown,unknown,Carnegie stage 22,15,0.1230113170411678
+16,All donors all cell states (in vivo),extravillous trophoblast,CL:0008036,10_fetus,unknown,unknown,Carnegie stage 22,156,1.279317697228145
+17,All donors all cell states (in vivo),placental villous trophoblast,CL:2000060,10_fetus,unknown,unknown,Carnegie stage 22,7,0.0574052812858783
+18,All donors all cell states (in vivo),Hofbauer cell,CL:3000001,10_fetus,unknown,unknown,Carnegie stage 22,1,0.008200754469411185

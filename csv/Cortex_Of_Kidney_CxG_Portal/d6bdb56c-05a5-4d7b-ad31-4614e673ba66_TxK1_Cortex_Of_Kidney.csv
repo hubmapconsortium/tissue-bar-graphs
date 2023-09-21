@@ -1,0 +1,19 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,mature,mast cell,CL:0000097,TxK1,female,unknown,53-year-old human stage,6,0.7042253521126761
+1,mature,mononuclear phagocyte,CL:0000113,TxK1,female,unknown,53-year-old human stage,31,3.6384976525821595
+2,mature,B cell,CL:0000236,TxK1,female,unknown,53-year-old human stage,119,13.96713615023474
+3,mature,lymphocyte,CL:0000542,TxK1,female,unknown,53-year-old human stage,21,2.464788732394366
+4,mature,natural killer cell,CL:0000623,TxK1,female,unknown,53-year-old human stage,50,5.868544600938967
+5,mature,"CD4-positive, alpha-beta T cell",CL:0000624,TxK1,female,unknown,53-year-old human stage,28,3.286384976525822
+6,mature,"CD8-positive, alpha-beta T cell",CL:0000625,TxK1,female,unknown,53-year-old human stage,46,5.39906103286385
+7,mature,glomerular endothelial cell,CL:0002188,TxK1,female,unknown,53-year-old human stage,13,1.5258215962441315
+8,mature,renal beta-intercalated cell,CL:0002201,TxK1,female,unknown,53-year-old human stage,5,0.5868544600938966
+9,mature,epithelial cell of proximal tubule,CL:0002306,TxK1,female,unknown,53-year-old human stage,498,58.45070422535211
+10,mature,renal intercalated cell,CL:0005010,TxK1,female,unknown,53-year-old human stage,6,0.7042253521126761
+11,mature,renal alpha-intercalated cell,CL:0005011,TxK1,female,unknown,53-year-old human stage,16,1.8779342723004695
+12,mature,progenitor cell,CL:0011026,TxK1,female,unknown,53-year-old human stage,1,0.11737089201877934
+13,mature,kidney connecting tubule epithelial cell,CL:1000768,TxK1,female,unknown,53-year-old human stage,1,0.11737089201877934
+14,mature,peritubular capillary endothelial cell,CL:1001033,TxK1,female,unknown,53-year-old human stage,7,0.8215962441314555
+15,mature,kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,TxK1,female,unknown,53-year-old human stage,2,0.2347417840375587
+16,mature,vasa recta ascending limb cell,CL:1001131,TxK1,female,unknown,53-year-old human stage,1,0.11737089201877934
+17,mature,vasa recta descending limb cell,CL:1001285,TxK1,female,unknown,53-year-old human stage,1,0.11737089201877934

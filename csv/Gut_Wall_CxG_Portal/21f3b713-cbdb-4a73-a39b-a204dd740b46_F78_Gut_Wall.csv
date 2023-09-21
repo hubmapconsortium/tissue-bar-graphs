@@ -1,0 +1,9 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,NK/T cells,native cell,CL:0000003,F78,male,unknown,17th week post-fertilization human stage,6,14.285714285714285
+1,NK/T cells,T cell,CL:0000084,F78,male,unknown,17th week post-fertilization human stage,1,2.380952380952381
+2,NK/T cells,natural killer cell,CL:0000623,F78,male,unknown,17th week post-fertilization human stage,7,16.666666666666664
+3,NK/T cells,regulatory T cell,CL:0000815,F78,male,unknown,17th week post-fertilization human stage,1,2.380952380952381
+4,NK/T cells,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,F78,male,unknown,17th week post-fertilization human stage,3,7.142857142857142
+5,NK/T cells,"CD8-alpha-alpha-positive, alpha-beta intraepithelial T cell",CL:0000915,F78,male,unknown,17th week post-fertilization human stage,3,7.142857142857142
+6,NK/T cells,innate lymphoid cell,CL:0001065,F78,male,unknown,17th week post-fertilization human stage,1,2.380952380952381
+7,NK/T cells,group 3 innate lymphoid cell,CL:0001071,F78,male,unknown,17th week post-fertilization human stage,20,47.61904761904761

@@ -1,0 +1,12 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Airway,native cell,CL:0000003,NP22,female,unknown,infant stage,2,0.4784688995215311
+1,Airway,ciliated cell,CL:0000064,NP22,female,unknown,infant stage,46,11.004784688995215
+2,Airway,duct epithelial cell,CL:0000068,NP22,female,unknown,infant stage,1,0.23923444976076555
+3,Airway,mast cell,CL:0000097,NP22,female,unknown,infant stage,13,3.110047846889952
+4,Airway,secretory cell,CL:0000151,NP22,female,unknown,infant stage,136,32.535885167464116
+5,Airway,club cell,CL:0000158,NP22,female,unknown,infant stage,14,3.349282296650718
+6,Airway,dendritic cell,CL:0000451,NP22,female,unknown,infant stage,3,0.7177033492822966
+7,Airway,multi-ciliated epithelial cell,CL:0005012,NP22,female,unknown,infant stage,2,0.4784688995215311
+8,Airway,pulmonary ionocyte,CL:0017000,NP22,female,unknown,infant stage,6,1.4354066985645932
+9,Airway,tracheal goblet cell,CL:1000329,NP22,female,unknown,infant stage,44,10.526315789473683
+10,Airway,basal cell of epithelium of trachea,CL:1000348,NP22,female,unknown,infant stage,151,36.124401913875595

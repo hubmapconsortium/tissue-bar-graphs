@@ -1,0 +1,11 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Megakaryocyte/erythroid cells,native cell,CL:0000003,F32,female,unknown,Carnegie stage 19,1,0.16260162601626016
+1,Megakaryocyte/erythroid cells,hematopoietic stem cell,CL:0000037,F32,female,unknown,Carnegie stage 19,2,0.3252032520325203
+2,Megakaryocyte/erythroid cells,common myeloid progenitor,CL:0000049,F32,female,unknown,Carnegie stage 19,2,0.3252032520325203
+3,Megakaryocyte/erythroid cells,megakaryocyte-erythroid progenitor cell,CL:0000050,F32,female,unknown,Carnegie stage 19,2,0.3252032520325203
+4,Megakaryocyte/erythroid cells,erythrocyte,CL:0000232,F32,female,unknown,Carnegie stage 19,579,94.14634146341463
+5,Megakaryocyte/erythroid cells,megakaryocyte,CL:0000556,F32,female,unknown,Carnegie stage 19,7,1.1382113821138211
+6,Megakaryocyte/erythroid cells,promyelocyte,CL:0000836,F32,female,unknown,Carnegie stage 19,9,1.4634146341463417
+7,Megakaryocyte/erythroid cells,hematopoietic multipotent progenitor cell,CL:0000837,F32,female,unknown,Carnegie stage 19,1,0.16260162601626016
+8,Megakaryocyte/erythroid cells,early lymphoid progenitor,CL:0000936,F32,female,unknown,Carnegie stage 19,9,1.4634146341463417
+9,Megakaryocyte/erythroid cells,fraction A pre-pro B cell,CL:0002045,F32,female,unknown,Carnegie stage 19,3,0.4878048780487805

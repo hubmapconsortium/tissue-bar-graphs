@@ -1,2 +1,5 @@
 ,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
-0,Supercluster: MGE interneuron,neuron,CL:0000540,H18.30.002,male,European,50-year-old human stage,3,100.0
+0,Supercluster: MGE interneuron,neuron,CL:0000540,H18.30.002,male,European,50-year-old human stage,3,0.0044245177275676955
+1,Supercluster: MGE interneuron,neuron,CL:0000540,H18.30.002,male,European,50-year-old human stage,66442,97.99126895168426
+2,Supercluster: MGE interneuron,neuron,CL:0000540,H18.30.002,male,European,50-year-old human stage,1357,2.001356852103121
+3,Supercluster: MGE interneuron,neuron,CL:0000540,H18.30.002,male,European,50-year-old human stage,2,0.0029496784850451298

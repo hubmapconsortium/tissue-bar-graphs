@@ -1,0 +1,34 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Airway,native cell,CL:0000003,NP13,male,European,infant stage,6,0.1256544502617801
+1,Airway,ciliated cell,CL:0000064,NP13,male,European,infant stage,635,13.298429319371726
+2,Airway,duct epithelial cell,CL:0000068,NP13,male,European,infant stage,26,0.5445026178010471
+3,Airway,T cell,CL:0000084,NP13,male,European,infant stage,3,0.06282722513089005
+4,Airway,secretory cell,CL:0000151,NP13,male,European,infant stage,323,6.764397905759162
+5,Airway,club cell,CL:0000158,NP13,male,European,infant stage,57,1.193717277486911
+6,Airway,macrophage,CL:0000235,NP13,male,European,infant stage,8,0.1675392670157068
+7,Airway,B cell,CL:0000236,NP13,male,European,infant stage,658,13.780104712041885
+8,Airway,follicular dendritic cell,CL:0000442,NP13,male,European,infant stage,17,0.356020942408377
+9,Airway,dendritic cell,CL:0000451,NP13,male,European,infant stage,3,0.06282722513089005
+10,Airway,Langerhans cell,CL:0000453,NP13,male,European,infant stage,4,0.0837696335078534
+11,Airway,monocyte,CL:0000576,NP13,male,European,infant stage,1,0.02094240837696335
+12,Airway,"CD4-positive, alpha-beta T cell",CL:0000624,NP13,male,European,infant stage,1,0.02094240837696335
+13,Airway,plasma cell,CL:0000786,NP13,male,European,infant stage,64,1.3403141361256543
+14,Airway,memory B cell,CL:0000787,NP13,male,European,infant stage,1576,33.00523560209424
+15,Airway,naive B cell,CL:0000788,NP13,male,European,infant stage,388,8.125654450261779
+16,Airway,gamma-delta T cell,CL:0000798,NP13,male,European,infant stage,4,0.0837696335078534
+17,Airway,mature NK T cell,CL:0000814,NP13,male,European,infant stage,2,0.0418848167539267
+18,Airway,regulatory T cell,CL:0000815,NP13,male,European,infant stage,7,0.14659685863874344
+19,Airway,"CD4-positive, alpha-beta memory T cell",CL:0000897,NP13,male,European,infant stage,343,7.18324607329843
+20,Airway,naive T cell,CL:0000898,NP13,male,European,infant stage,50,1.0471204188481675
+21,Airway,"CD8-positive, alpha-beta memory T cell",CL:0000909,NP13,male,European,infant stage,51,1.068062827225131
+22,Airway,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,NP13,male,European,infant stage,4,0.0837696335078534
+23,Airway,mucosal invariant T cell,CL:0000940,NP13,male,European,infant stage,1,0.02094240837696335
+24,Airway,conventional dendritic cell,CL:0000990,NP13,male,European,infant stage,3,0.06282722513089005
+25,Airway,"plasmacytoid dendritic cell, human",CL:0001058,NP13,male,European,infant stage,2,0.0418848167539267
+26,Airway,innate lymphoid cell,CL:0001065,NP13,male,European,infant stage,5,0.10471204188481677
+27,Airway,T follicular helper cell,CL:0002038,NP13,male,European,infant stage,14,0.2931937172774869
+28,Airway,brush cell of trachea,CL:0002207,NP13,male,European,infant stage,1,0.02094240837696335
+29,Airway,multi-ciliated epithelial cell,CL:0005012,NP13,male,European,infant stage,6,0.1256544502617801
+30,Airway,pulmonary ionocyte,CL:0017000,NP13,male,European,infant stage,1,0.02094240837696335
+31,Airway,tracheal goblet cell,CL:1000329,NP13,male,European,infant stage,372,7.790575916230366
+32,Airway,basal cell of epithelium of trachea,CL:1000348,NP13,male,European,infant stage,139,2.910994764397906

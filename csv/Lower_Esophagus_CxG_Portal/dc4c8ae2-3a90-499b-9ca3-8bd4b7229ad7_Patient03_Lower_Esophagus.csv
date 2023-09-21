@@ -1,0 +1,10 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,UMAP of all data,macrophage,CL:0000235,Patient03,female,unknown,58-year-old human stage,10,1.2642225031605563
+1,UMAP of all data,dendritic cell,CL:0000451,Patient03,female,unknown,58-year-old human stage,1,0.12642225031605564
+2,UMAP of all data,CD4-positive helper T cell,CL:0000492,Patient03,female,unknown,58-year-old human stage,1,0.12642225031605564
+3,UMAP of all data,monocyte,CL:0000576,Patient03,female,unknown,58-year-old human stage,1,0.12642225031605564
+4,UMAP of all data,natural killer cell,CL:0000623,Patient03,female,unknown,58-year-old human stage,2,0.2528445006321113
+5,UMAP of all data,gamma-delta T cell,CL:0000798,Patient03,female,unknown,58-year-old human stage,1,0.12642225031605564
+6,UMAP of all data,natural T-regulatory cell,CL:0000903,Patient03,female,unknown,58-year-old human stage,5,0.6321112515802781
+7,UMAP of all data,"activated CD8-positive, alpha-beta T cell",CL:0000906,Patient03,female,unknown,58-year-old human stage,9,1.1378002528445006
+8,UMAP of all data,epithelial cell of esophagus,CL:0002252,Patient03,female,unknown,58-year-old human stage,761,96.20733249051833

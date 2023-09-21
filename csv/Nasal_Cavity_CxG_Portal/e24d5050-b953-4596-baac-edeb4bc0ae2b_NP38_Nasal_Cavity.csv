@@ -1,0 +1,22 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Airway,native cell,CL:0000003,NP38,female,African,adolescent stage,26,0.6469270962926101
+1,Airway,ciliated cell,CL:0000064,NP38,female,African,adolescent stage,440,10.947997014182633
+2,Airway,duct epithelial cell,CL:0000068,NP38,female,African,adolescent stage,22,0.5473998507091316
+3,Airway,squamous epithelial cell,CL:0000076,NP38,female,African,adolescent stage,2,0.04976362279173924
+4,Airway,mast cell,CL:0000097,NP38,female,African,adolescent stage,12,0.2985817367504354
+5,Airway,secretory cell,CL:0000151,NP38,female,African,adolescent stage,1158,28.81313759641702
+6,Airway,club cell,CL:0000158,NP38,female,African,adolescent stage,5,0.1244090569793481
+7,Airway,macrophage,CL:0000235,NP38,female,African,adolescent stage,1,0.02488181139586962
+8,Airway,dendritic cell,CL:0000451,NP38,female,African,adolescent stage,40,0.9952724558347849
+9,Airway,Langerhans cell,CL:0000453,NP38,female,African,adolescent stage,26,0.6469270962926101
+10,Airway,gamma-delta T cell,CL:0000798,NP38,female,African,adolescent stage,4,0.09952724558347847
+11,Airway,naive T cell,CL:0000898,NP38,female,African,adolescent stage,3,0.07464543418760886
+12,Airway,"CD8-positive, alpha-beta memory T cell",CL:0000909,NP38,female,African,adolescent stage,85,2.114953968648918
+13,Airway,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,NP38,female,African,adolescent stage,2,0.04976362279173924
+14,Airway,mucosal invariant T cell,CL:0000940,NP38,female,African,adolescent stage,19,0.4727544165215228
+15,Airway,"plasmacytoid dendritic cell, human",CL:0001058,NP38,female,African,adolescent stage,5,0.1244090569793481
+16,Airway,brush cell of trachea,CL:0002207,NP38,female,African,adolescent stage,4,0.09952724558347847
+17,Airway,multi-ciliated epithelial cell,CL:0005012,NP38,female,African,adolescent stage,61,1.5177904951480468
+18,Airway,pulmonary ionocyte,CL:0017000,NP38,female,African,adolescent stage,72,1.7914904205026128
+19,Airway,tracheal goblet cell,CL:1000329,NP38,female,African,adolescent stage,1416,35.23264493655138
+20,Airway,basal cell of epithelium of trachea,CL:1000348,NP38,female,African,adolescent stage,616,15.327195819855685

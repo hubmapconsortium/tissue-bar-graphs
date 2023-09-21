@@ -1,0 +1,29 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,UMAP of all data,native cell,CL:0000003,P6592,unknown,unknown,unknown,5,0.38402457757296465
+1,UMAP of all data,stem cell,CL:0000034,P6592,unknown,unknown,unknown,30,2.3041474654377883
+2,UMAP of all data,fibroblast,CL:0000057,P6592,unknown,unknown,unknown,62,4.761904761904762
+3,UMAP of all data,mast cell,CL:0000097,P6592,unknown,unknown,unknown,5,0.38402457757296465
+4,UMAP of all data,peptic cell,CL:0000155,P6592,unknown,unknown,unknown,209,16.052227342549923
+5,UMAP of all data,parietal cell,CL:0000162,P6592,unknown,unknown,unknown,1,0.07680491551459294
+6,UMAP of all data,enteroendocrine cell,CL:0000164,P6592,unknown,unknown,unknown,22,1.6897081413210446
+7,UMAP of all data,erythrocyte,CL:0000232,P6592,unknown,unknown,unknown,9,0.6912442396313364
+8,UMAP of all data,macrophage,CL:0000235,P6592,unknown,unknown,unknown,11,0.8448540706605223
+9,UMAP of all data,dendritic cell,CL:0000451,P6592,unknown,unknown,unknown,11,0.8448540706605223
+10,UMAP of all data,CD4-positive helper T cell,CL:0000492,P6592,unknown,unknown,unknown,18,1.3824884792626728
+11,UMAP of all data,monocyte,CL:0000576,P6592,unknown,unknown,unknown,14,1.0752688172043012
+12,UMAP of all data,enterocyte,CL:0000584,P6592,unknown,unknown,unknown,49,3.763440860215054
+13,UMAP of all data,natural killer cell,CL:0000623,P6592,unknown,unknown,unknown,5,0.38402457757296465
+14,UMAP of all data,mucous neck cell,CL:0000651,P6592,unknown,unknown,unknown,173,13.287250384024576
+15,UMAP of all data,memory B cell,CL:0000787,P6592,unknown,unknown,unknown,2,0.15360983102918588
+16,UMAP of all data,gamma-delta T cell,CL:0000798,P6592,unknown,unknown,unknown,108,8.294930875576037
+17,UMAP of all data,memory T cell,CL:0000813,P6592,unknown,unknown,unknown,44,3.3794162826420893
+18,UMAP of all data,natural T-regulatory cell,CL:0000903,P6592,unknown,unknown,unknown,64,4.915514592933948
+19,UMAP of all data,"activated CD8-positive, alpha-beta T cell",CL:0000906,P6592,unknown,unknown,unknown,147,11.29032258064516
+20,UMAP of all data,IgG plasma cell,CL:0000985,P6592,unknown,unknown,unknown,8,0.6144393241167435
+21,UMAP of all data,IgA plasma cell,CL:0000987,P6592,unknown,unknown,unknown,45,3.4562211981566824
+22,UMAP of all data,capillary endothelial cell,CL:0002144,P6592,unknown,unknown,unknown,1,0.07680491551459294
+23,UMAP of all data,foveolar cell of stomach,CL:0002179,P6592,unknown,unknown,unknown,203,15.591397849462366
+24,UMAP of all data,epithelial cell of esophagus,CL:0002252,P6592,unknown,unknown,unknown,6,0.4608294930875576
+25,UMAP of all data,P/D1 enteroendocrine cell,CL:0002268,P6592,unknown,unknown,unknown,25,1.9201228878648235
+26,UMAP of all data,vein endothelial cell,CL:0002543,P6592,unknown,unknown,unknown,12,0.9216589861751152
+27,UMAP of all data,endothelial cell of artery,CL:1000413,P6592,unknown,unknown,unknown,13,0.9984639016897081

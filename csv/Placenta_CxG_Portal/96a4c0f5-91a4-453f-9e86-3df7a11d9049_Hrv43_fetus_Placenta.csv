@@ -1,0 +1,11 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,All donors all cell states (in vivo),epithelial cell,CL:0000066,Hrv43_fetus,unknown,unknown,Carnegie stage 18,10,2.0366598778004072
+1,All donors all cell states (in vivo),T cell,CL:0000084,Hrv43_fetus,unknown,unknown,Carnegie stage 18,5,1.0183299389002036
+2,All donors all cell states (in vivo),macrophage,CL:0000235,Hrv43_fetus,unknown,unknown,Carnegie stage 18,12,2.4439918533604885
+3,All donors all cell states (in vivo),stromal cell,CL:0000499,Hrv43_fetus,unknown,unknown,Carnegie stage 18,28,5.7026476578411405
+4,All donors all cell states (in vivo),syncytiotrophoblast cell,CL:0000525,Hrv43_fetus,unknown,unknown,Carnegie stage 18,13,2.6476578411405294
+5,All donors all cell states (in vivo),natural killer cell,CL:0000623,Hrv43_fetus,unknown,unknown,Carnegie stage 18,3,0.6109979633401221
+6,All donors all cell states (in vivo),"decidual natural killer cell, human",CL:0002343,Hrv43_fetus,unknown,unknown,Carnegie stage 18,11,2.240325865580448
+7,All donors all cell states (in vivo),uterine smooth muscle cell,CL:0002601,Hrv43_fetus,unknown,unknown,Carnegie stage 18,2,0.40733197556008144
+8,All donors all cell states (in vivo),extravillous trophoblast,CL:0008036,Hrv43_fetus,unknown,unknown,Carnegie stage 18,373,75.96741344195519
+9,All donors all cell states (in vivo),placental villous trophoblast,CL:2000060,Hrv43_fetus,unknown,unknown,Carnegie stage 18,34,6.924643584521386

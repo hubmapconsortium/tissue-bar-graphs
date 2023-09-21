@@ -1,0 +1,5 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,TI immune,T cell,CL:0000084,158160,male,unknown,sixth decade human stage,1,7.142857142857142
+1,TI immune,natural killer cell,CL:0000623,158160,male,unknown,sixth decade human stage,1,7.142857142857142
+2,TI immune,"CD8-positive, alpha-beta T cell",CL:0000625,158160,male,unknown,sixth decade human stage,5,35.714285714285715
+3,TI immune,intraepithelial lymphocyte,CL:0002496,158160,male,unknown,sixth decade human stage,7,50.0

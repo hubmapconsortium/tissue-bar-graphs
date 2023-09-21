@@ -1,0 +1,22 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,All donors all cell states (in vivo),epithelial cell,CL:0000066,P14_mother,female,unknown,unknown,1459,4.607465420324639
+1,All donors all cell states (in vivo),T cell,CL:0000084,P14_mother,female,unknown,unknown,69,0.2178993241962989
+2,All donors all cell states (in vivo),granulocyte,CL:0000094,P14_mother,female,unknown,unknown,14,0.04421145708330702
+3,All donors all cell states (in vivo),macrophage,CL:0000235,P14_mother,female,unknown,unknown,2169,6.849617886692351
+4,All donors all cell states (in vivo),B cell,CL:0000236,P14_mother,female,unknown,unknown,22,0.06947514684519673
+5,All donors all cell states (in vivo),dendritic cell,CL:0000451,P14_mother,female,unknown,unknown,129,0.40737699741047184
+6,All donors all cell states (in vivo),stromal cell,CL:0000499,P14_mother,female,unknown,unknown,10565,33.36386029179562
+7,All donors all cell states (in vivo),syncytiotrophoblast cell,CL:0000525,P14_mother,female,unknown,unknown,10,0.031579612202362155
+8,All donors all cell states (in vivo),natural killer cell,CL:0000623,P14_mother,female,unknown,unknown,43,0.13579233247015726
+9,All donors all cell states (in vivo),plasma cell,CL:0000786,P14_mother,female,unknown,unknown,12,0.037895534642834586
+10,All donors all cell states (in vivo),regulatory T cell,CL:0000815,P14_mother,female,unknown,unknown,15,0.047369418303543236
+11,All donors all cell states (in vivo),"group 3 innate lymphoid cell, human",CL:0001078,P14_mother,female,unknown,unknown,48,0.15158213857133834
+12,All donors all cell states (in vivo),endothelial cell of lymphatic vessel,CL:0002138,P14_mother,female,unknown,unknown,668,2.109518095117792
+13,All donors all cell states (in vivo),"decidual natural killer cell, human",CL:0002343,P14_mother,female,unknown,unknown,645,2.0368849870523587
+14,All donors all cell states (in vivo),uterine smooth muscle cell,CL:0002601,P14_mother,female,unknown,unknown,13516,42.68300385271269
+15,All donors all cell states (in vivo),extravillous trophoblast,CL:0008036,P14_mother,female,unknown,unknown,13,0.041053495863070805
+16,All donors all cell states (in vivo),endothelial cell of placenta,CL:0009092,P14_mother,female,unknown,unknown,180,0.5684330196425188
+17,All donors all cell states (in vivo),endothelial cell of uterus,CL:0009095,P14_mother,female,unknown,unknown,1632,5.153792711425504
+18,All donors all cell states (in vivo),embryonic fibroblast,CL:2000042,P14_mother,female,unknown,unknown,22,0.06947514684519673
+19,All donors all cell states (in vivo),placental villous trophoblast,CL:2000060,P14_mother,female,unknown,unknown,15,0.047369418303543236
+20,All donors all cell states (in vivo),Hofbauer cell,CL:3000001,P14_mother,female,unknown,unknown,420,1.3263437124992106

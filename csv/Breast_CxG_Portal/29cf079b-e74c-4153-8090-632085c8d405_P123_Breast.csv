@@ -1,0 +1,31 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,scRNA-seq data - all cells,fibroblast,CL:0000057,P123,female,European,mature stage,458,11.345058211543225
+1,scRNA-seq data - all cells,mast cell,CL:0000097,P123,female,European,mature stage,10,0.24770869457517958
+2,scRNA-seq data - all cells,macrophage,CL:0000235,P123,female,European,mature stage,1,0.024770869457517955
+3,scRNA-seq data - all cells,vascular associated smooth muscle cell,CL:0000359,P123,female,European,mature stage,201,4.9789447609611095
+4,scRNA-seq data - all cells,CD4-positive helper T cell,CL:0000492,P123,female,European,mature stage,177,4.384443893980679
+5,scRNA-seq data - all cells,lymphocyte,CL:0000542,P123,female,European,mature stage,2,0.04954173891503591
+6,scRNA-seq data - all cells,natural killer cell,CL:0000623,P123,female,European,mature stage,3,0.07431260837255388
+7,scRNA-seq data - all cells,"CD4-positive, alpha-beta T cell",CL:0000624,P123,female,European,mature stage,4,0.09908347783007182
+8,scRNA-seq data - all cells,basal cell,CL:0000646,P123,female,European,mature stage,1261,31.236066385930144
+9,scRNA-seq data - all cells,pericyte,CL:0000669,P123,female,European,mature stage,86,2.1302947733465443
+10,scRNA-seq data - all cells,neutrophil,CL:0000775,P123,female,European,mature stage,1,0.024770869457517955
+11,scRNA-seq data - all cells,regulatory T cell,CL:0000815,P123,female,European,mature stage,2,0.04954173891503591
+12,scRNA-seq data - all cells,classical monocyte,CL:0000860,P123,female,European,mature stage,10,0.24770869457517958
+13,scRNA-seq data - all cells,inflammatory macrophage,CL:0000863,P123,female,European,mature stage,54,1.3376269507059697
+14,scRNA-seq data - all cells,non-classical monocyte,CL:0000875,P123,female,European,mature stage,1,0.024770869457517955
+15,scRNA-seq data - all cells,alternatively activated macrophage,CL:0000890,P123,female,European,mature stage,33,0.8174386920980926
+16,scRNA-seq data - all cells,"activated CD4-positive, alpha-beta T cell",CL:0000896,P123,female,European,mature stage,19,0.4706465196928412
+17,scRNA-seq data - all cells,"effector memory CD4-positive, alpha-beta T cell",CL:0000905,P123,female,European,mature stage,78,1.9321278176864007
+18,scRNA-seq data - all cells,"CD8-positive, alpha-beta memory T cell",CL:0000909,P123,female,European,mature stage,282,6.985385187020064
+19,scRNA-seq data - all cells,"effector memory CD8-positive, alpha-beta T cell",CL:0000913,P123,female,European,mature stage,12,0.2972504334902155
+20,scRNA-seq data - all cells,class switched memory B cell,CL:0000972,P123,female,European,mature stage,1,0.024770869457517955
+21,scRNA-seq data - all cells,IgG plasma cell,CL:0000985,P123,female,European,mature stage,3,0.07431260837255388
+22,scRNA-seq data - all cells,IgA plasma cell,CL:0000987,P123,female,European,mature stage,25,0.619271736437949
+23,scRNA-seq data - all cells,conventional dendritic cell,CL:0000990,P123,female,European,mature stage,13,0.32202130294773346
+24,scRNA-seq data - all cells,endothelial cell of lymphatic vessel,CL:0002138,P123,female,European,mature stage,23,0.5697299975229131
+25,scRNA-seq data - all cells,capillary endothelial cell,CL:0002144,P123,female,European,mature stage,43,1.0651473866732721
+26,scRNA-seq data - all cells,luminal epithelial cell of mammary gland,CL:0002326,P123,female,European,mature stage,1021,25.291057716125838
+27,scRNA-seq data - all cells,mammary gland epithelial cell,CL:0002327,P123,female,European,mature stage,57,1.4119395590785238
+28,scRNA-seq data - all cells,vein endothelial cell,CL:0002543,P123,female,European,mature stage,120,2.972504334902155
+29,scRNA-seq data - all cells,endothelial cell of artery,CL:1000413,P123,female,European,mature stage,36,0.8917513004706464

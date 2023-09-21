@@ -1,0 +1,4 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,UMAP of Myeloid cells,mast cell,CL:0000097,P5931,unknown,unknown,unknown,5,15.151515151515152
+1,UMAP of Myeloid cells,macrophage,CL:0000235,P5931,unknown,unknown,unknown,18,54.54545454545454
+2,UMAP of Myeloid cells,monocyte,CL:0000576,P5931,unknown,unknown,unknown,10,30.303030303030305

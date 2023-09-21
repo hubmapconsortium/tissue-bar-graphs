@@ -1,0 +1,12 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Global,macrophage,CL:0000235,A36,male,unknown,seventh decade human stage,1,2.272727272727273
+1,Global,CD4-positive helper T cell,CL:0000492,A36,male,unknown,seventh decade human stage,8,18.181818181818183
+2,Global,alpha-beta T cell,CL:0000789,A36,male,unknown,seventh decade human stage,2,4.545454545454546
+3,Global,gamma-delta T cell,CL:0000798,A36,male,unknown,seventh decade human stage,2,4.545454545454546
+4,Global,non-classical monocyte,CL:0000875,A36,male,unknown,seventh decade human stage,1,2.272727272727273
+5,Global,"effector memory CD4-positive, alpha-beta T cell",CL:0000905,A36,male,unknown,seventh decade human stage,1,2.272727272727273
+6,Global,"CD8-positive, alpha-beta memory T cell",CL:0000909,A36,male,unknown,seventh decade human stage,21,47.72727272727273
+7,Global,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,A36,male,unknown,seventh decade human stage,1,2.272727272727273
+8,Global,mucosal invariant T cell,CL:0000940,A36,male,unknown,seventh decade human stage,3,6.8181818181818175
+9,Global,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",CL:0001062,A36,male,unknown,seventh decade human stage,2,4.545454545454546
+10,Global,"CD8-positive, alpha-beta memory T cell, CD45RO-positive",CL:0001203,A36,male,unknown,seventh decade human stage,2,4.545454545454546

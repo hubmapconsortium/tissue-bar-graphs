@@ -1,0 +1,7 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,TI immune,native cell,CL:0000003,101694,female,unknown,young adult stage,2,4.878048780487805
+1,TI immune,"CD4-positive, alpha-beta T cell",CL:0000624,101694,female,unknown,young adult stage,10,24.390243902439025
+2,TI immune,"CD8-positive, alpha-beta T cell",CL:0000625,101694,female,unknown,young adult stage,20,48.78048780487805
+3,TI immune,regulatory T cell,CL:0000815,101694,female,unknown,young adult stage,1,2.4390243902439024
+4,TI immune,naive T cell,CL:0000898,101694,female,unknown,young adult stage,1,2.4390243902439024
+5,TI immune,intraepithelial lymphocyte,CL:0002496,101694,female,unknown,young adult stage,7,17.073170731707318

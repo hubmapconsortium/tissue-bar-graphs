@@ -1,0 +1,19 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Pregnant Uterus (All),fibroblast,CL:0000057,D6_mother,female,unknown,unknown,3,0.04876462938881665
+1,Pregnant Uterus (All),T cell,CL:0000084,D6_mother,female,unknown,unknown,540,8.777633289986996
+2,Pregnant Uterus (All),granulocyte,CL:0000094,D6_mother,female,unknown,unknown,48,0.7802340702210664
+3,Pregnant Uterus (All),endothelial cell,CL:0000115,D6_mother,female,unknown,unknown,430,6.98959687906372
+4,Pregnant Uterus (All),glandular epithelial cell,CL:0000150,D6_mother,female,unknown,unknown,72,1.1703511053315996
+5,Pregnant Uterus (All),macrophage,CL:0000235,D6_mother,female,unknown,unknown,586,9.525357607282185
+6,Pregnant Uterus (All),syncytiotrophoblast cell,CL:0000525,D6_mother,female,unknown,unknown,2,0.032509752925877766
+7,Pregnant Uterus (All),monocyte,CL:0000576,D6_mother,female,unknown,unknown,1,0.016254876462938883
+8,Pregnant Uterus (All),pericyte,CL:0000669,D6_mother,female,unknown,unknown,706,11.47594278283485
+9,Pregnant Uterus (All),plasma cell,CL:0000786,D6_mother,female,unknown,unknown,4,0.06501950585175553
+10,Pregnant Uterus (All),"CD16-positive, CD56-dim natural killer cell, human",CL:0000939,D6_mother,female,unknown,unknown,41,0.6664499349804942
+11,Pregnant Uterus (All),conventional dendritic cell,CL:0000990,D6_mother,female,unknown,unknown,34,0.5526657997399219
+12,Pregnant Uterus (All),innate lymphoid cell,CL:0001065,D6_mother,female,unknown,unknown,40,0.6501950585175552
+13,Pregnant Uterus (All),"decidual natural killer cell, human",CL:0002343,D6_mother,female,unknown,unknown,3298,53.608582574772434
+14,Pregnant Uterus (All),extravillous trophoblast,CL:0008036,D6_mother,female,unknown,unknown,20,0.3250975292587776
+15,Pregnant Uterus (All),decidual cell,CL:2000002,D6_mother,female,unknown,unknown,320,5.201560468140442
+16,Pregnant Uterus (All),placental villous trophoblast,CL:2000060,D6_mother,female,unknown,unknown,6,0.0975292587776333
+17,Pregnant Uterus (All),Hofbauer cell,CL:3000001,D6_mother,female,unknown,unknown,1,0.016254876462938883

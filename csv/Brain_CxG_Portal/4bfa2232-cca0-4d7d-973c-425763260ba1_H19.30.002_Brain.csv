@@ -1,2 +1,4 @@
 ,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
-0,Supercluster: Bergmann glia,Bergmann glial cell,CL:0000644,H19.30.002,male,European,29-year-old human stage,2585,100.0
+0,Supercluster: Bergmann glia,Bergmann glial cell,CL:0000644,H19.30.002,male,European,29-year-old human stage,2585,99.46133128126202
+1,Supercluster: Bergmann glia,Bergmann glial cell,CL:0000644,H19.30.002,male,European,29-year-old human stage,1,0.038476337052712584
+2,Supercluster: Bergmann glia,Bergmann glial cell,CL:0000644,H19.30.002,male,European,29-year-old human stage,13,0.5001923816852636

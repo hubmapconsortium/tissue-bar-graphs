@@ -1,30 +1,44 @@
 ,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
-0,Developing Human Atlas,epithelial cell,CL:0000066,HT-234,male,unknown,12th week post-fertilization human stage,10,0.1492091912861832
-1,Developing Human Atlas,mesothelial cell,CL:0000077,HT-234,male,unknown,12th week post-fertilization human stage,3,0.044762757385854966
-2,Developing Human Atlas,endothelial cell,CL:0000115,HT-234,male,unknown,12th week post-fertilization human stage,147,2.193375111906893
-3,Developing Human Atlas,glial cell,CL:0000125,HT-234,male,unknown,12th week post-fertilization human stage,85,1.2682781259325573
-4,Developing Human Atlas,goblet cell,CL:0000160,HT-234,male,unknown,12th week post-fertilization human stage,8,0.11936735302894659
-5,Developing Human Atlas,enteroendocrine cell,CL:0000164,HT-234,male,unknown,12th week post-fertilization human stage,12,0.17905102954341987
-6,Developing Human Atlas,B cell,CL:0000236,HT-234,male,unknown,12th week post-fertilization human stage,17,0.25365562518651147
-7,Developing Human Atlas,pericyte,CL:0000669,HT-234,male,unknown,12th week post-fertilization human stage,44,0.6565204416592062
-8,Developing Human Atlas,erythroblast,CL:0000765,HT-234,male,unknown,12th week post-fertilization human stage,4,0.059683676514473295
-9,Developing Human Atlas,myeloid leukocyte,CL:0000766,HT-234,male,unknown,12th week post-fertilization human stage,184,2.7454491196657713
-10,Developing Human Atlas,mature NK T cell,CL:0000814,HT-234,male,unknown,12th week post-fertilization human stage,74,1.1041480155177559
-11,Developing Human Atlas,intestinal epithelial cell,CL:0002563,HT-234,male,unknown,12th week post-fertilization human stage,499,7.445538645180543
-12,Developing Human Atlas,mesenchymal cell,CL:0008019,HT-234,male,unknown,12th week post-fertilization human stage,1998,29.811996418979408
-13,Developing Human Atlas,peripheral nervous system neuron,CL:2000032,HT-234,male,unknown,12th week post-fertilization human stage,125,1.8651148910772903
-14,Developing Human Atlas,epithelial cell,CL:0000066,HT-234,male,unknown,12th week post-fertilization human stage,16,0.23873470605789318
-15,Developing Human Atlas,mesothelial cell,CL:0000077,HT-234,male,unknown,12th week post-fertilization human stage,8,0.11936735302894659
-16,Developing Human Atlas,epithelial cell of lung,CL:0000082,HT-234,male,unknown,12th week post-fertilization human stage,3,0.044762757385854966
-17,Developing Human Atlas,endothelial cell,CL:0000115,HT-234,male,unknown,12th week post-fertilization human stage,94,1.4025663980901224
-18,Developing Human Atlas,glial cell,CL:0000125,HT-234,male,unknown,12th week post-fertilization human stage,63,0.9400179051029544
-19,Developing Human Atlas,goblet cell,CL:0000160,HT-234,male,unknown,12th week post-fertilization human stage,68,1.0146225007460459
-20,Developing Human Atlas,enteroendocrine cell,CL:0000164,HT-234,male,unknown,12th week post-fertilization human stage,26,0.3879438973440764
-21,Developing Human Atlas,B cell,CL:0000236,HT-234,male,unknown,12th week post-fertilization human stage,4,0.059683676514473295
-22,Developing Human Atlas,pericyte,CL:0000669,HT-234,male,unknown,12th week post-fertilization human stage,49,0.7311250373022978
-23,Developing Human Atlas,erythroblast,CL:0000765,HT-234,male,unknown,12th week post-fertilization human stage,12,0.17905102954341987
-24,Developing Human Atlas,myeloid leukocyte,CL:0000766,HT-234,male,unknown,12th week post-fertilization human stage,175,2.6111608475082067
-25,Developing Human Atlas,mature NK T cell,CL:0000814,HT-234,male,unknown,12th week post-fertilization human stage,34,0.5073112503730229
-26,Developing Human Atlas,intestinal epithelial cell,CL:0002563,HT-234,male,unknown,12th week post-fertilization human stage,748,11.160847508206507
-27,Developing Human Atlas,mesenchymal cell,CL:0008019,HT-234,male,unknown,12th week post-fertilization human stage,2054,30.64756789018204
-28,Developing Human Atlas,peripheral nervous system neuron,CL:2000032,HT-234,male,unknown,12th week post-fertilization human stage,138,2.0590868397493285
+0,Developing Human Atlas,epithelial cell,CL:0000066,HT-234,male,unknown,12th week post-fertilization human stage,10,0.09079353550027239
+1,Developing Human Atlas,mesothelial cell,CL:0000077,HT-234,male,unknown,12th week post-fertilization human stage,3,0.027238060650081716
+2,Developing Human Atlas,endothelial cell,CL:0000115,HT-234,male,unknown,12th week post-fertilization human stage,147,1.334664971854004
+3,Developing Human Atlas,glial cell,CL:0000125,HT-234,male,unknown,12th week post-fertilization human stage,85,0.7717450517523152
+4,Developing Human Atlas,goblet cell,CL:0000160,HT-234,male,unknown,12th week post-fertilization human stage,8,0.0726348284002179
+5,Developing Human Atlas,enteroendocrine cell,CL:0000164,HT-234,male,unknown,12th week post-fertilization human stage,12,0.10895224260032686
+6,Developing Human Atlas,B cell,CL:0000236,HT-234,male,unknown,12th week post-fertilization human stage,17,0.15434901035046306
+7,Developing Human Atlas,pericyte,CL:0000669,HT-234,male,unknown,12th week post-fertilization human stage,44,0.39949155620119847
+8,Developing Human Atlas,erythroblast,CL:0000765,HT-234,male,unknown,12th week post-fertilization human stage,4,0.03631741420010895
+9,Developing Human Atlas,myeloid leukocyte,CL:0000766,HT-234,male,unknown,12th week post-fertilization human stage,184,1.670601053205012
+10,Developing Human Atlas,mature NK T cell,CL:0000814,HT-234,male,unknown,12th week post-fertilization human stage,74,0.6718721627020156
+11,Developing Human Atlas,intestinal epithelial cell,CL:0002563,HT-234,male,unknown,12th week post-fertilization human stage,499,4.530597421463592
+12,Developing Human Atlas,mesenchymal cell,CL:0008019,HT-234,male,unknown,12th week post-fertilization human stage,1998,18.140548392954422
+13,Developing Human Atlas,peripheral nervous system neuron,CL:2000032,HT-234,male,unknown,12th week post-fertilization human stage,125,1.1349191937534047
+14,Developing Human Atlas,epithelial cell,CL:0000066,HT-234,male,unknown,12th week post-fertilization human stage,16,0.1452696568004358
+15,Developing Human Atlas,mesothelial cell,CL:0000077,HT-234,male,unknown,12th week post-fertilization human stage,8,0.0726348284002179
+16,Developing Human Atlas,epithelial cell of lung,CL:0000082,HT-234,male,unknown,12th week post-fertilization human stage,3,0.027238060650081716
+17,Developing Human Atlas,endothelial cell,CL:0000115,HT-234,male,unknown,12th week post-fertilization human stage,94,0.8534592337025604
+18,Developing Human Atlas,glial cell,CL:0000125,HT-234,male,unknown,12th week post-fertilization human stage,63,0.571999273651716
+19,Developing Human Atlas,goblet cell,CL:0000160,HT-234,male,unknown,12th week post-fertilization human stage,68,0.6173960414018522
+20,Developing Human Atlas,enteroendocrine cell,CL:0000164,HT-234,male,unknown,12th week post-fertilization human stage,26,0.23606319230070819
+21,Developing Human Atlas,B cell,CL:0000236,HT-234,male,unknown,12th week post-fertilization human stage,4,0.03631741420010895
+22,Developing Human Atlas,pericyte,CL:0000669,HT-234,male,unknown,12th week post-fertilization human stage,49,0.44488832395133465
+23,Developing Human Atlas,erythroblast,CL:0000765,HT-234,male,unknown,12th week post-fertilization human stage,12,0.10895224260032686
+24,Developing Human Atlas,myeloid leukocyte,CL:0000766,HT-234,male,unknown,12th week post-fertilization human stage,175,1.5888868712547668
+25,Developing Human Atlas,mature NK T cell,CL:0000814,HT-234,male,unknown,12th week post-fertilization human stage,34,0.3086980207009261
+26,Developing Human Atlas,intestinal epithelial cell,CL:0002563,HT-234,male,unknown,12th week post-fertilization human stage,748,6.791356455420374
+27,Developing Human Atlas,mesenchymal cell,CL:0008019,HT-234,male,unknown,12th week post-fertilization human stage,2054,18.648992191755948
+28,Developing Human Atlas,peripheral nervous system neuron,CL:2000032,HT-234,male,unknown,12th week post-fertilization human stage,138,1.2529507899037589
+29,Developing Human Atlas,epithelial cell,CL:0000066,HT-234,male,unknown,12th week post-fertilization human stage,12,0.10895224260032686
+30,Developing Human Atlas,mesothelial cell,CL:0000077,HT-234,male,unknown,12th week post-fertilization human stage,8,0.0726348284002179
+31,Developing Human Atlas,endothelial cell,CL:0000115,HT-234,male,unknown,12th week post-fertilization human stage,186,1.6887597603050661
+32,Developing Human Atlas,glial cell,CL:0000125,HT-234,male,unknown,12th week post-fertilization human stage,74,0.6718721627020156
+33,Developing Human Atlas,goblet cell,CL:0000160,HT-234,male,unknown,12th week post-fertilization human stage,47,0.4267296168512802
+34,Developing Human Atlas,enteroendocrine cell,CL:0000164,HT-234,male,unknown,12th week post-fertilization human stage,16,0.1452696568004358
+35,Developing Human Atlas,B cell,CL:0000236,HT-234,male,unknown,12th week post-fertilization human stage,23,0.2088251316506265
+36,Developing Human Atlas,pericyte,CL:0000669,HT-234,male,unknown,12th week post-fertilization human stage,57,0.5175231523515526
+37,Developing Human Atlas,erythroblast,CL:0000765,HT-234,male,unknown,12th week post-fertilization human stage,16,0.1452696568004358
+38,Developing Human Atlas,myeloid leukocyte,CL:0000766,HT-234,male,unknown,12th week post-fertilization human stage,218,1.979299073905938
+39,Developing Human Atlas,mature NK T cell,CL:0000814,HT-234,male,unknown,12th week post-fertilization human stage,98,0.8897766479026693
+40,Developing Human Atlas,intestinal epithelial cell,CL:0002563,HT-234,male,unknown,12th week post-fertilization human stage,931,8.452878155075359
+41,Developing Human Atlas,mesenchymal cell,CL:0008019,HT-234,male,unknown,12th week post-fertilization human stage,2515,22.834574178318505
+42,Developing Human Atlas,peripheral nervous system neuron,CL:2000032,HT-234,male,unknown,12th week post-fertilization human stage,111,1.0078082440530234

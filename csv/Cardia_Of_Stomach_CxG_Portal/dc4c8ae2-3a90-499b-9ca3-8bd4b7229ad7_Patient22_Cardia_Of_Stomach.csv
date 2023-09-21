@@ -1,0 +1,27 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,UMAP of all data,native cell,CL:0000003,Patient22,male,unknown,83-year-old human stage,3,0.26109660574412535
+1,UMAP of all data,stem cell,CL:0000034,Patient22,male,unknown,83-year-old human stage,27,2.3498694516971277
+2,UMAP of all data,fibroblast,CL:0000057,Patient22,male,unknown,83-year-old human stage,5,0.4351610095735422
+3,UMAP of all data,mast cell,CL:0000097,Patient22,male,unknown,83-year-old human stage,1,0.08703220191470844
+4,UMAP of all data,peptic cell,CL:0000155,Patient22,male,unknown,83-year-old human stage,32,2.78503046127067
+5,UMAP of all data,parietal cell,CL:0000162,Patient22,male,unknown,83-year-old human stage,10,0.8703220191470844
+6,UMAP of all data,enteroendocrine cell,CL:0000164,Patient22,male,unknown,83-year-old human stage,35,3.0461270670147953
+7,UMAP of all data,erythrocyte,CL:0000232,Patient22,male,unknown,83-year-old human stage,34,2.959094865100087
+8,UMAP of all data,macrophage,CL:0000235,Patient22,male,unknown,83-year-old human stage,4,0.34812880765883375
+9,UMAP of all data,dendritic cell,CL:0000451,Patient22,male,unknown,83-year-old human stage,3,0.26109660574412535
+10,UMAP of all data,CD4-positive helper T cell,CL:0000492,Patient22,male,unknown,83-year-old human stage,6,0.5221932114882507
+11,UMAP of all data,enterocyte,CL:0000584,Patient22,male,unknown,83-year-old human stage,128,11.14012184508268
+12,UMAP of all data,natural killer cell,CL:0000623,Patient22,male,unknown,83-year-old human stage,10,0.8703220191470844
+13,UMAP of all data,mucous neck cell,CL:0000651,Patient22,male,unknown,83-year-old human stage,157,13.664055700609227
+14,UMAP of all data,gamma-delta T cell,CL:0000798,Patient22,male,unknown,83-year-old human stage,16,1.392515230635335
+15,UMAP of all data,memory T cell,CL:0000813,Patient22,male,unknown,83-year-old human stage,5,0.4351610095735422
+16,UMAP of all data,natural T-regulatory cell,CL:0000903,Patient22,male,unknown,83-year-old human stage,38,3.307223672758921
+17,UMAP of all data,"activated CD8-positive, alpha-beta T cell",CL:0000906,Patient22,male,unknown,83-year-old human stage,61,5.308964316797215
+18,UMAP of all data,IgG plasma cell,CL:0000985,Patient22,male,unknown,83-year-old human stage,1,0.08703220191470844
+19,UMAP of all data,IgA plasma cell,CL:0000987,Patient22,male,unknown,83-year-old human stage,5,0.4351610095735422
+20,UMAP of all data,capillary endothelial cell,CL:0002144,Patient22,male,unknown,83-year-old human stage,1,0.08703220191470844
+21,UMAP of all data,foveolar cell of stomach,CL:0002179,Patient22,male,unknown,83-year-old human stage,488,42.47171453437772
+22,UMAP of all data,P/D1 enteroendocrine cell,CL:0002268,Patient22,male,unknown,83-year-old human stage,21,1.8276762402088773
+23,UMAP of all data,vein endothelial cell,CL:0002543,Patient22,male,unknown,83-year-old human stage,7,0.6092254134029591
+24,UMAP of all data,intestine goblet cell,CL:0019031,Patient22,male,unknown,83-year-old human stage,48,4.177545691906006
+25,UMAP of all data,endothelial cell of artery,CL:1000413,Patient22,male,unknown,83-year-old human stage,3,0.26109660574412535

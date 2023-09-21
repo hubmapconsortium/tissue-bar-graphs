@@ -1,2 +1,4 @@
 ,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
-0,Supercluster: Ependymal,ependymal cell,CL:0000065,H18.30.002,male,European,50-year-old human stage,12,100.0
+0,Supercluster: Ependymal,ependymal cell,CL:0000065,H18.30.002,male,European,50-year-old human stage,12,3.361344537815126
+1,Supercluster: Ependymal,ependymal cell,CL:0000065,H18.30.002,male,European,50-year-old human stage,101,28.291316526610643
+2,Supercluster: Ependymal,ependymal cell,CL:0000065,H18.30.002,male,European,50-year-old human stage,244,68.34733893557423

@@ -1,0 +1,9 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Iris,fibroblast,CL:0000057,sanes2022_Hu0220,female,European,47-year-old human stage,1533,22.474710453012754
+1,Iris,blood vessel endothelial cell,CL:0000071,sanes2022_Hu0220,female,European,47-year-old human stage,6,0.08796364169476617
+2,Iris,melanocyte,CL:0000148,sanes2022_Hu0220,female,European,47-year-old human stage,1731,25.377510628940037
+3,Iris,macrophage,CL:0000235,sanes2022_Hu0220,female,European,47-year-old human stage,45,0.6597273127107462
+4,Iris,pigmented epithelial cell,CL:0000529,sanes2022_Hu0220,female,European,47-year-old human stage,3251,47.661633191614136
+5,Iris,lymphocyte,CL:0000542,sanes2022_Hu0220,female,European,47-year-old human stage,5,0.07330303474563847
+6,Iris,smooth muscle cell of sphincter of pupil,CL:0002243,sanes2022_Hu0220,female,European,47-year-old human stage,118,1.729951619997068
+7,Iris,Schwann cell,CL:0002573,sanes2022_Hu0220,female,European,47-year-old human stage,132,1.9352001172848556

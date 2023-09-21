@@ -1,0 +1,26 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Airway,native cell,CL:0000003,AN9,female,African,human adult stage,18,1.128526645768025
+1,Airway,ciliated cell,CL:0000064,AN9,female,African,human adult stage,79,4.952978056426333
+2,Airway,duct epithelial cell,CL:0000068,AN9,female,African,human adult stage,15,0.9404388714733543
+3,Airway,squamous epithelial cell,CL:0000076,AN9,female,African,human adult stage,3,0.18808777429467086
+4,Airway,mast cell,CL:0000097,AN9,female,African,human adult stage,4,0.25078369905956116
+5,Airway,secretory cell,CL:0000151,AN9,female,African,human adult stage,158,9.905956112852666
+6,Airway,macrophage,CL:0000235,AN9,female,African,human adult stage,13,0.8150470219435737
+7,Airway,dendritic cell,CL:0000451,AN9,female,African,human adult stage,3,0.18808777429467086
+8,Airway,Langerhans cell,CL:0000453,AN9,female,African,human adult stage,20,1.2539184952978055
+9,Airway,monocyte,CL:0000576,AN9,female,African,human adult stage,34,2.1316614420062696
+10,Airway,memory B cell,CL:0000787,AN9,female,African,human adult stage,33,2.0689655172413794
+11,Airway,gamma-delta T cell,CL:0000798,AN9,female,African,human adult stage,2,0.12539184952978058
+12,Airway,regulatory T cell,CL:0000815,AN9,female,African,human adult stage,1,0.06269592476489029
+13,Airway,alternatively activated macrophage,CL:0000890,AN9,female,African,human adult stage,2,0.12539184952978058
+14,Airway,naive T cell,CL:0000898,AN9,female,African,human adult stage,5,0.3134796238244514
+15,Airway,"CD8-positive, alpha-beta memory T cell",CL:0000909,AN9,female,African,human adult stage,77,4.827586206896552
+16,Airway,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,AN9,female,African,human adult stage,3,0.18808777429467086
+17,Airway,mucosal invariant T cell,CL:0000940,AN9,female,African,human adult stage,35,2.19435736677116
+18,Airway,conventional dendritic cell,CL:0000990,AN9,female,African,human adult stage,2,0.12539184952978058
+19,Airway,"plasmacytoid dendritic cell, human",CL:0001058,AN9,female,African,human adult stage,2,0.12539184952978058
+20,Airway,innate lymphoid cell,CL:0001065,AN9,female,African,human adult stage,1,0.06269592476489029
+21,Airway,T follicular helper cell,CL:0002038,AN9,female,African,human adult stage,2,0.12539184952978058
+22,Airway,multi-ciliated epithelial cell,CL:0005012,AN9,female,African,human adult stage,19,1.1912225705329154
+23,Airway,tracheal goblet cell,CL:1000329,AN9,female,African,human adult stage,1040,65.20376175548589
+24,Airway,basal cell of epithelium of trachea,CL:1000348,AN9,female,African,human adult stage,24,1.5047021943573669

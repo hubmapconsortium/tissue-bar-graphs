@@ -1,0 +1,11 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Human tonsil T cells scRNA,T cell,CL:0000084,BCP2,male,unknown,6-year-old human stage,15,2.0491803278688523
+1,Human tonsil T cells scRNA,CD4-positive helper T cell,CL:0000492,BCP2,male,unknown,6-year-old human stage,80,10.92896174863388
+2,Human tonsil T cells scRNA,natural killer cell,CL:0000623,BCP2,male,unknown,6-year-old human stage,6,0.819672131147541
+3,Human tonsil T cells scRNA,"CD8-positive, alpha-beta cytotoxic T cell",CL:0000794,BCP2,male,unknown,6-year-old human stage,35,4.781420765027322
+4,Human tonsil T cells scRNA,regulatory T cell,CL:0000815,BCP2,male,unknown,6-year-old human stage,53,7.240437158469945
+5,Human tonsil T cells scRNA,"central memory CD4-positive, alpha-beta T cell",CL:0000904,BCP2,male,unknown,6-year-old human stage,195,26.639344262295083
+6,Human tonsil T cells scRNA,"central memory CD8-positive, alpha-beta T cell",CL:0000907,BCP2,male,unknown,6-year-old human stage,70,9.562841530054644
+7,Human tonsil T cells scRNA,innate lymphoid cell,CL:0001065,BCP2,male,unknown,6-year-old human stage,4,0.546448087431694
+8,Human tonsil T cells scRNA,T follicular helper cell,CL:0002038,BCP2,male,unknown,6-year-old human stage,242,33.060109289617486
+9,Human tonsil T cells scRNA,T follicular regulatory cell,CL:0009113,BCP2,male,unknown,6-year-old human stage,32,4.371584699453552

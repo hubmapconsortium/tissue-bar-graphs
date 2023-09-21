@@ -1,12 +1,42 @@
 ,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
-0,All non-neuronal cells,fibroblast,CL:0000057,H19.30.001,male,European,42-year-old human stage,120,0.9480919649205973
-1,All non-neuronal cells,ependymal cell,CL:0000065,H19.30.001,male,European,42-year-old human stage,1,0.00790076637433831
-2,All non-neuronal cells,endothelial cell,CL:0000115,H19.30.001,male,European,42-year-old human stage,182,1.4379394801295726
-3,All non-neuronal cells,astrocyte,CL:0000127,H19.30.001,male,European,42-year-old human stage,108,0.8532827684285377
-4,All non-neuronal cells,oligodendrocyte,CL:0000128,H19.30.001,male,European,42-year-old human stage,4390,34.684364383345184
-5,All non-neuronal cells,vascular associated smooth muscle cell,CL:0000359,H19.30.001,male,European,42-year-old human stage,3,0.02370229912301493
-6,All non-neuronal cells,Bergmann glial cell,CL:0000644,H19.30.001,male,European,42-year-old human stage,3826,30.228332148218378
-7,All non-neuronal cells,pericyte,CL:0000669,H19.30.001,male,European,42-year-old human stage,93,0.7347712728134629
-8,All non-neuronal cells,choroid plexus epithelial cell,CL:0000706,H19.30.001,male,European,42-year-old human stage,2,0.01580153274867662
-9,All non-neuronal cells,central nervous system macrophage,CL:0000878,H19.30.001,male,European,42-year-old human stage,1312,10.365805483131863
-10,All non-neuronal cells,oligodendrocyte precursor cell,CL:0002453,H19.30.001,male,European,42-year-old human stage,2620,20.700007900766373
+0,All non-neuronal cells,fibroblast,CL:0000057,H19.30.001,male,European,42-year-old human stage,120,0.13642875008526797
+1,All non-neuronal cells,ependymal cell,CL:0000065,H19.30.001,male,European,42-year-old human stage,1,0.0011369062507105665
+2,All non-neuronal cells,endothelial cell,CL:0000115,H19.30.001,male,European,42-year-old human stage,182,0.2069169376293231
+3,All non-neuronal cells,astrocyte,CL:0000127,H19.30.001,male,European,42-year-old human stage,108,0.12278587507674116
+4,All non-neuronal cells,oligodendrocyte,CL:0000128,H19.30.001,male,European,42-year-old human stage,4390,4.991018440619387
+5,All non-neuronal cells,vascular associated smooth muscle cell,CL:0000359,H19.30.001,male,European,42-year-old human stage,3,0.0034107187521316995
+6,All non-neuronal cells,Bergmann glial cell,CL:0000644,H19.30.001,male,European,42-year-old human stage,3826,4.349803315218627
+7,All non-neuronal cells,pericyte,CL:0000669,H19.30.001,male,European,42-year-old human stage,93,0.10573228131608267
+8,All non-neuronal cells,choroid plexus epithelial cell,CL:0000706,H19.30.001,male,European,42-year-old human stage,2,0.002273812501421133
+9,All non-neuronal cells,central nervous system macrophage,CL:0000878,H19.30.001,male,European,42-year-old human stage,1312,1.491621000932263
+10,All non-neuronal cells,oligodendrocyte precursor cell,CL:0002453,H19.30.001,male,European,42-year-old human stage,2620,2.978694376861684
+11,All non-neuronal cells,fibroblast,CL:0000057,H19.30.001,male,European,42-year-old human stage,317,0.3603992814752495
+12,All non-neuronal cells,ependymal cell,CL:0000065,H19.30.001,male,European,42-year-old human stage,1,0.0011369062507105665
+13,All non-neuronal cells,endothelial cell,CL:0000115,H19.30.001,male,European,42-year-old human stage,114,0.12960731258100458
+14,All non-neuronal cells,astrocyte,CL:0000127,H19.30.001,male,European,42-year-old human stage,7074,8.042474817526548
+15,All non-neuronal cells,oligodendrocyte,CL:0000128,H19.30.001,male,European,42-year-old human stage,16005,18.196184542622614
+16,All non-neuronal cells,vascular associated smooth muscle cell,CL:0000359,H19.30.001,male,European,42-year-old human stage,23,0.02614884376634303
+17,All non-neuronal cells,pericyte,CL:0000669,H19.30.001,male,European,42-year-old human stage,107,0.1216489688260306
+18,All non-neuronal cells,central nervous system macrophage,CL:0000878,H19.30.001,male,European,42-year-old human stage,3546,4.031469565019669
+19,All non-neuronal cells,oligodendrocyte precursor cell,CL:0002453,H19.30.001,male,European,42-year-old human stage,4613,5.244548534527843
+20,All non-neuronal cells,fibroblast,CL:0000057,H19.30.001,male,European,42-year-old human stage,264,0.3001432501875895
+21,All non-neuronal cells,ependymal cell,CL:0000065,H19.30.001,male,European,42-year-old human stage,38,0.04320243752700152
+22,All non-neuronal cells,endothelial cell,CL:0000115,H19.30.001,male,European,42-year-old human stage,114,0.12960731258100458
+23,All non-neuronal cells,astrocyte,CL:0000127,H19.30.001,male,European,42-year-old human stage,2134,2.4261579390163486
+24,All non-neuronal cells,oligodendrocyte,CL:0000128,H19.30.001,male,European,42-year-old human stage,6588,7.489938379681211
+25,All non-neuronal cells,vascular associated smooth muscle cell,CL:0000359,H19.30.001,male,European,42-year-old human stage,108,0.12278587507674116
+26,All non-neuronal cells,pericyte,CL:0000669,H19.30.001,male,European,42-year-old human stage,33,0.03751790627344869
+27,All non-neuronal cells,choroid plexus epithelial cell,CL:0000706,H19.30.001,male,European,42-year-old human stage,2,0.002273812501421133
+28,All non-neuronal cells,central nervous system macrophage,CL:0000878,H19.30.001,male,European,42-year-old human stage,1934,2.1987766888742355
+29,All non-neuronal cells,oligodendrocyte precursor cell,CL:0002453,H19.30.001,male,European,42-year-old human stage,923,1.0493644694058528
+30,All non-neuronal cells,fibroblast,CL:0000057,H19.30.001,male,European,42-year-old human stage,152,0.1728097501080061
+31,All non-neuronal cells,ependymal cell,CL:0000065,H19.30.001,male,European,42-year-old human stage,39,0.04433934377771209
+32,All non-neuronal cells,endothelial cell,CL:0000115,H19.30.001,male,European,42-year-old human stage,68,0.07730962504831851
+33,All non-neuronal cells,astrocyte,CL:0000127,H19.30.001,male,European,42-year-old human stage,3314,3.767707314854817
+34,All non-neuronal cells,oligodendrocyte,CL:0000128,H19.30.001,male,European,42-year-old human stage,22301,25.354146297096342
+35,All non-neuronal cells,vascular associated smooth muscle cell,CL:0000359,H19.30.001,male,European,42-year-old human stage,16,0.018190500011369064
+36,All non-neuronal cells,Bergmann glial cell,CL:0000644,H19.30.001,male,European,42-year-old human stage,44,0.050023875031264924
+37,All non-neuronal cells,pericyte,CL:0000669,H19.30.001,male,European,42-year-old human stage,54,0.06139293753837058
+38,All non-neuronal cells,choroid plexus epithelial cell,CL:0000706,H19.30.001,male,European,42-year-old human stage,1,0.0011369062507105665
+39,All non-neuronal cells,central nervous system macrophage,CL:0000878,H19.30.001,male,European,42-year-old human stage,2491,2.832033470520021
+40,All non-neuronal cells,oligodendrocyte precursor cell,CL:0002453,H19.30.001,male,European,42-year-old human stage,2883,3.2777007207985633

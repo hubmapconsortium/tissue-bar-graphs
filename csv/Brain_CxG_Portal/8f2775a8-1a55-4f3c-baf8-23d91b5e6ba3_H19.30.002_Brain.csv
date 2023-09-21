@@ -1,11 +1,38 @@
 ,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
-0,All non-neuronal cells,fibroblast,CL:0000057,H19.30.002,male,European,29-year-old human stage,126,0.8522727272727272
-1,All non-neuronal cells,ependymal cell,CL:0000065,H19.30.002,male,European,29-year-old human stage,5,0.03382034632034632
-2,All non-neuronal cells,endothelial cell,CL:0000115,H19.30.002,male,European,29-year-old human stage,121,0.818452380952381
-3,All non-neuronal cells,astrocyte,CL:0000127,H19.30.002,male,European,29-year-old human stage,1568,10.606060606060606
-4,All non-neuronal cells,oligodendrocyte,CL:0000128,H19.30.002,male,European,29-year-old human stage,7754,52.448593073593074
-5,All non-neuronal cells,vascular associated smooth muscle cell,CL:0000359,H19.30.002,male,European,29-year-old human stage,7,0.04734848484848485
-6,All non-neuronal cells,Bergmann glial cell,CL:0000644,H19.30.002,male,European,29-year-old human stage,2585,17.485119047619047
-7,All non-neuronal cells,pericyte,CL:0000669,H19.30.002,male,European,29-year-old human stage,127,0.8590367965367965
-8,All non-neuronal cells,central nervous system macrophage,CL:0000878,H19.30.002,male,European,29-year-old human stage,780,5.275974025974025
-9,All non-neuronal cells,oligodendrocyte precursor cell,CL:0002453,H19.30.002,male,European,29-year-old human stage,1711,11.57332251082251
+0,All non-neuronal cells,fibroblast,CL:0000057,H19.30.002,male,European,29-year-old human stage,126,0.1709958472437098
+1,All non-neuronal cells,ependymal cell,CL:0000065,H19.30.002,male,European,29-year-old human stage,5,0.006785549493798008
+2,All non-neuronal cells,endothelial cell,CL:0000115,H19.30.002,male,European,29-year-old human stage,121,0.16421029774991178
+3,All non-neuronal cells,astrocyte,CL:0000127,H19.30.002,male,European,29-year-old human stage,1568,2.1279483212550554
+4,All non-neuronal cells,oligodendrocyte,CL:0000128,H19.30.002,male,European,29-year-old human stage,7754,10.523030154981951
+5,All non-neuronal cells,vascular associated smooth muscle cell,CL:0000359,H19.30.002,male,European,29-year-old human stage,7,0.009499769291317212
+6,All non-neuronal cells,Bergmann glial cell,CL:0000644,H19.30.002,male,European,29-year-old human stage,2585,3.5081290882935696
+7,All non-neuronal cells,pericyte,CL:0000669,H19.30.002,male,European,29-year-old human stage,127,0.1723529571424694
+8,All non-neuronal cells,central nervous system macrophage,CL:0000878,H19.30.002,male,European,29-year-old human stage,780,1.0585457210324893
+9,All non-neuronal cells,oligodendrocyte precursor cell,CL:0002453,H19.30.002,male,European,29-year-old human stage,1711,2.322015036777678
+10,All non-neuronal cells,fibroblast,CL:0000057,H19.30.002,male,European,29-year-old human stage,211,0.28635018863827594
+11,All non-neuronal cells,endothelial cell,CL:0000115,H19.30.002,male,European,29-year-old human stage,174,0.23613712238417067
+12,All non-neuronal cells,astrocyte,CL:0000127,H19.30.002,male,European,29-year-old human stage,9371,12.717476861276225
+13,All non-neuronal cells,oligodendrocyte,CL:0000128,H19.30.002,male,European,29-year-old human stage,12363,16.777949678364955
+14,All non-neuronal cells,vascular associated smooth muscle cell,CL:0000359,H19.30.002,male,European,29-year-old human stage,29,0.03935618706402844
+15,All non-neuronal cells,pericyte,CL:0000669,H19.30.002,male,European,29-year-old human stage,131,0.1777813967375078
+16,All non-neuronal cells,central nervous system macrophage,CL:0000878,H19.30.002,male,European,29-year-old human stage,3620,4.912737833509757
+17,All non-neuronal cells,oligodendrocyte precursor cell,CL:0002453,H19.30.002,male,European,29-year-old human stage,4747,6.442200689411829
+18,All non-neuronal cells,fibroblast,CL:0000057,H19.30.002,male,European,29-year-old human stage,28,0.037999077165268846
+19,All non-neuronal cells,ependymal cell,CL:0000065,H19.30.002,male,European,29-year-old human stage,77,0.10449746220448931
+20,All non-neuronal cells,endothelial cell,CL:0000115,H19.30.002,male,European,29-year-old human stage,8,0.010856879190076812
+21,All non-neuronal cells,astrocyte,CL:0000127,H19.30.002,male,European,29-year-old human stage,708,0.9608338083217979
+22,All non-neuronal cells,oligodendrocyte,CL:0000128,H19.30.002,male,European,29-year-old human stage,566,0.7681242026979345
+23,All non-neuronal cells,Bergmann glial cell,CL:0000644,H19.30.002,male,European,29-year-old human stage,1,0.0013571098987596015
+24,All non-neuronal cells,pericyte,CL:0000669,H19.30.002,male,European,29-year-old human stage,9,0.012213989088836414
+25,All non-neuronal cells,central nervous system macrophage,CL:0000878,H19.30.002,male,European,29-year-old human stage,332,0.45056048638818774
+26,All non-neuronal cells,oligodendrocyte precursor cell,CL:0002453,H19.30.002,male,European,29-year-old human stage,401,0.5442010694026003
+27,All non-neuronal cells,fibroblast,CL:0000057,H19.30.002,male,European,29-year-old human stage,200,0.2714219797519203
+28,All non-neuronal cells,ependymal cell,CL:0000065,H19.30.002,male,European,29-year-old human stage,142,0.19270960562386344
+29,All non-neuronal cells,endothelial cell,CL:0000115,H19.30.002,male,European,29-year-old human stage,148,0.20085226501642103
+30,All non-neuronal cells,astrocyte,CL:0000127,H19.30.002,male,European,29-year-old human stage,4370,5.9305702575794585
+31,All non-neuronal cells,oligodendrocyte,CL:0000128,H19.30.002,male,European,29-year-old human stage,16762,22.747876123008442
+32,All non-neuronal cells,vascular associated smooth muscle cell,CL:0000359,H19.30.002,male,European,29-year-old human stage,35,0.04749884645658605
+33,All non-neuronal cells,Bergmann glial cell,CL:0000644,H19.30.002,male,European,29-year-old human stage,13,0.01764242868387482
+34,All non-neuronal cells,pericyte,CL:0000669,H19.30.002,male,European,29-year-old human stage,206,0.27956463914447793
+35,All non-neuronal cells,central nervous system macrophage,CL:0000878,H19.30.002,male,European,29-year-old human stage,1570,2.1306625410525744
+36,All non-neuronal cells,oligodendrocyte precursor cell,CL:0002453,H19.30.002,male,European,29-year-old human stage,2680,3.6370545286757325

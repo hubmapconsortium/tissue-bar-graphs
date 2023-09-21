@@ -1,0 +1,8 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Human tonsil B cells scRNA,mature B cell,CL:0000785,BCP8,male,unknown,3-year-old human stage,96,3.5385182454847035
+1,Human tonsil B cells scRNA,memory B cell,CL:0000787,BCP8,male,unknown,3-year-old human stage,302,11.131588647253961
+2,Human tonsil B cells scRNA,naive B cell,CL:0000788,BCP8,male,unknown,3-year-old human stage,639,23.553262071507554
+3,Human tonsil B cells scRNA,plasmablast,CL:0000980,BCP8,male,unknown,3-year-old human stage,135,4.976041282712864
+4,Human tonsil B cells scRNA,centrocyte,CL:0009111,BCP8,male,unknown,3-year-old human stage,61,2.248433468485072
+5,Human tonsil B cells scRNA,centroblast,CL:0009112,BCP8,male,unknown,3-year-old human stage,205,7.556210836712126
+6,Human tonsil B cells scRNA,tonsil germinal center B cell,CL:2000006,BCP8,male,unknown,3-year-old human stage,1275,46.99594544784372

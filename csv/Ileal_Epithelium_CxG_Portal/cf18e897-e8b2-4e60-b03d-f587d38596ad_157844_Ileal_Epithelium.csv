@@ -1,0 +1,5 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,TI epithelial,stem cell,CL:0000034,157844,male,unknown,sixth decade human stage,19,50.0
+1,TI epithelial,goblet cell,CL:0000160,157844,male,unknown,sixth decade human stage,1,2.631578947368421
+2,TI epithelial,paneth cell,CL:0000510,157844,male,unknown,sixth decade human stage,1,2.631578947368421
+3,TI epithelial,enterocyte,CL:0000584,157844,male,unknown,sixth decade human stage,17,44.73684210526316

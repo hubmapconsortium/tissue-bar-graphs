@@ -1,15 +1,44 @@
 ,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
-0,Construction of a human cell landscape at single-cell level,fibroblast,CL:0000057,Donor24,female,Han Chinese,47-year-old human stage,5,0.15239256324291375
-1,Construction of a human cell landscape at single-cell level,epithelial cell,CL:0000066,Donor24,female,Han Chinese,47-year-old human stage,103,3.1392868028040235
-2,Construction of a human cell landscape at single-cell level,T cell,CL:0000084,Donor24,female,Han Chinese,47-year-old human stage,382,11.64279183175861
-3,Construction of a human cell landscape at single-cell level,mast cell,CL:0000097,Donor24,female,Han Chinese,47-year-old human stage,61,1.8591892715635476
-4,Construction of a human cell landscape at single-cell level,endothelial cell,CL:0000115,Donor24,female,Han Chinese,47-year-old human stage,12,0.365742151782993
-5,Construction of a human cell landscape at single-cell level,smooth muscle cell,CL:0000192,Donor24,female,Han Chinese,47-year-old human stage,49,1.4934471197805548
-6,Construction of a human cell landscape at single-cell level,macrophage,CL:0000235,Donor24,female,Han Chinese,47-year-old human stage,17,0.5181347150259068
-7,Construction of a human cell landscape at single-cell level,B cell,CL:0000236,Donor24,female,Han Chinese,47-year-old human stage,69,2.10301737275221
-8,Construction of a human cell landscape at single-cell level,dendritic cell,CL:0000451,Donor24,female,Han Chinese,47-year-old human stage,43,1.3105760438890584
-9,Construction of a human cell landscape at single-cell level,stromal cell,CL:0000499,Donor24,female,Han Chinese,47-year-old human stage,273,8.32063395306309
-10,Construction of a human cell landscape at single-cell level,neuron,CL:0000540,Donor24,female,Han Chinese,47-year-old human stage,3,0.09143553794574825
-11,Construction of a human cell landscape at single-cell level,monocyte,CL:0000576,Donor24,female,Han Chinese,47-year-old human stage,1,0.030478512648582746
-12,Construction of a human cell landscape at single-cell level,enterocyte,CL:0000584,Donor24,female,Han Chinese,47-year-old human stage,2060,62.78573605608047
-13,Construction of a human cell landscape at single-cell level,plasma cell,CL:0000786,Donor24,female,Han Chinese,47-year-old human stage,203,6.187138067662298
+0,Construction of a human cell landscape at single-cell level,epithelial cell,CL:0000066,Donor24,female,Han Chinese,47-year-old human stage,12,0.10884353741496598
+1,Construction of a human cell landscape at single-cell level,T cell,CL:0000084,Donor24,female,Han Chinese,47-year-old human stage,164,1.4875283446712018
+2,Construction of a human cell landscape at single-cell level,mast cell,CL:0000097,Donor24,female,Han Chinese,47-year-old human stage,11,0.09977324263038549
+3,Construction of a human cell landscape at single-cell level,endothelial cell,CL:0000115,Donor24,female,Han Chinese,47-year-old human stage,3,0.027210884353741496
+4,Construction of a human cell landscape at single-cell level,mesenchymal stem cell,CL:0000134,Donor24,female,Han Chinese,47-year-old human stage,1,0.009070294784580499
+5,Construction of a human cell landscape at single-cell level,professional antigen presenting cell,CL:0000145,Donor24,female,Han Chinese,47-year-old human stage,1,0.009070294784580499
+6,Construction of a human cell landscape at single-cell level,smooth muscle cell,CL:0000192,Donor24,female,Han Chinese,47-year-old human stage,19,0.17233560090702948
+7,Construction of a human cell landscape at single-cell level,macrophage,CL:0000235,Donor24,female,Han Chinese,47-year-old human stage,8,0.07256235827664399
+8,Construction of a human cell landscape at single-cell level,B cell,CL:0000236,Donor24,female,Han Chinese,47-year-old human stage,165,1.4965986394557822
+9,Construction of a human cell landscape at single-cell level,dendritic cell,CL:0000451,Donor24,female,Han Chinese,47-year-old human stage,25,0.22675736961451248
+10,Construction of a human cell landscape at single-cell level,stromal cell,CL:0000499,Donor24,female,Han Chinese,47-year-old human stage,35,0.31746031746031744
+11,Construction of a human cell landscape at single-cell level,neuron,CL:0000540,Donor24,female,Han Chinese,47-year-old human stage,1,0.009070294784580499
+12,Construction of a human cell landscape at single-cell level,monocyte,CL:0000576,Donor24,female,Han Chinese,47-year-old human stage,2,0.018140589569160998
+13,Construction of a human cell landscape at single-cell level,enterocyte,CL:0000584,Donor24,female,Han Chinese,47-year-old human stage,86,0.780045351473923
+14,Construction of a human cell landscape at single-cell level,plasma cell,CL:0000786,Donor24,female,Han Chinese,47-year-old human stage,1492,13.532879818594104
+15,Construction of a human cell landscape at single-cell level,alternatively activated macrophage,CL:0000890,Donor24,female,Han Chinese,47-year-old human stage,1,0.009070294784580499
+16,Construction of a human cell landscape at single-cell level,epithelial cell,CL:0000066,Donor24,female,Han Chinese,47-year-old human stage,178,1.614512471655329
+17,Construction of a human cell landscape at single-cell level,T cell,CL:0000084,Donor24,female,Han Chinese,47-year-old human stage,503,4.562358276643991
+18,Construction of a human cell landscape at single-cell level,mast cell,CL:0000097,Donor24,female,Han Chinese,47-year-old human stage,15,0.13605442176870747
+19,Construction of a human cell landscape at single-cell level,endothelial cell,CL:0000115,Donor24,female,Han Chinese,47-year-old human stage,3,0.027210884353741496
+20,Construction of a human cell landscape at single-cell level,smooth muscle cell,CL:0000192,Donor24,female,Han Chinese,47-year-old human stage,14,0.12698412698412698
+21,Construction of a human cell landscape at single-cell level,macrophage,CL:0000235,Donor24,female,Han Chinese,47-year-old human stage,16,0.14512471655328799
+22,Construction of a human cell landscape at single-cell level,B cell,CL:0000236,Donor24,female,Han Chinese,47-year-old human stage,776,7.038548752834467
+23,Construction of a human cell landscape at single-cell level,dendritic cell,CL:0000451,Donor24,female,Han Chinese,47-year-old human stage,33,0.29931972789115646
+24,Construction of a human cell landscape at single-cell level,stromal cell,CL:0000499,Donor24,female,Han Chinese,47-year-old human stage,51,0.46258503401360546
+25,Construction of a human cell landscape at single-cell level,monocyte,CL:0000576,Donor24,female,Han Chinese,47-year-old human stage,8,0.07256235827664399
+26,Construction of a human cell landscape at single-cell level,enterocyte,CL:0000584,Donor24,female,Han Chinese,47-year-old human stage,3930,35.64625850340136
+27,Construction of a human cell landscape at single-cell level,erythroid lineage cell,CL:0000764,Donor24,female,Han Chinese,47-year-old human stage,1,0.009070294784580499
+28,Construction of a human cell landscape at single-cell level,plasma cell,CL:0000786,Donor24,female,Han Chinese,47-year-old human stage,190,1.7233560090702946
+29,Construction of a human cell landscape at single-cell level,fibroblast,CL:0000057,Donor24,female,Han Chinese,47-year-old human stage,5,0.045351473922902494
+30,Construction of a human cell landscape at single-cell level,epithelial cell,CL:0000066,Donor24,female,Han Chinese,47-year-old human stage,103,0.9342403628117915
+31,Construction of a human cell landscape at single-cell level,T cell,CL:0000084,Donor24,female,Han Chinese,47-year-old human stage,382,3.4648526077097506
+32,Construction of a human cell landscape at single-cell level,mast cell,CL:0000097,Donor24,female,Han Chinese,47-year-old human stage,61,0.5532879818594104
+33,Construction of a human cell landscape at single-cell level,endothelial cell,CL:0000115,Donor24,female,Han Chinese,47-year-old human stage,12,0.10884353741496598
+34,Construction of a human cell landscape at single-cell level,smooth muscle cell,CL:0000192,Donor24,female,Han Chinese,47-year-old human stage,49,0.4444444444444444
+35,Construction of a human cell landscape at single-cell level,macrophage,CL:0000235,Donor24,female,Han Chinese,47-year-old human stage,17,0.15419501133786848
+36,Construction of a human cell landscape at single-cell level,B cell,CL:0000236,Donor24,female,Han Chinese,47-year-old human stage,69,0.6258503401360545
+37,Construction of a human cell landscape at single-cell level,dendritic cell,CL:0000451,Donor24,female,Han Chinese,47-year-old human stage,43,0.3900226757369615
+38,Construction of a human cell landscape at single-cell level,stromal cell,CL:0000499,Donor24,female,Han Chinese,47-year-old human stage,273,2.4761904761904763
+39,Construction of a human cell landscape at single-cell level,neuron,CL:0000540,Donor24,female,Han Chinese,47-year-old human stage,3,0.027210884353741496
+40,Construction of a human cell landscape at single-cell level,monocyte,CL:0000576,Donor24,female,Han Chinese,47-year-old human stage,1,0.009070294784580499
+41,Construction of a human cell landscape at single-cell level,enterocyte,CL:0000584,Donor24,female,Han Chinese,47-year-old human stage,2060,18.68480725623583
+42,Construction of a human cell landscape at single-cell level,plasma cell,CL:0000786,Donor24,female,Han Chinese,47-year-old human stage,203,1.8412698412698412

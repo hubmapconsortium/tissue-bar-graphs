@@ -1,0 +1,6 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,UMAP of Myeloid cells,native cell,CL:0000003,Patient15,male,unknown,69-year-old human stage,201,75.28089887640449
+1,UMAP of Myeloid cells,mast cell,CL:0000097,Patient15,male,unknown,69-year-old human stage,30,11.235955056179774
+2,UMAP of Myeloid cells,macrophage,CL:0000235,Patient15,male,unknown,69-year-old human stage,3,1.1235955056179776
+3,UMAP of Myeloid cells,dendritic cell,CL:0000451,Patient15,male,unknown,69-year-old human stage,24,8.98876404494382
+4,UMAP of Myeloid cells,monocyte,CL:0000576,Patient15,male,unknown,69-year-old human stage,9,3.3707865168539324

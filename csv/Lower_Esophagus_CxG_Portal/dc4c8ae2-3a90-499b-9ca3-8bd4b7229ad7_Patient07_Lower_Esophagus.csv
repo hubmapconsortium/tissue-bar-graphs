@@ -1,0 +1,11 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,UMAP of all data,native cell,CL:0000003,Patient07,male,unknown,45-year-old human stage,1,0.0942507068803016
+1,UMAP of all data,fibroblast,CL:0000057,Patient07,male,unknown,45-year-old human stage,3,0.2827521206409048
+2,UMAP of all data,mast cell,CL:0000097,Patient07,male,unknown,45-year-old human stage,4,0.3770028275212064
+3,UMAP of all data,natural killer cell,CL:0000623,Patient07,male,unknown,45-year-old human stage,1,0.0942507068803016
+4,UMAP of all data,gamma-delta T cell,CL:0000798,Patient07,male,unknown,45-year-old human stage,3,0.2827521206409048
+5,UMAP of all data,natural T-regulatory cell,CL:0000903,Patient07,male,unknown,45-year-old human stage,1,0.0942507068803016
+6,UMAP of all data,"activated CD8-positive, alpha-beta T cell",CL:0000906,Patient07,male,unknown,45-year-old human stage,5,0.47125353440150797
+7,UMAP of all data,epithelial cell of esophagus,CL:0002252,Patient07,male,unknown,45-year-old human stage,1027,96.79547596606974
+8,UMAP of all data,vein endothelial cell,CL:0002543,Patient07,male,unknown,45-year-old human stage,12,1.1310084825636193
+9,UMAP of all data,endothelial cell of artery,CL:1000413,Patient07,male,unknown,45-year-old human stage,4,0.3770028275212064

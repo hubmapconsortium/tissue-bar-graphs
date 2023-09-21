@@ -1,0 +1,10 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,immune cells,T cell,CL:0000084,NL3,female,unknown,61-year-old human stage,2034,34.96647756575555
+1,immune cells,mast cell,CL:0000097,NL3,female,unknown,61-year-old human stage,164,2.819322674918343
+2,immune cells,macrophage,CL:0000235,NL3,female,unknown,61-year-old human stage,993,17.07065497679216
+3,immune cells,B cell,CL:0000236,NL3,female,unknown,61-year-old human stage,48,0.8251676121712224
+4,immune cells,dendritic cell,CL:0000451,NL3,female,unknown,61-year-old human stage,90,1.547189272821042
+5,immune cells,monocyte,CL:0000576,NL3,female,unknown,61-year-old human stage,1576,27.093003266288463
+6,immune cells,alveolar macrophage,CL:0000583,NL3,female,unknown,61-year-old human stage,196,3.369434416365824
+7,immune cells,natural killer cell,CL:0000623,NL3,female,unknown,61-year-old human stage,479,8.23448512979199
+8,immune cells,plasma cell,CL:0000786,NL3,female,unknown,61-year-old human stage,237,4.074265085095409

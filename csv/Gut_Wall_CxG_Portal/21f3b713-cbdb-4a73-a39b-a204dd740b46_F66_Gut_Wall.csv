@@ -1,0 +1,15 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,NK/T cells,native cell,CL:0000003,F66,male,unknown,15th week post-fertilization human stage,4,0.5434782608695652
+1,NK/T cells,T cell,CL:0000084,F66,male,unknown,15th week post-fertilization human stage,109,14.80978260869565
+2,NK/T cells,natural killer cell,CL:0000623,F66,male,unknown,15th week post-fertilization human stage,198,26.902173913043477
+3,NK/T cells,"double-positive, alpha-beta thymocyte",CL:0000809,F66,male,unknown,15th week post-fertilization human stage,1,0.1358695652173913
+4,NK/T cells,regulatory T cell,CL:0000815,F66,male,unknown,15th week post-fertilization human stage,22,2.989130434782609
+5,NK/T cells,hematopoietic multipotent progenitor cell,CL:0000837,F66,male,unknown,15th week post-fertilization human stage,1,0.1358695652173913
+6,NK/T cells,"naive thymus-derived CD4-positive, alpha-beta T cell",CL:0000895,F66,male,unknown,15th week post-fertilization human stage,131,17.79891304347826
+7,NK/T cells,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,F66,male,unknown,15th week post-fertilization human stage,104,14.130434782608695
+8,NK/T cells,"CD8-alpha-alpha-positive, alpha-beta intraepithelial T cell",CL:0000915,F66,male,unknown,15th week post-fertilization human stage,17,2.309782608695652
+9,NK/T cells,early lymphoid progenitor,CL:0000936,F66,male,unknown,15th week post-fertilization human stage,5,0.6793478260869565
+10,NK/T cells,innate lymphoid cell,CL:0001065,F66,male,unknown,15th week post-fertilization human stage,10,1.358695652173913
+11,NK/T cells,group 2 innate lymphoid cell,CL:0001069,F66,male,unknown,15th week post-fertilization human stage,3,0.4076086956521739
+12,NK/T cells,group 3 innate lymphoid cell,CL:0001071,F66,male,unknown,15th week post-fertilization human stage,130,17.66304347826087
+13,NK/T cells,double negative thymocyte,CL:0002489,F66,male,unknown,15th week post-fertilization human stage,1,0.1358695652173913

@@ -1,0 +1,8 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,UMAP of T-Cells cells,native cell,CL:0000003,P6709,unknown,unknown,unknown,80,3.254678600488202
+1,UMAP of T-Cells cells,CD4-positive helper T cell,CL:0000492,P6709,unknown,unknown,unknown,322,13.100081366965014
+2,UMAP of T-Cells cells,natural killer cell,CL:0000623,P6709,unknown,unknown,unknown,3,0.12205044751830757
+3,UMAP of T-Cells cells,gamma-delta T cell,CL:0000798,P6709,unknown,unknown,unknown,550,22.375915378356385
+4,UMAP of T-Cells cells,memory T cell,CL:0000813,P6709,unknown,unknown,unknown,210,8.54353132628153
+5,UMAP of T-Cells cells,natural T-regulatory cell,CL:0000903,P6709,unknown,unknown,unknown,538,21.887713588283155
+6,UMAP of T-Cells cells,"activated CD8-positive, alpha-beta T cell",CL:0000906,P6709,unknown,unknown,unknown,755,30.716029292107404

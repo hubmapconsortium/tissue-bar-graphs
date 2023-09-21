@@ -1,0 +1,17 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,UMAP of all data,fibroblast,CL:0000057,Patient13,female,unknown,41-year-old human stage,6,1.3953488372093024
+1,UMAP of all data,enteroendocrine cell,CL:0000164,Patient13,female,unknown,41-year-old human stage,1,0.23255813953488372
+2,UMAP of all data,macrophage,CL:0000235,Patient13,female,unknown,41-year-old human stage,4,0.9302325581395349
+3,UMAP of all data,dendritic cell,CL:0000451,Patient13,female,unknown,41-year-old human stage,1,0.23255813953488372
+4,UMAP of all data,monocyte,CL:0000576,Patient13,female,unknown,41-year-old human stage,2,0.46511627906976744
+5,UMAP of all data,natural killer cell,CL:0000623,Patient13,female,unknown,41-year-old human stage,3,0.6976744186046512
+6,UMAP of all data,gamma-delta T cell,CL:0000798,Patient13,female,unknown,41-year-old human stage,6,1.3953488372093024
+7,UMAP of all data,memory T cell,CL:0000813,Patient13,female,unknown,41-year-old human stage,2,0.46511627906976744
+8,UMAP of all data,natural T-regulatory cell,CL:0000903,Patient13,female,unknown,41-year-old human stage,5,1.1627906976744187
+9,UMAP of all data,"activated CD8-positive, alpha-beta T cell",CL:0000906,Patient13,female,unknown,41-year-old human stage,21,4.883720930232558
+10,UMAP of all data,IgA plasma cell,CL:0000987,Patient13,female,unknown,41-year-old human stage,7,1.627906976744186
+11,UMAP of all data,foveolar cell of stomach,CL:0002179,Patient13,female,unknown,41-year-old human stage,1,0.23255813953488372
+12,UMAP of all data,epithelial cell of esophagus,CL:0002252,Patient13,female,unknown,41-year-old human stage,11,2.558139534883721
+13,UMAP of all data,vein endothelial cell,CL:0002543,Patient13,female,unknown,41-year-old human stage,5,1.1627906976744187
+14,UMAP of all data,glandular cell of esophagus,CL:0002657,Patient13,female,unknown,41-year-old human stage,354,82.32558139534883
+15,UMAP of all data,endothelial cell of artery,CL:1000413,Patient13,female,unknown,41-year-old human stage,1,0.23255813953488372

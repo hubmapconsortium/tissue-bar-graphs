@@ -1,0 +1,19 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Global,mast cell,CL:0000097,637C,male,unknown,sixth decade human stage,2,0.10432968179447052
+1,Global,macrophage,CL:0000235,637C,male,unknown,sixth decade human stage,8,0.4173187271778821
+2,Global,CD4-positive helper T cell,CL:0000492,637C,male,unknown,sixth decade human stage,328,17.110067814293167
+3,Global,lymphocyte,CL:0000542,637C,male,unknown,sixth decade human stage,3,0.1564945226917058
+4,Global,animal cell,CL:0000548,637C,male,unknown,sixth decade human stage,2,0.10432968179447052
+5,Global,memory B cell,CL:0000787,637C,male,unknown,sixth decade human stage,3,0.1564945226917058
+6,Global,naive B cell,CL:0000788,637C,male,unknown,sixth decade human stage,1,0.05216484089723526
+7,Global,alpha-beta T cell,CL:0000789,637C,male,unknown,sixth decade human stage,62,3.2342201356285862
+8,Global,gamma-delta T cell,CL:0000798,637C,male,unknown,sixth decade human stage,972,50.70422535211267
+9,Global,regulatory T cell,CL:0000815,637C,male,unknown,sixth decade human stage,4,0.20865936358894105
+10,Global,classical monocyte,CL:0000860,637C,male,unknown,sixth decade human stage,2,0.10432968179447052
+11,Global,non-classical monocyte,CL:0000875,637C,male,unknown,sixth decade human stage,1,0.05216484089723526
+12,Global,"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,637C,male,unknown,sixth decade human stage,1,0.05216484089723526
+13,Global,"CD8-positive, alpha-beta memory T cell",CL:0000909,637C,male,unknown,sixth decade human stage,500,26.082420448617633
+14,Global,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,637C,male,unknown,sixth decade human stage,5,0.2608242044861763
+15,Global,conventional dendritic cell,CL:0000990,637C,male,unknown,sixth decade human stage,1,0.05216484089723526
+16,Global,"effector memory CD8-positive, alpha-beta T cell, terminally differentiated",CL:0001062,637C,male,unknown,sixth decade human stage,21,1.0954616588419406
+17,Global,group 3 innate lymphoid cell,CL:0001071,637C,male,unknown,sixth decade human stage,1,0.05216484089723526

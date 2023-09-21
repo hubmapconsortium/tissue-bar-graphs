@@ -1,0 +1,24 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,UMAP of all data,native cell,CL:0000003,Patient11,female,unknown,27-year-old human stage,39,1.4460511679644048
+1,UMAP of all data,stem cell,CL:0000034,Patient11,female,unknown,27-year-old human stage,2,0.07415647015202076
+2,UMAP of all data,fibroblast,CL:0000057,Patient11,female,unknown,27-year-old human stage,1224,45.383759733036705
+3,UMAP of all data,mast cell,CL:0000097,Patient11,female,unknown,27-year-old human stage,5,0.18539117538005193
+4,UMAP of all data,enteroendocrine cell,CL:0000164,Patient11,female,unknown,27-year-old human stage,1,0.03707823507601038
+5,UMAP of all data,macrophage,CL:0000235,Patient11,female,unknown,27-year-old human stage,96,3.5595105672969964
+6,UMAP of all data,dendritic cell,CL:0000451,Patient11,female,unknown,27-year-old human stage,21,0.778642936596218
+7,UMAP of all data,CD4-positive helper T cell,CL:0000492,Patient11,female,unknown,27-year-old human stage,51,1.8909899888765296
+8,UMAP of all data,monocyte,CL:0000576,Patient11,female,unknown,27-year-old human stage,16,0.5932517612161661
+9,UMAP of all data,natural killer cell,CL:0000623,Patient11,female,unknown,27-year-old human stage,7,0.25954764553207266
+10,UMAP of all data,memory B cell,CL:0000787,Patient11,female,unknown,27-year-old human stage,3,0.11123470522803114
+11,UMAP of all data,gamma-delta T cell,CL:0000798,Patient11,female,unknown,27-year-old human stage,72,2.6696329254727478
+12,UMAP of all data,memory T cell,CL:0000813,Patient11,female,unknown,27-year-old human stage,29,1.0752688172043012
+13,UMAP of all data,natural T-regulatory cell,CL:0000903,Patient11,female,unknown,27-year-old human stage,186,6.896551724137931
+14,UMAP of all data,"activated CD8-positive, alpha-beta T cell",CL:0000906,Patient11,female,unknown,27-year-old human stage,192,7.119021134593993
+15,UMAP of all data,IgG plasma cell,CL:0000985,Patient11,female,unknown,27-year-old human stage,18,0.6674082313681869
+16,UMAP of all data,IgA plasma cell,CL:0000987,Patient11,female,unknown,27-year-old human stage,67,2.4842417500926954
+17,UMAP of all data,capillary endothelial cell,CL:0002144,Patient11,female,unknown,27-year-old human stage,39,1.4460511679644048
+18,UMAP of all data,foveolar cell of stomach,CL:0002179,Patient11,female,unknown,27-year-old human stage,3,0.11123470522803114
+19,UMAP of all data,epithelial cell of esophagus,CL:0002252,Patient11,female,unknown,27-year-old human stage,85,3.1516499814608823
+20,UMAP of all data,vein endothelial cell,CL:0002543,Patient11,female,unknown,27-year-old human stage,218,8.083055246570263
+21,UMAP of all data,glandular cell of esophagus,CL:0002657,Patient11,female,unknown,27-year-old human stage,287,10.64145346681498
+22,UMAP of all data,endothelial cell of artery,CL:1000413,Patient11,female,unknown,27-year-old human stage,36,1.3348164627363739

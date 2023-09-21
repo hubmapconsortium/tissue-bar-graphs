@@ -1,0 +1,17 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Airway,native cell,CL:0000003,PC2,male,European,human adult stage,1,0.2544529262086514
+1,Airway,ciliated cell,CL:0000064,PC2,male,European,human adult stage,46,11.704834605597965
+2,Airway,duct epithelial cell,CL:0000068,PC2,male,European,human adult stage,1,0.2544529262086514
+3,Airway,squamous epithelial cell,CL:0000076,PC2,male,European,human adult stage,29,7.37913486005089
+4,Airway,secretory cell,CL:0000151,PC2,male,European,human adult stage,101,25.699745547073793
+5,Airway,dendritic cell,CL:0000451,PC2,male,European,human adult stage,8,2.035623409669211
+6,Airway,gamma-delta T cell,CL:0000798,PC2,male,European,human adult stage,1,0.2544529262086514
+7,Airway,regulatory T cell,CL:0000815,PC2,male,European,human adult stage,1,0.2544529262086514
+8,Airway,naive T cell,CL:0000898,PC2,male,European,human adult stage,2,0.5089058524173028
+9,Airway,"CD8-positive, alpha-beta memory T cell",CL:0000909,PC2,male,European,human adult stage,15,3.816793893129771
+10,Airway,"CD16-negative, CD56-bright natural killer cell, human",CL:0000938,PC2,male,European,human adult stage,1,0.2544529262086514
+11,Airway,mucosal invariant T cell,CL:0000940,PC2,male,European,human adult stage,1,0.2544529262086514
+12,Airway,multi-ciliated epithelial cell,CL:0005012,PC2,male,European,human adult stage,1,0.2544529262086514
+13,Airway,pulmonary ionocyte,CL:0017000,PC2,male,European,human adult stage,3,0.7633587786259541
+14,Airway,tracheal goblet cell,CL:1000329,PC2,male,European,human adult stage,156,39.69465648854962
+15,Airway,basal cell of epithelium of trachea,CL:1000348,PC2,male,European,human adult stage,26,6.615776081424936

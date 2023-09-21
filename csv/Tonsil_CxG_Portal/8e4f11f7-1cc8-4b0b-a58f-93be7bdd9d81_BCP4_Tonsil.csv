@@ -1,0 +1,4 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,Human tonsil nonlymphoid cells scRNA,macrophage,CL:0000235,BCP4,male,unknown,6-year-old human stage,2,25.0
+1,Human tonsil nonlymphoid cells scRNA,follicular dendritic cell,CL:0000442,BCP4,male,unknown,6-year-old human stage,1,12.5
+2,Human tonsil nonlymphoid cells scRNA,plasmacytoid dendritic cell,CL:0000784,BCP4,male,unknown,6-year-old human stage,5,62.5

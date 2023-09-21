@@ -1,0 +1,21 @@
+,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
+0,HSC/immune cells (all hematopoietic-derived cells),native cell,CL:0000003,F78,male,unknown,17th week post-fertilization human stage,28,3.910614525139665
+1,HSC/immune cells (all hematopoietic-derived cells),fibroblast,CL:0000057,F78,male,unknown,17th week post-fertilization human stage,6,0.8379888268156425
+2,HSC/immune cells (all hematopoietic-derived cells),T cell,CL:0000084,F78,male,unknown,17th week post-fertilization human stage,1,0.13966480446927373
+3,HSC/immune cells (all hematopoietic-derived cells),Kupffer cell,CL:0000091,F78,male,unknown,17th week post-fertilization human stage,11,1.536312849162011
+4,HSC/immune cells (all hematopoietic-derived cells),mast cell,CL:0000097,F78,male,unknown,17th week post-fertilization human stage,1,0.13966480446927373
+5,HSC/immune cells (all hematopoietic-derived cells),erythrocyte,CL:0000232,F78,male,unknown,17th week post-fertilization human stage,6,0.8379888268156425
+6,HSC/immune cells (all hematopoietic-derived cells),macrophage,CL:0000235,F78,male,unknown,17th week post-fertilization human stage,540,75.41899441340783
+7,HSC/immune cells (all hematopoietic-derived cells),vascular associated smooth muscle cell,CL:0000359,F78,male,unknown,17th week post-fertilization human stage,9,1.2569832402234637
+8,HSC/immune cells (all hematopoietic-derived cells),dendritic cell,CL:0000451,F78,male,unknown,17th week post-fertilization human stage,68,9.497206703910614
+9,HSC/immune cells (all hematopoietic-derived cells),megakaryocyte,CL:0000556,F78,male,unknown,17th week post-fertilization human stage,1,0.13966480446927373
+10,HSC/immune cells (all hematopoietic-derived cells),promonocyte,CL:0000559,F78,male,unknown,17th week post-fertilization human stage,1,0.13966480446927373
+11,HSC/immune cells (all hematopoietic-derived cells),monocyte,CL:0000576,F78,male,unknown,17th week post-fertilization human stage,6,0.8379888268156425
+12,HSC/immune cells (all hematopoietic-derived cells),natural killer cell,CL:0000623,F78,male,unknown,17th week post-fertilization human stage,7,0.9776536312849162
+13,HSC/immune cells (all hematopoietic-derived cells),regulatory T cell,CL:0000815,F78,male,unknown,17th week post-fertilization human stage,1,0.13966480446927373
+14,HSC/immune cells (all hematopoietic-derived cells),B-1 B cell,CL:0000819,F78,male,unknown,17th week post-fertilization human stage,1,0.13966480446927373
+15,HSC/immune cells (all hematopoietic-derived cells),B-2 B cell,CL:0000822,F78,male,unknown,17th week post-fertilization human stage,2,0.27932960893854747
+16,HSC/immune cells (all hematopoietic-derived cells),"naive thymus-derived CD8-positive, alpha-beta T cell",CL:0000900,F78,male,unknown,17th week post-fertilization human stage,3,0.41899441340782123
+17,HSC/immune cells (all hematopoietic-derived cells),"CD8-alpha-alpha-positive, alpha-beta intraepithelial T cell",CL:0000915,F78,male,unknown,17th week post-fertilization human stage,3,0.41899441340782123
+18,HSC/immune cells (all hematopoietic-derived cells),innate lymphoid cell,CL:0001065,F78,male,unknown,17th week post-fertilization human stage,1,0.13966480446927373
+19,HSC/immune cells (all hematopoietic-derived cells),group 3 innate lymphoid cell,CL:0001071,F78,male,unknown,17th week post-fertilization human stage,20,2.793296089385475
