@@ -1,23 +1,8 @@
 ,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
-0,Tabula Sapiens - Immune,erythrocyte,CL:0000232,TSP14,male,European,59-year-old human stage,39,0.23172905525846704
-1,Tabula Sapiens - Immune,macrophage,CL:0000235,TSP14,male,European,59-year-old human stage,303,1.8003565062388593
-2,Tabula Sapiens - Immune,B cell,CL:0000236,TSP14,male,European,59-year-old human stage,1919,11.402257872846109
-3,Tabula Sapiens - Immune,CD4-positive helper T cell,CL:0000492,TSP14,male,European,59-year-old human stage,3356,19.94058229352347
-4,Tabula Sapiens - Immune,monocyte,CL:0000576,TSP14,male,European,59-year-old human stage,88,0.522875816993464
-5,Tabula Sapiens - Immune,myeloid dendritic cell,CL:0000782,TSP14,male,European,59-year-old human stage,3,0.017825311942959002
-6,Tabula Sapiens - Immune,plasma cell,CL:0000786,TSP14,male,European,59-year-old human stage,1465,8.704693998811646
-7,Tabula Sapiens - Immune,"CD8-positive, alpha-beta cytotoxic T cell",CL:0000794,TSP14,male,European,59-year-old human stage,501,2.9768270944741535
-8,Tabula Sapiens - Immune,DN3 thymocyte,CL:0000807,TSP14,male,European,59-year-old human stage,1788,10.623885918003564
-9,Tabula Sapiens - Immune,DN4 thymocyte,CL:0000808,TSP14,male,European,59-year-old human stage,32,0.19013666072489602
-10,Tabula Sapiens - Immune,mature NK T cell,CL:0000814,TSP14,male,European,59-year-old human stage,80,0.4753416518122401
-11,Tabula Sapiens - Immune,DN1 thymic pro-T cell,CL:0000894,TSP14,male,European,59-year-old human stage,985,5.852644087938206
-12,Tabula Sapiens - Immune,innate lymphoid cell,CL:0001065,TSP14,male,European,59-year-old human stage,2594,15.412953060011883
-13,Tabula Sapiens - Immune,T follicular helper cell,CL:0002038,TSP14,male,European,59-year-old human stage,398,2.3648247177658943
-14,Tabula Sapiens - Immune,naive regulatory T cell,CL:0002677,TSP14,male,European,59-year-old human stage,761,4.521687462863933
-15,Tabula Sapiens - Immune,T cell,CL:0000084,TSP14,male,European,59-year-old human stage,512,3.0421865715983363
-16,Tabula Sapiens - Immune,mesenchymal stem cell,CL:0000134,TSP14,male,European,59-year-old human stage,1300,7.724301841948901
-17,Tabula Sapiens - Immune,macrophage,CL:0000235,TSP14,male,European,59-year-old human stage,321,1.9073083778966131
-18,Tabula Sapiens - Immune,leukocyte,CL:0000738,TSP14,male,European,59-year-old human stage,3,0.017825311942959002
-19,Tabula Sapiens - Immune,neutrophil,CL:0000775,TSP14,male,European,59-year-old human stage,370,2.1984551396316103
-20,Tabula Sapiens - Immune,plasma cell,CL:0000786,TSP14,male,European,59-year-old human stage,10,0.05941770647653001
-21,Tabula Sapiens - Immune,mature NK T cell,CL:0000814,TSP14,male,European,59-year-old human stage,2,0.011883541295306001
+0,Tabula Sapiens - Immune,T cell,CL:0000084,TSP14,male,European,59-year-old human stage,512,20.33359809372518
+1,Tabula Sapiens - Immune,mesenchymal stem cell,CL:0000134,TSP14,male,European,59-year-old human stage,1300,51.628276409849086
+2,Tabula Sapiens - Immune,macrophage,CL:0000235,TSP14,male,European,59-year-old human stage,321,12.748212867355043
+3,Tabula Sapiens - Immune,leukocyte,CL:0000738,TSP14,male,European,59-year-old human stage,3,0.11914217633042098
+4,Tabula Sapiens - Immune,neutrophil,CL:0000775,TSP14,male,European,59-year-old human stage,370,14.694201747418587
+5,Tabula Sapiens - Immune,plasma cell,CL:0000786,TSP14,male,European,59-year-old human stage,10,0.3971405877680699
+6,Tabula Sapiens - Immune,mature NK T cell,CL:0000814,TSP14,male,European,59-year-old human stage,2,0.07942811755361398

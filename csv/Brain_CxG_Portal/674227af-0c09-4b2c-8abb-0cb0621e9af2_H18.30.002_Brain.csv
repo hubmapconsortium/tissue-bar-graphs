@@ -1,9 +1,7 @@
 ,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
-0,All neurons,neuron,CL:0000540,H18.30.002,male,European,50-year-old human stage,20012,3.668466803785054
-1,All neurons,leukocyte,CL:0000738,H18.30.002,male,European,50-year-old human stage,180,0.03299640339203027
-2,All neurons,neuron,CL:0000540,H18.30.002,male,European,50-year-old human stage,427306,78.33089526574936
-3,All neurons,leukocyte,CL:0000738,H18.30.002,male,European,50-year-old human stage,206,0.03776255054865686
-4,All neurons,neuron,CL:0000540,H18.30.002,male,European,50-year-old human stage,41075,7.529595940709129
-5,All neurons,leukocyte,CL:0000738,H18.30.002,male,European,50-year-old human stage,75,0.013748501413345944
-6,All neurons,neuron,CL:0000540,H18.30.002,male,European,50-year-old human stage,56446,10.347305477036336
-7,All neurons,leukocyte,CL:0000738,H18.30.002,male,European,50-year-old human stage,214,0.03922905736608043
+0,All neurons,neuron,CL:0000540,H18.30.002,male,European,50-year-old human stage,427306,81.3417294535542
+1,All neurons,leukocyte,CL:0000738,H18.30.002,male,European,50-year-old human stage,206,0.03921404395780112
+2,All neurons,neuron,CL:0000540,H18.30.002,male,European,50-year-old human stage,41075,7.819013861974179
+3,All neurons,leukocyte,CL:0000738,H18.30.002,male,European,50-year-old human stage,75,0.01427695775162662
+4,All neurons,neuron,CL:0000540,H18.30.002,male,European,50-year-old human stage,56446,10.745028763310884
+5,All neurons,leukocyte,CL:0000738,H18.30.002,male,European,50-year-old human stage,214,0.04073691945130796

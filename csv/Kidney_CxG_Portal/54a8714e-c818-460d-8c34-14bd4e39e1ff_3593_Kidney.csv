@@ -1,30 +1,15 @@
 ,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
-0,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),endothelial cell,CL:0000115,3593,male,European,66-year-old human stage,764,6.66259701752856
-1,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),podocyte,CL:0000653,3593,male,European,66-year-old human stage,10,0.08720676724513822
-2,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),leukocyte,CL:0000738,3593,male,European,66-year-old human stage,68,0.5930060172669399
-3,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),epithelial cell of proximal tubule,CL:0002306,3593,male,European,66-year-old human stage,371,3.235371064794628
-4,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),neural cell,CL:0002319,3593,male,European,66-year-old human stage,4,0.03488270689805529
-5,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),parietal epithelial cell,CL:1000452,3593,male,European,66-year-old human stage,8,0.06976541379611058
-6,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),kidney interstitial fibroblast,CL:1000692,3593,male,European,66-year-old human stage,326,2.8429406121915064
-7,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),kidney connecting tubule epithelial cell,CL:1000768,3593,male,European,66-year-old human stage,30,0.2616203017354147
-8,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),kidney distal convoluted tubule epithelial cell,CL:1000849,3593,male,European,66-year-old human stage,14,0.12208947414319352
-9,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,3593,male,European,66-year-old human stage,2257,19.682567367227698
-10,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),kidney loop of Henle thin ascending limb epithelial cell,CL:1001107,3593,male,European,66-year-old human stage,8,0.06976541379611058
-11,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),kidney loop of Henle thin descending limb epithelial cell,CL:1001111,3593,male,European,66-year-old human stage,762,6.645155664079533
-12,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),renal interstitial pericyte,CL:1001318,3593,male,European,66-year-old human stage,131,1.1424086509113107
-13,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),kidney collecting duct principal cell,CL:1001431,3593,male,European,66-year-old human stage,743,6.479462806313769
-14,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),kidney collecting duct intercalated cell,CL:1001432,3593,male,European,66-year-old human stage,156,1.3604255690241562
-15,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),endothelial cell,CL:0000115,3593,male,European,66-year-old human stage,773,6.7410831080491835
-16,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),podocyte,CL:0000653,3593,male,European,66-year-old human stage,4,0.03488270689805529
-17,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),leukocyte,CL:0000738,3593,male,European,66-year-old human stage,190,1.6569285776576261
-18,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),epithelial cell of proximal tubule,CL:0002306,3593,male,European,66-year-old human stage,28,0.24417894828638703
-19,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),papillary tips cell,CL:1000597,3593,male,European,66-year-old human stage,59,0.5145199267463155
-20,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),kidney interstitial fibroblast,CL:1000692,3593,male,European,66-year-old human stage,1753,15.287346298072729
-21,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),kidney connecting tubule epithelial cell,CL:1000768,3593,male,European,66-year-old human stage,2,0.017441353449027645
-22,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),kidney distal convoluted tubule epithelial cell,CL:1000849,3593,male,European,66-year-old human stage,1,0.008720676724513822
-23,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,3593,male,European,66-year-old human stage,34,0.29650300863346996
-24,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),kidney loop of Henle thin ascending limb epithelial cell,CL:1001107,3593,male,European,66-year-old human stage,981,8.55498386674806
-25,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),kidney loop of Henle thin descending limb epithelial cell,CL:1001111,3593,male,European,66-year-old human stage,525,4.578355280369757
-26,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),renal interstitial pericyte,CL:1001318,3593,male,European,66-year-old human stage,112,0.9767157931455481
-27,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),kidney collecting duct principal cell,CL:1001431,3593,male,European,66-year-old human stage,1305,11.380483125490539
-28,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),kidney collecting duct intercalated cell,CL:1001432,3593,male,European,66-year-old human stage,48,0.41859248277666344
+0,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),endothelial cell,CL:0000115,3593,male,European,66-year-old human stage,773,13.293207222699916
+1,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),podocyte,CL:0000653,3593,male,European,66-year-old human stage,4,0.06878761822871883
+2,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),leukocyte,CL:0000738,3593,male,European,66-year-old human stage,190,3.267411865864144
+3,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),epithelial cell of proximal tubule,CL:0002306,3593,male,European,66-year-old human stage,28,0.4815133276010318
+4,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),papillary tips cell,CL:1000597,3593,male,European,66-year-old human stage,59,1.0146173688736029
+5,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),kidney interstitial fibroblast,CL:1000692,3593,male,European,66-year-old human stage,1753,30.146173688736027
+6,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),kidney connecting tubule epithelial cell,CL:1000768,3593,male,European,66-year-old human stage,2,0.034393809114359415
+7,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),kidney distal convoluted tubule epithelial cell,CL:1000849,3593,male,European,66-year-old human stage,1,0.017196904557179708
+8,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),kidney loop of Henle thick ascending limb epithelial cell,CL:1001106,3593,male,European,66-year-old human stage,34,0.58469475494411
+9,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),kidney loop of Henle thin ascending limb epithelial cell,CL:1001107,3593,male,European,66-year-old human stage,981,16.870163370593293
+10,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),kidney loop of Henle thin descending limb epithelial cell,CL:1001111,3593,male,European,66-year-old human stage,525,9.028374892519347
+11,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),renal interstitial pericyte,CL:1001318,3593,male,European,66-year-old human stage,112,1.9260533104041273
+12,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),kidney collecting duct principal cell,CL:1001431,3593,male,European,66-year-old human stage,1305,22.44196044711952
+13,Single-nucleus RNA-seq of the Adult Human Kidney (Version 1.0),kidney collecting duct intercalated cell,CL:1001432,3593,male,European,66-year-old human stage,48,0.8254514187446259

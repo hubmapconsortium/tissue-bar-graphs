@@ -1,6 +1,4 @@
 ,dataset_name,cell_type,cell_type_ontology_id,donor_id,sex,race,development_stage,count,percentage
-0,Tabula Sapiens - Stromal,fibroblast,CL:0000057,TSP14,male,European,59-year-old human stage,3251,65.79639749038655
-1,Tabula Sapiens - Stromal,vascular associated smooth muscle cell,CL:0000359,TSP14,male,European,59-year-old human stage,1439,29.123659178303985
-2,Tabula Sapiens - Stromal,fibroblast,CL:0000057,TSP14,male,European,59-year-old human stage,85,1.7202995345071848
-3,Tabula Sapiens - Stromal,myofibroblast cell,CL:0000186,TSP14,male,European,59-year-old human stage,158,3.1977332523780615
-4,Tabula Sapiens - Stromal,smooth muscle cell,CL:0000192,TSP14,male,European,59-year-old human stage,8,0.16191054442420563
+0,Tabula Sapiens - Stromal,fibroblast,CL:0000057,TSP14,male,European,59-year-old human stage,85,33.86454183266932
+1,Tabula Sapiens - Stromal,myofibroblast cell,CL:0000186,TSP14,male,European,59-year-old human stage,158,62.94820717131474
+2,Tabula Sapiens - Stromal,smooth muscle cell,CL:0000192,TSP14,male,European,59-year-old human stage,8,3.187250996015936
