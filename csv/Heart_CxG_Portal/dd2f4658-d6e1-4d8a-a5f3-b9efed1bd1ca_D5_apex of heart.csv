@@ -1,21 +1,21 @@
-,dataset_name,dataset_id,tissue,tissue_ontology_term_id,sex,donor_id,development_stage,ethnicity,cell_type_ontology_id,cell_type,cell_count
-82861,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,apex of heart,UBERON:0002098,female,D5,eighth decade human stage,European,CL:0000003,native cell,209
-82862,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,apex of heart,UBERON:0002098,female,D5,eighth decade human stage,European,CL:0000057,fibroblast,808
-82863,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,apex of heart,UBERON:0002098,female,D5,eighth decade human stage,European,CL:0000115,endothelial cell,37
-82864,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,apex of heart,UBERON:0002098,female,D5,eighth decade human stage,European,CL:0000192,smooth muscle cell,79
-82865,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,apex of heart,UBERON:0002098,female,D5,eighth decade human stage,European,CL:0000235,macrophage,80
-82866,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,apex of heart,UBERON:0002098,female,D5,eighth decade human stage,European,CL:0000236,B cell,1
-82867,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,apex of heart,UBERON:0002098,female,D5,eighth decade human stage,European,CL:0000576,monocyte,2
-82868,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,apex of heart,UBERON:0002098,female,D5,eighth decade human stage,European,CL:0000623,natural killer cell,1
-82869,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,apex of heart,UBERON:0002098,female,D5,eighth decade human stage,European,CL:0000669,pericyte,725
-82870,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,apex of heart,UBERON:0002098,female,D5,eighth decade human stage,European,CL:0000794,"CD8-positive, alpha-beta cytotoxic T cell",4
-82871,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,apex of heart,UBERON:0002098,female,D5,eighth decade human stage,European,CL:0000906,"activated CD8-positive, alpha-beta T cell",2
-82872,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,apex of heart,UBERON:0002098,female,D5,eighth decade human stage,European,CL:0000934,"CD4-positive, alpha-beta cytotoxic T cell",3
-82873,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,apex of heart,UBERON:0002098,female,D5,eighth decade human stage,European,CL:0002131,regular ventricular cardiac myocyte,1851
-82874,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,apex of heart,UBERON:0002098,female,D5,eighth decade human stage,European,CL:0002138,endothelial cell of lymphatic vessel,2
-82875,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,apex of heart,UBERON:0002098,female,D5,eighth decade human stage,European,CL:0002144,capillary endothelial cell,353
-82876,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,apex of heart,UBERON:0002098,female,D5,eighth decade human stage,European,CL:0002319,neural cell,10
-82877,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,apex of heart,UBERON:0002098,female,D5,eighth decade human stage,European,CL:0002397,"CD14-positive, CD16-positive monocyte",6
-82878,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,apex of heart,UBERON:0002098,female,D5,eighth decade human stage,European,CL:0002543,vein endothelial cell,57
-82879,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,apex of heart,UBERON:0002098,female,D5,eighth decade human stage,European,CL:1000309,epicardial adipocyte,11
-82880,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,apex of heart,UBERON:0002098,female,D5,eighth decade human stage,European,CL:1000413,endothelial cell of artery,130
+,dataset_name,dataset_id,tissue,tissue_ontology_term_id,sex,donor_id,development_stage,ethnicity,cell_type_ontology_id,cell_type,count,percentage
+82861,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,apex of heart,UBERON:0002098,female,D5,eighth decade human stage,European,CL:0000003,native cell,209,4.781514527568062
+82862,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,apex of heart,UBERON:0002098,female,D5,eighth decade human stage,European,CL:0000057,fibroblast,808,18.485472431937772
+82863,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,apex of heart,UBERON:0002098,female,D5,eighth decade human stage,European,CL:0000115,endothelial cell,37,0.8464882177991305
+82864,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,apex of heart,UBERON:0002098,female,D5,eighth decade human stage,European,CL:0000192,smooth muscle cell,79,1.8073667353008465
+82865,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,apex of heart,UBERON:0002098,female,D5,eighth decade human stage,European,CL:0000235,macrophage,80,1.8302447952413636
+82866,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,apex of heart,UBERON:0002098,female,D5,eighth decade human stage,European,CL:0000236,B cell,1,0.022878059940517045
+82867,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,apex of heart,UBERON:0002098,female,D5,eighth decade human stage,European,CL:0000576,monocyte,2,0.04575611988103409
+82868,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,apex of heart,UBERON:0002098,female,D5,eighth decade human stage,European,CL:0000623,natural killer cell,1,0.022878059940517045
+82869,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,apex of heart,UBERON:0002098,female,D5,eighth decade human stage,European,CL:0000669,pericyte,725,16.58659345687486
+82870,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,apex of heart,UBERON:0002098,female,D5,eighth decade human stage,European,CL:0000794,"CD8-positive, alpha-beta cytotoxic T cell",4,0.09151223976206818
+82871,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,apex of heart,UBERON:0002098,female,D5,eighth decade human stage,European,CL:0000906,"activated CD8-positive, alpha-beta T cell",2,0.04575611988103409
+82872,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,apex of heart,UBERON:0002098,female,D5,eighth decade human stage,European,CL:0000934,"CD4-positive, alpha-beta cytotoxic T cell",3,0.06863417982155114
+82873,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,apex of heart,UBERON:0002098,female,D5,eighth decade human stage,European,CL:0002131,regular ventricular cardiac myocyte,1851,42.34728894989705
+82874,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,apex of heart,UBERON:0002098,female,D5,eighth decade human stage,European,CL:0002138,endothelial cell of lymphatic vessel,2,0.04575611988103409
+82875,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,apex of heart,UBERON:0002098,female,D5,eighth decade human stage,European,CL:0002144,capillary endothelial cell,353,8.075955159002516
+82876,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,apex of heart,UBERON:0002098,female,D5,eighth decade human stage,European,CL:0002319,neural cell,10,0.22878059940517045
+82877,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,apex of heart,UBERON:0002098,female,D5,eighth decade human stage,European,CL:0002397,"CD14-positive, CD16-positive monocyte",6,0.13726835964310227
+82878,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,apex of heart,UBERON:0002098,female,D5,eighth decade human stage,European,CL:0002543,vein endothelial cell,57,1.3040494166094716
+82879,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,apex of heart,UBERON:0002098,female,D5,eighth decade human stage,European,CL:1000309,epicardial adipocyte,11,0.2516586593456875
+82880,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,apex of heart,UBERON:0002098,female,D5,eighth decade human stage,European,CL:1000413,endothelial cell of artery,130,2.9741477922672157

@@ -1,24 +1,24 @@
-,dataset_name,dataset_id,tissue,tissue_ontology_term_id,sex,donor_id,development_stage,ethnicity,cell_type_ontology_id,cell_type,cell_count
-84343,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0000003,native cell,219
-84344,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0000057,fibroblast,721
-84345,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0000115,endothelial cell,117
-84346,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0000192,smooth muscle cell,511
-84347,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0000235,macrophage,69
-84348,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0000236,B cell,41
-84349,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0000451,dendritic cell,9
-84350,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0000576,monocyte,59
-84351,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0000623,natural killer cell,13
-84352,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0000669,pericyte,1705
-84353,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0000794,"CD8-positive, alpha-beta cytotoxic T cell",39
-84354,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0000814,mature NK T cell,2
-84355,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0000896,"activated CD4-positive, alpha-beta T cell",7
-84356,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0000906,"activated CD8-positive, alpha-beta T cell",37
-84357,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0000934,"CD4-positive, alpha-beta cytotoxic T cell",39
-84358,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0001054,CD14-positive monocyte,22
-84359,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0002129,regular atrial cardiac myocyte,965
-84360,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0002144,capillary endothelial cell,227
-84361,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0002319,neural cell,100
-84362,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0002397,"CD14-positive, CD16-positive monocyte",186
-84363,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0002543,vein endothelial cell,167
-84364,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:1000309,epicardial adipocyte,373
-84365,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:1000413,endothelial cell of artery,126
+,dataset_name,dataset_id,tissue,tissue_ontology_term_id,sex,donor_id,development_stage,ethnicity,cell_type_ontology_id,cell_type,count,percentage
+84343,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0000003,native cell,219,3.8060479666319083
+84344,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0000057,fibroblast,721,12.530413625304138
+84345,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0000115,endothelial cell,117,2.0333680917622523
+84346,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0000192,smooth muscle cell,511,8.880778588807786
+84347,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0000235,macrophage,69,1.1991657977059436
+84348,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0000236,B cell,41,0.7125477928397637
+84349,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0000451,dendritic cell,9,0.15641293013555788
+84350,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0000576,monocyte,59,1.0253736531108792
+84351,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0000623,natural killer cell,13,0.22592978797358357
+84352,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0000669,pericyte,1705,29.631560653458465
+84353,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0000794,"CD8-positive, alpha-beta cytotoxic T cell",39,0.6777893639207508
+84354,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0000814,mature NK T cell,2,0.03475842891901286
+84355,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0000896,"activated CD4-positive, alpha-beta T cell",7,0.12165450121654502
+84356,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0000906,"activated CD8-positive, alpha-beta T cell",37,0.6430309350017379
+84357,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0000934,"CD4-positive, alpha-beta cytotoxic T cell",39,0.6777893639207508
+84358,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0001054,CD14-positive monocyte,22,0.3823427181091415
+84359,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0002129,regular atrial cardiac myocyte,965,16.770941953423705
+84360,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0002144,capillary endothelial cell,227,3.9450816823079595
+84361,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0002319,neural cell,100,1.737921445950643
+84362,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0002397,"CD14-positive, CD16-positive monocyte",186,3.232533889468196
+84363,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:0002543,vein endothelial cell,167,2.9023288147375736
+84364,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:1000309,epicardial adipocyte,373,6.482446993395899
+84365,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,left cardiac atrium,UBERON:0002079,male,H3,sixth decade human stage,Asian,CL:1000413,endothelial cell of artery,126,2.18978102189781

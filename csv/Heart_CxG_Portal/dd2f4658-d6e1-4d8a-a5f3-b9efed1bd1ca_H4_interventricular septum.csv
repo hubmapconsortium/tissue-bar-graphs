@@ -1,20 +1,20 @@
-,dataset_name,dataset_id,tissue,tissue_ontology_term_id,sex,donor_id,development_stage,ethnicity,cell_type_ontology_id,cell_type,cell_count
-84033,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,interventricular septum,UBERON:0002094,male,H4,sixth decade human stage,European,CL:0000003,native cell,567
-84034,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,interventricular septum,UBERON:0002094,male,H4,sixth decade human stage,European,CL:0000057,fibroblast,288
-84035,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,interventricular septum,UBERON:0002094,male,H4,sixth decade human stage,European,CL:0000097,mast cell,14
-84036,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,interventricular septum,UBERON:0002094,male,H4,sixth decade human stage,European,CL:0000115,endothelial cell,25
-84037,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,interventricular septum,UBERON:0002094,male,H4,sixth decade human stage,European,CL:0000192,smooth muscle cell,165
-84038,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,interventricular septum,UBERON:0002094,male,H4,sixth decade human stage,European,CL:0000235,macrophage,37
-84039,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,interventricular septum,UBERON:0002094,male,H4,sixth decade human stage,European,CL:0000236,B cell,1
-84040,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,interventricular septum,UBERON:0002094,male,H4,sixth decade human stage,European,CL:0000451,dendritic cell,2
-84041,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,interventricular septum,UBERON:0002094,male,H4,sixth decade human stage,European,CL:0000623,natural killer cell,2
-84042,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,interventricular septum,UBERON:0002094,male,H4,sixth decade human stage,European,CL:0000669,pericyte,1143
-84043,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,interventricular septum,UBERON:0002094,male,H4,sixth decade human stage,European,CL:0000906,"activated CD8-positive, alpha-beta T cell",1
-84044,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,interventricular septum,UBERON:0002094,male,H4,sixth decade human stage,European,CL:0000934,"CD4-positive, alpha-beta cytotoxic T cell",1
-84045,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,interventricular septum,UBERON:0002094,male,H4,sixth decade human stage,European,CL:0002131,regular ventricular cardiac myocyte,3288
-84046,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,interventricular septum,UBERON:0002094,male,H4,sixth decade human stage,European,CL:0002138,endothelial cell of lymphatic vessel,7
-84047,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,interventricular septum,UBERON:0002094,male,H4,sixth decade human stage,European,CL:0002144,capillary endothelial cell,196
-84048,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,interventricular septum,UBERON:0002094,male,H4,sixth decade human stage,European,CL:0002319,neural cell,20
-84049,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,interventricular septum,UBERON:0002094,male,H4,sixth decade human stage,European,CL:0002543,vein endothelial cell,14
-84050,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,interventricular septum,UBERON:0002094,male,H4,sixth decade human stage,European,CL:1000309,epicardial adipocyte,6
-84051,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,interventricular septum,UBERON:0002094,male,H4,sixth decade human stage,European,CL:1000413,endothelial cell of artery,36
+,dataset_name,dataset_id,tissue,tissue_ontology_term_id,sex,donor_id,development_stage,ethnicity,cell_type_ontology_id,cell_type,count,percentage
+84033,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,interventricular septum,UBERON:0002094,male,H4,sixth decade human stage,European,CL:0000003,native cell,567,9.753999655943575
+84034,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,interventricular septum,UBERON:0002094,male,H4,sixth decade human stage,European,CL:0000057,fibroblast,288,4.954412523653879
+84035,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,interventricular septum,UBERON:0002094,male,H4,sixth decade human stage,European,CL:0000097,mast cell,14,0.2408394976776191
+84036,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,interventricular septum,UBERON:0002094,male,H4,sixth decade human stage,European,CL:0000115,endothelial cell,25,0.430070531567177
+84037,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,interventricular septum,UBERON:0002094,male,H4,sixth decade human stage,European,CL:0000192,smooth muscle cell,165,2.838465508343368
+84038,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,interventricular septum,UBERON:0002094,male,H4,sixth decade human stage,European,CL:0000235,macrophage,37,0.636504386719422
+84039,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,interventricular septum,UBERON:0002094,male,H4,sixth decade human stage,European,CL:0000236,B cell,1,0.01720282126268708
+84040,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,interventricular septum,UBERON:0002094,male,H4,sixth decade human stage,European,CL:0000451,dendritic cell,2,0.03440564252537416
+84041,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,interventricular septum,UBERON:0002094,male,H4,sixth decade human stage,European,CL:0000623,natural killer cell,2,0.03440564252537416
+84042,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,interventricular septum,UBERON:0002094,male,H4,sixth decade human stage,European,CL:0000669,pericyte,1143,19.66282470325133
+84043,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,interventricular septum,UBERON:0002094,male,H4,sixth decade human stage,European,CL:0000906,"activated CD8-positive, alpha-beta T cell",1,0.01720282126268708
+84044,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,interventricular septum,UBERON:0002094,male,H4,sixth decade human stage,European,CL:0000934,"CD4-positive, alpha-beta cytotoxic T cell",1,0.01720282126268708
+84045,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,interventricular septum,UBERON:0002094,male,H4,sixth decade human stage,European,CL:0002131,regular ventricular cardiac myocyte,3288,56.56287631171513
+84046,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,interventricular septum,UBERON:0002094,male,H4,sixth decade human stage,European,CL:0002138,endothelial cell of lymphatic vessel,7,0.12041974883880956
+84047,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,interventricular septum,UBERON:0002094,male,H4,sixth decade human stage,European,CL:0002144,capillary endothelial cell,196,3.371752967486668
+84048,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,interventricular septum,UBERON:0002094,male,H4,sixth decade human stage,European,CL:0002319,neural cell,20,0.3440564252537416
+84049,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,interventricular septum,UBERON:0002094,male,H4,sixth decade human stage,European,CL:0002543,vein endothelial cell,14,0.2408394976776191
+84050,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,interventricular septum,UBERON:0002094,male,H4,sixth decade human stage,European,CL:1000309,epicardial adipocyte,6,0.1032169275761225
+84051,All — Cells of the adult human heart,dd2f4658-d6e1-4d8a-a5f3-b9efed1bd1ca,interventricular septum,UBERON:0002094,male,H4,sixth decade human stage,European,CL:1000413,endothelial cell of artery,36,0.6193015654567349
